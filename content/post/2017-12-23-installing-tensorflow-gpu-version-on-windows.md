@@ -2,6 +2,7 @@
 title: Installing TensorFlow GPU Version on Windows
 author: Shital Shah
 type: post
+draft: true
 date: 2017-12-23T07:21:27+00:00
 url: /p/installing-tensorflow-gpu-version-on-windows/
 categories:
@@ -14,7 +15,7 @@ TensorFlow 1.4 installation on Windows is still not as straightforward so here a
     
     . Another alternative is to create virtual environment but I want to keep this post short.</li> 
     
-      * Next, install NVidia CUDA Toolkit 8.0. This is currently not the version so you can only find in [archives][2]Â and you might have to register on NVidia website first. You will see Base Installer and Patch 2. Install both in one after another. Note that you must do this after step 1. If you did this before then go to [Environment Path][3] editor and make sure NVidia Cuda Toolkit's path is listed before Anaconda path. Currently Anaconda also supplies CUDA 8.0 DLLs and they don't seem to be compatible causing DLL ImportError.
+      * Next, install NVidia CUDA Toolkit 8.0. This is currently not the version so you can only find in [archives][2]ï¿½ and you might have to register on NVidia website first. You will see Base Installer and Patch 2. Install both in one after another. Note that you must do this after step 1. If you did this before then go to [Environment Path][3] editor and make sure NVidia Cuda Toolkit's path is listed before Anaconda path. Currently Anaconda also supplies CUDA 8.0 DLLs and they don't seem to be compatible causing DLL ImportError.
       * Next, [Download cuDNN v6.0 (April 27, 2017), for CUDA 8.0][4]. Extract the zip file to some folder and add path path cuDNN6\cuda\bin in to your machine's Environment Path. Make sure this path comes before Anaconda's path in your Environment Path variable. TensorFlow 1.4.0 looks for cuDNN64_6.dll and this folder has this DLL. Again this step should be done after step 1 otherwise Anaconda's cuDNN DLL will be found first on path and you will get DLL ImportError.
       * Open Command Prompt as Administrator and install TensorFlow using command: <pre class="code-block"><code>pip install --ignore-installed --upgrade tensorflow-gpu</code></pre>
         

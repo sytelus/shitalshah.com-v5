@@ -2,6 +2,7 @@
 title: Critticall
 author: Shital Shah
 type: post
+draft: true
 date: 2006-03-08T08:57:00+00:00
 url: /p/critticall/
 blogger_blog:

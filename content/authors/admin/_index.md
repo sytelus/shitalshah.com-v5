@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Principal Research Engineer
+# role: Principal Research Engineer
 
 # Organizations/Affiliations
 organizations:
@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed deep learning, robotics, reinforcement learning and computer vision.
+# bio: My research interests include distributed deep learning, robotics, reinforcement learning and computer vision.
 
 interests:
 - Artificial Intelligence

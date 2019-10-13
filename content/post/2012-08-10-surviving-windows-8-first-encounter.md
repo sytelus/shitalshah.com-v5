@@ -2,6 +2,7 @@
 title: Surviving Windows 8 First Encounter
 author: Shital Shah
 type: post
+draft: true
 date: 2012-08-10T20:47:30+00:00
 url: /p/surviving-windows-8-first-encounter/
 dsq_thread_id:
@@ -59,7 +60,7 @@ After installing Windows 8 you might quickly find yourself at unease at doing fe
     </td>
     
     <td>
-      A popup menu for power usersÂ (Command Prompt, Control Panel, File Explorer, Computer Management etc)
+      A popup menu for power usersï¿½ (Command Prompt, Control Panel, File Explorer, Computer Management etc)
     </td>
   </tr>
   

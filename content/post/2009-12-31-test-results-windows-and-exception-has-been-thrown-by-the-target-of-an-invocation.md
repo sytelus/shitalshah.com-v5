@@ -2,6 +2,7 @@
 title: Test Results Windows and Exception has been thrown by the target of an invocation
 author: Shital Shah
 type: post
+draft: true
 date: 2009-12-31T23:29:45+00:00
 url: /p/test-results-windows-and-exception-has-been-thrown-by-the-target-of-an-invocation/
 dsq_thread_id:

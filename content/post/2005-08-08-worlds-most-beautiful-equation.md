@@ -2,6 +2,8 @@
 title: "World's Most Beautiful Equation"
 author: Shital Shah
 type: post
+draft: true
+private: true
 date: 2005-08-08T17:22:07+00:00
 url: /p/worlds-most-beautiful-equation/
 dsq_thread_id:

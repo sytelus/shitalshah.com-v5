@@ -2,6 +2,7 @@
 title: Intel Xeon – the worse branding ever?
 author: Shital Shah
 type: post
+draft: true
 date: 2009-08-11T00:19:00+00:00
 url: /p/intel-xeon-the-worse-branding-ever/
 blogger_blog:

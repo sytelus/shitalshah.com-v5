@@ -2,6 +2,7 @@
 title: A quicker way to Twitter
 author: Shital Shah
 type: post
+draft: true
 date: 2008-04-22T11:25:03+00:00
 url: /p/a-quicker-way-to-twitter/
 dsq_thread_id:

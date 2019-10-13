@@ -2,6 +2,8 @@
 title: Things Behind The eBay Deal
 author: Shital Shah
 type: post
+draft: true
+private: true
 date: 2005-09-12T20:20:00+00:00
 draft: true
 private: true

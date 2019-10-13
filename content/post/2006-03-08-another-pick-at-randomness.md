@@ -2,6 +2,7 @@
 title: Another Pick At Randomness
 author: Shital Shah
 type: post
+draft: true
 date: 2006-03-08T09:22:00+00:00
 draft: true
 private: true

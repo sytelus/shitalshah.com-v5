@@ -2,6 +2,7 @@
 title: Two Small Utilities
 author: Shital Shah
 type: post
+draft: true
 date: 2007-05-07T02:38:03+00:00
 url: /p/sql-insert-script-disk-defuzzer/
 dsq_thread_id:

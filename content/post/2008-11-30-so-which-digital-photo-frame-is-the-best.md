@@ -3,6 +3,7 @@ title: So, which digital photo frame is the best?
 author: Shital Shah
 type: post
 date: 2008-11-30T10:18:00+00:00
+draft: true
 url: /p/so-which-digital-photo-frame-is-the-best/
 blogger_blog:
   - astrila.blogspot.com

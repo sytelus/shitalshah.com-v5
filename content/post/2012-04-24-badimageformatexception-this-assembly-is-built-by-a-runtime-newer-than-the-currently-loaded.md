@@ -2,6 +2,7 @@
 title: 'BadImageFormatException - This assembly is built by a runtime newer than the currently loaded'
 author: Shital Shah
 type: post
+draft: true
 date: 2012-04-24T05:49:22+00:00
 url: /p/badimageformatexception-this-assembly-is-built-by-a-runtime-newer-than-the-currently-loaded/
 dsq_thread_id:

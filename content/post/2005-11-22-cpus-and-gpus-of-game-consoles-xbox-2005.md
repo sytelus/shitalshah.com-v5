@@ -2,6 +2,7 @@
 title: CPUs And GPUs Of Game Consoles
 author: Shital Shah
 type: post
+draft: true
 date: 2005-11-22T03:08:02+00:00
 url: /p/cpus-and-gpus-of-game-consoles-xbox-2005/
 dsq_thread_id:

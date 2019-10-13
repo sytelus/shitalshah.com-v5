@@ -2,6 +2,7 @@
 title: Selecting Random Row From SQL Server Table
 author: Shital Shah
 type: post
+draft: true
 date: 2009-10-06T03:08:25+00:00
 url: /p/selecting-random-row-from-sql-server-table/
 dsq_thread_id:

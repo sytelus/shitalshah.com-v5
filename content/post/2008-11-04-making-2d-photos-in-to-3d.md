@@ -2,6 +2,7 @@
 title: Making 2D photos in to 3D
 author: Shital Shah
 type: post
+draft: true
 date: 2008-11-04T00:28:56+00:00
 url: /p/making-2d-photos-in-to-3d/
 categories:

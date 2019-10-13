@@ -2,6 +2,7 @@
 title: Do you really need 1080i or 1080p or 1440p?
 author: Shital Shah
 type: post
+draft: true
 date: 2008-11-04T00:03:00+00:00
 url: /p/do-you-really-need-1080i-or-1080p-or-1440p/
 blogger_blog:

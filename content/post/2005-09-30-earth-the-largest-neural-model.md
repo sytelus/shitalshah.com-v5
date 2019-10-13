@@ -2,6 +2,8 @@
 title: 'Earth: The Largest Neural Model'
 author: Shital Shah
 type: post
+draft: true
+private: true
 date: 2005-09-30T15:59:00+00:00
 url: /p/earth-the-largest-neural-model/
 blogger_blog:

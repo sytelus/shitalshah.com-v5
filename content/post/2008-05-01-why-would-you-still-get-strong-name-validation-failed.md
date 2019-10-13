@@ -2,6 +2,7 @@
 title: Why would you still get "Strong name validation failed"?
 author: Shital Shah
 type: post
+draft: true
 date: 2008-05-01T10:34:00+00:00
 url: /p/why-would-you-still-get-strong-name-validation-failed/
 dsq_thread_id:

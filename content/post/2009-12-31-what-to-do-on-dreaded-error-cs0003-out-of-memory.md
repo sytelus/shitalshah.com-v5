@@ -2,6 +2,7 @@
 title: 'What to do on dreaded error CS0003: Out of memory'
 author: Shital Shah
 type: post
+draft: true
 date: 2009-12-31T09:36:33+00:00
 url: /p/what-to-do-on-dreaded-error-cs0003-out-of-memory/
 dsq_thread_id:

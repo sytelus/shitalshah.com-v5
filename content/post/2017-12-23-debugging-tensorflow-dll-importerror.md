@@ -2,6 +2,7 @@
 title: 'Debugging TensorFlow ImportError: DLL load failed Exception'
 author: Shital Shah
 type: post
+draft: true
 date: 2017-12-23T07:52:56+00:00
 url: /p/debugging-tensorflow-dll-importerror/
 categories:
@@ -36,9 +37,9 @@ So anyone facing this issue (especially with TensorFlow 1.4.0) here is how to de
     
     The first path should be where you downloaded cuDNN 6 and the second path should be in NVidia's CUDA Toolkit folder.</li> 
     
-      * If you still get this error, download [Process Monitor from sysinternals][2].Â You will see icons to monitor registry, disk etc in toolbar. Disable those except for icon that says "Show Process and Thread Activities". Then click on filter icon and add a filter for `ImagePath contains python`. Now you should see only process and thread activities from python.exe. Close all python instances, open a new one and execute <pre class="code-block"><code>import tensorflow as tf</code></pre>
+      * If you still get this error, download [Process Monitor from sysinternals][2].ï¿½ You will see icons to monitor registry, disk etc in toolbar. Disable those except for icon that says "Show Process and Thread Activities". Then click on filter icon and add a filter for `ImagePath contains python`. Now you should see only process and thread activities from python.exe. Close all python instances, open a new one and execute <pre class="code-block"><code>import tensorflow as tf</code></pre>
         
-        .Â Now Process Monitor will show you DLLs being loaded by TensorFlow. The last DLL in this list is usually is the one causing problem.</li> </ol>
+        .ï¿½ Now Process Monitor will show you DLLs being loaded by TensorFlow. The last DLL in this list is usually is the one causing problem.</li> </ol>
 
  [1]: http://shitalshah.com/p/installing-tensorflow-gpu-version-on-windows/
  [2]: https://docs.microsoft.com/en-us/sysinternals/downloads/procmon

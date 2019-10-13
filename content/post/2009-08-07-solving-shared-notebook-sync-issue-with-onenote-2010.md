@@ -2,6 +2,7 @@
 title: Solving Shared Notebook Sync Issue With OneNote 2010
 author: Shital Shah
 type: post
+draft: true
 date: 2009-08-07T10:55:14+00:00
 url: /p/solving-shared-notebook-sync-issue-with-onenote-2010/
 dsq_thread_id:

@@ -2,6 +2,7 @@
 title: Moving from dasBlog to WordPress
 author: Shital Shah
 type: post
+draft: true
 date: 2014-05-29T04:14:24+00:00
 url: /p/moving-from-dasblog-to-wordpress/
 dsq_thread_id:
@@ -16,24 +17,24 @@ Previously I'd decided to use [dasBlog][2] because it was fairly minimal and hac
 
 #### Installing WordPress
 
-As I still have some legacy ASP.Net code so I decided to host WordPress on IIS. Fortunately famous 5-minute installation claims does holds on Windows as well. You just install it through [Microsoft Web Platform Installer][3] (WebPI)Â and off you go, well, except few things.
+As I still have some legacy ASP.Net code so I decided to host WordPress on IIS. Fortunately famous 5-minute installation claims does holds on Windows as well. You just install it through [Microsoft Web Platform Installer][3] (WebPI)ï¿½ and off you go, well, except few things.
 
-  1. It's best toÂ install and test everything on yourÂ local machine first and then move it to web host. By default WebPI uses WebMatrix server but you might want to use full IIS with all its goodies for experimentation. There are plenty of instructions on [installing IIS on Windows][4].
+  1. It's best toï¿½ install and test everything on yourï¿½ local machine first and then move it to web host. By default WebPI uses WebMatrix server but you might want to use full IIS with all its goodies for experimentation. There are plenty of instructions on [installing IIS on Windows][4].
   2. Search for WordPress in WebPI and choose WordPress product that has WordPress logo, avoid variants such as Brandoo. In WebPI, make sure you click on options: 
     <img class="alignnone wp-image-1407" src="http://shitalshah.com/ShitalShahWP/wp-content/uploads/2014/05/WebPIOptionsButton.png" alt="WebPIOptionsButton" width="500" height="292" srcset="http://shitalshah.com/ShitalShahWP/wp-content/uploads/2014/05/WebPIOptionsButton.png 896w, http://shitalshah.com/ShitalShahWP/wp-content/uploads/2014/05/WebPIOptionsButton-300x175.png 300w" sizes="(max-width: 500px) 100vw, 500px" />
     
     On the options screen you should select these options:<img class="alignnone wp-image-1406" src="http://shitalshah.com/ShitalShahWP/wp-content/uploads/2014/05/WebPIOptionsScreen.png" alt="WebPIOptionsScreen" width="500" height="343" srcset="http://shitalshah.com/ShitalShahWP/wp-content/uploads/2014/05/WebPIOptionsScreen.png 875w, http://shitalshah.com/ShitalShahWP/wp-content/uploads/2014/05/WebPIOptionsScreen-300x205.png 300w" sizes="(max-width: 500px) 100vw, 500px" /></p> </li> 
     
-      * When WordPress installation dialog comes up select New Web Site instead of using default (its a good practice!) and specify some local folderÂ for all WordPress files. [<img src="http://shitalshah.com/ShitalShahWP/wp-content/uploads/2014/05/WebPIWordPressOptions.png" alt="WebPIWordPressOptions" width="500" class="alignnone size-full wp-image-1409" srcset="http://shitalshah.com/ShitalShahWP/wp-content/uploads/2014/05/WebPIWordPressOptions.png 875w, http://shitalshah.com/ShitalShahWP/wp-content/uploads/2014/05/WebPIWordPressOptions-300x205.png 300w" sizes="(max-width: 875px) 100vw, 875px" />][5]
+      * When WordPress installation dialog comes up select New Web Site instead of using default (its a good practice!) and specify some local folderï¿½ for all WordPress files. [<img src="http://shitalshah.com/ShitalShahWP/wp-content/uploads/2014/05/WebPIWordPressOptions.png" alt="WebPIWordPressOptions" width="500" class="alignnone size-full wp-image-1409" srcset="http://shitalshah.com/ShitalShahWP/wp-content/uploads/2014/05/WebPIWordPressOptions.png 875w, http://shitalshah.com/ShitalShahWP/wp-content/uploads/2014/05/WebPIWordPressOptions-300x205.png 300w" sizes="(max-width: 875px) 100vw, 875px" />][5]
       * Start IIS, stop Default site and start wordpress site. Navigate to localhost, fill in username, password and you should be able to log on to brand new WordPress website!
-      * I would highly recommend that you move WordPress installation to a subfolder instead of keeping it in the root. This has several advantages. First,Â you keep WordPress files separate so during updates there are no worries for overwriting your own stuff in root. Second, in root folder your can host your own code or override WordPress behavior using URL redirects. Finally, this arrangement allows you to host other Web applications and sub-sites in to its own folders sitting next to WordPress. The [instructions are very easy][6] and your external WordPress URLs don't change by doing this.
-      * There are few essential settings you want to no set: Timezone in Settings > General and url formats in Settings > Permalinks. For permalinks I used the CustomÂ Structure with value <pre class="code-inline"><code>/p/%postname%/</code></pre>
+      * I would highly recommend that you move WordPress installation to a subfolder instead of keeping it in the root. This has several advantages. First,ï¿½ you keep WordPress files separate so during updates there are no worries for overwriting your own stuff in root. Second, in root folder your can host your own code or override WordPress behavior using URL redirects. Finally, this arrangement allows you to host other Web applications and sub-sites in to its own folders sitting next to WordPress. The [instructions are very easy][6] and your external WordPress URLs don't change by doing this.
+      * There are few essential settings you want to no set: Timezone in Settings > General and url formats in Settings > Permalinks. For permalinks I used the Customï¿½ Structure with value <pre class="code-inline"><code>/p/%postname%/</code></pre>
         
         .</li> </ol> 
         
         #### Exporting from dasBlog
         
-        The easiest way to migrate posts and comments from dasBlog is using [DasBlogML tool][7]. Unfortunately it seem to have gotten lost from Web altogether after MSDN folks decided to reorganize few things. I've put theÂ copy I used on [GitHub][8] and for me the process went smoothly without errors. If you do encounter some issues [there][9] - [are][10] - [few][11] - [posts][12] out there for help.
+        The easiest way to migrate posts and comments from dasBlog is using [DasBlogML tool][7]. Unfortunately it seem to have gotten lost from Web altogether after MSDN folks decided to reorganize few things. I've put theï¿½ copy I used on [GitHub][8] and for me the process went smoothly without errors. If you do encounter some issues [there][9] - [are][10] - [few][11] - [posts][12] out there for help.
         
         #### Importing to WordPress
         

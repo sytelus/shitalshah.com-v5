@@ -2,6 +2,7 @@
 title: Simple Sharing Extension
 author: Shital Shah
 type: post
+draft: true
 date: 2005-11-21T21:26:16+00:00
 url: /p/simple-sharing-extension/
 dsq_thread_id:

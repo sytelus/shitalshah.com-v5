@@ -2,6 +2,7 @@
 title: 'Oil Prices - Summary of 4 hours of news bits in past month'
 author: Shital Shah
 type: post
+draft: true
 date: 2008-06-09T11:34:00+00:00
 url: /p/oil-prices-summary-of-4-hours-of-news-bits-in-past-month/
 blogger_blog:

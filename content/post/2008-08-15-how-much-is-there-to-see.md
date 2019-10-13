@@ -4,6 +4,7 @@ author: Shital Shah
 type: post
 date: 2008-08-15T23:46:00+00:00
 url: /p/how-much-is-there-to-see/
+draft: true
 blogger_blog:
   - astrila.blogspot.com
 blogger_author:

@@ -2,6 +2,7 @@
 title: Lost Sony NEX-5 Camera at Lincoln Park (West Seattle)
 author: Shital Shah
 type: post
+draft: true
 date: 2011-04-24T22:12:09+00:00
 url: /p/lost-sony-nex-5-camera-at-lincoln-park-west-seattle/
 dsq_thread_id:

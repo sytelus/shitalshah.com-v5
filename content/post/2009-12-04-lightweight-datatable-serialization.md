@@ -2,6 +2,7 @@
 title: Lightweight DataTable Serialization
 author: Shital Shah
 type: post
+draft: true
 date: 2009-12-04T16:32:07+00:00
 url: /p/lightweight-datatable-serialization/
 dsq_thread_id:

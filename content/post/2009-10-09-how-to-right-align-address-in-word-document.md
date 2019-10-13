@@ -2,6 +2,7 @@
 title: How to Right Align Address in Word Document
 author: Shital Shah
 type: post
+draft: true
 date: 2009-10-09T08:33:23+00:00
 url: /p/how-to-right-align-address-in-word-document/
 dsq_thread_id:

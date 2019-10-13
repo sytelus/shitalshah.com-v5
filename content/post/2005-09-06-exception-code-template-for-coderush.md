@@ -2,6 +2,8 @@
 title: Exception Code Template For CodeRush
 author: Shital Shah
 type: post
+draft: true
+private: true
 date: 2005-09-06T17:55:00+00:00
 url: /p/exception-code-template-for-coderush/
 blogger_blog:

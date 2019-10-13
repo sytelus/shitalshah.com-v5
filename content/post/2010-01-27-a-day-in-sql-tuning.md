@@ -2,6 +2,7 @@
 title: A Day in SQL Tuning
 author: Shital Shah
 type: post
+draft: true
 date: 2010-01-27T09:11:27+00:00
 url: /p/a-day-in-sql-tuning/
 dsq_thread_id:
