@@ -1,0 +1,13 @@
+---
+title: 'Gizmos - Backup Drive, USB TV, External Dolby Sound Card'
+author: Shital Shah
+type: post
+date: 2002-11-01T00:13:11+00:00
+url: /p/gizmos-backup-drive-usb-tv-external-dolby-sound-card/
+dsq_thread_id:
+  - 3257588956
+categories:
+  - Gadgets
+
+---
+Here's some of the very cool gizmos I've found: I was looking for a backup device for a long time. I've some 200 gigs of stuff scattered around and I realized much of it isn't really junk!! So gave thought on DVD writers but I have no wish to carry 20 DVDs around. And then suddenly I found this 120GB external hard drive. It's perfect. One from Iomega comes for around $290 and it's 7200 RPM (look in Amazon). Another thing on my wish list was portable TV tuner card which I can connect to my laptop or home PC. It might surprise you but I've gave up on those "idiot box" type TVs since around year and half. I've Radeon All-In-Wonder showing TV on my 20" PC screen. And then there's Creative 5.1 Dolby card which sends sound signal from my PC to 600W home theater system. Neat, isn't it? I can use sophisticated program search, record program on my huge hard drives in MPEG, take stills and even view all channels at once (very slow though). But my PC died few days ago. It won't power up because of that buggy CLSUS II motherboard bug. And now I'm missing South Park and Seinfeld. And so I realized I need to have something that I can plug in to my notebook on the go and watch TV! And I found more the what I asked for. For $80 you can get KWorld external USB TV tuner device which is also an FM tuner! It works on PAL also so good for travelling with laptops to UK and India. Watch out for few others like WinTV - they don't have these things. Yet another thing that I was looking for was external Dolby 5.1 sound card. For those who have bought expensive computer speakers, well, guys you wasted your money. You can always get 600W home theater system (i.e. amplifier and speakers) and connect it to Dolby 5.1 compatible card. Until last year only such card was Creative Live! 5.1. Now there are many but I guess Creative still rules because they give you optical as well as SPDF outputs. The beauty of external card is that you can carry it with your notebook and instantly start a sort of night club wherever you can find amplifier and speakers (say, your friend's bachelor party) streaming out your favorite MP3s. As you might know, most non-geeks who have home theater systems don't know how to connect it to PC.
