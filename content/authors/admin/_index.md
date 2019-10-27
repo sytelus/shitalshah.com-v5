@@ -18,6 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
+bio: A program trying to understand what it's computing.
 # bio: My research interests include distributed deep learning, robotics, reinforcement learning and computer vision.
 
 interests:
@@ -81,4 +82,4 @@ email: ""
 # - Visitors
 ---
 
-Shital Shah is principal research software engineer at Microsoft Research AI. His interests include simulation, autonomous vehicles, robotics, deep learning and reinforcement learning. He has been working at Microsoft for 14 years architecting, designing and developing large scale distributed machine learning systems. He has contributed in research and engineering in various roles at Microsoft including technical lead, architect, engineering manager and research engineer. Previously at Bing, he founded and led the team to design and develop distributed machine-learned clustering platform for web-scale data. At Microsoft Research, he conceived and lead the development of AirSim, a physically and visually realistic cross-platform simulator for AI research. Most recently, he developed TensorWatch, a new system for debugging and visualizing machine learning.
+Shital Shah is a Principal Research Engineer at Microsoft Research AI. His interests include simulation, robotics, deep learning and reinforcement learning. He has been working at Microsoft for 14 years, contributing to architecture, design and development of large scale distributed machine learning systems. He has assumed various roles in several different teams at Microsoft, including software developer, research engineer and engineering manager. At Bing, he co-founded and led the team to design and develop a distributed machine-learned clustering platform for web-scale data. At Microsoft Research, he conceived and lead the development of [AirSim](https://github.com/microsoft/airsim), a physically and visually realistic cross-platform simulator for AI research. Most recently, he developed [TensorWatch](http://tensorwatch.org), a new approach for debugging and visualizing machine learning.
