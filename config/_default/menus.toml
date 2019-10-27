@@ -63,3 +63,20 @@
   post = ""
   url = "https://scholar.google.com/citations?user=1PEHzesAAAAJ"
   weight = 50  
+  name = "<i class=\"fab fa-github-alt\" style=\"color: #333; font-size: 1rem; line-height: 1.25\"></i>"
+  post = ""
+  url = "https://github.com/gcushen/hugo-academic"
+  weight = 10
+
+[[main_right]]
+  name = "<i class=\"fas fa-comments\" style=\"color: rgb(123, 22, 255); font-size: 1rem; line-height: 1.25\"></i>"
+  post = ""
+  url = "https://spectrum.chat/academic"
+  weight = 20
+
+[[main_right]]
+  name = "<i class=\"fab fa-twitter\" style=\"color: #55acee; font-size: 1rem; line-height: 1.25\"></i>"
+  post = ""
+  url = "https://twitter.com/source_themes"
+  weight = 20
+
