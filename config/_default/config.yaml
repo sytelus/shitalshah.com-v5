@@ -3,8 +3,12 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Academic # Website name
-baseURL: 'https://example.com/' # Website URL
+title: 'Shital Shah' # Website name
+baseURL: 'http://shital.com/' # Website URL
+
+copyright: '(C) Shital Shah. All rights reserved.'
+
+googleAnalytics: 'UA-3244158-1'
 
 ############################
 ## LANGUAGE
@@ -30,13 +34,14 @@ module:
 ## ADVANCED
 ############################
 
+theme: 'academic'
 enableGitInfo: false
 summaryLength: 30
 paginate: 10
 enableEmoji: true
 enableRobotsTXT: true
 footnotereturnlinkcontents: <sup>^</sup>
-ignoreFiles: [\.ipynb$, .ipynb_checkpoints$, \.Rmd$, \.Rmarkdown$, _cache$]
+ignoreFiles: [\.ipynb$, .ipynb_checkpoints$, \.Rmd$, \.Rmarkdown$, _cache$, _files$]
 permalinks:
   event: '/talk/:slug/'
   tags: '/tag/:slug/'
