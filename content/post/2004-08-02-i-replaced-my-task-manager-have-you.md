@@ -2,6 +2,8 @@
 title: I Replaced My Task Manager, Have You?
 author: Shital Shah
 type: post
+draft: true
+private: true
 date: 2004-08-02T19:35:22+00:00
 url: /p/i-replaced-my-task-manager-have-you/
 dsq_thread_id:

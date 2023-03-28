@@ -2,6 +2,8 @@
 title: Really Slick Screensavers
 author: Shital Shah
 type: post
+draft: true
+private: true
 date: 2005-07-11T17:22:00+00:00
 url: /p/really-slick-screensavers/
 blogger_blog:

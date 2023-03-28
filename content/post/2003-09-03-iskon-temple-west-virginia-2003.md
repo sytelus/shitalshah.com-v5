@@ -2,6 +2,8 @@
 title: A Visit To The Temple
 author: Shital Shah
 type: post
+draft: true
+private: true
 date: 2003-09-03T08:09:26+00:00
 url: /p/iskon-temple-west-virginia-2003/
 dsq_thread_id:

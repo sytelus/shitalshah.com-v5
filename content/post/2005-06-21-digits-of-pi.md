@@ -2,6 +2,8 @@
 title: Digits Of Pi
 author: Shital Shah
 type: post
+draft: true
+private: true
 date: 2005-06-21T20:20:14+00:00
 url: /p/digits-of-pi/
 dsq_thread_id:
@@ -12,7 +14,7 @@ categories:
 ---
 A famous quote from John Von Neumann goes like this,
 
-> Anyone who considers arithmetical methods of producing random digits is, of course, in a state of sin. 
+> Anyone who considers arithmetical methods of producing random digits is, of course, in a state of sin.
 
 This is something I've intuitively believed since I was 15 and even hadn't heard of Neumann. Pure random numbers is (or probably more) as fascinating concept as <span class='MathJax_Preview'><img src='http://shitalshah.com/ShitalShahWP/wp-content/plugins/latex/cache/tex_7ed9abff4dafd78d08e616c899412e92.gif' style='vertical-align: middle; border: none; padding-bottom:2px;' class='tex' alt="\infty" /></span> or <span class='MathJax_Preview'><img src='http://shitalshah.com/ShitalShahWP/wp-content/plugins/latex/cache/tex_865c0c0b4ab0e063e5caa3387c1a8741.gif' style='vertical-align: middle; border: none; padding-bottom:1px;' class='tex' alt="i" /></span>. It is impossible to generate sequence of purely random numbers without tapping in to nature. That means I could never write a computer code that generates a sequence of random numbers without showing up absolutely any patterns in a long run. There are only better random generators, never a perfect one, except thy nature itself.
 
@@ -22,7 +24,7 @@ My hypothesis is that this property of the real world is an ability to generate 
 
 So now you know why randomness of digits of pi made my stomach cringe. When I think about it, I'm starting to feel that any [transcendental number][3] obtained through convergence of infinite series (lets call them algebric transcendentals or ATs) must indeed have its digits distributed randomly. If you remember Cantor, there are more transcendental numbers than any other kind. But what this really means is I'm able to generate sequence of _pure_ random numbers only using algebric means. It's as simple as finding new AT and emitting its digits. If you were someone who had given lot of thoughts to the nature of random numbers for years, this would sound both frightening and exciting to you. But hold on, could this really be true? After giving this some thought I believe it couldn't possibly be. I've finally constructed the following conjecture:
 
-> From a finite sequence of minimum length _L_ of digits of any AT, there exist a Turing machine program <span class='MathJax_Preview'><img src='http://shitalshah.com/ShitalShahWP/wp-content/plugins/latex/cache/tex_ea71ebbff62198aa6264a9da7b39d1f5.gif' style='vertical-align: middle; border: none; ' class='tex' alt="G(L)" /></span> to calculate the next digit in that sequence in finite steps. In other words, for any AT there always exist a number _L_ which is finite and for which <span class='MathJax_Preview'><img src='http://shitalshah.com/ShitalShahWP/wp-content/plugins/latex/cache/tex_ea71ebbff62198aa6264a9da7b39d1f5.gif' style='vertical-align: middle; border: none; ' class='tex' alt="G(L)" /></span> is a [computable function][4]. 
+> From a finite sequence of minimum length _L_ of digits of any AT, there exist a Turing machine program <span class='MathJax_Preview'><img src='http://shitalshah.com/ShitalShahWP/wp-content/plugins/latex/cache/tex_ea71ebbff62198aa6264a9da7b39d1f5.gif' style='vertical-align: middle; border: none; ' class='tex' alt="G(L)" /></span> to calculate the next digit in that sequence in finite steps. In other words, for any AT there always exist a number _L_ which is finite and for which <span class='MathJax_Preview'><img src='http://shitalshah.com/ShitalShahWP/wp-content/plugins/latex/cache/tex_ea71ebbff62198aa6264a9da7b39d1f5.gif' style='vertical-align: middle; border: none; ' class='tex' alt="G(L)" /></span> is a [computable function][4].
 
 In simple language, if you just give me sequence of AT's digits I should be able to _predict_ the next digits provided you gave me enough of them to start with. This simply means if the alien computer was trieng to fool you by feeding you digits of some AT as a stream of random numbers, you can just sit back, collect these digits for a while and when you get handful of those, you can run through your algorithm to predict the next digits and find out you are not really in a real world (and also the fact that aliens didn't knew about Shital's AT Conjecture)! So random distribution is not the one and only property to identify a sequence of pure random numbers. The sequence of pure random numbers would not satisfy this conjecture (i.e. _L_ would be 8). Infect this should be outright obvious: For sequence of natural numbers <span class='MathJax_Preview'><img src='http://shitalshah.com/ShitalShahWP/wp-content/plugins/latex/cache/tex_95367d3bc0a72098fbf5e8eb9ee62b23.gif' style='vertical-align: middle; border: none; ' class='tex' alt="0, 1, 2, \ldots" /></span> we have all digits equally distributed but this sequence isn't by any means random.
 

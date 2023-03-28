@@ -2,6 +2,8 @@
 title: Silencing Exceptions in a Little Better Way
 author: Shital Shah
 type: post
+draft: true
+private: true
 date: 2009-12-07T23:54:35+00:00
 url: /p/silencing-exceptions-in-a-little-better-way/
 dsq_thread_id:
@@ -20,7 +22,7 @@ catch
 { }
 </code></pre>
 
-Silencing exceptions is almost never good but sometime the problem is minor and you don’t want want to blow up and call for an exit. However wouldn’t it be better if exceptions don’t remain silent and scream for your attention when you are debugging and behave less aggressively otherwise? 
+Silencing exceptions is almost never good but sometime the problem is minor and you don’t want want to blow up and call for an exit. However wouldn’t it be better if exceptions don’t remain silent and scream for your attention when you are debugging and behave less aggressively otherwise?
 
 How about if we can replace above code with following:
 

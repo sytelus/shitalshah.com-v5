@@ -2,6 +2,8 @@
 title: Introducing DSS
 author: Shital Shah
 type: post
+draft: true
+private: true
 date: 2006-02-16T15:04:01+00:00
 url: /p/introducing-dss/
 dsq_thread_id:

@@ -2,6 +2,8 @@
 title: VB.Net Resource Kit Saves The Day
 author: Shital Shah
 type: post
+draft: true
+private: true
 date: 2004-11-09T04:54:51+00:00
 draft: true
 private: true

@@ -2,6 +2,8 @@
 title: Make Your Windows More Geekier
 author: Shital Shah
 type: post
+draft: true
+private: true
 date: 2004-09-13T17:45:06+00:00
 url: /p/make-your-windows-more-geekier/
 dsq_thread_id:

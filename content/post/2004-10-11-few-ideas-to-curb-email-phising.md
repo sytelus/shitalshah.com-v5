@@ -2,6 +2,8 @@
 title: Few Ideas To Curb Email Phising
 author: Shital Shah
 type: post
+draft: true
+private: true
 date: 2004-10-11T22:37:19+00:00
 draft: true
 private: true

@@ -3,15 +3,17 @@
 name: Shital Shah
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: Shital
+last_name: Shah
 
 # Status emoji
-status:
-  icon: ☕️
+# status:
+#   icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
+
+role: Principal Research Engineer
 
 # Role/position
 # role: Principal Research Engineer
@@ -19,7 +21,7 @@ superuser: true
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: Microsoft Research
-  url: ""
+  url: "https://www.microsoft.com/en-us/research/people/shitals/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: A program trying to understand what it's computing.
@@ -27,13 +29,13 @@ bio: A program trying to understand what it's computing.
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Machine Learning
-- Deep Learning
-- Reinforcement Learning
-- Robotics
-- Computer Vision
-- Information Retrieval
+  - Artificial Intelligence
+  - Machine Learning
+  - Deep Learning
+  - Reinforcement Learning
+  - Robotics
+  - Computer Vision
+  - Information Retrieval
 
 # education:
 #   courses:
@@ -56,21 +58,21 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/sytelus
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/in/shitals
-- icon: facebook
-  icon_pack: fab
-  link: https://www.facebook.com/sytelus
-- icon: github
-  icon_pack: fab
-  link: https://github.com/sytelus
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.co.uk/citations?user=1PEHzesAAAAJ
+- icon: github
+  icon_pack: fab
+  link: https://github.com/sytelus
 - icon: stack-overflow
   icon_pack: fab
   link: https://stackoverflow.com/users/207661/shital-shah
+- icon: facebook
+  icon_pack: fab
+  link: https://www.facebook.com/sytelus
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/shitals
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -87,4 +89,8 @@ email: ""
 # - Visitors
 ---
 
-Shital Shah is a Principal Research Engineer at Microsoft Research AI. His interests include simulation, robotics, deep learning and reinforcement learning. He has been working at Microsoft for 14 years, contributing to architecture, design and development of large scale distributed machine learning systems. He has assumed various roles in several different teams at Microsoft, including software developer, research engineer and engineering manager. At Bing, he co-founded and led the team to design and develop a distributed machine-learned clustering platform for web-scale data. At Microsoft Research, he conceived and lead the development of [AirSim](https://github.com/microsoft/airsim), a physically and visually realistic cross-platform simulator for AI research. Most recently, he developed [TensorWatch](http://tensorwatch.org), a new approach for debugging and visualizing machine learning.
+Shital Shah is Principal Research Engineer at Microsoft Research working on deep learning and machine intelligence. At Microsoft Bing, he previously co-founded and led the team to develop distributed machine-learned clustering platform for web-scale data. At Microsoft Research, he conceived and lead the development of [AirSim](https://github.com/microsoft/airsim), [TensorWatch](http://tensorwatch.org), and most recently co-founded and helped develop [Archai](https://github.com/microsoft/archai).
+
+Follow on [Twitter](https://twitter.com/sytelus) for posts on deep learning and machine intelligence.
+
+{style="text-align: justify;"}

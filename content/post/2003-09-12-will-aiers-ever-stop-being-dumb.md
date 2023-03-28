@@ -2,6 +2,8 @@
 title: Will AIers Ever Stop Being Dumb?
 author: Shital Shah
 type: post
+draft: true
+private: true
 date: 2003-09-12T20:36:28+00:00
 draft: true
 private: true

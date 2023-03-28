@@ -2,6 +2,8 @@
 title: Find Path of a Command Line Tool
 author: Shital Shah
 type: post
+draft: true
+private: true
 date: 2009-10-29T23:06:45+00:00
 url: /p/find-path-of-a-command-line-tool/
 dsq_thread_id:

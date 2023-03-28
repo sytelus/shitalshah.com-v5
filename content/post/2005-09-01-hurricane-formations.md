@@ -2,6 +2,8 @@
 title: Hurricane Formations
 author: Shital Shah
 type: post
+draft: true
+private: true
 date: 2005-09-01T05:40:00+00:00
 url: /p/hurricane-formations/
 blogger_blog:

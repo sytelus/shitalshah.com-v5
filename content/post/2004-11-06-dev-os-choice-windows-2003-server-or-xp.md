@@ -2,6 +2,8 @@
 title: 'Dev OS Choice: Windows 2003 Server Or XP'
 author: Shital Shah
 type: post
+draft: true
+private: true
 date: 2004-11-06T00:25:42+00:00
 url: /p/dev-os-choice-windows-2003-server-or-xp/
 dsq_thread_id:

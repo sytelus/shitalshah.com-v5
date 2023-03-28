@@ -2,6 +2,8 @@
 title: Virtual By Default
 author: Shital Shah
 type: post
+draft: true
+private: true
 date: 2004-11-15T20:33:19+00:00
 draft: true
 private: true

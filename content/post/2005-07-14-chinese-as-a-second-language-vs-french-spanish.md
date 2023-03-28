@@ -2,6 +2,8 @@
 title: Chinese As a Second Languge
 author: Shital Shah
 type: post
+draft: true
+private: true
 date: 2005-07-14T18:05:00+00:00
 url: /p/chinese-as-a-second-language-vs-french-spanish/
 blogger_blog:

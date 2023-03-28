@@ -35,6 +35,11 @@ module:
 ############################
 
 theme: 'academic'
+
+pygmentsCodefences: true
+pygmentsCodefencesGuessSyntax: true
+pygmentsStyle: 'monokai'
+
 enableGitInfo: false
 summaryLength: 30
 paginate: 10

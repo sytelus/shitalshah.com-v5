@@ -2,6 +2,8 @@
 title: Barenaked Ladies Live!
 author: Shital Shah
 type: post
+draft: true
+private: true
 date: 2003-09-30T04:14:53+00:00
 url: /p/barenaked-ladies-live-2003/
 dsq_thread_id:

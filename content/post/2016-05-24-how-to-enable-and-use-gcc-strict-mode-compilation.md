@@ -16,8 +16,9 @@ First, let's clear this up: There is no official GCC mode called "strict". I jus
 
 To get the "strict" mode, I use following command line options for gcc/g++. Below are written in format consumable in CMakeList.txt but you can use same options from pretty much anywhere.
 
-<pre class="code-block"><code>set(CMAKE_CXX_FLAGS "-std=c++11 -Wall -Wextra  -Wstrict-aliasing -pedantic -fmax-errors=5 -Werror -Wunreachable-code -Wcast-align -Wcast-qual -Wctor-dtor-privacy -Wdisabled-optimization -Wformat=2 -Winit-self -Wlogical-op -Wmissing-include-dirs -Wnoexcept -Wold-style-cast -Woverloaded-virtual -Wredundant-decls -Wshadow -Wsign-promo -Wstrict-null-sentinel -Wstrict-overflow=5 -Wswitch-default -Wundef -Wno-unused -Wno-variadic-macros -Wno-parentheses -fdiagnostics-show-option ${CMAKE_CXX_FLAGS}")
-</code></pre>
+```bash
+set(CMAKE_CXX_FLAGS "-std=c++11 -Wall -Wextra  -Wstrict-aliasing -pedantic -fmax-errors=5 -Werror -Wunreachable-code -Wcast-align -Wcast-qual -Wctor-dtor-privacy -Wdisabled-optimization -Wformat=2 -Winit-self -Wlogical-op -Wmissing-include-dirs -Wnoexcept -Wold-style-cast -Woverloaded-virtual -Wredundant-decls -Wshadow -Wsign-promo -Wstrict-null-sentinel -Wstrict-overflow=5 -Wswitch-default -Wundef -Wno-unused -Wno-variadic-macros -Wno-parentheses -fdiagnostics-show-option ${CMAKE_CXX_FLAGS}")
+```
 
 That's a looong list of compiler options so now I hope you can agree that we really mean "strict" business here :). In essence it enables extra warnings and makes all warnings as errors, points out coding issues that borderlines on pedantic and then on top of that enables some more warnings. Rest assured, above is not an overkill. You are going to thank compiler for taking care of these stuff as your code base becomes larger and more complex.
 
@@ -25,8 +26,8 @@ Unfortunately, road from here has lots of twist and turns. The first thing that 
 
 Here's the fix I have used with fair amount of success. First, declare these two macros in some common utility file you have in your project:
 
-<pre class="code-block"><code>
-#define STRICT_MODE_OFF                                                                 \ 
+```bash
+#define STRICT_MODE_OFF                                                                 \
     _Pragma("GCC diagnostic push")                                            \
     _Pragma("GCC diagnostic ignored \"-Wreturn-type\"")             \
     _Pragma("GCC diagnostic ignored \"-Wdelete-non-virtual-dtor\"") \
@@ -36,38 +37,40 @@ Here's the fix I have used with fair amount of success. First, declare these two
     _Pragma("GCC diagnostic ignored \"-Wold-style-cast\"")          \
     _Pragma("GCC diagnostic ignored \"-Wswitch-default\"")
 
-/* Addition options that can be enabled 
+/* Addition options that can be enabled
     _Pragma("GCC diagnostic ignored \"-Wpedantic\"")                \
     _Pragma("GCC diagnostic ignored \"-Wformat=\"")                 \
     _Pragma("GCC diagnostic ignored \"-Werror\"")                   \
     _Pragma("GCC diagnostic ignored \"-Werror=\"")                  \
     _Pragma("GCC diagnostic ignored \"-Wunused-variable\"")         \
 */
-              
+
 #define STRICT_MODE_ON                                                                  \
-    _Pragma("GCC diagnostic pop")          
-</code></pre>
+    _Pragma("GCC diagnostic pop")
+```
 
 Here we have two macros, one tells GCC to turn off selected warnings before some chunk of code and second tells GCC to re-enable it. Why can't we just turn off all strict mode warnings at once? Because GCC currently doesn't have that option. You must list every individual warning :(. Above list is something I just put together while dealing with ROS and DJI SDK and is obviously incomplete. Your project might encounter more stuff in which case you will need to keep adding in to above list. Another issue you might encounter is that GCC currently doesn't support suppressing every possible warnings! Yes, a big oops there. One of them that I [recently encountered in DJI SDK][1] was this:
 
-<pre class="code-block"><code>warning: ISO C99 requires rest arguments to be used
-</code></pre>
+```
+warning: ISO C99 requires rest arguments to be used
+```
 
 The only way out for me in this case was to modify DJI's source code and submit the issue to them so hopefully they will fix it in next release.
 
 Once you have above macros, you can place them around problematic headers. For example,
 
-<pre class="code-block"><code>#include &lt;string&gt;
-#include &lt;vector&gt;
+```cpp
+#include <string>
+#include <vector>
 
 STRICT_MODE_OFF
-#include &lt;ros/ros.h&gt;
-#include &lt;actionlib/server/simple_action_server.h&gt;
-#include &lt;dji_sdk/dji_drone.h&gt;
+#include <ros/ros.h>
+#include <actionlib/server/simple_action_server.h>
+#include <dji_sdk/dji_drone.h>
 STRICT_MODE_ON
 
 #include "mystuff.hpp"
-</code></pre>
+```
 
 We are not out of the water yet because above trick will work only for some header files. The reason is that GCC sometime doesn't compile entire file as soon as it encounters #include statement. So it's pointless to put macros around those #include statements. Solving those issues requires some more work, and in some cases a lot more work. The trick I used was to create wrappers around things you use from bad headers such that only those wrappers needs to use `#include <BadStuff.h>` statements and rest of your code doesn't need those header. Then you can disable strict mode for the wrappers and rest of your code remains clean. To do this, you would need to implement [pimpl pattern][2] in your wrapper classes so that all objects in BadStuff.h are behind opaque member. Notice that `#include <BadStuff.h>` statements would be in your wrapper.cpp file, not wrapper.hpp file.
 

@@ -2,6 +2,8 @@
 title: Space Elevator Conference
 author: Shital Shah
 type: post
+draft: true
+private: true
 date: 2008-06-28T07:10:03+00:00
 url: /p/space-elevator-conference-2008/
 categories:

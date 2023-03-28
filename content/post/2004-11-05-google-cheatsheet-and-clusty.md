@@ -2,6 +2,8 @@
 title: Google Cheatsheet And Clusty
 author: Shital Shah
 type: post
+draft: true
+private: true
 date: 2004-11-05T20:32:36+00:00
 url: /p/google-cheatsheet-and-clusty/
 dsq_thread_id:

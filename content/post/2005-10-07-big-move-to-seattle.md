@@ -2,6 +2,8 @@
 title: Big Move
 author: Shital Shah
 type: post
+draft: true
+private: true
 date: 2005-10-07T03:46:54+00:00
 url: /p/big-move-to-seattle/
 dsq_thread_id:

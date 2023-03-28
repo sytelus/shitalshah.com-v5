@@ -2,6 +2,8 @@
 title: Interesting Headers
 author: Shital Shah
 type: post
+draft: true
+private: true
 date: 2005-07-16T02:32:00+00:00
 url: /p/google-logo-headers-max-age/
 blogger_blog:
@@ -16,7 +18,7 @@ categories:
   - Developers
 
 ---
-The response headers returns with Google's logo looks like this: 
+The response headers returns with Google's logo looks like this:
 
 <pre class="code-block code-text"><code class="no-highlight">Content-Type: image/gif
 Last-Modified: Mon, 25 Apr 2005 21:06:18 GMT

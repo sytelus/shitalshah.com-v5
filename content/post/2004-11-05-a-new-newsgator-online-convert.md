@@ -2,6 +2,8 @@
 title: A New NewsGator Online Convert
 author: Shital Shah
 type: post
+draft: true
+private: true
 date: 2004-11-05T21:12:15+00:00
 url: /p/a-new-newsgator-online-convert/
 dsq_thread_id:

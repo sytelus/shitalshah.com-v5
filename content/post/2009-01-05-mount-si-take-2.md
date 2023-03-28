@@ -2,6 +2,8 @@
 title: 'Mount Si - Take #2'
 author: Shital Shah
 type: post
+draft: true
+private: true
 date: 2009-01-05T02:22:00+00:00
 url: /p/mount-si-take-2/
 blogger_blog:

@@ -5,6 +5,9 @@
 
 main:
   - name: Home
+    url: '#about'
+    weight: 10
+  - name: Posts
     url: '#posts'
     weight: 10
   - name: About
@@ -16,18 +19,6 @@ main_right:
     post: ""
     url: "https://twitter.com/sytelus"
     weight: 10
-  - name: "<i title=\"LinkedIn\" class=\"fab fa-linkedin\" style=\"font-size:1rem\"></i>"
-    post: ""
-    url: "https://www.linkedin.com/in/shitals"
-    weight: 20
-  - name: "<i title=\"Facebook\" class=\"fab fa-facebook\" style=\"font-size:1rem\"></i>"
-    post: ""
-    url: "https://www.facebook.com/sytelus"
-    weight: 30
-  - name: "<i title=\"GitHub\" class=\"fab fa-github\" style=\"font-size:1rem\"></i>"
-    post: ""
-    url: "https://www.github.com/sytelus"
-    weight: 40
   - name: "<i title=\"Google Scholar\" class=\"ai ai-google-scholar\" style=\"font-size:1rem\"></i>"
     post: ""
     url: "https://scholar.google.com/citations?user=1PEHzesAAAAJ"
@@ -36,7 +27,18 @@ main_right:
     post: ""
     url: "https://stackoverflow.com/users/207661/shital-shah"
     weight: 60
-
+  - name: "<i title=\"GitHub\" class=\"fab fa-github\" style=\"font-size:1rem\"></i>"
+    post: ""
+    url: "https://www.github.com/sytelus"
+    weight: 40
+  - name: "<i title=\"Facebook\" class=\"fab fa-facebook\" style=\"font-size:1rem\"></i>"
+    post: ""
+    url: "https://www.facebook.com/sytelus"
+    weight: 30
+  - name: "<i title=\"LinkedIn\" class=\"fab fa-linkedin\" style=\"font-size:1rem\"></i>"
+    post: ""
+    url: "https://www.linkedin.com/in/shitals"
+    weight: 20
   # - name: Posts
   #   url: '#posts'
   #   weight: 20

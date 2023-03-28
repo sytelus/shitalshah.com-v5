@@ -2,6 +2,8 @@
 title: Browser History Analyser
 author: Shital Shah
 type: post
+draft: true
+private: true
 date: 2004-09-07T03:16:19+00:00
 url: /p/browser-history-analyser/
 dsq_thread_id:
@@ -23,7 +25,7 @@ I like to preserve logs of my browser history. Apart from recalling useful webpa
   * Statistics of how much time you spend per page, how much time you spend per day in browsing websites
   * Chart the statistics
 
-The architecture of this new version is fairly extensible and you can plug-in more modules as you go. I'll be implementing more public plug-in architecture and using plain XML files instead of MS Access databases and FireFox support (this is becoming important for me because I've 100% switched over to FireFox). So this is not yet the "release" version. Also note that you need .Net Framework Beta 2.0 Beta1 + VB.Net resource Kit if you want to compile the code. But results are beautiful! 
+The architecture of this new version is fairly extensible and you can plug-in more modules as you go. I'll be implementing more public plug-in architecture and using plain XML files instead of MS Access databases and FireFox support (this is becoming important for me because I've 100% switched over to FireFox). So this is not yet the "release" version. Also note that you need .Net Framework Beta 2.0 Beta1 + VB.Net resource Kit if you want to compile the code. But results are beautiful!
 
 <p class="obsolete">
   Warning: This program was written circa Nov 2004 and last updated around Mar 2005. It is currently considered obsolete. There are no plans to update it and no support is provided.

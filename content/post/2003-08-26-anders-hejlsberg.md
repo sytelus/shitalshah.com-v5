@@ -2,6 +2,8 @@
 title: Anders Hejlsberg
 author: Shital Shah
 type: post
+draft: true
+private: true
 date: 2003-08-26T06:09:42+00:00
 url: /p/anders-hejlsberg/
 dsq_thread_id:
