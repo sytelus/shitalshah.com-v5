@@ -2,6 +2,8 @@
 title: Using Windows Explorer Progress Dialog In Your Application
 author: Shital Shah
 type: post
+draft: true
+private: true
 date: 2004-12-26T19:37:27+00:00
 url: /p/using-windows-explorer-progress-dialog-in-your-application/
 gr_overridden:

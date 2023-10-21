@@ -2,6 +2,8 @@
 title: A Little .Net Puzzle
 author: Shital Shah
 type: post
+draft: true
+private: true
 date: 2004-07-28T15:14:25+00:00
 url: /p/a-little-net-puzzle/
 dsq_thread_id:

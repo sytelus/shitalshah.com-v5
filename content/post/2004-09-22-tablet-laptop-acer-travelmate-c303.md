@@ -2,6 +2,8 @@
 title: Tablet PC Or Laptop?
 author: Shital Shah
 type: post
+draft: true
+private: true
 date: 2004-09-22T20:18:45+00:00
 draft: true
 private: true

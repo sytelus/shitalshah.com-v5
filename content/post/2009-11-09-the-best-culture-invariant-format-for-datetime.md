@@ -2,6 +2,8 @@
 title: The Best Culture Invariant Format for DateTime
 author: Shital Shah
 type: post
+draft: true
+private: true
 date: 2009-11-09T01:35:41+00:00
 url: /p/the-best-culture-invariant-format-for-datetime/
 dsq_thread_id:

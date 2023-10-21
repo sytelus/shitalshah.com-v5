@@ -2,6 +2,8 @@
 title: Integrating RSS And Calendar Essay Available Now
 author: Shital Shah
 type: post
+draft: true
+private: true
 date: 2005-05-24T02:10:36+00:00
 url: /p/integrating-rss-and-calendar-essay-available-now/
 dsq_thread_id:

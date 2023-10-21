@@ -2,6 +2,8 @@
 title: 15 Questions On Leadership
 author: Shital Shah
 type: post
+draft: true
+private: true
 date: 2005-05-24T21:26:55+00:00
 url: /p/15-questions-on-leadership/
 dsq_thread_id:

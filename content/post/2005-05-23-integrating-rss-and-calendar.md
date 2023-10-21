@@ -2,6 +2,8 @@
 title: Integrating RSS And Calendar
 author: Shital Shah
 type: post
+draft: true
+private: true
 date: 2005-05-23T00:00:46+00:00
 excerpt: 'This essay reviews several efforts made to represent calendar information, ways to publish and subscribe event listing and efforts that have been made towards extending RSS for this purpose. It points out difficulties in implementing the standards and proposes a solution. '
 url: /p/integrating-rss-and-calendar/
@@ -13,13 +15,13 @@ categories:
 ---
 ### Summary:
 
-This essay reviews several efforts made to represent calendar information, ways to publish and subscribe event listing and efforts that have been made towards extending RSS for this purpose. It points out difficulties in implementing the standards and proposes a solution. **Date:** May 23, 2005 **Last Updated**: June 2, 2005 **Author:** [Shital Shah][1] 
+This essay reviews several efforts made to represent calendar information, ways to publish and subscribe event listing and efforts that have been made towards extending RSS for this purpose. It points out difficulties in implementing the standards and proposes a solution. **Date:** May 23, 2005 **Last Updated**: June 2, 2005 **Author:** [Shital Shah][1]
 
 * * *
 
 ### The Idea
 
-Almost every website owned by an organization or a group has some kind of event listing. Wouldn't it be cool if those websites could publish these event listing through some kind of feed which users can consume and aggregate right in to their calendars? In this essay, we'll discuss just that. There are several scenarios where this technology could be a blessing. For instance, you may be able to subscribe to your friend's schedules and also to your office meetings. You can subscribe to ticket-master concerts dates or university symposiums or hike schedule from your local outdoor club or keep track of IMAX movies at your favorite theater. The essence of the idea is to unify all types of event listings in to a common machine readable _and_ subscribable format so that your calendar program can keep itself updated automatically. Because of its popularity, RSS would obviously come to ones mind when one think about publishing and aggregating something. However we'll see that the RSS is neither the only vehicle nor an ideal one for calendar feeds. 
+Almost every website owned by an organization or a group has some kind of event listing. Wouldn't it be cool if those websites could publish these event listing through some kind of feed which users can consume and aggregate right in to their calendars? In this essay, we'll discuss just that. There are several scenarios where this technology could be a blessing. For instance, you may be able to subscribe to your friend's schedules and also to your office meetings. You can subscribe to ticket-master concerts dates or university symposiums or hike schedule from your local outdoor club or keep track of IMAX movies at your favorite theater. The essence of the idea is to unify all types of event listings in to a common machine readable _and_ subscribable format so that your calendar program can keep itself updated automatically. Because of its popularity, RSS would obviously come to ones mind when one think about publishing and aggregating something. However we'll see that the RSS is neither the only vehicle nor an ideal one for calendar feeds.
 
 ### The Calendar Standards
 
@@ -51,7 +53,7 @@ We looked at various major standards that enables exchanging calendar informatio
 
 ### Thanks
 
-To <!--StartFragment --> Gordon Fowler, 
+To <!--StartFragment --> Gordon Fowler,
 
 <!--StartFragment --> Don Faulkner, Michael Fagan, Dan Brickley and Danny Ayer for their extremely helpful comments, suggestions and corrections.
 

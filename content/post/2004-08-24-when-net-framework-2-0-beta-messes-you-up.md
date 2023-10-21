@@ -2,6 +2,8 @@
 title: When .Net Framework 2.0 Beta Messes You Up
 author: Shital Shah
 type: post
+draft: true
+private: true
 date: 2004-08-24T04:02:08+00:00
 url: /p/when-net-framework-2-0-beta-messes-you-up/
 dsq_thread_id:

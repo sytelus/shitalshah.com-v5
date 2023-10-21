@@ -2,6 +2,8 @@
 title: Types Of Database Columns
 author: Shital Shah
 type: post
+draft: true
+private: true
 date: 2005-07-14T18:35:00+00:00
 url: /p/database-columns-char-numeric-stats/
 blogger_blog:

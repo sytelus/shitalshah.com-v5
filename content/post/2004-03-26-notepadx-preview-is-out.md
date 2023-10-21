@@ -2,6 +2,8 @@
 title: NotepadX Preview Is Out!
 author: Shital Shah
 type: post
+draft: true
+private: true
 date: 2004-03-26T21:56:36+00:00
 url: /p/notepadx-preview-is-out/
 dsq_thread_id:

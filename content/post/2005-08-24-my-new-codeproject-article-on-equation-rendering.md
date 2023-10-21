@@ -2,6 +2,8 @@
 title: My New CodeProject Article On Equation Rendering
 author: Shital Shah
 type: post
+draft: true
+private: true
 date: 2005-08-24T02:31:01+00:00
 url: /p/my-new-codeproject-article-on-equation-rendering/
 dsq_thread_id:

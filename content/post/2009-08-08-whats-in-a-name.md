@@ -2,6 +2,8 @@
 title: What’s in a name?
 author: Shital Shah
 type: post
+draft: true
+private: true
 date: 2009-08-08T03:32:48+00:00
 url: /p/whats-in-a-name/
 dsq_thread_id:
@@ -23,7 +25,7 @@ Soon you realize lot of people have middle name, especially, when name change oc
 **Person**
 
 <pre class="code-block code-text"><code class="no-highlight">First Name
-Middle Name 
+Middle Name
 Last Name
 </code></pre>
 
@@ -32,7 +34,7 @@ This is all good… until you encounter people in countries such as Spain and Cu
 **Person**
 
 <pre class="code-block code-text"><code class="no-highlight">First Name
-Middle Name 
+Middle Name
 Last Name
 2nd Last Name
 </code></pre>
@@ -47,7 +49,7 @@ So time to add few more field so we can store everybody’s names on planet with
 
 <pre class="code-block code-text"><code class="no-highlight">Traditional Given Name
 English Given Name
-Middle Name 
+Middle Name
 Last Name
 2nd Last Name
 </code></pre>
@@ -63,7 +65,7 @@ Example of common suffixes are Jr, Sr, III, IV etc. These are required in offici
 <pre class="code-block code-text"><code class="no-highlight">Salutation
 Traditional Given Name
 English Given Name
-Middle Name 
+Middle Name
 Last Name
 2nd Last Name
 Suffix
@@ -76,7 +78,7 @@ Now we have covered most of the globe. There are still two more nice-to-have fie
 <pre class="code-block code-text"><code class="no-highlight">Salutation
 Traditional Given Name
 English Given Name
-Middle Name 
+Middle Name
 Last Name
 2nd Last Name
 Phonetic Given Name

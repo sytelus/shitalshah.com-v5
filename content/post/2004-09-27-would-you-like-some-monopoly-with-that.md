@@ -2,6 +2,8 @@
 title: Would You Like Some Monopoly With That?
 author: Shital Shah
 type: post
+draft: true
+private: true
 date: 2004-09-27T23:09:33+00:00
 draft: true
 private: true

@@ -2,6 +2,8 @@
 title: Condomania Wizard Interface
 author: Shital Shah
 type: post
+draft: true
+private: true
 date: 2004-07-14T06:07:33+00:00
 url: /p/condomania-wizard-interface/
 dsq_thread_id:

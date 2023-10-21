@@ -4,6 +4,8 @@ author: Shital Shah
 type: post
 date: 2016-12-24T00:15:13+00:00
 url: /p/playing-with-hololens/
+draft: true
+private: true
 dsq_thread_id:
   - 5406179683
 categories:

@@ -2,6 +2,8 @@
 title: A Be It All MP3 Player (No, Its Not iPod)
 author: Shital Shah
 type: post
+draft: true
+private: true
 date: 2004-10-01T18:47:39+00:00
 draft: true
 private: true

@@ -17,7 +17,7 @@ categories:
 ---
 ### Introduction
 
-There are two files that contains all stories and comments posted at [Hacker News][1] from its start in 2006 to May 29, 2014 (exact dates are below). This was downloaded using simple program available I wrote  [Hacker News Downloader][2] by making REST API calls to [HN's official APIs][3]. The program used API parameters to paginate through created date of items to retrieve all posts and comments. The file contains entire sequence of JSON responses exactly as returned by API call in JSON array. 
+There are two files that contains all stories and comments posted at [Hacker News][1] from its start in 2006 to May 29, 2014 (exact dates are below). This was downloaded using simple program available I wrote  [Hacker News Downloader][2] by making REST API calls to [HN's official APIs][3]. The program used API parameters to paginate through created date of items to retrieve all posts and comments. The file contains entire sequence of JSON responses exactly as returned by API call in JSON array.
 
 ### HNStoriesAll.json
 
@@ -39,7 +39,7 @@ I wrote a small program [Hacker News Downloader][2] to create these files, avail
 
 Entire file is JSON compliant array. Each element in array is json object that is exactly the response that returned by HN Algolia REST API. The property named \`hits\` contains the actual list of stories. As this file is very large we recommend json parsers that can work on file streams instead of reading entire data in memory.
 
-<pre class="code-block"><code>{
+```json
 	"hits": [{
 		"created_at": "2014-05-31T00:05:54.000Z",
 		"title": "Publishers withdraw more than 120 gibberish papers",
@@ -89,7 +89,7 @@ Entire file is JSON compliant array. Each element in array is json object that i
 	"query": "",
 	"params": "advancedSyntax=true\u0026analytics=false\u0026hitsPerPage=1\u0026tags=story"
 }
-</code></pre>
+```
 
 ### HNCommentsAll.json
 
@@ -111,7 +111,7 @@ I wrote a small program [Hacker News Downloader][2] to create these files, avail
 
 Entire file is JSON compliant array. Each element in array is json object that is exactly the response that returned by HN Algolia REST API. The property named \`hits\` contains the actual list of stories. As this file is very large we recommend json parsers that can work on file streams instead of reading entire data in memory.
 
-<pre class="code-block"><code>
+```json
 {
 	"hits": [{
 		"created_at": "2014-05-31T00:22:01.000Z",
@@ -152,37 +152,37 @@ Entire file is JSON compliant array. Each element in array is json object that i
 	"query": "",
 	"params": "advancedSyntax=true\u0026analytics=false\u0026hitsPerPage=1\u0026tags=comment"
 }
-</code></pre>
+```
 
 ### Where to download
 
 As GitHub restricts each file to be only 100MB and also has policies against data ware housing, these files are currently hosted at FileDropper.com. Unfortunately FileDropper currently shows ads with misleading download link so be careful on what link you click. Below is the screenshot FileDropper shows and currently the button marked in red would download the actual file.
 
-[<img src="http://shitalshah.com/ShitalShahWP/wp-content/uploads/2014/05/FileDropperDownloadScreen.png" alt="FileDropperDownloadScreen" width="500" class="alignnone size-full wp-image-1434" srcset="http://shitalshah.com/ShitalShahWP/wp-content/uploads/2014/05/FileDropperDownloadScreen.png 905w, http://shitalshah.com/ShitalShahWP/wp-content/uploads/2014/05/FileDropperDownloadScreen-300x293.png 300w" sizes="(max-width: 905px) 100vw, 905px" />][4] 
+[<img src="http://shitalshah.com/ShitalShahWP/wp-content/uploads/2014/05/FileDropperDownloadScreen.png" alt="FileDropperDownloadScreen" width="500" class="alignnone size-full wp-image-1434" srcset="http://shitalshah.com/ShitalShahWP/wp-content/uploads/2014/05/FileDropperDownloadScreen.png 905w, http://shitalshah.com/ShitalShahWP/wp-content/uploads/2014/05/FileDropperDownloadScreen-300x293.png 300w" sizes="(max-width: 905px) 100vw, 905px" />][4]
 
 #### HN Stories Download URL
 
 Using Browser: <http://www.filedropper.com/hnstoriesall>
-  
 
-  
+
+
 <small>Using Torrent Client: <a href="magnet:?xt=urn:btih:00bfc9143ecdc8d3c27a170c2d1474e05ccdbc59&dn=HNStoriesAll.7z&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce">magnet link</a> (thanks to <a href="https://github.com/saturation">@saturation</a>)</small>
-  
 
-  
-<small>Archived at: <a href="https://archive.org/details/HackerNewsStoriesAndCommentsDump">Internet Archive</a> (thanks to <a href="https://news.ycombinator.com/user?id=bertrandom">Bertrand Fan</a>)</small> 
+
+
+<small>Archived at: <a href="https://archive.org/details/HackerNewsStoriesAndCommentsDump">Internet Archive</a> (thanks to <a href="https://news.ycombinator.com/user?id=bertrandom">Bertrand Fan</a>)</small>
 
 #### HN Comments Download URL
 
 Using Browser: <http://www.filedropper.com/hncommentsall>
-  
 
-  
+
+
 <small>Using Torrent Client: <a href="magnet:?xt=urn:btih:21abd27bfe4c01264eb0548543606140ee48d19b&dn=HNCommentsAll.7z&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce">magnet link</a> (thanks to <a href="https://github.com/saturation">@saturation</a>)</small>
-  
 
-  
-<small>Archived at: <a href="https://archive.org/details/HackerNewsStoriesAndCommentsDump">Internet Archive</a> (thanks to <a href="https://news.ycombinator.com/user?id=bertrandom">Bertrand Fan</a>)</small> 
+
+
+<small>Archived at: <a href="https://archive.org/details/HackerNewsStoriesAndCommentsDump">Internet Archive</a> (thanks to <a href="https://news.ycombinator.com/user?id=bertrandom">Bertrand Fan</a>)</small>
 
 ### Few points of interests
 

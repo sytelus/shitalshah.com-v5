@@ -2,6 +2,8 @@
 title: Enable Your Users To Write Math Equations In Your Web And Desktop Apps
 author: Shital Shah
 type: post
+draft: true
+private: true
 date: 2005-08-23T00:00:33+00:00
 url: /p/enable-your-users-to-write-math-equations-in-your-web-and-desktop-apps/
 dsq_thread_id:

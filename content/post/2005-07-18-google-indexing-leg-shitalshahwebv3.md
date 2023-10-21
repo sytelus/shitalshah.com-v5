@@ -2,6 +2,8 @@
 title: Google Indexing Leg
 author: Shital Shah
 type: post
+draft: true
+private: true
 date: 2005-07-18T19:32:00+00:00
 url: /p/google-indexing-leg-shitalshahwebv3/
 blogger_blog:

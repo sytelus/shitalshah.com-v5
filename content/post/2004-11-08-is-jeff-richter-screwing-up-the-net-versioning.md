@@ -2,6 +2,8 @@
 title: Is Jeff Richter Screwing Up The .Net Versioning?
 author: Shital Shah
 type: post
+draft: true
+private: true
 date: 2004-11-08T21:51:06+00:00
 url: /p/is-jeff-richter-screwing-up-the-net-versioning/
 dsq_thread_id:
