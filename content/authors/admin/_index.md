@@ -67,19 +67,18 @@ social:
   icon_pack: fab
   link: https://stackoverflow.com/users/207661/shital-shah
 # Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
+# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
 #   icon_pack: ai
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
-  
+
 # Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.  
+#   Set this to `[]` or comment out if you are not using People widget.
 # user_groups:
 # - Researchers
 # - Visitors
 ---
-
-Shital Shah is a Principal Research Engineer at Microsoft Research AI. His interests include simulation, robotics, deep learning and reinforcement learning. He has been working at Microsoft for 14 years, contributing to architecture, design and development of large scale distributed machine learning systems. He has assumed various roles in several different teams at Microsoft, including software developer, research engineer and engineering manager. At Bing, he co-founded and led the team to design and develop a distributed machine-learned clustering platform for web-scale data. At Microsoft Research, he conceived and lead the development of [AirSim](https://github.com/microsoft/airsim), a physically and visually realistic cross-platform simulator for AI research. Most recently, he developed [TensorWatch](http://tensorwatch.org), a new approach for debugging and visualizing machine learning.
+Shital Shah currently works as Principal Research Engineer at Microsoft Research with interests in deep learning and reinforcement learning. His previous works includes co-authoring a distributed machine-learned clustering system for web-scale data that powered parts of Bing and co-founding the team. In 2017, he authored [AirSim](https://github.com/microsoft/airsim), a physically and visually realistic cross-platform simulator for AI research. In 2018, he authored [TensorWatch](http://tensorwatch.org), a new approach for debugging and visualizing machine learning. More recently he co-authored [Archai][https://github.com/microsoft/archai], a platform for Neural Architecture Search that has yielded the models powering text completition feature in Microsoft Office. Currently, he is working on math and code generation models with goal towards achieving perfect reasoning.
