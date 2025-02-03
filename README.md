@@ -12,6 +12,14 @@ git init
 git submodule add -b stable https://github.com/sytelus/congo.git themes/congo
 ```
 
+### Template Customizations
+
+* All of the *.toml from theme's `config/_default` is copied to `config/_default` and customized.
+* The `config.tom` is added with custom param `params.sitever` to save site version.
+* The`layouts/partials` in site directory overrides files in theme's `layouts` folder. Currently, only `footer.html` is the override and only change in there is to add copyright year and sitever. If `footer.html` changes in original theme then we need to sync override file.
+* The `assets/css/custom.css` added to increase font size.
+* The `static/_headers` is added to allow cross domain call to `index.json` so that search works when calling from `www.domain.com` instead of `domain.com`.
+
 ## How to update theme
 
 See if submodule has new commits:

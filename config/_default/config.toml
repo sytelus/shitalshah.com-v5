@@ -20,3 +20,7 @@ googleAnalytics = "G-3GMZGGS6LX"
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]
+
+# custom parameters
+[params]
+sitever = "v5.5.0"

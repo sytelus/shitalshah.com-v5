@@ -4,7 +4,7 @@ languageDirection = "ltr"
 weight = 1 # The weight determines the order of languages when building multilingual sites
 
 title = "Shital Shah's Chain of Thought"  # page title
-# copyright = "Copy, _right?_ :thinking_face:"
+copyright = 'Shital Shah &#x1F16D; CC BY-NC-SA'
 
 [params]
   dateFormat = "2 January 2006"
