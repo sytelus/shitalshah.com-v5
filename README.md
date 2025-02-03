@@ -35,7 +35,18 @@ git push origin master
 1. Make changes in content directory by adding/updating md file(s).
 2. Run `hugo server -D --watch --poll 10000 --disableFastRender` to preview the changes. This will show draft changes due to `-D` switch which won't be published and suppress i18n warnings if any. The `--poll` is only needed if working on `/mnt` in WSL. Most of the time `--disableFastRender` is not really needed.
 3. If everything looks good, run `bash deploy.sh` command which will generate static pages in public folder which is already mapped to GitHub Pages repo.
-4. Commit the changes in `public` submodule (visible in VSCode source control).5. Commit `master` in main repo. The website should be upto date in a minute.
+4. Commit and push the changes in `public` and then in main repo:
+
+    ```bash
+    pushd public
+    git commit -m "deployment"
+    git push
+    popd
+    git commit -m "deployment"
+    git push
+    ```
+
+
 
 ## TODOs
 
