@@ -4,7 +4,7 @@
 
 theme = "congo"
 
-baseURL = "https://shital.com/"
+baseURL = "http://shital.com/"
 languageCode = "en"
 defaultContentLanguage = "en"
 
