@@ -20,6 +20,12 @@ git submodule add -b stable https://github.com/sytelus/congo.git themes/congo
 * The `assets/css/custom.css` added to increase font size.
 * The `static/_headers` is added to allow cross domain call to `index.json` so that search works when calling from `www.domain.com` instead of `domain.com`.
 
+## How to write content
+
+Content goes in `content/blog/`. Create `.md` file and use markdowndown format ([preview](https://jpanther.github.io/congo/samples/markdown/), [source](https://github.com/sytelus/shitalshah.com-v5/blob/master/themes/congo/exampleSite/content/samples/markdown/index.md)). See adjust files in previous links to more info. Start of the markdown is called [front matter](https://jpanther.github.io/congo/docs/front-matter/).
+
+[Other docs](https://jpanther.github.io/congo/docs/).
+
 ## How to update theme
 
 See if submodule has new commits:
