@@ -11,6 +11,11 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
+  name = "Home"
+  pageRef = "/"
+  weight = 1
+
+[[main]]
   name = "Blog"
   pageRef = "posts"
   weight = 10
@@ -21,9 +26,14 @@
   weight = 20
 
 [[main]]
-  name = "Tags"
-  pageRef = "tags"
-  weight = 30
+  name = "About"
+  pageRef = "misc/about"
+  weight = 88
+
+# [[main]]
+#   name = "Tags"
+#   pageRef = "tags"
+#   weight = 30
 
 [[main]]
   identifier = "search"
@@ -31,11 +41,11 @@
   [main.params]
     action = "search"
 
-[[main]]
-  identifier = "locale"
-  weight = 100
-  [main.params]
-    action = "locale"
+# [[main]]
+#   identifier = "locale"
+#   weight = 100
+#   [main.params]
+#     action = "locale"
 
 # -- Footer Menu --
 # The footer menu is displayed at the bottom of the page, just before

@@ -21,17 +21,17 @@ robots = "all"
   layout = "hybrid" # valid options: basic, hamburger, hybrid, custom
   # logo = "img/logo.jpg"
   # logoDark = "img/dark-logo.jpg"
-  showTitle = true
+  showTitle = true # show title in header menu
 
 [footer]
   showCopyright = true
-  showThemeAttribution = true
+  showThemeAttribution = false
   showAppearanceSwitcher = true
-  showScrollToTop = true
+  showScrollToTop = false
 
 [homepage]
   layout = "page" # valid options: page, profile, custom
-  showRecent = false
+  showRecent = true
   recentLimit = 5
 
 [article]
@@ -51,7 +51,7 @@ robots = "all"
   showTaxonomies = true
   showWordCount = true
   showComments = true
-  # sharingLinks = ["facebook", "x-twitter", "mastodon", "pinterest", "reddit", "linkedin", "email", "threads", "telegram", "line", "weibo"]
+  sharingLinks = ["facebook", "x-twitter", "reddit", "linkedin", "email"]
 
 [list]
   showBreadcrumbs = false
@@ -67,10 +67,10 @@ robots = "all"
 [taxonomy]
   showTermCount = true
 
-[fathomAnalytics]
+#[fathomAnalytics]
   # site = "ABC12345"
 
-[plausibleAnalytics]
+#[plausibleAnalytics]
   # domain = "blog.yoursite.com"
   # event = ""
   # script = ""
