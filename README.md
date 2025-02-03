@@ -37,3 +37,10 @@ git push origin master
 3. If everything looks good, run `hugo` command which will generate static pages in public folder which is already mapped to GitHub Pages repo.
 4. Commit the changes in `public` submodule (visible in VSCode source control).5. Commit `master`. The website should be upto date in a minute.
 
+## TODOs
+
+- Enable disqus
+- Enable tags in menu
+- Fix page content links, images
+- Move twitter posts
+- Restore from archived posts

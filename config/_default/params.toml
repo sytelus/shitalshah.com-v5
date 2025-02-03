@@ -17,6 +17,11 @@ enableImageLazyLoading = true
 enableImageWebp = true
 robots = "all"
 
+[services]
+  [services.disqus]
+    shortname = ''
+    show_count = true
+
 [header]
   layout = "hybrid" # valid options: basic, hamburger, hybrid, custom
   # logo = "img/logo.jpg"
@@ -50,7 +55,7 @@ robots = "all"
   showTableOfContents = false
   showTaxonomies = true
   showWordCount = true
-  showComments = true
+  showComments = false # comment.html partial is missing from layouts
   sharingLinks = ["facebook", "x-twitter", "reddit", "linkedin", "email"]
 
 [list]
@@ -84,3 +89,6 @@ robots = "all"
   # bing = ""
   # pinterest = ""
   # yandex = ""
+
+[privacy_pack]
+  enable = false #   Show a cookie consent message to visitors

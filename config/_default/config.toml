@@ -11,6 +11,8 @@ defaultContentLanguage = "en"
 enableRobotsTXT = true
 summaryLength = 0
 
+ignoreFiles = ["_archive/"]
+
 googleAnalytics = "G-3GMZGGS6LX"
 
 [pagination]

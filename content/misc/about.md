@@ -1,13 +1,13 @@
 ---
 title: About
-author: Shital Shah
-type: post
-draft: false
-private: false
-date: 1900-12-23T07:21:27+00:00
-url: /about/
-categories:
-  - Uncategorized
+sharingLinks: false
+showAuthor: false
+showDate: false
+showDateUpdated: false
+showTaxonomies: false
+showWordCount: false
+showComments: false
+showReadingTime: false
 ---
 
 {{< profile >}}

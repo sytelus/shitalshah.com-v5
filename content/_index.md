@@ -1,12 +1,13 @@
 ---
 title: "Welcome! :tada:"
+showPagination: true
 ---
 
 {{< lead >}}
-I'm just a program trying to figure out what its computing.
+In this world of the Greater Being, I feel like I'm at play... like a little kid. With all my sense of wonder and curiosity... walking on my knees to get close, see and feel everything that has been put around me... and smile for all those good things that I find.
 {{< /lead >}}
 
-Feel free to explore some of my blog posts.
+Check out my [blog posts](/posts).
 
 For more latest and greatest [follow me on Twitter](https://twitter.com/sytelus).
 
