@@ -1,7 +1,7 @@
 languageCode = "en"
 languageName = "English"
 languageDirection = "ltr"
-weight = 1
+weight = 1 # The weight determines the order of languages when building multilingual sites
 
 title = "Shital Shah"
 # copyright = "Copy, _right?_ :thinking_face:"

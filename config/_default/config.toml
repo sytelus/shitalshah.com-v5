@@ -11,6 +11,8 @@ defaultContentLanguage = "en"
 enableRobotsTXT = true
 summaryLength = 0
 
+googleAnalytics = "G-3GMZGGS6LX"
+
 [pagination]
   pagerSize = 10
 

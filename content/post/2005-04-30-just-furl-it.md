@@ -42,7 +42,7 @@ I'm not bookmarking in my browser any longer. That feels like so yesterday...
  [1]: http://www.furl.net
  [2]: http://del.icio.us
  [3]: http://www.furl.net/faq.jsp#rss
- [4]: %20http://www.furl.net/faq.jsp#rs
+ [4]: http://www.furl.net/faq.jsp#rs
  [5]: http://www.furl.net/members/sytelus
  [6]: http://www.furl.net/members/sytelus/rss.xml
  [7]: http://groups.yahoo.com/group/shital/

@@ -20,19 +20,16 @@ Gym machines like treadmills and even some roads express the slop as "grade" in 
 
 For this I need to convert grade in % to angle. But what is "grade%"? Turns out it's ration of rise/run or in other words,
 
-{{< math >}}
+{{< katex >}}
 $$
 grade=\frac{tan(\theta)}{100}
 $$
-{{< /math >}}
 
 So your vertical climb in feet is given by,
 
-{{< math >}}
 $$
 \sin(\tan^{-1}(grade*100))*5280 miles
 $$
-{{< /math >}}
 
 So by that calculation, at maximum grade on gym treadmill I climb 783.2 feet for each mile I walk. Not too bad.
 
