@@ -5,3 +5,6 @@
 	path = public
 	url = https://github.com/sytelus/sytelus.github.io.git
 	branch = master
+[submodule "themes/congo"]
+	path = themes/congo
+	url = https://github.com/sytelus/congo.git
