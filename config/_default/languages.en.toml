@@ -8,7 +8,7 @@ title = "Shital Shah's Chain of Thought"  # page title
 
 [params]
   dateFormat = "2 January 2006"
-  mainSections = ["blog"]
+  mainSections = ["blog", "misc"]
   description = "Shital Shah's personal website and blog. Research Engineer at Microsoft Research with interests in deep learning and reinforcement learning. Created AirSim, TensorWatch, archai, most recently worked on training Phi series of LLM models."
 
 [params.author]

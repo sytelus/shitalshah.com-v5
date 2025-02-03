@@ -2,7 +2,7 @@
 
 set -eu -o pipefail -o xtrace # fail if any command failes, log all commands, -o xtrace
 
-hugo --ignoreCache --panicOnWarning
+hugo
 
 # hugo removes the .git file from public/ folder so we restore it with the
 # backed up copy
