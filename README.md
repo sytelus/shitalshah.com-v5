@@ -24,7 +24,45 @@ git submodule add -b stable https://github.com/sytelus/congo.git themes/congo
 
 Content goes in `content/blog/`. Create `.md` file and use markdowndown format ([preview](https://jpanther.github.io/congo/samples/markdown/), [source](https://github.com/sytelus/shitalshah.com-v5/blob/master/themes/congo/exampleSite/content/samples/markdown/index.md)). See adjust files in previous links to more info. Start of the markdown is called [front matter](https://jpanther.github.io/congo/docs/front-matter/).
 
-[Other docs](https://jpanther.github.io/congo/docs/).
+### Tips
+
+To insert figures, charts etc:
+
+```html
+{{< figure src="festivities.svg" class="m-auto mt-6 max-w-prose" >}}
+```
+
+To insert image:
+
+```html
+![Image alt string](image.png)
+```
+
+[More about images](https://gohugo.io/content-management/image-processing/)
+
+To insert tweet:
+
+```html
+{{< tweet user="sytelus" id="1714557767250489783" >}}
+```
+
+To add url,
+
+```html
+<https://some.url>
+```
+
+To add YouTube:
+
+```html
+{{< youtube ZJthWmvUzzc >}}
+```
+
+### References
+
+* [Page Resources](https://gohugo.io/content-management/page-resources/)
+* [Other docs](https://jpanther.github.io/congo/docs/)
+* [Shorcodes](https://gohugo.io/content-management/shortcodes/#use-hugos-built-in-shortcodes)
 
 ## How to update theme
 
@@ -60,12 +98,14 @@ git push origin master
     git push
     ```
 
+References:
 
+* [Hugo with GitHub Pages](https://gohugo.io/hosting-and-deployment/hosting-on-github/)
 
 ## TODOs
 
-- Enable disqus
-- Enable tags in menu
-- Fix page content links, images
-- Move twitter posts
-- Restore from archived posts
+* Enable disqus
+* Enable tags in menu
+* Fix page content links, images
+* Move twitter posts
+* Restore from archived posts
