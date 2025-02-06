@@ -8,4 +8,15 @@ hugo
 # backed up copy
 cp public.git public/.git
 
+pushd public
+git add .
+git commit -m "deployment"
+git push
+
+# back to main
+popd
+git add .
+git commit -m "deployment"
+git push
+
 echo "Site generated successfully! Commit the changes in public submodule and main repo."
