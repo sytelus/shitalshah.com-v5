@@ -94,10 +94,15 @@ Reference:
 4. Commit and push the changes in `public` and then in main repo:
 
     ```bash
+    # switch to public
     pushd public
+    git add .
     git commit -m "deployment"
     git push
+
+    # back to main
     popd
+    git add .
     git commit -m "deployment"
     git push
     ```
