@@ -89,8 +89,8 @@ Reference:
 ## How to update content
 
 1. Make changes in content directory by adding/updating md file(s).
-2. Run `hugo server -D --watch --poll 10000 --disableFastRender` to preview the changes. This will show draft changes due to `-D` switch which won't be published and suppress i18n warnings if any. The `--poll` is only needed if working on `/mnt` in WSL. Most of the time `--disableFastRender` is not really needed.
-3. If everything looks good, run `bash deploy.sh` command which will generate static pages in public folder which is already mapped to GitHub Pages repo.
+2. Run `./view.sh` to preview the changes. You can additionally pass `-D --watch --poll 10000 --disableFastRender`. This will show draft changes due to `-D` switch which won't be published and suppress i18n warnings if any. The `--poll` is only needed if working on `/mnt` in WSL. Most of the time `--disableFastRender` is not really needed.
+3. If everything looks good, run `./deploy.sh` command which will generate static pages in public folder which is already mapped to GitHub Pages repo.
 4. Commit and push the changes in `public` and then in main repo:
 
     ```bash

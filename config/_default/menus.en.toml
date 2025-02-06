@@ -30,10 +30,10 @@
   pageRef = "misc/about"
   weight = 88
 
-[[main]]
-  name = "Tags"
-  pageRef = "tags"
-  weight = 30
+# [[main]]
+#   name = "Tags"
+#   pageRef = "tags"
+#   weight = 30
 
 [[main]]
   identifier = "search"
