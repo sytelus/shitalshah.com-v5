@@ -1,5 +1,5 @@
 ---
-title: 'AI vs. Erdős: The Ultimate Math Showdown'
+title: 'Erdős has A Great Benchmark for ASI'
 draft: false
 date: 2024-11-29T10:40:57+00:00
 slug: '202411291040-ai-vs-erdos-ultimate-math-showdown'
@@ -12,11 +12,9 @@ tweet_info:
   is_thread: True
 ---
 
+I would like to define super human AI at math as the one which solves each of 652 open Erdos problems.
 
-
-I would like to define super human AI at math as the one which solves each of 652 open Erdos problems. 
-
-I think this sets the difficulty bar and dataset size just right. 
+I think this sets the difficulty bar and dataset size just right.
 
 ![https://pbs.twimg.com/media/GdhPfOrW8AAsKUh.jpg](xRY0cU6Ae6.jpg)
 

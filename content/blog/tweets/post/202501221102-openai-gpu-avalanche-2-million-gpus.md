@@ -1,6 +1,6 @@
 ---
 title: 'OpenAI''s GPU Avalanche: 2 Million GPUs a Year'
-draft: false
+draft: true
 date: 2025-01-22T11:02:23+00:00
 slug: '202501221102-openai-gpu-avalanche-2-million-gpus'
 tags:

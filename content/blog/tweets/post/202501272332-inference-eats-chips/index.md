@@ -1,6 +1,6 @@
 ---
 title: 'Inference Eats the Chips: Training Left Hungry'
-draft: false
+draft: true
 date: 2025-01-27T23:32:56+00:00
 slug: '202501272332-inference-eats-chips'
 tags:
@@ -14,9 +14,9 @@ tweet_info:
 
 
 
-Do people even understand that majority of chip buys are for inference and not training? 
+Do people even understand that majority of chip buys are for inference and not training?
 
-Inference needs are going to grow exponentially yoy no matter how much juice we try to squeeze out. 
+Inference needs are going to grow exponentially yoy no matter how much juice we try to squeeze out.
 
 ![https://pbs.twimg.com/media/GiT1_DXbEAAkxl_.jpg](Nu9fEKPBZ4.jpg)
 

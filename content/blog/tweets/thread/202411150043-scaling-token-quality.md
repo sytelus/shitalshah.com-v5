@@ -1,5 +1,5 @@
 ---
-title: 'Scaling Laws Hit Token Quality Ceiling—Enter Synthetic Data'
+title: 'Scaling Laws and Data Wall'
 draft: false
 date: 2024-11-15T00:43:32+00:00
 slug: '202411150043-scaling-token-quality'
@@ -14,13 +14,13 @@ tweet_info:
 
 
 
-Scaling laws have an assumption that quality of tokens remains mostly the same as you scale. However, in real world large scale datasets, this is not true. 
+Scaling laws have an assumption that quality of tokens remains mostly the same as you scale. However, in real world large scale datasets, this is not true.
 
 When there is upper bound on quality training tokens, there is upper bound on scaling.
 
 But what about synthetic data? 🧵
 
-With current synthetic data techniques, one issue is they don’t add ton of new entropy to original pre-training data. 
+With current synthetic data techniques, one issue is they don’t add ton of new entropy to original pre-training data.
 
 Remember, pre-training data is synthesized from spending centuries of human-FLOPs. Prompt based synth gen can generate data in neighborhood of existing data.
 
@@ -42,7 +42,7 @@ I think merely scaling inference compute won’t be sufficient. A weak model can
 
 There seems to be intricate intertwined dance of training and inference compute, one improving another.
 
-So, imagine cycle of training a model, generating high entropy synthetic data by scaling inference compute and then using it to continue training. 
+So, imagine cycle of training a model, generating high entropy synthetic data by scaling inference compute and then using it to continue training.
 
 This is the self-improving recipe.
 

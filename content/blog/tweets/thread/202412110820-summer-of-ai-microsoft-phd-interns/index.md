@@ -1,5 +1,5 @@
 ---
-title: 'Summer of AI: Microsoft Seeks PhD Interns'
+title: 'Announcement: PhD Internship for AI for Reasoning'
 draft: false
 date: 2024-12-11T08:20:21+00:00
 slug: '202412110820-summer-of-ai-microsoft-phd-interns'
@@ -14,11 +14,11 @@ tweet_info:
 
 
 
-Do you want to work on exciting AI and reasoning problems this summer? 
+Do you want to work on exciting AI and reasoning problems this summer?
 
 We have an intern position just for you!
 
-The internships for PhD students at Microsoft Research is one amazing experience and opportunity to work with world class researchers and engineers! 👇 
+The internships for PhD students at Microsoft Research is one amazing experience and opportunity to work with world class researchers and engineers! 👇
 
 ![https://pbs.twimg.com/media/GeeiYhBaEAAFpmR.jpg](16Q677slVY.jpg)
 

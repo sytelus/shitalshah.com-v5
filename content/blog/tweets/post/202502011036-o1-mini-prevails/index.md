@@ -1,5 +1,5 @@
 ---
-title: 'When Big Models Fail, o1-mini Prevails'
+title: 'o1-mini Solves My Unsolved Problem'
 draft: false
 date: 2025-02-01T10:36:40+00:00
 slug: '202502011036-o1-mini-prevails'
@@ -14,7 +14,7 @@ tweet_info:
 
 
 
-Deepseek R1 and o1 both failed on below question. In fact, o1 even said the question was too hard 😂. But now o1-mini did it. I am impressed! 
+Deepseek R1 and o1 both failed on below question. In fact, o1 even said the question was too hard 😂. But now o1-mini did it. I am impressed!
 
 ![https://pbs.twimg.com/media/Giq0QmnbYAQaiMQ.jpg](VstXi7H2Rn.jpg)
 

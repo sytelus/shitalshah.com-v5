@@ -1,5 +1,5 @@
 ---
-title: 'Survival of the Phi-4-est: Best Offline Phone Model'
+title: 'Phi-4: Best Offline Phone Model for Survival!'
 draft: false
 date: 2025-01-16T13:16:33+00:00
 slug: '202501161316-survival-of-the-phi4est'

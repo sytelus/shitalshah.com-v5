@@ -1,5 +1,5 @@
 ---
-title: 'Default Defectors: Techies'' 2-Year Quest to Break Google''s Spell'
+title: 'Power of Search Default'
 draft: false
 date: 2024-11-01T21:57:07+00:00
 slug: '202411012157-default-defectors'
@@ -20,7 +20,7 @@ For search engine change, first tech folks must do the manual switch and find 10
 
 It then takes ~2 yrs before they help rest of the population to change their defaults. <https://x.com/levelsio/status/1852329903317799019>
 
-New search engine efforts have consistently failed in allowing to quickly set default or provide 10X happiness. 
+New search engine efforts have consistently failed in allowing to quickly set default or provide 10X happiness.
 
 For example, there is no iOS action for ChatGPT search or dedicated domains taking same query string.
 

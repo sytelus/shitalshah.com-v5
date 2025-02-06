@@ -1,5 +1,5 @@
 ---
-title: 'Microsoft''s ''Smol'' Marvel: Phi-4 Unveiled'
+title: 'Phi-4: The Most Powerful smol Model!'
 draft: false
 date: 2024-12-13T11:04:46+00:00
 slug: '202412131104-microsoft-phi-4-smol-marvel'
@@ -18,7 +18,7 @@ Are you ready for an early Christmas present from our team at Microsoft Research
 
 Introducing the most powerful smol model ever built in the world!
 
-Welcome to Phi-4! 👇 
+Welcome to Phi-4! 👇
 
 ![https://pbs.twimg.com/media/GepUASxbsAA8lwm.jpg](uOK423N8s0.jpg)
 
@@ -30,7 +30,7 @@ Remember prompts that many frontier models including o1-preview struggled with? 
 
 Phi-4 achieves this by pushing the art of synthetic data even further to induce reasoning abilities along with new advancements in post-training.
 
-If you have been using Llama 3.x etc for reasoning tasks, you owe it to yourself to try out Phi-4! 
+If you have been using Llama 3.x etc for reasoning tasks, you owe it to yourself to try out Phi-4!
 
 ![https://pbs.twimg.com/media/GepVzFEbsAUE-rL.jpg](ErFjwKU65l.jpg)
 
@@ -52,7 +52,7 @@ Oh... and one more thing! if you love to push model capabilities and want to wor
 
 <https://x.com/sytelus/status/1866639121097298372>
 
-Tagging more people! 
+Tagging more people!
 [@NguynTu24128917](https://x.com/NguynTu24128917) [@dingli_yu](https://x.com/dingli_yu) [@xinw_ai](https://x.com/xinw_ai) [@yw_yuewu](https://x.com/yw_yuewu) [@YiZhangZZZ](https://x.com/YiZhangZZZ) [@AdilSlm](https://x.com/AdilSlm) [@_cyrilzhang](https://x.com/_cyrilzhang)
 
 Also, check out our blog post at <https://aka.ms/phi4blog> for some great examples of reasoning tasks where Phi-4 excels!

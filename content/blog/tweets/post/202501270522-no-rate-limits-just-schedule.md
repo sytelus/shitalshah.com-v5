@@ -1,6 +1,6 @@
 ---
 title: 'Rate Limits Are for Those Who Can''t Schedule'
-draft: false
+draft: true
 date: 2025-01-27T05:22:20+00:00
 slug: '202501270522-no-rate-limits-just-schedule'
 tags:
@@ -14,7 +14,7 @@ tweet_info:
 
 
 
-There is almost never a reason to have rate limits. 
+There is almost never a reason to have rate limits.
 
 If you have rate limits, it just means you just don’t know how to do scheduling. <https://x.com/Teknium1/status/1883537294231261418>
 

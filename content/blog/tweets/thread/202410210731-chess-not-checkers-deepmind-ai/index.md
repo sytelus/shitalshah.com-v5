@@ -1,5 +1,5 @@
 ---
-title: 'Chess Not Checkers: DeepMind''s AI Stirs Debate'
+title: 'DeepMind''s Chess Model'
 draft: false
 date: 2024-10-21T07:31:29+00:00
 slug: '202410210731-chess-not-checkers-deepmind-ai'
@@ -18,11 +18,11 @@ DeepMind's chess paper has sharply divided AI community:
 
 Some are pointing to it as evidence that LLMs can do reasoning and planning while others say it's just lookup table/memorization.
 
-In reality, I think the paper uncovers something else if you look into details! 🧵 
+In reality, I think the paper uncovers something else if you look into details! 🧵
 
 ![https://pbs.twimg.com/media/GaXumBDXUAAKasK.jpg](Cm2pJTlHyh.jpg)
 
-First, the authors are trying to distill Stockfish engine into a model. One would think student wouldn't do better than the teacher but the teacher Elo is 2713 while student gets 2895. 
+First, the authors are trying to distill Stockfish engine into a model. One would think student wouldn't do better than the teacher but the teacher Elo is 2713 while student gets 2895.
 
 So student is doing better than teacher!
 
@@ -36,7 +36,7 @@ Are the FLOPs spent by Stockfish 16 to compute the next move same as the FLOPs s
 
 There are interesting consequences of this.
 
-The details are buried in appendix and scant but for the 50ms limit and hardware used (Intel Xeon W-2135 CPU @ 3.70GHz), my estimate of FLOPs used by Stockfish 16 to compute next move is between 8 to 16 GFLOPs. 
+The details are buried in appendix and scant but for the 50ms limit and hardware used (Intel Xeon W-2135 CPU @ 3.70GHz), my estimate of FLOPs used by Stockfish 16 to compute next move is between 8 to 16 GFLOPs.
 
 ![https://pbs.twimg.com/media/GaX7xsEXQAAvsJ0.jpg](kLlBFfg889.jpg)
 
@@ -48,7 +48,7 @@ So, what are the takeaways?
 
 For problems like chess, it's all eventually come down to how many FLOPs can you spend? It turns out ~16 GLOPs is quite enough to beat humans!
 
-The most interesting thing for me in DeepMind paper is more or less general recipe of distilling possibly an arbitrary probabilistic algorithm into a neural model. 
+The most interesting thing for me in DeepMind paper is more or less general recipe of distilling possibly an arbitrary probabilistic algorithm into a neural model.
 
 Sure, it's 4X less efficient at the moment but it's compositionally enormously powerful paradigm.
 

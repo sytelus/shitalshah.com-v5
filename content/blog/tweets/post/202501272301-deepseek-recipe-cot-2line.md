@@ -1,5 +1,5 @@
 ---
-title: 'DeepSeek''s Recipe: CoT + 2-Line Rule = Boom!'
+title: 'What did Changed with DeepSeek''s Recipe?'
 draft: false
 date: 2025-01-27T23:01:25+00:00
 slug: '202501272301-deepseek-recipe-cot-2line'

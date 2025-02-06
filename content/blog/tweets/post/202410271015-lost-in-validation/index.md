@@ -1,5 +1,5 @@
 ---
-title: 'Lost in Validation: The Plot Thickens!'
+title: 'Tricky Validation Accuracy Plot'
 draft: false
 date: 2024-10-27T10:15:07+00:00
 slug: '202410271015-lost-in-validation'
@@ -18,7 +18,7 @@ I think this can serve as good interview question ;)
 
 You measure loss and accuracy over some validation set:
 
-And you end up with plots like below. What's going on? 
+And you end up with plots like below. What's going on?
 
 ![https://pbs.twimg.com/media/Ga3Y-gpaYAEvS-N.jpg](VTeaCXn6dK.jpg)
 

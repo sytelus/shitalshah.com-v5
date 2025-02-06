@@ -1,6 +1,6 @@
 ---
-title: 'Atoms and Bits: The Joy of Building Your Own PC'
-draft: false
+title: 'xAI Datacenter'
+draft: true
 date: 2024-10-29T14:07:00+00:00
 slug: '202410291407-atoms-and-bits-building-pc'
 tags:

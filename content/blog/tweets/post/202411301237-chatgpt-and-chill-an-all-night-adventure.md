@@ -1,5 +1,5 @@
 ---
-title: 'ChatGPT and Chill: An All-Night Adventure'
+title: 'ChatGPT and GR: An All-Night Adventure'
 draft: false
 date: 2024-11-30T12:37:49+00:00
 slug: '202411301237-chatgpt-and-chill-an-all-night-adventure'
@@ -14,9 +14,9 @@ tweet_info:
 
 
 
-A night with ChatGPT 🙂. 
+A night with ChatGPT 🙂.
 
-It all started with a rather stupid question, as it always does. Then the conversation lasted whole literal night! 
+It all started with a rather stupid question, as it always does. Then the conversation lasted whole literal night!
 
 It became bit repetitive in response as chat gets longer but learned a lot.
 
