@@ -82,6 +82,10 @@ git commit -m "Updated theme"
 git push origin master
 ```
 
+Reference:
+
+* [Congo Configulation](https://jpanther.github.io/congo/docs/configuration/)
+
 ## How to update content
 
 1. Make changes in content directory by adding/updating md file(s).
