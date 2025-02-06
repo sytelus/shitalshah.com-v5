@@ -3,6 +3,8 @@ title: 'Acid-Free Awakening: Choosing Lemome over Mead'
 draft: true
 date: 2019-01-02T16:26:39+00:00
 slug: '201901021626-acid-free-awakening-lemome-over-mead'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1080379835606659077'

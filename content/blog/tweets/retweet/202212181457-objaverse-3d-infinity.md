@@ -3,6 +3,8 @@ title: 'Objaverse: To 3D Infinity and Beyond!'
 draft: true
 date: 2022-12-18T14:57:55+00:00
 slug: '202212181457-objaverse-3d-infinity'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1604370355355025408'

@@ -3,6 +3,8 @@ title: 'Don''t Get Greedy, Get Confident: UCB per Sutton'
 draft: true
 date: 2021-03-03T10:53:21+00:00
 slug: '202103031053-dont-get-greedy-get-confident'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1366944755968479232'

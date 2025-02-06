@@ -3,6 +3,8 @@ title: 'Reeling in Complexity: Stockfish Distilled to Matmul Primitives'
 draft: true
 date: 2024-10-21T12:13:44+00:00
 slug: '202410211213-stockfish-matmul'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1848231170754187660'

@@ -3,6 +3,8 @@ title: 'Snoqualmie Falls Who? Found Its Twin in Our Backyard'
 draft: true
 date: 2009-09-21T10:00:24+00:00
 slug: '200909211000-backyard-snoqualmie-twin'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '4138336766'

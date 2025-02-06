@@ -3,6 +3,8 @@ title: 'Annual Altitude: Mountainfilm Climbs into Bellevue'
 draft: false
 date: 2018-09-30T10:36:34+00:00
 slug: '201809301036-annual-altitude-mountainfilm-bellevue'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1046242370537345024'

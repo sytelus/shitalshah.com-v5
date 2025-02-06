@@ -3,6 +3,8 @@ title: 'When GPT Meets TPC-H: SQL Showdown!'
 draft: true
 date: 2023-02-28T14:48:09+00:00
 slug: '202302281448-gpt-meets-tpch-sql-showdown'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1630459827104399360'

@@ -3,6 +3,8 @@ title: 'Ethical Economics: Sacrificing Millions to Save Millions'
 draft: true
 date: 2018-11-25T16:04:58+00:00
 slug: '201811251604-ethical_economics_sacrifice'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1066603640083759104'

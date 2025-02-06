@@ -3,6 +3,8 @@ title: 'Silencing Curiosity: The Toll of Elitism'
 draft: true
 date: 2019-04-26T09:48:06+00:00
 slug: '201904260948-silencing-curiosity'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1121606851265585154'

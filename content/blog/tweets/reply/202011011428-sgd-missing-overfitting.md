@@ -3,6 +3,8 @@ title: 'SGD and the Case of the Missing Overfitting'
 draft: true
 date: 2020-11-01T14:28:53+00:00
 slug: '202011011428-sgd-missing-overfitting'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1322787678463483911'

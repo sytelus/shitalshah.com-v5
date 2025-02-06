@@ -3,6 +3,8 @@ title: 'Meet DALL-E: Where WALL-E Meets Salvador Dali'
 draft: false
 date: 2023-01-06T11:31:49+00:00
 slug: '202301061131-meet-dall-e-wall-e-meets-dali'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1611203858314956818'

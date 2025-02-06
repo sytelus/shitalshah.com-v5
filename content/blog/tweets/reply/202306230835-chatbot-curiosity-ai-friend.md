@@ -3,6 +3,8 @@ title: 'Chatbot Curiosity and the Quest for an AI Friend'
 draft: true
 date: 2023-06-23T08:35:58+00:00
 slug: '202306230835-chatbot-curiosity-ai-friend'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1672055865166405632'

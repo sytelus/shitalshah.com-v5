@@ -3,6 +3,8 @@ title: 'Hawaii''s Cold Snap: Hoodies at 73 Degrees'
 draft: false
 date: 2019-01-30T09:05:07+00:00
 slug: '201901300905-hawaii-cold-snap'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1090415576692989953'

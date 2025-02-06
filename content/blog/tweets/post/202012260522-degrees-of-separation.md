@@ -3,6 +3,8 @@ title: 'Degrees of Separation: Bridging the Education Gap'
 draft: false
 date: 2020-12-26T05:22:31+00:00
 slug: '202012260522-degrees-of-separation'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1342581513141960704'

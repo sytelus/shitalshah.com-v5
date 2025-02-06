@@ -3,6 +3,8 @@ title: 'AI vs. Erdős: The Ultimate Math Showdown'
 draft: false
 date: 2024-11-29T10:40:57+00:00
 slug: '202411291040-ai-vs-erdos-ultimate-math-showdown'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1862325849573507262'

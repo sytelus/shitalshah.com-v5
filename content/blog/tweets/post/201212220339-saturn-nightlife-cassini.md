@@ -3,6 +3,8 @@ title: 'Saturn''s Nightlife: Cassini''s Stunning Ringside View'
 draft: true
 date: 2012-12-22T03:39:42+00:00
 slug: '201212220339-saturn-nightlife-cassini'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '282208744044118017'

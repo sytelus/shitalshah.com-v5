@@ -3,6 +3,8 @@ title: 'ChatGPT Joins Microsoft Teams Premium for $7/Month'
 draft: true
 date: 2023-02-02T21:32:03+00:00
 slug: '202302022132-chatgpt-joins-teams-premium-7'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1621139386376290304'

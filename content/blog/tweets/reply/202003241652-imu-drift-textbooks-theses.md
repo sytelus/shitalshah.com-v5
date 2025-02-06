@@ -3,6 +3,8 @@ title: 'When IMUs Drift and Textbooks Grift: Theses to the Rescue'
 draft: true
 date: 2020-03-24T16:52:08+00:00
 slug: '202003241652-imu-drift-textbooks-theses'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1242388722613534720'

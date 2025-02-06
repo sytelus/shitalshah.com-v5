@@ -3,6 +3,8 @@ title: 'LLM Diffusion: When Big Language Models Go with the Flow'
 draft: true
 date: 2025-02-05T02:34:08+00:00
 slug: '202502050234-llm-diffusion-flow'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1886845714384273568'

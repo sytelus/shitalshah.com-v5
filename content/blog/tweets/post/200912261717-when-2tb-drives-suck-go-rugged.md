@@ -3,6 +3,8 @@ title: 'When 2TB Drives Suck, Go Rugged'
 draft: true
 date: 2009-12-26T17:17:25+00:00
 slug: '200912261717-when-2tb-drives-suck-go-rugged'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '7057305949'

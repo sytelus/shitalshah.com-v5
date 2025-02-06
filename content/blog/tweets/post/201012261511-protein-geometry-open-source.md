@@ -3,6 +3,8 @@ title: 'Protein Geometry Unleashed: Open Source Database Now Live'
 draft: true
 date: 2010-12-26T15:11:15+00:00
 slug: '201012261511-protein-geometry-open-source'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '18926799387893762'

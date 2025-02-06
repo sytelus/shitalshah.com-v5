@@ -3,6 +3,8 @@ title: 'Would You Play Ballmer''s Number Bet?'
 draft: false
 date: 2020-10-25T22:17:00+00:00
 slug: '202010252217-ballmer-number-bet'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1320383867547754496'

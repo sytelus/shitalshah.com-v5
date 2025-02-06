@@ -3,6 +3,8 @@ title: 'Wall Street''s Monopoly: Buying Up Local Homes'
 draft: true
 date: 2016-03-28T17:02:02+00:00
 slug: '201603281702-wall-street-buys-local-homes'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '714392091887951872'

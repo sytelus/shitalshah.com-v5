@@ -3,6 +3,8 @@ title: 'Perseid Party: Clear Skies over PNW Tonight!'
 draft: true
 date: 2010-08-13T12:07:17+00:00
 slug: '201008131207-perseid-party-pnw'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '21037832753'

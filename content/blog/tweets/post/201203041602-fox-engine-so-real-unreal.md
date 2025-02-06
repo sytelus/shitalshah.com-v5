@@ -3,6 +3,8 @@ title: 'Konami''s Fox Engine is So Real It''s Unreal'
 draft: true
 date: 2012-03-04T16:02:46+00:00
 slug: '201203041602-fox-engine-so-real-unreal'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '176216099078160384'

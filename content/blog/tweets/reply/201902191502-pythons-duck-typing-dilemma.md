@@ -3,6 +3,8 @@ title: 'Python''s Duck Typing Dilemma'
 draft: true
 date: 2019-02-19T15:02:42+00:00
 slug: '201902191502-pythons-duck-typing-dilemma'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1097753324802043904'

@@ -3,6 +3,8 @@ title: 'Not So Bleak: Rebooting Edison''s Startup Factory'
 draft: false
 date: 2020-08-19T16:59:34+00:00
 slug: '202008191659-rebooting-edisons-startup-factory'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1296023996891242496'

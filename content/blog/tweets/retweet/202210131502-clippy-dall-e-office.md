@@ -3,6 +3,8 @@ title: 'Clippy''s New Friend: DALL-E Joins Microsoft Office'
 draft: true
 date: 2022-10-13T15:02:36+00:00
 slug: '202210131502-clippy-dall-e-office'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1580469037121040386'

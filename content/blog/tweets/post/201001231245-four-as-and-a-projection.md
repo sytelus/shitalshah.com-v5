@@ -3,6 +3,8 @@ title: 'Four A''s and a Projection: Unveiling A(AᵗA)Aᵗ'
 draft: true
 date: 2010-01-23T12:45:58+00:00
 slug: '201001231245-four-as-and-a-projection'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '8099736837'

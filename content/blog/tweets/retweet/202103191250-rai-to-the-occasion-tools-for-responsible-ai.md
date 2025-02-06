@@ -3,6 +3,8 @@ title: 'RAI to the Occasion: Tools for Responsible AI'
 draft: true
 date: 2021-03-19T12:50:49+00:00
 slug: '202103191250-rai-to-the-occasion-tools-for-responsible-ai'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1372787622804819968'

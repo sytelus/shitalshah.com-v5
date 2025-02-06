@@ -3,6 +3,8 @@ title: 'Underpaid Heroes, Overpriced Institutions'
 draft: true
 date: 2020-08-07T02:47:09+00:00
 slug: '202008070247-underpaid-heroes-overpriced-institutions'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1291460824880394240'

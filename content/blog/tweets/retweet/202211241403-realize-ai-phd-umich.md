@@ -3,6 +3,8 @@ title: 'Realize Your AI Potential: PhD Opportunity at UMich'
 draft: true
 date: 2022-11-24T14:03:19+00:00
 slug: '202211241403-realize-ai-phd-umich'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1595659307441586176'

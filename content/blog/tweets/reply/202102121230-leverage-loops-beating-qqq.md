@@ -3,6 +3,8 @@ title: 'Leverage Loops: Beating QQQ Without Messing Up'
 draft: true
 date: 2021-02-12T12:30:17+00:00
 slug: '202102121230-leverage-loops-beating-qqq'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1360083783492399105'

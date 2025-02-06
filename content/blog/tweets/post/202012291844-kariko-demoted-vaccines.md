@@ -3,6 +3,8 @@ title: 'They Demoted Kariko—She Gave Us Vaccines'
 draft: false
 date: 2020-12-29T18:44:32+00:00
 slug: '202012291844-kariko-demoted-vaccines'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1343870513521647616'

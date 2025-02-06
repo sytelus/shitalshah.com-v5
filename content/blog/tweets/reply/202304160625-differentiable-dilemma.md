@@ -3,6 +3,8 @@ title: 'Differentiable Dilemma: Optimizing Neural Nets Isn''t Easy'
 draft: true
 date: 2023-04-16T06:25:16+00:00
 slug: '202304160625-differentiable-dilemma'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1647380599462678531'

@@ -3,6 +3,8 @@ title: 'Box-Hunting Biped Bot Masters Uneven Terrain'
 draft: true
 date: 2016-02-24T15:56:35+00:00
 slug: '201602241556-box-hunting-biped-bot'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '702401722841493504'

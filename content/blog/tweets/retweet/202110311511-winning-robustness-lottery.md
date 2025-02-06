@@ -3,6 +3,8 @@ title: 'Winning the Robustness Lottery in Neural Nets'
 draft: true
 date: 2021-10-31T15:11:03+00:00
 slug: '202110311511-winning-robustness-lottery'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1454722571316785158'

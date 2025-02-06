@@ -3,6 +3,8 @@ title: 'Taxes for Tanks, Not for Teachers'
 draft: true
 date: 2018-12-18T07:30:07+00:00
 slug: '201812180730-taxes-for-tanks-not-for-teachers'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1074808993170649089'

@@ -3,6 +3,8 @@ title: '10^60 Compounds Under the Sea'
 draft: false
 date: 2021-06-26T12:19:13+00:00
 slug: '202106261219-1e60-compounds-under-the-sea'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1408656070315188238'

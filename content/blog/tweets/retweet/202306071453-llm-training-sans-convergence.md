@@ -3,6 +3,8 @@ title: 'Skipping Convergence: Efficient LLM Training Strategies'
 draft: true
 date: 2023-06-07T14:53:54+00:00
 slug: '202306071453-llm-training-sans-convergence'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1666352771686359040'

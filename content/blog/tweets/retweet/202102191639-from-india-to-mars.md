@@ -3,6 +3,8 @@ title: 'From India to Mars: Dr. Swati Mohan''s Voice'
 draft: true
 date: 2021-02-19T16:39:59+00:00
 slug: '202102191639-from-india-to-mars'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1362683334405488643'

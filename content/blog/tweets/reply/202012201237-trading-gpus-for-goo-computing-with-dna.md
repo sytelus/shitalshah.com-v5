@@ -3,6 +3,8 @@ title: 'Trading GPUs for Goo: Computing with DNA'
 draft: true
 date: 2020-12-20T12:37:48+00:00
 slug: '202012201237-trading-gpus-for-goo-computing-with-dna'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1340516731131813888'

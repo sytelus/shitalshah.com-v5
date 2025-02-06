@@ -3,6 +3,8 @@ title: 'When Robots Spell ''AI'' Faster Than Humans'
 draft: true
 date: 2023-02-28T15:27:54+00:00
 slug: '202302281527-robots-spell-ai'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1630469828984340482'

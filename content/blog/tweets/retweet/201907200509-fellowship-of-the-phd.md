@@ -3,6 +3,8 @@ title: 'The Fellowship of the PhD: Microsoft Calls'
 draft: true
 date: 2019-07-20T05:09:42+00:00
 slug: '201907200509-fellowship-of-the-phd'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1152339759307665408'

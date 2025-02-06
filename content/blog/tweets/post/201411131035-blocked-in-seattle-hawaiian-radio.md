@@ -3,6 +3,8 @@ title: 'Blocked in Seattle: Hawaiian Radio Unavailable'
 draft: true
 date: 2014-11-13T10:35:44+00:00
 slug: '201411131035-blocked-in-seattle-hawaiian-radio'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '532723456777789440'

@@ -3,6 +3,8 @@ title: 'Outliers: Worth Their Weight in Gold'
 draft: false
 date: 2020-04-14T17:03:13+00:00
 slug: '202004141703-outliers-worth-their-weight-in-gold'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1250001654771941376'

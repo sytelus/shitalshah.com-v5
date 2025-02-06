@@ -3,6 +3,8 @@ title: 'Unlocking God Mode: Third-Order Generalization'
 draft: false
 date: 2020-07-20T14:23:24+00:00
 slug: '202007201423-unlocking-god-mode'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1285113061171326981'

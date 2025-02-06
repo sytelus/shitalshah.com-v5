@@ -3,6 +3,8 @@ title: 'Feynman''s Foolproof Problem Solver'
 draft: true
 date: 2012-01-06T18:46:16+00:00
 slug: '201201061846-feynman-problem-solver'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '155238748026699778'

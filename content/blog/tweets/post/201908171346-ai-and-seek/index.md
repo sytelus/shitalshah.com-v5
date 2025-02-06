@@ -3,6 +3,8 @@ title: 'AI and Seek: An Infographic of Companies in Different Domains'
 draft: false
 date: 2019-08-17T13:46:44+00:00
 slug: '201908171346-ai-and-seek'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1162616733607219201'

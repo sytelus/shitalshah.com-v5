@@ -3,6 +3,8 @@ title: 'Eureka! GPT-4 Invents RL Reward Functions'
 draft: false
 date: 2023-10-21T13:53:31+00:00
 slug: '202310211353-eureka-gpt4-rl-rewards'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1715622322319814948'

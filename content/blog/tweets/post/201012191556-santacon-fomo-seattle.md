@@ -3,6 +3,8 @@ title: 'SantaCon FOMO in Seattle'
 draft: true
 date: 2010-12-19T15:56:15+00:00
 slug: '201012191556-santacon-fomo-seattle'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '16401408592969728'

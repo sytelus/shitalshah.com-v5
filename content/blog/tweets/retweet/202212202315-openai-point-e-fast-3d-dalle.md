@@ -3,6 +3,8 @@ title: 'OpenAI''s Point-E: Fast 3D DALL·E, But Not Quite DreamFusion'
 draft: true
 date: 2022-12-20T23:15:52+00:00
 slug: '202212202315-openai-point-e-fast-3d-dalle'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1605220445628035072'

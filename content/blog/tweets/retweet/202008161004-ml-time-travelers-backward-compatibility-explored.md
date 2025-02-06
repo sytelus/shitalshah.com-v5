@@ -3,6 +3,8 @@ title: 'ML Time Travelers: Backward Compatibility Explored'
 draft: true
 date: 2020-08-16T10:04:09+00:00
 slug: '202008161004-ml-time-travelers-backward-compatibility-explored'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1294832290950914048'

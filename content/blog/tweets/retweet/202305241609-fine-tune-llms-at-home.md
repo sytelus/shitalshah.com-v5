@@ -3,6 +3,8 @@ title: 'Pajamas and PyTorch: Fine-Tuning LLMs at Home'
 draft: true
 date: 2023-05-24T16:09:43+00:00
 slug: '202305241609-fine-tune-llms-at-home'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1661298420634775563'

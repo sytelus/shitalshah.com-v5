@@ -3,6 +3,8 @@ title: 'Overfitting Old Friends: Let''s Retire KITTI and CIFAR-10'
 draft: true
 date: 2019-07-15T22:43:06+00:00
 slug: '201907152243-retire-kitti-cifar10'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1150792914634547200'

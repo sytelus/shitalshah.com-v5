@@ -3,6 +3,8 @@ title: 'From Snowshoe to Si: Dodging Mountain Rain'
 draft: true
 date: 2009-01-10T13:48:18+00:00
 slug: '200901101348-from-snowshoe-to-si'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1108569676'

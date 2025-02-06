@@ -3,6 +3,8 @@ title: 'Page of ''B''s Earns an ''A'': Students Outsmart Robo-Graders'
 draft: false
 date: 2018-07-03T18:37:10+00:00
 slug: '201807031837-page-of-bs-earns-an-a'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1014110797356650501'

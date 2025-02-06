@@ -3,6 +3,8 @@ title: 'Dictators’ Domino: Is Taiwan Next?'
 draft: true
 date: 2022-03-01T07:01:58+00:00
 slug: '202203010701-dictators-domino-taiwan-next'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1498433324385144832'

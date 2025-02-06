@@ -3,6 +3,8 @@ title: 'Data Diet for Transformers: Attention Pays Off'
 draft: true
 date: 2020-12-24T14:22:38+00:00
 slug: '202012241422-data-diet-for-transformers'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1341992660899262470'

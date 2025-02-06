@@ -3,6 +3,8 @@ title: '"Bad Actors Rejoice: Zero-Effort Fake Papers Flood the Debate"'
 draft: true
 date: 2022-11-20T04:24:39+00:00
 slug: '202211200424-bad-actors-zero-effort-fake-papers'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1594064129412988928'

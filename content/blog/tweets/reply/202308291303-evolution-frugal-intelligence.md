@@ -3,6 +3,8 @@ title: 'You Can''t Rush Intelligence: Evolution''s Frugal Lesson'
 draft: true
 date: 2023-08-29T13:03:54+00:00
 slug: '202308291303-evolution-frugal-intelligence'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1696403278958043355'

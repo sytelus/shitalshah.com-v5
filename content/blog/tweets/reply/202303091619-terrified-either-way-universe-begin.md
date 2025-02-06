@@ -3,6 +3,8 @@ title: 'Terrified Either Way: Did the Universe Begin?'
 draft: true
 date: 2023-03-09T16:19:45+00:00
 slug: '202303091619-terrified-either-way-universe-begin'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1633744367029723136'

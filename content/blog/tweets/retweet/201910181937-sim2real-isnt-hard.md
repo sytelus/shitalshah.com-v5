@@ -3,6 +3,8 @@ title: 'The Sim-ple Truth: Sim2Real Isn''t Hard!'
 draft: true
 date: 2019-10-18T19:37:37+00:00
 slug: '201910181937-sim2real-isnt-hard'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1185173082958204928'

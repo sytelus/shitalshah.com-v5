@@ -3,6 +3,8 @@ title: 'From Frozen Lake to Glacier Handshake'
 draft: true
 date: 2009-01-01T08:37:22+00:00
 slug: '200901010837-frozen-lake-glacier-handshake'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1089087035'

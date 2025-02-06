@@ -3,6 +3,8 @@ title: 'Multilingual Schmilingual: Just Translate It!'
 draft: true
 date: 2023-05-25T16:49:35+00:00
 slug: '202305251649-multilingual-schmilingual'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1661670842458320896'

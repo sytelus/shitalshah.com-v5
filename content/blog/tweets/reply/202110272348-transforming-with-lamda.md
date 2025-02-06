@@ -3,6 +3,8 @@ title: 'Transforming with LAMDA: A Question for Boris Knyazev'
 draft: true
 date: 2021-10-27T23:48:07+00:00
 slug: '202110272348-transforming-with-lamda'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1453403147657830405'

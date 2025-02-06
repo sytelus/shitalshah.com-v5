@@ -3,6 +3,8 @@ title: 'GDP Soars but Science Funding Stalls'
 draft: true
 date: 2023-03-25T23:44:01+00:00
 slug: '202303252344-gdp-soars-science-stalls'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1639669477959933954'

@@ -3,6 +3,8 @@ title: 'Plot Twist: When You Need More Colours!'
 draft: true
 date: 2022-11-11T10:58:38+00:00
 slug: '202211111058-plot-twist-more-colours'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1590901786755620864'

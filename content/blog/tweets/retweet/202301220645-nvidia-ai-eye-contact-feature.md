@@ -3,6 +3,8 @@ title: 'Eyes on You: NVIDIA''s AI Eye Contact Feature'
 draft: true
 date: 2023-01-22T06:45:45+00:00
 slug: '202301220645-nvidia-ai-eye-contact-feature'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1616930072312819712'

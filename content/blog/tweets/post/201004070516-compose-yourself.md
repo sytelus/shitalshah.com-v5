@@ -3,6 +3,8 @@ title: 'Compose Yourself: Taming Complexity'
 draft: true
 date: 2010-04-07T05:16:09+00:00
 slug: '201004070516-compose-yourself'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '11721561080'

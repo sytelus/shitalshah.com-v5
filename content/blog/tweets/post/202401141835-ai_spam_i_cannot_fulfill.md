@@ -3,6 +3,8 @@ title: 'Searching ''I Cannot Fulfill'' Opens AI Spam Floodgates'
 draft: false
 date: 2024-01-14T18:35:58+00:00
 slug: '202401141835-ai_spam_i_cannot_fulfill'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1746481274817310923'

@@ -3,6 +3,8 @@ title: 'Bokksu: Japanese Snack Heaven Delivered'
 draft: false
 date: 2019-12-17T18:04:12+00:00
 slug: '201912171804-bokksu-japanese-snack-heaven'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1206877747349479430'

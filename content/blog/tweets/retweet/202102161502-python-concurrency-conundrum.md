@@ -3,6 +3,8 @@ title: 'Threads, Processes, and Python: A Concurrency Conundrum'
 draft: true
 date: 2021-02-16T15:02:10+00:00
 slug: '202102161502-python-concurrency-conundrum'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1361571556942487552'

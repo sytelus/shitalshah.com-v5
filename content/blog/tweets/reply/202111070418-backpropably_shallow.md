@@ -3,6 +3,8 @@ title: 'Backprop-ably Shallow: Deep Learning Without Calculus'
 draft: true
 date: 2021-11-07T04:18:37+00:00
 slug: '202111070418-backpropably_shallow'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1457095095757332484'

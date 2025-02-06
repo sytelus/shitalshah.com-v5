@@ -3,6 +3,8 @@ title: 'Breaking News: Zuckerberg''s Guide to Moving Fast'
 draft: true
 date: 2012-02-02T15:57:27+00:00
 slug: '201202021557-breaking-news-zuckerbergs-guide-to-moving-fast'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '164980735357362177'

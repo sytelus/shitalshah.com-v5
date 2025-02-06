@@ -3,6 +3,8 @@ title: 'The UK''s Google ''20 Questions'': What We Asked in 2020'
 draft: true
 date: 2020-12-30T17:50:59+00:00
 slug: '202012301750-uk-google-20-questions'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1344219423507247104'

@@ -3,6 +3,8 @@ title: 'U-Net''s 3D Time Travel: Filling in Occluded Frames'
 draft: false
 date: 2023-01-06T09:25:12+00:00
 slug: '202301060925-u-net-3d-time-travel'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1611171996548882432'

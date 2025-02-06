@@ -3,6 +3,8 @@ title: 'Be the Prompt, Not the Typist: GPT-4’s Token Triumph'
 draft: false
 date: 2023-03-26T00:08:45+00:00
 slug: '202303260008-be-the-prompt-gpt4-token-triumph'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1639675699241029633'

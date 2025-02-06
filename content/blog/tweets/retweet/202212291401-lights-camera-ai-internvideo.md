@@ -3,6 +3,8 @@ title: 'Lights, Camera, AI: InternVideo Debuts Powerful Video Reasoning'
 draft: true
 date: 2022-12-29T14:01:45+00:00
 slug: '202212291401-lights-camera-ai-internvideo'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1608342487718072320'

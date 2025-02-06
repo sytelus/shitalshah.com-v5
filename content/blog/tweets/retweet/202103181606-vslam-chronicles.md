@@ -3,6 +3,8 @@ title: 'SLAM Chronicles: Two Decades in Real-Time Demos'
 draft: true
 date: 2021-03-18T16:06:59+00:00
 slug: '202103181606-vslam-chronicles'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1372474605386932228'

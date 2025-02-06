@@ -3,6 +3,8 @@ title: 'Measuring the Handwaviness Factor'
 draft: false
 date: 2019-10-21T13:29:22+00:00
 slug: '201910211329-measuring-handwaviness-factor'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1186167575564013568'

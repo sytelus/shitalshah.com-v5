@@ -3,6 +3,8 @@ title: 'Forecasts and Forks: NOAA Lectures and Crepe Dinners'
 draft: true
 date: 2010-10-21T13:04:11+00:00
 slug: '201010211304-forecasts-and-forks'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '28001655645'

@@ -3,6 +3,8 @@ title: 'The Abs-olute Fix for Low Loss in ML'
 draft: true
 date: 2020-04-25T07:24:49+00:00
 slug: '202004250724-abs-fix-low-loss-ml'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1253842363920740352'

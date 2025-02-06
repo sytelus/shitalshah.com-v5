@@ -3,6 +3,8 @@ title: 'Pruning Empiricism: LeCun''s Theoretical Shears'
 draft: true
 date: 2023-01-23T14:54:44+00:00
 slug: '202301231454-lecun-prunes-empiricism'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1617415519141003265'

@@ -3,6 +3,8 @@ title: 'Dusting Off Long Documents with Summarization Magic'
 draft: true
 date: 2023-01-13T16:20:47+00:00
 slug: '202301131620-dusting-off-long-documents'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1613813296423133184'

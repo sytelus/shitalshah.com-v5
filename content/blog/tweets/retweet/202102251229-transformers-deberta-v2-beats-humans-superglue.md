@@ -3,6 +3,8 @@ title: 'Transformers Take Over: DeBERTa-v2 Beats Humans on SuperGLUE'
 draft: true
 date: 2021-02-25T12:29:07+00:00
 slug: '202102251229-transformers-deberta-v2-beats-humans-superglue'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1364794532923994113'

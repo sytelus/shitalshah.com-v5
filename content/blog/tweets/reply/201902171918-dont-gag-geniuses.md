@@ -3,6 +3,8 @@ title: 'Don''t Gag the Geniuses: Academic Freedom and Intellectual Honesty'
 draft: true
 date: 2019-02-17T19:18:03+00:00
 slug: '201902171918-dont-gag-geniuses'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1097092809121660928'

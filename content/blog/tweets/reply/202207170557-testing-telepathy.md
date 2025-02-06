@@ -3,6 +3,8 @@ title: 'Testing Telepathy: When Exams Miss the Point'
 draft: true
 date: 2022-07-17T05:57:52+00:00
 slug: '202207170557-testing-telepathy'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1548441817972060160'

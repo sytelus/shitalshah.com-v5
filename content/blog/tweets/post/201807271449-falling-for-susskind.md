@@ -3,6 +3,8 @@ title: 'Falling for Susskind: When Lectures Outshine Textbooks'
 draft: false
 date: 2018-07-27T14:49:14+00:00
 slug: '201807271449-falling-for-susskind'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1022750745207169024'

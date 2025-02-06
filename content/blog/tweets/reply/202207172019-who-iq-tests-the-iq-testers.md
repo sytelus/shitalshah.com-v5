@@ -3,6 +3,8 @@ title: 'Who IQ Tests the IQ Testers?'
 draft: true
 date: 2022-07-17T20:19:57+00:00
 slug: '202207172019-who-iq-tests-the-iq-testers'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1548658768363237377'

@@ -3,6 +3,8 @@ title: 'Unlocking GPX Hiking Trails on Google Maps'
 draft: true
 date: 2011-08-07T12:27:07+00:00
 slug: '201108071227-unlocking-gpx-hiking-trails-google-maps'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '100075478244802560'

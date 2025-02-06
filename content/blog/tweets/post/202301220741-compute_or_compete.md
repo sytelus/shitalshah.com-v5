@@ -3,6 +3,8 @@ title: 'Compute or Compete: Data Skills Lead the Way'
 draft: false
 date: 2023-01-22T07:41:03+00:00
 slug: '202301220741-compute_or_compete'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1616943989713940481'

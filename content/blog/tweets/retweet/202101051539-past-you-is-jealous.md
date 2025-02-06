@@ -3,6 +3,8 @@ title: 'Congrats! Past You Is Jealous of Present You'
 draft: true
 date: 2021-01-05T15:39:08+00:00
 slug: '202101051539-past-you-is-jealous'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1346360567099887617'

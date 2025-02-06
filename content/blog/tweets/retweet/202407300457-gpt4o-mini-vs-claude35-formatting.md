@@ -3,6 +3,8 @@ title: '"GPT-4o Mini Outscores Claude 3.5: The Formatting Factor"'
 draft: true
 date: 2024-07-30T04:57:20+00:00
 slug: '202407300457-gpt4o-mini-vs-claude35-formatting'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1818043153947242980'

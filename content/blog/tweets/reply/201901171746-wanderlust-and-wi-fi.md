@@ -3,6 +3,8 @@ title: 'Wanderlust and Wi-Fi'
 draft: true
 date: 2019-01-17T17:46:53+00:00
 slug: '201901171746-wanderlust-and-wi-fi'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1085835843787317248'

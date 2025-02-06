@@ -3,6 +3,8 @@ title: 'Triple Treat at Snoqualmie Falls: Hike #118'
 draft: true
 date: 2010-03-28T16:22:48+00:00
 slug: '201003281622-triple-treat-snoqualmie-118'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '11187656558'

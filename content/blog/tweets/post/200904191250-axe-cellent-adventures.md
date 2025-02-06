@@ -3,6 +3,8 @@ title: 'Axe-cellent Adventures: Mastering Ice Axe Skills'
 draft: true
 date: 2009-04-19T12:50:04+00:00
 slug: '200904191250-axe-cellent-adventures'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1556436930'

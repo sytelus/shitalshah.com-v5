@@ -3,6 +3,8 @@ title: 'Paperception: Unveiling Post-Hoc EMA Tuning'
 draft: false
 date: 2024-01-19T21:20:35+00:00
 slug: '202401192120-paperception-post-hoc-ema-tuning'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1748334639394202071'

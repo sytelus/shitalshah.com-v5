@@ -3,6 +3,8 @@ title: 'Neural Net Does Homework: Solves & Generates Math Problems'
 draft: true
 date: 2022-01-05T07:35:39+00:00
 slug: '202201050735-neural-net-does-homework'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1478510466779344898'

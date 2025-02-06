@@ -3,6 +3,8 @@ title: 'When AI Can''t Crack Kids'' Locker Logic'
 draft: false
 date: 2021-10-31T16:31:26+00:00
 slug: '202110311631-ai-kids-locker-logic'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1454742802512834565'

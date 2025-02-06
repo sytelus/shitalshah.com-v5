@@ -3,6 +3,8 @@ title: 'Three Pool Balls, One Unpredictable Collision'
 draft: true
 date: 2010-04-07T05:47:11+00:00
 slug: '201004070547-three-pool-balls-unpredictable-collision'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '11722966884'

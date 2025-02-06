@@ -3,6 +3,8 @@ title: 'Lyapunov Functions: Nonlinear Control''s MacGyver Knife'
 draft: true
 date: 2021-10-12T12:53:09+00:00
 slug: '202110121253-lyapunov-functions-macgyver-knife'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1447802500526968833'

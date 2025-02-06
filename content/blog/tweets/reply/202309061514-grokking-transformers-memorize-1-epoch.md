@@ -3,6 +3,8 @@ title: 'Grokking: When Transformers Memorize in 1 Epoch'
 draft: true
 date: 2023-09-06T15:14:27+00:00
 slug: '202309061514-grokking-transformers-memorize-1-epoch'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1699335236944089224'

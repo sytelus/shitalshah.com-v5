@@ -3,6 +3,8 @@ title: 'Protein Legos: Building Materials Harder Than Turtle Shells'
 draft: false
 date: 2018-12-03T20:10:18+00:00
 slug: '201812032010-protein-legos-building-materials'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1069564480919490560'

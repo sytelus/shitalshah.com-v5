@@ -3,6 +3,8 @@ title: 'Ctrl+Tweet: In Search of the Perfect Shortcut Client'
 draft: true
 date: 2008-03-24T12:25:34+00:00
 slug: '200803241225-ctrl-tweet-shortcut-client'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '776075499'

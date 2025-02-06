@@ -3,6 +3,8 @@ title: 'VMs at Warp Speed: Laurence Tratt''s Fast Enough Magic'
 draft: true
 date: 2012-04-11T15:35:18+00:00
 slug: '201204111535-vms-at-warp-speed-laurence-tratt'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '189995024497385472'

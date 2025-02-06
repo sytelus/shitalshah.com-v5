@@ -3,6 +3,8 @@ title: 'GNNs in a Nutshell: Nodes, Graphs, and Classification Fun'
 draft: true
 date: 2023-01-23T09:23:16+00:00
 slug: '202301230923-gnns-in-a-nutshell'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1617332102164549634'

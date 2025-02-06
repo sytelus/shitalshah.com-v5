@@ -3,6 +3,8 @@ title: 'Picasso Invades Seattle: Rare Masterpieces Exhibit'
 draft: true
 date: 2010-10-26T05:03:11+00:00
 slug: '201010260503-picasso-invades-seattle'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '28729041338'

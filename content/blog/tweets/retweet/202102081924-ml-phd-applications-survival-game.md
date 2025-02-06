@@ -3,6 +3,8 @@ title: 'ML PhD Applications: The Survival Game Begins'
 draft: true
 date: 2021-02-08T19:24:32+00:00
 slug: '202102081924-ml-phd-applications-survival-game'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1358738481212624897'

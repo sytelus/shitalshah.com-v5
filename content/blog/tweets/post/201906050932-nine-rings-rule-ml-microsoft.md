@@ -3,6 +3,8 @@ title: 'Nine Rings to Rule ML: Microsoft''s Engineering Saga'
 draft: false
 date: 2019-06-05T09:32:58+00:00
 slug: '201906050932-nine-rings-rule-ml-microsoft'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1136098557054705665'

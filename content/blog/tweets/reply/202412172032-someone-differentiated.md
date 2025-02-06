@@ -3,6 +3,8 @@ title: 'Someone Differentiated So You Don''t Have To'
 draft: true
 date: 2024-12-17T20:32:25+00:00
 slug: '202412172032-someone-differentiated'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1868997679499690044'

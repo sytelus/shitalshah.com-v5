@@ -3,6 +3,8 @@ title: 'Sky''s the Limit: Free High-Res Satellite Datasets'
 draft: true
 date: 2024-02-07T13:47:57+00:00
 slug: '202402071347-free-high-res-satellite-datasets'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1755106102935736680'

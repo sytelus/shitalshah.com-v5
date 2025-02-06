@@ -3,6 +3,8 @@ title: 'Aurora 7: The Seven-Screen Laptop That''s Too Big to Fly'
 draft: false
 date: 2021-02-09T12:27:03+00:00
 slug: '202102091227-aurora-7-seven-screen-too-big-to-fly'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1358995805084946433'

@@ -3,6 +3,8 @@ title: 'Falls So Nice, I Hiked Them Twice!'
 draft: true
 date: 2008-12-14T07:26:59+00:00
 slug: '200812140726-falls-so-nice-hiked-twice'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1055980488'

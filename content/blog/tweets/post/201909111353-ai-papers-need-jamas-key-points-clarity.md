@@ -3,6 +3,8 @@ title: 'AI Papers Need JAMA''s "Key Points" Clarity'
 draft: false
 date: 2019-09-11T13:53:08+00:00
 slug: '201909111353-ai-papers-need-jamas-key-points-clarity'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1171678042562818049'

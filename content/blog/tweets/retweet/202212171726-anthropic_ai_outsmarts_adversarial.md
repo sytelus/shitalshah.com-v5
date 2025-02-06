@@ -3,6 +3,8 @@ title: 'Anthropic''s AI Outsmarts Adversarial Questions Without Being Vague'
 draft: true
 date: 2022-12-17T17:26:22+00:00
 slug: '202212171726-anthropic_ai_outsmarts_adversarial'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1604045325718925313'

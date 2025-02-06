@@ -3,6 +3,8 @@ title: 'Complex Systems: When the Ensemble Surprises'
 draft: true
 date: 2016-08-17T02:37:40+00:00
 slug: '201608170237-complex-systems-ensemble-surprises'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '765633644811522048'

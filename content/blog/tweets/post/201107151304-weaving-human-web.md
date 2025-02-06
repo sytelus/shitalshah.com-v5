@@ -3,6 +3,8 @@ title: 'Weaving the Human Web'
 draft: true
 date: 2011-07-15T13:04:17+00:00
 slug: '201107151304-weaving-human-web'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '91749908192829440'

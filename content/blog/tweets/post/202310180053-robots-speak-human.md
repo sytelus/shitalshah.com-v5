@@ -3,6 +3,8 @@ title: 'Robots Now Speak Human: Scaled''s GRID Launch'
 draft: false
 date: 2023-10-18T00:53:35+00:00
 slug: '202310180053-robots-speak-human'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1714338884778410498'

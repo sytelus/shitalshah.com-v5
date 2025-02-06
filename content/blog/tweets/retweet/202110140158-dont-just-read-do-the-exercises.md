@@ -3,6 +3,8 @@ title: 'Don''t Just Read—Do the Exercises!'
 draft: true
 date: 2021-10-14T01:58:20+00:00
 slug: '202110140158-dont-just-read-do-the-exercises'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1448362485543628802'

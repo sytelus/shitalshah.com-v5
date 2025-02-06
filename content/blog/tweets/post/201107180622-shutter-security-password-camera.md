@@ -3,6 +3,8 @@ title: 'Shutter Security: Password-Protecting Your Camera'
 draft: true
 date: 2011-07-18T06:22:29+00:00
 slug: '201107180622-shutter-security-password-camera'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '92735957878571008'

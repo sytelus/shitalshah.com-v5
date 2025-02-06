@@ -3,6 +3,8 @@ title: 'SuperGLUE Can''t Hold Back T5+Meena'
 draft: false
 date: 2020-12-31T14:48:54+00:00
 slug: '202012311448-superglue-cant-hold-back-t5-meena'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1344535986542264321'

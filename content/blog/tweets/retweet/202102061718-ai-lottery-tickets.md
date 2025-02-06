@@ -3,6 +3,8 @@ title: 'Is AI Just a Game of Lottery Tickets?'
 draft: true
 date: 2021-02-06T17:18:52+00:00
 slug: '202102061718-ai-lottery-tickets'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1357982077501624322'

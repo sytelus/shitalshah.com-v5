@@ -3,6 +3,8 @@ title: 'Catch the AutoML Wave at ICML This Friday!'
 draft: true
 date: 2021-07-24T01:31:39+00:00
 slug: '202107240131-catch-automl-wave-icml-friday'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1418639967572566017'

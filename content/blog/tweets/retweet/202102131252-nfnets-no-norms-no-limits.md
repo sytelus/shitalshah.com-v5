@@ -3,6 +3,8 @@ title: 'NFNets: No Norms, No Limits'
 draft: true
 date: 2021-02-13T12:52:23+00:00
 slug: '202102131252-nfnets-no-norms-no-limits'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1360451732824727553'

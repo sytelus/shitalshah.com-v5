@@ -3,6 +3,8 @@ title: 'The Teacher Who Never Sleeps: Khan Academy''s GPT-4 Tutor'
 draft: false
 date: 2023-03-17T10:05:07+00:00
 slug: '202303171005-the-teacher-who-never-sleeps'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1636564292316319745'

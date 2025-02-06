@@ -3,6 +3,8 @@ title: 'Chinchilla''s 2% Solution: Compressing Text with Tiny Models'
 draft: false
 date: 2023-03-16T13:37:43+00:00
 slug: '202303161337-chinchillas-2-percent-solution'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1636255404283035648'

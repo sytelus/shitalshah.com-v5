@@ -3,6 +3,8 @@ title: 'Byte-Sized Mysteries: Decoding GPT Tokenizers'
 draft: true
 date: 2023-06-09T17:30:05+00:00
 slug: '202306091730-decoding-gpt-tokenizers'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1667116851544064000'

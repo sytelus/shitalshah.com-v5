@@ -3,6 +3,8 @@ title: 'Good Initialization or Overkill? A Simple Alternative to Pre-Training'
 draft: true
 date: 2023-07-28T13:16:18+00:00
 slug: '202307281316-good-init-vs-pretraining'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1684809991377784832'

@@ -3,6 +3,8 @@ title: 'Robots Say ''Pretty Please'': Agents Learn to Ask for Help'
 draft: false
 date: 2019-06-13T04:42:06+00:00
 slug: '201906130442-robots-learn-to-ask-for-help'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1138924460738846720'

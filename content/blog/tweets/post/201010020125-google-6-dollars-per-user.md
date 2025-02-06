@@ -3,6 +3,8 @@ title: 'You''re a Latte to Google: $6 Revenue Per User Monthly'
 draft: true
 date: 2010-10-02T01:25:41+00:00
 slug: '201010020125-google-6-dollars-per-user'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '26104518366'

@@ -3,6 +3,8 @@ title: 'Shuffle Showdown: DALI vs PyTorch on ImageNet and CIFAR-10'
 draft: true
 date: 2020-02-05T10:26:37+00:00
 slug: '202002051026-shuffle-showdown-dali-vs-pytorch'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1224881988777037831'

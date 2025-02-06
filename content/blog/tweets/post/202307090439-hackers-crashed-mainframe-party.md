@@ -3,6 +3,8 @@ title: 'When Hackers Crashed the Mainframe Party'
 draft: false
 date: 2023-07-09T04:39:52+00:00
 slug: '202307090439-hackers-crashed-mainframe-party'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1677794655042428928'

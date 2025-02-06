@@ -3,6 +3,8 @@ title: 'When AI Speaks DNA'
 draft: true
 date: 2022-11-30T13:15:05+00:00
 slug: '202211301315-when-ai-speaks-dna'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1597821495572860928'

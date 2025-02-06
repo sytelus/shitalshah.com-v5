@@ -3,6 +3,8 @@ title: 'Spell Fail: Generative Models Before Scaling Up'
 draft: true
 date: 2022-12-22T00:13:05+00:00
 slug: '202212220013-spell-fail-generative-models'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1605597232824078336'

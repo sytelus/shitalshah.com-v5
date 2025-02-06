@@ -3,6 +3,8 @@ title: 'Moses: The Original Cloud Downloader'
 draft: true
 date: 2018-03-28T15:12:11+00:00
 slug: '201803281512-moses-original-cloud-downloader'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '978907589256863745'

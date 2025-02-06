@@ -3,6 +3,8 @@ title: 'Grill and Thrill: Vancouver''s Fireworks & BBQ Championship'
 draft: true
 date: 2011-07-28T05:31:00+00:00
 slug: '201107280531-grill-and-thrill-vancouver'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '96346879004119041'

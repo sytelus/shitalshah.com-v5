@@ -3,6 +3,8 @@ title: 'Trust Issues: A Collaborative Tale'
 draft: true
 date: 2019-06-01T09:03:28+00:00
 slug: '201906010903-trust-issues-a-collaborative-tale'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1134641584115290112'

@@ -3,6 +3,8 @@ title: 'Column vs Row: The Fast and the Curious'
 draft: true
 date: 2012-01-30T07:31:57+00:00
 slug: '201201300731-column-vs-row-the-fast-and-the-curious'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '163766361070374912'

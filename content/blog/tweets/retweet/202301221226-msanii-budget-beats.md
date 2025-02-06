@@ -3,6 +3,8 @@ title: 'Budget Beats: Msanii''s High-Fidelity Music on a Dime'
 draft: true
 date: 2023-01-22T12:26:49+00:00
 slug: '202301221226-msanii-budget-beats'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1617015907511054337'

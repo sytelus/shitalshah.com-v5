@@ -3,6 +3,8 @@ title: 'Weight Decay Gains Weight in Machine Learning'
 draft: false
 date: 2021-10-08T05:36:28+00:00
 slug: '202110080536-weight-decay-gains-weight'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1446243053593718790'

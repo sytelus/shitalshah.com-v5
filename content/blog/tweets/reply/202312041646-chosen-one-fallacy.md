@@ -3,6 +3,8 @@ title: 'Born to Be Special: The Chosen One Fallacy'
 draft: true
 date: 2023-12-04T16:46:16+00:00
 slug: '202312041646-chosen-one-fallacy'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1731595765838234092'

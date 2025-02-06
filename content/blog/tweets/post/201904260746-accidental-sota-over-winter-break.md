@@ -3,6 +3,8 @@ title: 'Accidental SOTA Over Winter Break'
 draft: false
 date: 2019-04-26T07:46:40+00:00
 slug: '201904260746-accidental-sota-over-winter-break'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1121576291596062720'

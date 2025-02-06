@@ -3,6 +3,8 @@ title: 'When Photos Talk Back: Neural Voice Puppetry'
 draft: false
 date: 2020-12-18T16:07:55+00:00
 slug: '202012181607-photos-talk-back'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1339844832634671105'

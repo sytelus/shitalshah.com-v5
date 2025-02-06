@@ -3,6 +3,8 @@ title: 'When Training Data Goes Dark, Hidden Test Sets Shine'
 draft: true
 date: 2023-04-16T04:50:36+00:00
 slug: '202304160450-training-data-dark-hidden-tests'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1647356776461860866'

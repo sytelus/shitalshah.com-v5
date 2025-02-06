@@ -3,6 +3,8 @@ title: 'Domino Effect: Zero-Cost Tensor Parallelism Unleashed'
 draft: true
 date: 2024-11-26T12:00:14+00:00
 slug: '202411261200-domino-zero-cost-tp'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1861258639346147339'

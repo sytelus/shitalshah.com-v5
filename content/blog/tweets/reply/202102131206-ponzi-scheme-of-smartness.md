@@ -3,6 +3,8 @@ title: 'The Ponzi Scheme of Smartness'
 draft: true
 date: 2021-02-13T12:06:17+00:00
 slug: '202102131206-ponzi-scheme-of-smartness'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1360440131564412930'

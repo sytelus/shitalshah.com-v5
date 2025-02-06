@@ -3,6 +3,8 @@ title: 'Stack Overflow vs. The SEO Pirates'
 draft: true
 date: 2021-03-07T11:22:47+00:00
 slug: '202103071122-stack-overflow-vs-seo-pirates'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1368401715288895491'

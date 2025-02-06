@@ -3,6 +3,8 @@ title: 'Outsmart Yourself: Gene Hackman''s Heist Advice'
 draft: false
 date: 2018-07-02T13:59:37+00:00
 slug: '201807021359-outsmart-yourself'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1013678563613016064'

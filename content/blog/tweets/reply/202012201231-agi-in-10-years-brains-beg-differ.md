@@ -3,6 +3,8 @@ title: 'AGI in 10 Years? Our Brains Beg to Differ'
 draft: true
 date: 2020-12-20T12:31:11+00:00
 slug: '202012201231-agi-in-10-years-brains-beg-differ'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1340515064604835840'

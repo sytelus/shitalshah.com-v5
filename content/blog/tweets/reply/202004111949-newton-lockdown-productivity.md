@@ -3,6 +3,8 @@ title: 'Newton''s Laws of Lockdown Productivity'
 draft: true
 date: 2020-04-11T19:49:58+00:00
 slug: '202004111949-newton-lockdown-productivity'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1248956456029712386'

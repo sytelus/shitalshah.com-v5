@@ -3,6 +3,8 @@ title: 'PyTorch Adapt: The Chameleon of Domain Adaptation'
 draft: true
 date: 2021-11-24T07:23:08+00:00
 slug: '202111240723-pytorch-adapt-chameleon'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1463287026749374466'

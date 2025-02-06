@@ -3,6 +3,8 @@ title: 'Netflixed Out Abroad: When Streaming Services Stay Home'
 draft: true
 date: 2010-06-21T23:44:36+00:00
 slug: '201006212344-netflixed-out-abroad'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '16706283850'

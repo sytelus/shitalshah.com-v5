@@ -3,6 +3,8 @@ title: 'Grandpa''s 3rd Graders Turn Robot Pros'
 draft: false
 date: 2019-03-20T12:47:59+00:00
 slug: '201903201247-grandpa-robot-club'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1108243767994302465'

@@ -3,6 +3,8 @@ title: 'GauGAN Can''t Draw Me In at SIGGRAPH'
 draft: false
 date: 2019-08-02T06:01:23+00:00
 slug: '201908020601-gaugan-siggraph-letdown'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1157063805236498432'

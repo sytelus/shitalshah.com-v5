@@ -3,6 +3,8 @@ title: 'Is There an ''Object'' in Blaise Pascal''s Family?'
 draft: true
 date: 2024-11-09T12:52:12+00:00
 slug: '202411091252-object-in-pascal-family'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1855111120438411703'

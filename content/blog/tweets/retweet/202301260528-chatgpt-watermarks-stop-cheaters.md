@@ -3,6 +3,8 @@ title: 'ChatGPT''s New Tattoo: Watermarks to Stop Cheaters'
 draft: true
 date: 2023-01-26T05:28:39+00:00
 slug: '202301260528-chatgpt-watermarks-stop-cheaters'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1618360223999361025'

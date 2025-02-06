@@ -3,6 +3,8 @@ title: 'From Diapers to Doctorate: Mississippi Mom Gets Fully-Funded PhD'
 draft: true
 date: 2021-01-24T17:47:59+00:00
 slug: '202101241747-from-diapers-to-doctorate'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1353278366208520192'

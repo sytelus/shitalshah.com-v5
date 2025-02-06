@@ -3,6 +3,8 @@ title: 'Equation Attraction: 10+ Math Docs That Sum It Up'
 draft: true
 date: 2023-01-22T09:41:35+00:00
 slug: '202301220941-equation-attraction-math-docs'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1616974323750940672'

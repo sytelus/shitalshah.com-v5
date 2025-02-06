@@ -3,6 +3,8 @@ title: 'AI Search: No Clicks, No Clues'
 draft: true
 date: 2024-11-17T10:41:23+00:00
 slug: '202411171041-ai-search-no-clicks'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1857977303793545475'

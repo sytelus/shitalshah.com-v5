@@ -3,6 +3,8 @@ title: 'From Pixels to Prose: ChatGPT''s Image Magic'
 draft: true
 date: 2022-12-22T17:11:08+00:00
 slug: '202212221711-pixels-to-prose-chatgpt'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1605853435005636608'

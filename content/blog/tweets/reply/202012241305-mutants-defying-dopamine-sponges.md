@@ -3,6 +3,8 @@ title: 'Mutants Defying Dopamine Sponges'
 draft: true
 date: 2020-12-24T13:05:04+00:00
 slug: '202012241305-mutants-defying-dopamine-sponges'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1341973141417938944'

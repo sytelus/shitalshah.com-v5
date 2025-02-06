@@ -3,6 +3,8 @@ title: 'Unlucky 13th Hike: Slow Climb and Trail Mishap at Mount Si'
 draft: true
 date: 2011-04-04T12:28:41+00:00
 slug: '201104041228-unlucky-13th-hike-mount-si'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '54777389057716224'

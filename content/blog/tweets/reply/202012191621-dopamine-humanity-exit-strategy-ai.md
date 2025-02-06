@@ -3,6 +3,8 @@ title: 'Dopamine: Humanity''s Exit Strategy for AI'
 draft: true
 date: 2020-12-19T16:21:39+00:00
 slug: '202012191621-dopamine-humanity-exit-strategy-ai'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1340210673230381059'

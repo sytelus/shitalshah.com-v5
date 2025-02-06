@@ -3,6 +3,8 @@ title: 'Alpaca My Code: Finetuning LLaMA Models'
 draft: true
 date: 2023-03-26T08:26:35+00:00
 slug: '202303260826-alpaca-code-llama-finetuning'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1639800986259841025'

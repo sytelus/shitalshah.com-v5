@@ -3,6 +3,8 @@ title: 'Distilling Disaster: Why Knowledge Distillation Doesn''t Work on Autoreg
 draft: true
 date: 2023-05-10T12:42:08+00:00
 slug: '202305101242-distilling-disaster'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1656172751009505280'

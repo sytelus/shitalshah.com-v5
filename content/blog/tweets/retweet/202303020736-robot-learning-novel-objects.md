@@ -3,6 +3,8 @@ title: 'Robots Learn, But Novel Objects Make Them Squirm'
 draft: true
 date: 2023-03-02T07:36:10+00:00
 slug: '202303020736-robot-learning-novel-objects'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1631075888480808960'

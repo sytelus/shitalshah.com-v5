@@ -3,6 +3,8 @@ title: 'Meta''s AI Turns Chitchat Into Cinema'
 draft: true
 date: 2022-09-30T06:44:06+00:00
 slug: '202209300644-meta-make-a-video'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1575632540421206016'

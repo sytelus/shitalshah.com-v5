@@ -3,6 +3,8 @@ title: 'Top Ranks Think Alike'
 draft: true
 date: 2024-07-29T03:08:29+00:00
 slug: '202407290308-top-ranks-think-alike'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1817653373866504601'

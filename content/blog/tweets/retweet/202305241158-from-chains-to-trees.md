@@ -3,6 +3,8 @@ title: 'From Chains to Trees: Unlocking LLM Potential with Tree-of-Thought'
 draft: true
 date: 2023-05-24T11:58:18+00:00
 slug: '202305241158-from-chains-to-trees'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1661235149298864129'

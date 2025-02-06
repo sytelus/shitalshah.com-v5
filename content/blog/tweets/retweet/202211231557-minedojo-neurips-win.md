@@ -3,6 +3,8 @@ title: 'MineDojo Digs Up Outstanding Paper Award at NeurIPS'
 draft: true
 date: 2022-11-23T15:57:41+00:00
 slug: '202211231557-minedojo-neurips-win'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1595325702047289344'

@@ -3,6 +3,8 @@ title: 'GPU''ve Got Issues: Generalization Gaps on DGX-1'
 draft: true
 date: 2018-05-16T14:23:07+00:00
 slug: '201805161423-gpus-generalization-gap-dgx1'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '996652246753361923'

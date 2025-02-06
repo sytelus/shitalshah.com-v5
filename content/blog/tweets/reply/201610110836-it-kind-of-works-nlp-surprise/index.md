@@ -3,6 +3,8 @@ title: 'It Kind of Works: An NLP Surprise'
 draft: true
 date: 2016-10-11T08:36:27+00:00
 slug: '201610110836-it-kind-of-works-nlp-surprise'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '785655270101790720'

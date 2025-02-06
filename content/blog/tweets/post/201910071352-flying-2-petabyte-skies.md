@@ -3,6 +3,8 @@ title: 'Flying the 2 Petabyte Skies: Microsoft''s Breathtaking Flight Simulator'
 draft: false
 date: 2019-10-07T13:52:11+00:00
 slug: '201910071352-flying-2-petabyte-skies'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1181099886994952193'

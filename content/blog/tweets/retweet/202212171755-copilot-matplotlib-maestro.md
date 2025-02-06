@@ -3,6 +3,8 @@ title: 'When Copilot Becomes the Matplotlib Maestro'
 draft: true
 date: 2022-12-17T17:55:29+00:00
 slug: '202212171755-copilot-matplotlib-maestro'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1604052657215516677'

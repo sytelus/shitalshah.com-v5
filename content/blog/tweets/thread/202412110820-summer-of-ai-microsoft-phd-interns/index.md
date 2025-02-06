@@ -3,6 +3,8 @@ title: 'Summer of AI: Microsoft Seeks PhD Interns'
 draft: false
 date: 2024-12-11T08:20:21+00:00
 slug: '202412110820-summer-of-ai-microsoft-phd-interns'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1866639121097298372'

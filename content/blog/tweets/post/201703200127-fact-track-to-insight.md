@@ -3,6 +3,8 @@ title: 'Neil deGrasse Tyson''s Fact-track to Insight'
 draft: true
 date: 2017-03-20T01:27:18+00:00
 slug: '201703200127-fact-track-to-insight'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '843529328822382592'

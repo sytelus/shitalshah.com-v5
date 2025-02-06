@@ -3,6 +3,8 @@ title: 'When Reality Fails, Infinigen Prevails'
 draft: true
 date: 2023-06-19T15:28:28+00:00
 slug: '202306191528-when-reality-fails-infinigen-prevails'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1670710124351213568'

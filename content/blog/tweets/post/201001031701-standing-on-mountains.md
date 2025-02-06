@@ -3,6 +3,8 @@ title: 'Standing on Mountains: The New Shoulders of Giants'
 draft: true
 date: 2010-01-03T17:01:41+00:00
 slug: '201001031701-standing-on-mountains'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '7327740373'

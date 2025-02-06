@@ -3,6 +3,8 @@ title: 'Minor Tweaks, Major Leaps: Glimpsing Frontier Models'
 draft: false
 date: 2024-03-06T00:13:13+00:00
 slug: '202403060013-minor-tweaks-major-leaps'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1765047925229617543'

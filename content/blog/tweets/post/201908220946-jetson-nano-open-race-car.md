@@ -3,6 +3,8 @@ title: 'Jetson Nano-Powered Racer: Build an Open Source Car for Under $1000'
 draft: false
 date: 2019-08-22T09:46:08+00:00
 slug: '201908220946-jetson-nano-open-race-car'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1164368123534819328'

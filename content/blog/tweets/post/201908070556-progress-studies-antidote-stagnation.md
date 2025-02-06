@@ -3,6 +3,8 @@ title: 'Progress Studies: The Antidote to Stagnation'
 draft: false
 date: 2019-08-07T05:56:44+00:00
 slug: '201908070556-progress-studies-antidote-stagnation'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1158874578032025600'

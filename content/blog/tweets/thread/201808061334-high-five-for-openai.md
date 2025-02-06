@@ -3,6 +3,8 @@ title: 'High-Five for OpenAI: AI Defeats Semi-Pro Dota2 Players'
 draft: false
 date: 2018-08-06T13:34:21+00:00
 slug: '201808061334-high-five-for-openai'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1026355778741915648'

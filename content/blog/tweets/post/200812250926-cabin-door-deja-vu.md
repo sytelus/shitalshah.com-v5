@@ -3,6 +3,8 @@ title: 'Cabin Door Déjà Vu: Three Times Before Takeoff'
 draft: true
 date: 2008-12-25T09:26:32+00:00
 slug: '200812250926-cabin-door-deja-vu'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1077259857'

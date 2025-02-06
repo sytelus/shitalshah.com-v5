@@ -3,6 +3,8 @@ title: 'Flan-T5: Did It Fix T5''s Zero-Shot Performance?'
 draft: true
 date: 2023-01-26T06:08:03+00:00
 slug: '202301260608-flan-t5-zero-shot-performance'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1618370139610812422'

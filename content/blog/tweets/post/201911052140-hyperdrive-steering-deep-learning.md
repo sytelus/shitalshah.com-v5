@@ -3,6 +3,8 @@ title: 'Hyperdrive: Steering Deep Learning with Hyperparameters'
 draft: false
 date: 2019-11-05T21:40:30+00:00
 slug: '201911052140-hyperdrive-steering-deep-learning'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1191711892189794304'

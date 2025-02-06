@@ -3,6 +3,8 @@ title: 'Scaling Laws Hit Token Quality Ceiling—Enter Synthetic Data'
 draft: false
 date: 2024-11-15T00:43:32+00:00
 slug: '202411150043-scaling-token-quality'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1857102074070352290'

@@ -3,6 +3,8 @@ title: 'Icelandic Króna Melts: Iceland Now 50% Off in USD'
 draft: true
 date: 2008-12-19T18:11:45+00:00
 slug: '200812191811-icelandic-krona-melts-50-percent-off-usd'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1066806704'

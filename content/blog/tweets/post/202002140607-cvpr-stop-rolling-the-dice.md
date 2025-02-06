@@ -3,6 +3,8 @@ title: 'CVPR: Stop Rolling the Dice with Weak Submissions'
 draft: false
 date: 2020-02-14T06:07:51+00:00
 slug: '202002140607-cvpr-stop-rolling-the-dice'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1228078358719713280'

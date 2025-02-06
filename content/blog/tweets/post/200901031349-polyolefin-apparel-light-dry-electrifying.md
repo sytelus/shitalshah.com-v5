@@ -3,6 +3,8 @@ title: 'Polyolefin Apparel: Light, Dry, and Electrifying!'
 draft: true
 date: 2009-01-03T13:49:45+00:00
 slug: '200901031349-polyolefin-apparel-light-dry-electrifying'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1092991077'

@@ -3,6 +3,8 @@ title: 'ChatGPT Plans the Party, Robots Clean Up'
 draft: true
 date: 2022-12-14T07:01:46+00:00
 slug: '202212140701-chatgpt-plans-party-robots-clean'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1602800979337916416'

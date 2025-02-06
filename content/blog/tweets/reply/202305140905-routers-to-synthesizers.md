@@ -3,6 +3,8 @@ title: 'From Routers to Synthesizers: The Search Engine Remix'
 draft: true
 date: 2023-05-14T09:05:14+00:00
 slug: '202305140905-routers-to-synthesizers'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1657567716524593152'

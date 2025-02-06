@@ -3,6 +3,8 @@ title: 'LLMs Can''t Plan? Self-Play to the Rescue!'
 draft: false
 date: 2023-11-24T19:16:46+00:00
 slug: '202311241916-llms-self-play-planning'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1728009760761692206'

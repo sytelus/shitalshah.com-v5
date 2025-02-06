@@ -3,6 +3,8 @@ title: 'Alex Graves Brings Symmetry to ML Classification'
 draft: false
 date: 2018-12-15T11:48:34+00:00
 slug: '201812151148-alex-graves-symmetric-ml'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1073786869492592640'

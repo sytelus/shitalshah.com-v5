@@ -3,6 +3,8 @@ title: 'When Google Translate BLEU Up'
 draft: true
 date: 2020-12-19T14:27:58+00:00
 slug: '202012191427-google-translate-bleu-up'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1340182065577295878'

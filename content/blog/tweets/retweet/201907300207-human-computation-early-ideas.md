@@ -3,6 +3,8 @@ title: 'Got an Early Idea? Human Computation Wants It!'
 draft: true
 date: 2019-07-30T02:07:39+00:00
 slug: '201907300207-human-computation-early-ideas'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1155917824646213633'

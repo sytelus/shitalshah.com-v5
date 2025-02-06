@@ -3,6 +3,8 @@ title: 'NeurIPS 2021 Papers Ranked by Tweets'
 draft: true
 date: 2021-11-05T13:56:09+00:00
 slug: '202111051356-neurips-2021-papers-ranked-by-tweets'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1456515663359479818'

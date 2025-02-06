@@ -3,6 +3,8 @@ title: 'Mandelbrot Exits the Set; Fractals Enter 3D'
 draft: true
 date: 2010-10-21T02:52:12+00:00
 slug: '201010210252-mandelbrot-exits-set-fractals-3d'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '27960149067'

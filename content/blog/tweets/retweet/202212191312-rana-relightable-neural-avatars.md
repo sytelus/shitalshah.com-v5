@@ -3,6 +3,8 @@ title: 'RANA''s Leap into Relightable Neural Avatars'
 draft: true
 date: 2022-12-19T13:12:08+00:00
 slug: '202212191312-rana-relightable-neural-avatars'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1604706123151708161'

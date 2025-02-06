@@ -3,6 +3,8 @@ title: 'LLM Training Breakthrough? Can''t Wait to Dive In!'
 draft: true
 date: 2023-03-25T23:08:16+00:00
 slug: '202303252308-llm-training-breakthrough'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1639660481874137088'

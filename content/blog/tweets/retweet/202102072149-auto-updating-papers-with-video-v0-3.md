@@ -3,6 +3,8 @@ title: 'Auto-updating Delight: ''papers-with-video'' v0.3 Hits Chrome Web Store'
 draft: true
 date: 2021-02-07T21:49:38+00:00
 slug: '202102072149-auto-updating-papers-with-video-v0-3'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1358412607783202819'

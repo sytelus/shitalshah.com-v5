@@ -3,6 +3,8 @@ title: 'Tokenization Schemes: When Near-Optimal Isn''t Optimal'
 draft: true
 date: 2023-07-04T16:01:24+00:00
 slug: '202307041601-tokenization-schemes-not-optimal'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1676154227914321920'

@@ -3,6 +3,8 @@ title: 'Unrecommendations: Books to Skip Despite the Hype'
 draft: false
 date: 2021-03-13T00:31:00+00:00
 slug: '202103130031-unrecommendations'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1370412015915728897'

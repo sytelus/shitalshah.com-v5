@@ -3,6 +3,8 @@ title: 'DIY Kernels: Skipping torch.compile Troubles'
 draft: true
 date: 2024-11-29T10:56:24+00:00
 slug: '202411291056-diy-kernels-skipping-torch-compile-troubles'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1862329737886278055'

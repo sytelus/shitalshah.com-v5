@@ -3,6 +3,8 @@ title: 'Ship Happens: The Supply Chain Snarl Explained'
 draft: true
 date: 2021-10-10T09:20:12+00:00
 slug: '202110100920-ship-happens-supply-chain-snarl'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1447024132109979657'

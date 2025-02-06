@@ -3,6 +3,8 @@ title: 'The Mega Misadventures of Kim Dotcom'
 draft: true
 date: 2012-01-27T13:27:52+00:00
 slug: '201201271327-mega-misadventures-kim-dotcom'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '162768767691145216'

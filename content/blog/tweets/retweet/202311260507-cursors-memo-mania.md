@@ -3,6 +3,8 @@ title: 'Cursor''s Memo-Mania: The LLM Trick That Slipped Others'' Minds'
 draft: true
 date: 2023-11-26T05:07:53+00:00
 slug: '202311260507-cursors-memo-mania'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1728520910020481456'

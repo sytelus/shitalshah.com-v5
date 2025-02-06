@@ -3,6 +3,8 @@ title: 'Once in a Red Moon: December''s Turquoise Eclipse'
 draft: true
 date: 2011-12-06T02:51:57+00:00
 slug: '201112060251-once-in-a-red-moon'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '143764563588943872'

@@ -3,6 +3,8 @@ title: 'Snowshoeing: Late to the Party, But Plenty of Parking'
 draft: true
 date: 2008-12-13T16:56:28+00:00
 slug: '200812131656-snowshoeing-late-but-plenty-of-parking'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1055041942'

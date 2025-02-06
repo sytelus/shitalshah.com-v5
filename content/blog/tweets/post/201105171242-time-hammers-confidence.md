@@ -3,6 +3,8 @@ title: 'When Time Hammers Away Your Confidence'
 draft: true
 date: 2011-05-17T12:42:53+00:00
 slug: '201105171242-time-hammers-confidence'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '70363640808742912'

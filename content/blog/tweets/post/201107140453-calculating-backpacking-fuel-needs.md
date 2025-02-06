@@ -3,6 +3,8 @@ title: 'Fuel for Thought: Calculating Backpacking Fuel Needs'
 draft: true
 date: 2011-07-14T04:53:25+00:00
 slug: '201107140453-calculating-backpacking-fuel-needs'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '91263989685817345'

@@ -3,6 +3,8 @@ title: 'Join the Deep Side at Microsoft Research!'
 draft: false
 date: 2022-05-11T01:13:30+00:00
 slug: '202205110113-join-deep-side-microsoft-research'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1524090265497088001'

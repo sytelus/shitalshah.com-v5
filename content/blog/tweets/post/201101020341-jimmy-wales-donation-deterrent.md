@@ -3,6 +3,8 @@ title: 'Jimmy Wales''s Face: The Donation Deterrent'
 draft: true
 date: 2011-01-02T03:41:47+00:00
 slug: '201101020341-jimmy-wales-donation-deterrent'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '21290003552276480'

@@ -3,6 +3,8 @@ title: 'Scaling Laws: The Elephant in OpenAI''s Room?'
 draft: true
 date: 2021-02-07T16:30:53+00:00
 slug: '202102071630-openai-scaling-laws'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1358332393141137408'

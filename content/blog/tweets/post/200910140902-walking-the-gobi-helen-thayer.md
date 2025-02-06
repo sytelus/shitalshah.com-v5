@@ -3,6 +3,8 @@ title: 'Waited a Year to ''Walk the Gobi'' with Helen Thayer'
 draft: true
 date: 2009-10-14T09:02:52+00:00
 slug: '200910140902-walking-the-gobi-helen-thayer'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '4851396814'

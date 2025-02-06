@@ -3,6 +3,8 @@ title: 'Stabilizing Training with PE: Performance Optional?'
 draft: true
 date: 2023-06-03T14:22:24+00:00
 slug: '202306031422-stabilizing-training-with-pe'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1664895290942590976'

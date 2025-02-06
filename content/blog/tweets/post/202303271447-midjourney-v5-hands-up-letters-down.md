@@ -3,6 +3,8 @@ title: 'Midjourney v5: Hands Up, Letters Down'
 draft: false
 date: 2023-03-27T14:47:26+00:00
 slug: '202303271447-midjourney-v5-hands-up-letters-down'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1640259217507631107'

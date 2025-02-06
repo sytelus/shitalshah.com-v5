@@ -3,6 +3,8 @@ title: 'UMass Amherst''s Diffusive Memristor Makes Synapses Jealous'
 draft: true
 date: 2016-10-04T15:42:00+00:00
 slug: '201610041542-umass-diffusive-memristor'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '783225645673226241'

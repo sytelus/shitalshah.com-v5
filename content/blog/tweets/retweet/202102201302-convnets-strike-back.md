@@ -3,6 +3,8 @@ title: 'ConvNets Strike Back: The Saga Continues'
 draft: true
 date: 2021-02-20T13:02:53+00:00
 slug: '202102201302-convnets-strike-back'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1362991090228338691'

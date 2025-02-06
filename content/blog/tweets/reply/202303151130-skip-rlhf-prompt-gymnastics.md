@@ -3,6 +3,8 @@ title: 'Skip RLHF? Prepare for Prompt Gymnastics!'
 draft: true
 date: 2023-03-15T11:30:27+00:00
 slug: '202303151130-skip-rlhf-prompt-gymnastics'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1635860990322708481'

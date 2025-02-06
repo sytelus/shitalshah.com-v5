@@ -3,6 +3,8 @@ title: 'When Functions Get Fooled: The Adversarial Example Dilemma'
 draft: true
 date: 2022-03-01T09:22:44+00:00
 slug: '202203010922-functions-get-fooled'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1498468749556338691'

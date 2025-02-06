@@ -3,6 +3,8 @@ title: 'SayCan You Afford a Refresh? LLMs Unlock Grounded Actions'
 draft: true
 date: 2023-03-03T04:59:35+00:00
 slug: '202303030459-saycan-llm-affordance-refresh'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1631398870679945217'

@@ -3,6 +3,8 @@ title: 'Einsum Who? Mac''s Stable Diffusion Now 19% Faster with Baddbmm'
 draft: true
 date: 2022-11-05T23:15:47+00:00
 slug: '202211052315-einsum-who-mac-stable-diffusion-speedup'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1588928070177947648'

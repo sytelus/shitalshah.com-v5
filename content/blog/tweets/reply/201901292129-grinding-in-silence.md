@@ -3,6 +3,8 @@ title: 'Grinding in Silence: The Theorist''s Thankless Job'
 draft: true
 date: 2019-01-29T21:29:15+00:00
 slug: '201901292129-grinding-in-silence'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1090240457060184064'

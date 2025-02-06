@@ -3,6 +3,8 @@ title: 'From Zero to Z-Pulley Hero'
 draft: true
 date: 2011-04-24T04:39:17+00:00
 slug: '201104240439-from-zero-to-z-pulley-hero'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '61907016653869056'

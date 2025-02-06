@@ -3,6 +3,8 @@ title: 'Lockdown Paradox: More Clicks, Less Cash'
 draft: false
 date: 2020-04-16T12:25:17+00:00
 slug: '202004161225-lockdown-paradox-more-clicks-less-cash'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1250656486935556096'

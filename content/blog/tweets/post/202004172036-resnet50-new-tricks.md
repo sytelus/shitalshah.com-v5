@@ -3,6 +3,8 @@ title: 'Old Dog, New Tricks: ResNet-50 Beats New Architectures'
 draft: false
 date: 2020-04-17T20:36:18+00:00
 slug: '202004172036-resnet50-new-tricks'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1251142444885790720'

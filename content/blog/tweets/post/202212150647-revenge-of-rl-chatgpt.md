@@ -3,6 +3,8 @@ title: 'Revenge of RL: How Instruct Paradigm Boosts ChatGPT'
 draft: false
 date: 2022-12-15T06:47:04+00:00
 slug: '202212150647-revenge-of-rl-chatgpt'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1603159668687503360'

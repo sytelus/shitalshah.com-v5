@@ -3,6 +3,8 @@ title: 'Putin''s $3T Shopping Spree: Sanctions? No Biggie!'
 draft: true
 date: 2022-03-01T06:54:31+00:00
 slug: '202203010654-putin-3t-shopping-spree'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1498431447337562115'

@@ -3,6 +3,8 @@ title: '68 Likes Later: Facebook Knows Your Secrets'
 draft: false
 date: 2018-03-26T01:29:16+00:00
 slug: '201803260129-68-likes-facebook-knows-secrets'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '977975720755437568'

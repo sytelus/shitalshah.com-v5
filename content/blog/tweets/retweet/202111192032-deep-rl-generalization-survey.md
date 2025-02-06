@@ -3,6 +3,8 @@ title: 'Deep RL''s Generalization Adventure: Survey Tales'
 draft: true
 date: 2021-11-19T20:32:01+00:00
 slug: '202111192032-deep-rl-generalization-survey'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1461673618673336321'

@@ -3,6 +3,8 @@ title: 'Half the Variance, Twice the Squeeze: Gaussian Roots on the Unit Circle'
 draft: true
 date: 2022-12-07T15:07:25+00:00
 slug: '202212071507-half_variance_gaussian_roots'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1600386480152940544'

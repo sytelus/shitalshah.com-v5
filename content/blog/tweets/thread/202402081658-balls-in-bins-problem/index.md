@@ -3,6 +3,8 @@ title: 'When Random Sampling Packs a Punch: The Balls-in-Bins Problem'
 draft: false
 date: 2024-02-08T16:58:00+00:00
 slug: '202402081658-balls-in-bins-problem'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1755516315044102505'

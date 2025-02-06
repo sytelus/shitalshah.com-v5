@@ -3,6 +3,8 @@ title: 'Ctrl+C in Reality, Ctrl+V in Photoshop'
 draft: true
 date: 2021-02-10T10:48:46+00:00
 slug: '202102101048-ctrlc-in-reality-ctrlv-in-photoshop'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1359333459349692424'

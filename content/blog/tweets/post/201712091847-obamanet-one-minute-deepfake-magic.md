@@ -3,6 +3,8 @@ title: 'ObamaNet: One-Minute Deepfake Magic'
 draft: true
 date: 2017-12-09T18:47:25+00:00
 slug: '201712091847-obamanet-one-minute-deepfake-magic'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '939446379675389952'

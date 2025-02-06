@@ -3,6 +3,8 @@ title: 'Mesh Messaging: Text-Driven 3D Stylization'
 draft: true
 date: 2021-12-08T03:22:59+00:00
 slug: '202112080322-mesh-messaging-text-driven-3d'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1468300023670530055'

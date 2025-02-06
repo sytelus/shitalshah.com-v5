@@ -3,6 +3,8 @@ title: 'When Your Desktop Has More Space Than Your Apartment'
 draft: true
 date: 2009-05-18T12:03:53+00:00
 slug: '200905181203-desktop-more-space-than-apartment'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1833014252'

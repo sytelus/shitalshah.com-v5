@@ -3,6 +3,8 @@ title: 'When One Test Image Isn''t Enough: Augment and Conquer!'
 draft: true
 date: 2021-10-20T08:18:32+00:00
 slug: '202110200818-augment-and-conquer'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1450632491421749254'

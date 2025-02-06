@@ -3,6 +3,8 @@ title: 'Shockley''s Hotel Room Quantum Leap to Transistors'
 draft: true
 date: 2019-01-29T22:09:52+00:00
 slug: '201901292209-shockley-quantum-transistor'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1090250679862448129'

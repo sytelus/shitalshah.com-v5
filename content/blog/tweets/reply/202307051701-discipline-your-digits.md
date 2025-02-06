@@ -3,6 +3,8 @@ title: 'Discipline Your Digits: Stats 101 in Reporting'
 draft: true
 date: 2023-07-05T17:01:02+00:00
 slug: '202307051701-discipline-your-digits'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1676531625902104576'

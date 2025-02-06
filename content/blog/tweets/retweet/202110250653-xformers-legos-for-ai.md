@@ -3,6 +3,8 @@ title: 'xFormers: Legos for AI Transformers'
 draft: true
 date: 2021-10-25T06:53:43+00:00
 slug: '202110250653-xformers-legos-for-ai'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1452423088054755328'

@@ -3,6 +3,8 @@ title: 'Half-Baked Theories Fueling AI Breakthroughs'
 draft: true
 date: 2019-01-27T21:47:49+00:00
 slug: '201901272147-half-baked-theories-fueling-ai'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1089520354094006272'

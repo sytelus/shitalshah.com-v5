@@ -3,6 +3,8 @@ title: 'Defrosting Robots: Fei-Fei Li''s ImageNet to End Robotics Winter'
 draft: false
 date: 2022-09-30T14:22:19+00:00
 slug: '202209301422-defrosting-robots-fei-fei-li-imagenet'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1575747854127153153'

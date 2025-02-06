@@ -3,6 +3,8 @@ title: 'Keyword Shock: Model-Limited Image Diversity'
 draft: true
 date: 2018-09-15T23:32:58+00:00
 slug: '201809152332-keyword-shock-model-limited-image-diversity'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1041001940375621632'

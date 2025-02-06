@@ -3,6 +3,8 @@ title: 'Air Guitar Makes Laundry Rock'
 draft: true
 date: 2009-01-03T10:21:08+00:00
 slug: '200901031021-air-guitar-makes-laundry-rock'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1092706301'

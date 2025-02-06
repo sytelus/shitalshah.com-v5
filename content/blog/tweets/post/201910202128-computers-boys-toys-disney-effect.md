@@ -3,6 +3,8 @@ title: 'When Computers Became Boys'' Toys: The Bizarre Disney Effect'
 draft: false
 date: 2019-10-20T21:28:16+00:00
 slug: '201910202128-computers-boys-toys-disney-effect'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1185925705449652224'

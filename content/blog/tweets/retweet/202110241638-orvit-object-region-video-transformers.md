@@ -3,6 +3,8 @@ title: 'ORViT: Object-Region Video Transformers Unveiled'
 draft: true
 date: 2021-10-24T16:38:30+00:00
 slug: '202110241638-orvit-object-region-video-transformers'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1452207865427542018'

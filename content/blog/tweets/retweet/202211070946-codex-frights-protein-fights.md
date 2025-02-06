@@ -3,6 +3,8 @@ title: 'Codex Frights and Protein Fights: Top AI Tweets'
 draft: true
 date: 2022-11-07T09:46:43+00:00
 slug: '202211070946-codex-frights-protein-fights'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1589434139287379968'

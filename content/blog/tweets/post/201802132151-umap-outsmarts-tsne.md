@@ -3,6 +3,8 @@ title: 'UMAP: The New Magic That Outsmarts t-SNE'
 draft: false
 date: 2018-02-13T21:51:34+00:00
 slug: '201802132151-umap-outsmarts-tsne'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '963410321732861952'

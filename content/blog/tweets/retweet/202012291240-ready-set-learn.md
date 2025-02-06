@@ -3,6 +3,8 @@ title: 'Ready, Set, Learn: Machine Learning on Sets'
 draft: true
 date: 2020-12-29T12:40:58+00:00
 slug: '202012291240-ready-set-learn'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1343779016667328513'

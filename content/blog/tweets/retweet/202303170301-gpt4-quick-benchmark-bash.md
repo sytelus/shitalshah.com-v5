@@ -3,6 +3,8 @@ title: 'GPT-4''s Quick Benchmark Bash: How It Stacks Up'
 draft: true
 date: 2023-03-17T03:01:54+00:00
 slug: '202303170301-gpt4-quick-benchmark-bash'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1636457783964073984'

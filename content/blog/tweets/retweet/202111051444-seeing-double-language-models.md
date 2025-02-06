@@ -3,6 +3,8 @@ title: 'Seeing Double: Visually A/B Testing Language Models'
 draft: true
 date: 2021-11-05T14:44:58+00:00
 slug: '202111051444-seeing-double-language-models'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1456527946689118208'

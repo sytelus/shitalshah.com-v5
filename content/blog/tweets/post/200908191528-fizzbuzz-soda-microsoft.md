@@ -3,6 +3,8 @@ title: 'FizzBuzz: All-Natural Soda at Microsoft'
 draft: true
 date: 2009-08-19T15:28:52+00:00
 slug: '200908191528-fizzbuzz-soda-microsoft'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '3401733122'

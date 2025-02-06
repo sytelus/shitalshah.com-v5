@@ -3,6 +3,8 @@ title: 'Live Mesh Syncs Away My CD Blues'
 draft: true
 date: 2008-12-25T09:31:01+00:00
 slug: '200812250931-forgotten-cds-live-mesh'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1077265002'

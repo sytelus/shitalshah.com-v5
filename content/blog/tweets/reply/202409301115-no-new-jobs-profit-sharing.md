@@ -3,6 +3,8 @@ title: 'No New Jobs? Time to Split the Profits!'
 draft: true
 date: 2024-09-30T11:15:11+00:00
 slug: '202409301115-no-new-jobs-profit-sharing'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1840606293457047741'

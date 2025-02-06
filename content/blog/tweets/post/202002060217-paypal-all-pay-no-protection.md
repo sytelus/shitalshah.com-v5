@@ -3,6 +3,8 @@ title: 'PayPal: All Pay, No Protection'
 draft: false
 date: 2020-02-06T02:17:00+00:00
 slug: '202002060217-paypal-all-pay-no-protection'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1225121157415784448'

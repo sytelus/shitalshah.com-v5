@@ -3,6 +3,8 @@ title: 'From "Why" to "How Much": Quantify Your Curiosity'
 draft: false
 date: 2023-03-09T15:16:46+00:00
 slug: '202303091516-from-why-to-how-much'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1633728518877237248'

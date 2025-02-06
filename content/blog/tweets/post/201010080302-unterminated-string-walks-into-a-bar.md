@@ -3,6 +3,8 @@ title: 'An Unterminated String Walks into a Bar'
 draft: true
 date: 2010-10-08T03:02:49+00:00
 slug: '201010080302-unterminated-string-walks-into-a-bar'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '26680772655'

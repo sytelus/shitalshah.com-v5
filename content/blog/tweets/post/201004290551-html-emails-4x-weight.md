@@ -3,6 +3,8 @@ title: 'HTML Emails: 4x the Weight, Same Content'
 draft: true
 date: 2010-04-29T05:51:41+00:00
 slug: '201004290551-html-emails-4x-weight'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '13033020292'

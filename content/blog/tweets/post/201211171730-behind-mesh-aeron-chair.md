@@ -3,6 +3,8 @@ title: 'Behind the Mesh: Secrets of the Aeron Chair'
 draft: true
 date: 2012-11-17T17:30:40+00:00
 slug: '201211171730-behind-mesh-aeron-chair'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '269734287379681280'

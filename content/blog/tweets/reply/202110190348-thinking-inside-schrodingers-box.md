@@ -3,6 +3,8 @@ title: 'Thinking Inside Schrödinger''s Box'
 draft: true
 date: 2021-10-19T03:48:24+00:00
 slug: '202110190348-thinking-inside-schrodingers-box'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1450202123879084036'

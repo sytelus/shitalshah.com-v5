@@ -3,6 +3,8 @@ title: 'GPT Debugs Itself'
 draft: true
 date: 2023-06-19T15:52:50+00:00
 slug: '202306191552-gpt-debug-itself'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1670716254418780160'

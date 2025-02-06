@@ -3,6 +3,8 @@ title: 'Fool Me Twice: Fortifying APIs with False Prompts'
 draft: true
 date: 2024-05-30T13:11:49+00:00
 slug: '202405301311-fool-me-twice-api'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1796061937048105365'

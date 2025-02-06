@@ -3,6 +3,8 @@ title: 'Sketchy Business: Exploring 75k SVGs'
 draft: true
 date: 2016-10-02T13:39:54+00:00
 slug: '201610021339-sketchy-business-75k-svgs'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '782470142114471936'

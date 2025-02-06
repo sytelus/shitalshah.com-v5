@@ -3,6 +3,8 @@ title: 'Tensor Shape-Shifting: See Shapes Before Values'
 draft: false
 date: 2023-09-01T18:17:05+00:00
 slug: '202309011817-tensor-shape-shifting'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1697569260590231666'

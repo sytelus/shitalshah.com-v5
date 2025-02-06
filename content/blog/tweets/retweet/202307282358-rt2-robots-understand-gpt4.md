@@ -3,6 +3,8 @@ title: 'RT-2: Robots Now Understand GPT-4'
 draft: true
 date: 2023-07-28T23:58:22+00:00
 slug: '202307282358-rt2-robots-understand-gpt4'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1684971572950687744'

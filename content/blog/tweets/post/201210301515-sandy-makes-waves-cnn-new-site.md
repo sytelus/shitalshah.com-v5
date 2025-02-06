@@ -3,6 +3,8 @@ title: 'Sandy Makes Waves on CNN''s New Site'
 draft: true
 date: 2012-10-30T15:15:32+00:00
 slug: '201210301515-sandy-makes-waves-cnn-new-site'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '263192397301809152'

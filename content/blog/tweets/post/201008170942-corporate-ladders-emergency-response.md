@@ -3,6 +3,8 @@ title: 'Corporate Ladders Built on Emergency Response'
 draft: true
 date: 2010-08-17T09:42:06+00:00
 slug: '201008170942-corporate-ladders-emergency-response'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '21367618038'

@@ -3,6 +3,8 @@ title: 'AMP Up Employee Motivation'
 draft: true
 date: 2010-10-19T07:23:02+00:00
 slug: '201010190723-amp-up-employee-motivation'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '27784788882'

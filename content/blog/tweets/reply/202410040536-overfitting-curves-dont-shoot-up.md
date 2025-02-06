@@ -3,6 +3,8 @@ title: 'Overfitting Curves That Don''t Shoot Up'
 draft: true
 date: 2024-10-04T05:36:42+00:00
 slug: '202410040536-overfitting-curves-dont-shoot-up'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1841970662925337037'

@@ -3,6 +3,8 @@ title: 'Avatar: Go Big or Go Home—The Real IMAX Difference'
 draft: true
 date: 2010-02-08T10:04:45+00:00
 slug: '201002081004-avatar-real-imax-difference'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '8790735875'

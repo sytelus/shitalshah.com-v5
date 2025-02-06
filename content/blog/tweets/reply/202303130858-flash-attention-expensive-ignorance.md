@@ -3,6 +3,8 @@ title: 'Flash Attention: Stop Living in Expensive Ignorance'
 draft: true
 date: 2023-03-13T08:58:17+00:00
 slug: '202303130858-flash-attention-expensive-ignorance'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1635097919962619907'

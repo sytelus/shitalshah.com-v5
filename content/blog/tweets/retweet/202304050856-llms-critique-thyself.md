@@ -3,6 +3,8 @@ title: 'LLMs, Critique Thyself!'
 draft: true
 date: 2023-04-05T08:56:03+00:00
 slug: '202304050856-llms-critique-thyself'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1643432278591422464'

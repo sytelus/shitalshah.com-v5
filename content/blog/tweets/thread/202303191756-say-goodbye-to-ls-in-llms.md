@@ -3,6 +3,8 @@ title: 'Say Goodbye to the ''L''s in LLMs'
 draft: false
 date: 2023-03-19T17:56:24+00:00
 slug: '202303191756-say-goodbye-to-ls-in-llms'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1637407670201384961'

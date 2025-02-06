@@ -3,6 +3,8 @@ title: 'Fiddling with SSL: Man-in-the-Middle at PDC09'
 draft: true
 date: 2009-11-21T10:51:08+00:00
 slug: '200911211051-fiddling-with-ssl-mitm-pdc09'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '5908653574'

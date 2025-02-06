@@ -3,6 +3,8 @@ title: 'Flickr''s Flicker: Fake Auth Pages and Redirects'
 draft: true
 date: 2008-03-24T12:27:37+00:00
 slug: '200803241227-flickr-fake-auth-redirect'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '776075991'

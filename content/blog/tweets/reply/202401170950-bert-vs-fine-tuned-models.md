@@ -3,6 +3,8 @@ title: 'Is BERT Still the Word? The Case for Fine-Tuned Models'
 draft: true
 date: 2024-01-17T09:50:07+00:00
 slug: '202401170950-bert-vs-fine-tuned-models'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1747436101357404276'

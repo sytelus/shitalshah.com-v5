@@ -3,6 +3,8 @@ title: 'Vaccines Await Arms: A Dose of Irony'
 draft: true
 date: 2021-01-02T15:10:43+00:00
 slug: '202101021510-vaccines-await-arms'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1345266253724667905'

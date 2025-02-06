@@ -3,6 +3,8 @@ title: 'Websites Don''t Lie: Product Mindset vs. Bottom-Line Suits'
 draft: false
 date: 2021-03-02T05:40:34+00:00
 slug: '202103020540-websites-dont-lie'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1366503656070078466'

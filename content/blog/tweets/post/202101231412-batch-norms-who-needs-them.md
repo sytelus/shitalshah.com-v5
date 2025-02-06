@@ -3,6 +3,8 @@ title: 'Batch Norms? Who Needs Them! Deep Nets Shine Without BNs'
 draft: false
 date: 2021-01-23T14:12:13+00:00
 slug: '202101231412-batch-norms-who-needs-them'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1352861678774280196'

@@ -3,6 +3,8 @@ title: 'The Avengers of LMs: Assemble Independent Experts Anytime!'
 draft: true
 date: 2022-08-09T12:08:40+00:00
 slug: '202208091208-lm-experts-assemble'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1556870051772321792'

@@ -3,6 +3,8 @@ title: 'Windows Advantage: Build It Up, Tear It Down'
 draft: true
 date: 2012-07-09T18:37:27+00:00
 slug: '201207091837-windows-advantage-build-tear-down'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '222293383677358082'

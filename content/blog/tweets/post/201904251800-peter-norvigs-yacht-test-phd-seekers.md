@@ -3,6 +3,8 @@ title: 'Peter Norvig''s Yacht Test for PhD Seekers'
 draft: false
 date: 2019-04-25T18:00:17+00:00
 slug: '201904251800-peter-norvigs-yacht-test-phd-seekers'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1121368324950986752'

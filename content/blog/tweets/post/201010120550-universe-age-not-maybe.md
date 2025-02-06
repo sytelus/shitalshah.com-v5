@@ -3,6 +3,8 @@ title: 'Universe''s Age: Not a ''Maybe'' Anymore'
 draft: true
 date: 2010-10-12T05:50:14+00:00
 slug: '201010120550-universe-age-not-maybe'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '27075969138'

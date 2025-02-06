@@ -3,6 +3,8 @@ title: 'Model in a Tweet: 188 Characters to 80% ImageNet'
 draft: false
 date: 2023-03-04T13:35:22+00:00
 slug: '202303041335-188-char-imagenet-model'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1631891061705695232'

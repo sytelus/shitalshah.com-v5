@@ -3,6 +3,8 @@ title: 'Degrees of Separation: Billionaires vs. Bachelor''s'
 draft: false
 date: 2021-01-23T15:53:23+00:00
 slug: '202101231553-degrees-of-separation'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1352887135741767681'

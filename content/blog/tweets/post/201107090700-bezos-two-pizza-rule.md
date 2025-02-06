@@ -3,6 +3,8 @@ title: 'Bezos'' Two-Pizza Rule for Team Size'
 draft: true
 date: 2011-07-09T07:00:04+00:00
 slug: '201107090700-bezos-two-pizza-rule'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '89483922878115840'

@@ -3,6 +3,8 @@ title: 'Trust Issues with Second-Order Methods: Seeking Tutorials'
 draft: true
 date: 2023-09-17T07:57:17+00:00
 slug: '202309170757-trust-issues-second-order-methods'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1703211486469132608'

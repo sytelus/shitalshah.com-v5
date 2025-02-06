@@ -3,6 +3,8 @@ title: 'Chatting Up Your Photos: Conversational Editing is Coming'
 draft: true
 date: 2023-01-22T07:28:27+00:00
 slug: '202301220728-chatting-up-your-photos'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1616940818979524611'

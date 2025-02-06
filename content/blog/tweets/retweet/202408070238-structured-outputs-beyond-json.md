@@ -3,6 +3,8 @@ title: 'Structured Outputs: The Next Level Beyond JSON'
 draft: true
 date: 2024-08-07T02:38:40+00:00
 slug: '202408070238-structured-outputs-beyond-json'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1820907362305417668'

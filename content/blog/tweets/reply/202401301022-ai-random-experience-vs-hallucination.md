@@ -3,6 +3,8 @@ title: 'AI''s Random Ways: Unique Experience vs. Pure Hallucination'
 draft: true
 date: 2024-01-30T10:22:06+00:00
 slug: '202401301022-ai-random-experience-vs-hallucination'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1752155194761400499'

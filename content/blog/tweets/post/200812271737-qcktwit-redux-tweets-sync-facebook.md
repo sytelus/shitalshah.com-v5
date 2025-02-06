@@ -3,6 +3,8 @@ title: 'QckTwit Redux: Tweets Sync to Facebook Again'
 draft: true
 date: 2008-12-27T17:37:58+00:00
 slug: '200812271737-qcktwit-redux-tweets-sync-facebook'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1080623708'

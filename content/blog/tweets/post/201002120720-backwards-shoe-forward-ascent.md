@@ -3,6 +3,8 @@ title: 'Backwards Shoe, Forward Ascent'
 draft: true
 date: 2010-02-12T07:20:52+00:00
 slug: '201002120720-backwards-shoe-forward-ascent'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '8982681621'

@@ -3,6 +3,8 @@ title: 'Brace Yourself for a 1.3TB Download Challenge!'
 draft: true
 date: 2020-04-15T11:29:10+00:00
 slug: '202004151129-brace-yourself-for-1-3tb-download'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1250279979629199362'

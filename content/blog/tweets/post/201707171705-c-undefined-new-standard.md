@@ -3,6 +3,8 @@ title: 'In C, Undefined is the New Standard'
 draft: true
 date: 2017-07-17T17:05:39+00:00
 slug: '201707171705-c-undefined-new-standard'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '886889627369390080'

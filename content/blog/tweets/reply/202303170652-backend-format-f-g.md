@@ -3,6 +3,8 @@ title: 'Which Format Is It Anyway? Backend''s Choice for F and G'
 draft: true
 date: 2023-03-17T06:52:20+00:00
 slug: '202303170652-backend-format-f-g'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1636515775514300416'

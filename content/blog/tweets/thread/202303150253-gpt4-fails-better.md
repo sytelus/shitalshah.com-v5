@@ -3,6 +3,8 @@ title: 'GPT-4 Fails Better: A Step Towards Robust Reasoning'
 draft: false
 date: 2023-03-15T02:53:01+00:00
 slug: '202303150253-gpt4-fails-better'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1635730771624460288'

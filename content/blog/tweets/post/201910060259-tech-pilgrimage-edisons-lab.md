@@ -3,6 +3,8 @@ title: 'Tech Pilgrimage to Edison''s Lab'
 draft: false
 date: 2019-10-06T02:59:41+00:00
 slug: '201910060259-tech-pilgrimage-edisons-lab'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1180573292450766853'

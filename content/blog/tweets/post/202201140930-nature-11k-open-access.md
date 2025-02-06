@@ -3,6 +3,8 @@ title: 'Nature''s $11k Path to Open Access'
 draft: false
 date: 2022-01-14T09:30:44+00:00
 slug: '202201140930-nature-11k-open-access'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1481800918655909888'

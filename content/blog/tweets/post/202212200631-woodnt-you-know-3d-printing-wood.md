@@ -3,6 +3,8 @@ title: 'Woodn''t You Know: 3D Printing Wood Without Trees'
 draft: false
 date: 2022-12-20T06:31:54+00:00
 slug: '202212200631-woodnt-you-know-3d-printing-wood'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1604967789839929344'

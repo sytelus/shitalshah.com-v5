@@ -3,6 +3,8 @@ title: 'Hinton''s Paradox: The Pooling Disaster That Works'
 draft: false
 date: 2019-02-01T18:44:19+00:00
 slug: '201902011844-hinton-pooling-paradox'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1091286116471234560'

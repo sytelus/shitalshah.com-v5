@@ -3,6 +3,8 @@ title: 'Plugging into Redundancy: Why AI Doesn''t Need Plugins'
 draft: true
 date: 2023-03-29T10:02:07+00:00
 slug: '202303291002-plugging-into-redundancy'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1640912189338025984'

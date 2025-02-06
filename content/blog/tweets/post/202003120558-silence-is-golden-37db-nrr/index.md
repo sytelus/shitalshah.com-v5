@@ -3,6 +3,8 @@ title: 'Silence is Golden, Especially at 37 dB NRR'
 draft: false
 date: 2020-03-12T05:58:24+00:00
 slug: '202003120558-silence-is-golden-37db-nrr'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1237875552301641731'

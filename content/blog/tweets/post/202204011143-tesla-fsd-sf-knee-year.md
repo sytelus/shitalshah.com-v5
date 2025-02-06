@@ -3,6 +3,8 @@ title: 'No Lanes, Fast Gains: Tesla''s FSD Hits SF in the Knee Year'
 draft: false
 date: 2022-04-01T11:43:37+00:00
 slug: '202204011143-tesla-fsd-sf-knee-year'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1509753327323471875'

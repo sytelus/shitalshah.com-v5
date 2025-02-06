@@ -3,6 +3,8 @@ title: 'From Russia with 212 Photos'
 draft: true
 date: 2015-04-28T18:44:51+00:00
 slug: '201504281844-from-russia-with-212-photos'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '593018031497871360'

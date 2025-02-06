@@ -3,6 +3,8 @@ title: 'Radical Reels: The Not-So-Rad Sequel'
 draft: true
 date: 2011-09-17T03:09:57+00:00
 slug: '201109170309-radical-reels-not-so-rad'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '114793163901767680'

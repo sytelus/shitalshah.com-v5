@@ -3,6 +3,8 @@ title: 'Love, Games, or Studying: Pick Two'
 draft: false
 date: 2019-04-30T10:04:57+00:00
 slug: '201904301004-love-games-studying-pick-two'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1123060644809326593'

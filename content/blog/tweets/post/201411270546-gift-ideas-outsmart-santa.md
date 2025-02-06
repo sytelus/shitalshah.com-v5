@@ -3,6 +3,8 @@ title: 'Gift Ideas to Outsmart Santa'
 draft: true
 date: 2014-11-27T05:46:12+00:00
 slug: '201411270546-gift-ideas-outsmart-santa'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '537724024013328384'

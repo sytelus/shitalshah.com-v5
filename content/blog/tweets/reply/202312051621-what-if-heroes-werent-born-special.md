@@ -3,6 +3,8 @@ title: 'What if Heroes Weren''t Born Special?'
 draft: true
 date: 2023-12-05T16:21:20+00:00
 slug: '202312051621-what-if-heroes-werent-born-special'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1731951879457030560'

@@ -3,6 +3,8 @@ title: 'Too Many Deals? Groupon''s 6-Month Backlog and 1600 Sales Reps'
 draft: true
 date: 2010-10-19T08:11:42+00:00
 slug: '201010190811-groupon-six-month-backlog'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '27788745845'

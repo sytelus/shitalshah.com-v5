@@ -3,6 +3,8 @@ title: 'Team Size Over Four? Innovation Hits the Floor'
 draft: false
 date: 2019-02-14T19:41:56+00:00
 slug: '201902141941-team-size-over-four'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1096011656117645312'

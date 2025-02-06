@@ -3,6 +3,8 @@ title: 'Distilled Rivalry: phi-4 vs DeepSeek R1 on LiveBench'
 draft: true
 date: 2025-01-24T14:29:45+00:00
 slug: '202501241429-distilled-rivalry-phi4-vs-deepseek'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1882677147342684176'

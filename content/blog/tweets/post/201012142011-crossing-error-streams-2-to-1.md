@@ -3,6 +3,8 @@ title: 'Crossing Error Streams: Redirect with 2>&1'
 draft: true
 date: 2010-12-14T20:11:03+00:00
 slug: '201012142011-crossing-error-streams-2-to-1'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '14653591574810624'

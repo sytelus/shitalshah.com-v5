@@ -3,6 +3,8 @@ title: 'Noise Accumulates: Velocity Variance R Becomes Position Variance RT'
 draft: true
 date: 2010-01-03T15:45:30+00:00
 slug: '201001031545-noise-accumulates-variance-rt'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '7326316277'

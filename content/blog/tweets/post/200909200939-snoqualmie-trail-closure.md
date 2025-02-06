@@ -3,6 +3,8 @@ title: 'No Walk in the Park: Snoqualmie Falls Trail Closed for Unwanted Construc
 draft: true
 date: 2009-09-20T09:39:50+00:00
 slug: '200909200939-snoqualmie-trail-closure'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '4115893025'

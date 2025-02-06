@@ -3,6 +3,8 @@ title: 'FLOP Stars: OLMo''s Training Compute vs MMLU Chart'
 draft: true
 date: 2024-04-18T02:27:18+00:00
 slug: '202404180227-flop-stars-olmo-training-vs-mmlu'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1780679449807327389'

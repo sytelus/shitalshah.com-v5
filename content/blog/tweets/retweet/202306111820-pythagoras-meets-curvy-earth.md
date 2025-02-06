@@ -3,6 +3,8 @@ title: 'When Pythagoras Meets the Curvy Earth'
 draft: true
 date: 2023-06-11T18:20:47+00:00
 slug: '202306111820-pythagoras-meets-curvy-earth'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1667854386813603847'

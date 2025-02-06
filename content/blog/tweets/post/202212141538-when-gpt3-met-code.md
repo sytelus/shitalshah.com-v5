@@ -3,6 +3,8 @@ title: 'When GPT-3 Met Code: The Birth of ChatGPT''s Superpowers'
 draft: false
 date: 2022-12-14T15:38:59+00:00
 slug: '202212141538-when-gpt3-met-code'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1602931140901601280'

@@ -3,6 +3,8 @@ title: '5-Driver Earbuds for Peanuts? Thank You, China!'
 draft: false
 date: 2019-08-09T16:42:04+00:00
 slug: '201908091642-5-driver-earbuds-thank-you-china'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1159761753804120066'

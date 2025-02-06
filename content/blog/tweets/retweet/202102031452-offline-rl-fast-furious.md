@@ -3,6 +3,8 @@ title: 'Offline RL: Fast and Furious Learning!'
 draft: true
 date: 2021-02-03T14:52:29+00:00
 slug: '202102031452-offline-rl-fast-furious'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1356858079136993282'

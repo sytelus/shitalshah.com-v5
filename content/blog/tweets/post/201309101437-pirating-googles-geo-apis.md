@@ -3,6 +3,8 @@ title: 'Pirating Google''s Geo APIs: A Shortcut to Nowhere'
 draft: true
 date: 2013-09-10T14:37:10+00:00
 slug: '201309101437-pirating-googles-geo-apis'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '377334919732551680'

@@ -3,6 +3,8 @@ title: 'Broke and Unheard: The Quest for First Startup Customers'
 draft: false
 date: 2021-01-20T14:08:03+00:00
 slug: '202101201408-broke-and-unheard-first-customers'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1351773463472611333'

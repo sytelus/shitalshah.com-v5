@@ -3,6 +3,8 @@ title: 'PyTorch: Ready for Transformer Overload?'
 draft: true
 date: 2023-01-11T16:59:54+00:00
 slug: '202301111659-pytorch-transformer-overload'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1613098365851701248'

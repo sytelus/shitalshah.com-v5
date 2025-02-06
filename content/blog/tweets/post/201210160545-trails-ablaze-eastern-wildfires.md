@@ -3,6 +3,8 @@ title: 'Trails Ablaze: Eastern Washington''s Wildfire Woes'
 draft: true
 date: 2012-10-16T05:45:58+00:00
 slug: '201210160545-trails-ablaze-eastern-wildfires'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '257975634142314496'

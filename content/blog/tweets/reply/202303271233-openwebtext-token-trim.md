@@ -3,6 +3,8 @@ title: 'OpenWebText’s Token Trim: Less is More at 9B Tokens'
 draft: true
 date: 2023-03-27T12:33:28+00:00
 slug: '202303271233-openwebtext-token-trim'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1640225504535117825'

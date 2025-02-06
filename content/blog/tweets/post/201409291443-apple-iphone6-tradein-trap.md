@@ -3,6 +3,8 @@ title: 'Apple''s $0 iPhone 6: Trade-in or Trap?'
 draft: true
 date: 2014-09-29T14:43:28+00:00
 slug: '201409291443-apple-iphone6-tradein-trap'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '516493447776440320'

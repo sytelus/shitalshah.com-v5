@@ -3,6 +3,8 @@ title: 'Depth Estimation: The Tail That Wags the Neural Net'
 draft: true
 date: 2019-08-13T23:09:22+00:00
 slug: '201908132309-depth-estimation-tail-wags-nn'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1161308773127839744'

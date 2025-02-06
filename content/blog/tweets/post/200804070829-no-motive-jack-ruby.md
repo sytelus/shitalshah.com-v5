@@ -3,6 +3,8 @@ title: 'No Motive? Jack Ruby Holds the Key'
 draft: true
 date: 2008-04-07T08:29:47+00:00
 slug: '200804070829-no-motive-jack-ruby'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '784112866'

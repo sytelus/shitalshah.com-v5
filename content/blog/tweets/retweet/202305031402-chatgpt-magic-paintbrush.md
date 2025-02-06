@@ -3,6 +3,8 @@ title: 'ChatGPT''s Magic Paintbrush: Code Interpreter Draws Anything'
 draft: true
 date: 2023-05-03T14:02:48+00:00
 slug: '202305031402-chatgpt-magic-paintbrush'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1653656335345647618'

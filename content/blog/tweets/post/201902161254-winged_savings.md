@@ -3,6 +3,8 @@ title: 'Winged Savings: Flying Costs Less Than Driving!'
 draft: false
 date: 2019-02-16T12:54:17+00:00
 slug: '201902161254-winged_savings'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1096633842717417472'

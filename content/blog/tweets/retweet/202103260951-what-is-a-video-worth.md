@@ -3,6 +3,8 @@ title: 'An Image Is Worth 16x16 Words, What Is a Video Worth?'
 draft: true
 date: 2021-03-26T09:51:50+00:00
 slug: '202103260951-what-is-a-video-worth'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1375279298509074432'

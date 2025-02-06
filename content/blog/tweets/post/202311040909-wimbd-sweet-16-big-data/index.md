@@ -3,6 +3,8 @@ title: 'WIMBD''s Sweet 16: Big Data Cleanup on One Beefy Node'
 draft: false
 date: 2023-11-04T09:09:05+00:00
 slug: '202311040909-wimbd-sweet-16-big-data'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1720624175822369093'

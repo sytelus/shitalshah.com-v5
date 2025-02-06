@@ -3,6 +3,8 @@ title: 'Part-Time CS Master''s: When Curiosity Beats Cash'
 draft: true
 date: 2019-04-16T18:47:24+00:00
 slug: '201904161847-part-time-cs-masters-curiosity'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1118118692477214720'

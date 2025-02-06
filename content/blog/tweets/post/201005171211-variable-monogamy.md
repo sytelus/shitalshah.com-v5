@@ -3,6 +3,8 @@ title: 'Variable Monogamy: Never Repurpose'
 draft: true
 date: 2010-05-17T12:11:17+00:00
 slug: '201005171211-variable-monogamy'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '14142909634'

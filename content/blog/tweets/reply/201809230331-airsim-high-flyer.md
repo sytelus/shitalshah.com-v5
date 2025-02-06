@@ -3,6 +3,8 @@ title: 'AirSim High-Flyer: A Word from the Lead Author'
 draft: true
 date: 2018-09-23T03:31:53+00:00
 slug: '201809230331-airsim-high-flyer'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1043598783156604928'

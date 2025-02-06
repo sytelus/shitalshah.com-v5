@@ -3,6 +3,8 @@ title: 'Jobpocalypse Now: Is Employment Obsolete?'
 draft: true
 date: 2012-04-13T04:13:38+00:00
 slug: '201204130413-jobpocalypse-now'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '190548252674883584'

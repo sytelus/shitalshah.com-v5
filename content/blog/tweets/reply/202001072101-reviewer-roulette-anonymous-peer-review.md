@@ -3,6 +3,8 @@ title: 'Reviewer Roulette: Anonymous and Randomized Peer Review Proposal'
 draft: true
 date: 2020-01-07T21:01:28+00:00
 slug: '202001072101-reviewer-roulette-anonymous-peer-review'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1214532505535041536'

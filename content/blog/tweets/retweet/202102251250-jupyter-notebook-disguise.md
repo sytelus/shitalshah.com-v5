@@ -3,6 +3,8 @@ title: 'Jupyter Notebooks in Disguise: # %% Magic in VS Code'
 draft: true
 date: 2021-02-25T12:50:36+00:00
 slug: '202102251250-jupyter-notebook-disguise'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1364799938400411648'

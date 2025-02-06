@@ -3,6 +3,8 @@ title: 'Edge Cases: Nickels Stand Upright 1 in 6000 Tosses'
 draft: true
 date: 2020-12-24T12:51:36+00:00
 slug: '202012241251-edge-cases-nickels-1-in-6000'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1341969754840395777'

@@ -3,6 +3,8 @@ title: 'Affordable Housing Hack: Sprinkle Great Schools Everywhere'
 draft: true
 date: 2023-01-03T16:06:44+00:00
 slug: '202301031606-affordable-housing-great-schools'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1610185882610577408'

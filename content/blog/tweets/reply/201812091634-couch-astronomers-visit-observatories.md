@@ -3,6 +3,8 @@ title: 'Couch Astronomers: Do They Ever Visit Observatories?'
 draft: true
 date: 2018-12-09T16:34:11+00:00
 slug: '201812091634-couch-astronomers-visit-observatories'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1071684420908642305'

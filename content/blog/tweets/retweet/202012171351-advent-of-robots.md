@@ -3,6 +3,8 @@ title: 'An Advent of Robots: 10 Papers Till Christmas'
 draft: true
 date: 2020-12-17T13:51:05+00:00
 slug: '202012171351-advent-of-robots'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1339448007045959682'

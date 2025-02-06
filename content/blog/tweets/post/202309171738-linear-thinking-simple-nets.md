@@ -3,6 +3,8 @@ title: 'Linear Thinking: Simple Nets Tackle Language and Math'
 draft: false
 date: 2023-09-17T17:38:25+00:00
 slug: '202309171738-linear-thinking-simple-nets'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1703357732877996453'

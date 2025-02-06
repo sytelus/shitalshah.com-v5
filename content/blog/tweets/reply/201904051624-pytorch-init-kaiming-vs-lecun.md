@@ -3,6 +3,8 @@ title: 'Kaiming in, LeCun out: PyTorch 1.0''s Sneaky Init Swap'
 draft: true
 date: 2019-04-05T16:24:25+00:00
 slug: '201904051624-pytorch-init-kaiming-vs-lecun'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1114096444359581696'

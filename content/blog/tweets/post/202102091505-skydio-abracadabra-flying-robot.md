@@ -3,6 +3,8 @@ title: 'Skydio: Abracadabra—It''s a Flying Robot!'
 draft: false
 date: 2021-02-09T15:05:37+00:00
 slug: '202102091505-skydio-abracadabra-flying-robot'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1359035709135331329'

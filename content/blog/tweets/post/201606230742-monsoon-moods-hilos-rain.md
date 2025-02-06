@@ -3,6 +3,8 @@ title: 'Monsoon Moods: Hilo''s Rain and Sandy Scents'
 draft: true
 date: 2016-06-23T07:42:47+00:00
 slug: '201606230742-monsoon-moods-hilos-rain'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '745779097943453696'

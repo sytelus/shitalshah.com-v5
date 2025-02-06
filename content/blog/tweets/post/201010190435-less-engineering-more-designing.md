@@ -3,6 +3,8 @@ title: 'Less Engineering, More Designing: Apple''s Approach'
 draft: true
 date: 2010-10-19T04:35:31+00:00
 slug: '201010190435-less-engineering-more-designing'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '27771348532'

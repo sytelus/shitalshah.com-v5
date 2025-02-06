@@ -3,6 +3,8 @@ title: 'Rolling Rivals: Hoop vs Disk'
 draft: true
 date: 2011-09-20T13:16:28+00:00
 slug: '201109201316-rolling-rivals-hoop-vs-disk'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '116032962079891456'

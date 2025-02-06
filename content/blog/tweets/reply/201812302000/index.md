@@ -3,6 +3,8 @@ title: 'Tweet on 2018-12-30T20:00:19+00:00'
 draft: true
 date: 2018-12-30T20:00:19+00:00
 slug: '201812302000'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1079346442861404163'

@@ -3,6 +3,8 @@ title: 'When Triangles Roll: Reuleaux Meets Mechanics'
 draft: true
 date: 2022-12-19T15:41:44+00:00
 slug: '202212191541-reuleaux-triangle-mechanics'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1604743772369465344'

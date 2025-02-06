@@ -3,6 +3,8 @@ title: 'Assume You''re Wrong to Stay Right'
 draft: true
 date: 2010-07-10T20:40:30+00:00
 slug: '201007102040-assume-wrong-stay-right'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '18196773183'

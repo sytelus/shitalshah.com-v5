@@ -3,6 +3,8 @@ title: 'From Hocus Pocus to Optimizer Focus'
 draft: true
 date: 2023-03-19T20:07:08+00:00
 slug: '202303192007-hocus-pocus-optimizer-focus'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1637440568581300225'

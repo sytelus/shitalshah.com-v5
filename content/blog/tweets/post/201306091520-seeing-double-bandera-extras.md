@@ -3,6 +3,8 @@ title: 'Seeing Double: Unskippable Extras from Bandera Mountain 2012'
 draft: true
 date: 2013-06-09T15:20:03+00:00
 slug: '201306091520-seeing-double-bandera-extras'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '343643641102876672'

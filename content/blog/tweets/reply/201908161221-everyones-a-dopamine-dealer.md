@@ -3,6 +3,8 @@ title: 'Everyone''s a Dopamine Dealer'
 draft: true
 date: 2019-08-16T12:21:44+00:00
 slug: '201908161221-everyones-a-dopamine-dealer'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1162232955441307649'

@@ -3,6 +3,8 @@ title: 'One Protocol to Rule Them All: Mike Burrows Chooses Paxos'
 draft: true
 date: 2010-10-04T16:23:18+00:00
 slug: '201010041623-paxos-rules-them-all'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '26346823630'

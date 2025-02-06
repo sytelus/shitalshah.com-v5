@@ -3,6 +3,8 @@ title: 'Convolution Revolution: Deep Learning Goes the Distance'
 draft: true
 date: 2022-10-18T14:49:41+00:00
 slug: '202210181449-convolution-revolution-deep-learning'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1582277725708255232'

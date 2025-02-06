@@ -3,6 +3,8 @@ title: 'Ecoset Vision: Models See the Real World Better'
 draft: false
 date: 2021-02-18T19:08:05+00:00
 slug: '202102181908-ecoset-vision-real-world'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1362358220531003394'

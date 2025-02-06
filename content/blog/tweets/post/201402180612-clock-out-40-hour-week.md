@@ -3,6 +3,8 @@ title: 'Time to Clock Out of the 40-Hour Work Week'
 draft: true
 date: 2014-02-18T06:12:19+00:00
 slug: '201402180612-clock-out-40-hour-week'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '435537219906854912'

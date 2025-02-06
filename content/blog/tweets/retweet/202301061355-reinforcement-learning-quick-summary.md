@@ -3,6 +3,8 @@ title: 'Reinforcement Learning: A Quick Summary for the Busy Mind'
 draft: true
 date: 2023-01-06T13:55:31+00:00
 slug: '202301061355-reinforcement-learning-quick-summary'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1611240022103162880'

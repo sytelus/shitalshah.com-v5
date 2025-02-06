@@ -3,6 +3,8 @@ title: 'Kosmos-1: Microsoft''s New Star in the AI Galaxy'
 draft: true
 date: 2023-03-01T07:59:56+00:00
 slug: '202303010759-kosmos-1-microsoft'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1630719480690278401'

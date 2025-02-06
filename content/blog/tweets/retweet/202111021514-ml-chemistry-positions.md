@@ -3,6 +3,8 @@ title: 'Join the Machine Learning Chemistry Quest: Open Positions Available'
 draft: true
 date: 2021-11-02T15:14:43+00:00
 slug: '202111021514-ml-chemistry-positions'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1455448270386253826'

@@ -3,6 +3,8 @@ title: 'Veggie Power: ADA Endorses Plant-Based Diets'
 draft: false
 date: 2019-02-25T11:19:19+00:00
 slug: '201902251119-veggie-power-ada-endorses-plant-based-diets'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1099871434913009665'

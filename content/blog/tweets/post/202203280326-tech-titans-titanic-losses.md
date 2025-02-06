@@ -3,6 +3,8 @@ title: 'From Tech Titans to Titanic Losses'
 draft: false
 date: 2022-03-28T03:26:41+00:00
 slug: '202203280326-tech-titans-titanic-losses'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1508178718069460998'

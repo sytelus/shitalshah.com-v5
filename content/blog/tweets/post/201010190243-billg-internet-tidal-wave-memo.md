@@ -3,6 +3,8 @@ title: 'Surfing BillG''s ''Internet Tidal Wave'' Memo'
 draft: true
 date: 2010-10-19T02:43:06+00:00
 slug: '201010190243-billg-internet-tidal-wave-memo'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '27763674409'

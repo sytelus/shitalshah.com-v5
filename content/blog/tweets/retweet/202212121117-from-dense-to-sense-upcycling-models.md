@@ -3,6 +3,8 @@ title: 'From Dense to Sense: Upcycling Models into Mixture-of-Experts'
 draft: true
 date: 2022-12-12T11:17:01+00:00
 slug: '202212121117-from-dense-to-sense-upcycling-models'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1602140436851986432'

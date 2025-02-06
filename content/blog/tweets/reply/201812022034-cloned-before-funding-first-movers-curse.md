@@ -3,6 +3,8 @@ title: 'Cloned Before Funding: The First Mover''s Curse'
 draft: true
 date: 2018-12-02T20:34:43+00:00
 slug: '201812022034-cloned-before-funding-first-movers-curse'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1069208237310791685'

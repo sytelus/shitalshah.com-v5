@@ -3,6 +3,8 @@ title: 'Mind-Altering Programming Languages'
 draft: true
 date: 2020-12-27T15:25:31+00:00
 slug: '202012271525-mind-altering-programming-languages'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1343095650393604097'

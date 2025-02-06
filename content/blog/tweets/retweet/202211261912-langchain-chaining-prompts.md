@@ -3,6 +3,8 @@ title: 'LangChain: Chaining Prompts Like a Pro'
 draft: true
 date: 2022-11-26T19:12:40+00:00
 slug: '202211261912-langchain-chaining-prompts'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1596461932395253760'

@@ -3,6 +3,8 @@ title: 'John Goddard''s Epic Life List: Time to Borrow Some Goals'
 draft: false
 date: 2019-03-14T16:24:04+00:00
 slug: '201903141624-john-goddard-epic-life-list'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1106123820467810304'

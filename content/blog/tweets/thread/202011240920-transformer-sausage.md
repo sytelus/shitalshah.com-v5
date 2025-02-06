@@ -3,6 +3,8 @@ title: 'How the Transformer Sausage Was Made'
 draft: false
 date: 2020-11-24T09:20:56+00:00
 slug: '202011240920-transformer-sausage'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1331045103264174080'

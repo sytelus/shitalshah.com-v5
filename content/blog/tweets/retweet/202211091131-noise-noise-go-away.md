@@ -3,6 +3,8 @@ title: 'Noise, Noise, Go Away: A Denoising Adventure'
 draft: true
 date: 2022-11-09T11:31:09+00:00
 slug: '202211091131-noise-noise-go-away'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1590185194262523906'

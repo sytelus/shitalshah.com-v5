@@ -3,6 +3,8 @@ title: 'Looking for Women in ML? There''s a Better Directory!'
 draft: true
 date: 2021-10-29T11:46:47+00:00
 slug: '202110291146-women-in-ml-directory'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1453946392070684673'

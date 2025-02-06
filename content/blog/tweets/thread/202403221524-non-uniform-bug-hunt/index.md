@@ -3,6 +3,8 @@ title: 'When Uniform Isn''t Uniform: A Bug Hunt Tale'
 draft: false
 date: 2024-03-22T15:24:20+00:00
 slug: '202403221524-non-uniform-bug-hunt'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1771090523324862552'

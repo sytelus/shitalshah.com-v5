@@ -3,6 +3,8 @@ title: 'Towering Getaways: Rent a Fire Lookout'
 draft: true
 date: 2014-10-08T13:28:02+00:00
 slug: '201410081328-towering-getaways-rent-fire-lookout'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '519735956681658368'

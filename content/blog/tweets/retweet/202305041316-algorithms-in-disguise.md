@@ -3,6 +3,8 @@ title: 'Algorithms in Disguise: Transformers Solve Multi-Step Reasoning'
 draft: true
 date: 2023-05-04T13:16:04+00:00
 slug: '202305041316-algorithms-in-disguise'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1654006962739372032'

@@ -3,6 +3,8 @@ title: 'The AI Crystal Ball: Revisiting Karpathy''s 2013 Predictions'
 draft: true
 date: 2022-05-07T09:28:04+00:00
 slug: '202205070928-karpathy-ai-crystal-ball'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1522765176457416705'

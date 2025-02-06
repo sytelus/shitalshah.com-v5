@@ -3,6 +3,8 @@ title: 'Scaling LLMs: Patterns in Training Unveiled'
 draft: true
 date: 2022-12-17T17:10:02+00:00
 slug: '202212171710-scaling-llms-patterns'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1604041217339457536'

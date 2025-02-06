@@ -3,6 +3,8 @@ title: 'Space Invaders: Beware of Spaces in Batch ''set'' Commands'
 draft: true
 date: 2012-10-29T04:17:45+00:00
 slug: '201210290417-space-invaders-batch-set'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '262664472626331648'

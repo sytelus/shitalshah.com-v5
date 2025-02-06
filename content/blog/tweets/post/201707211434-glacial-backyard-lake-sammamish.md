@@ -3,6 +3,8 @@ title: 'Discovering Our Glacial Backyard: Lake Sammamish'
 draft: true
 date: 2017-07-21T14:34:10+00:00
 slug: '201707211434-glacial-backyard-lake-sammamish'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '888301055405989888'

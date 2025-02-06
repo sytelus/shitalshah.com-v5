@@ -3,6 +3,8 @@ title: 'Stable Diffusion Goes Flash: 4x Speed Boost with FlashAttention'
 draft: true
 date: 2022-10-14T10:14:39+00:00
 slug: '202210141014-stable-diffusion-goes-flash'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1580758956645154818'

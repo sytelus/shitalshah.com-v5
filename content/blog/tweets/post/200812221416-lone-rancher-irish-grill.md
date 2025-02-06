@@ -3,6 +3,8 @@ title: 'The Lone Rancher at Irish Grill'
 draft: true
 date: 2008-12-22T14:16:57+00:00
 slug: '200812221416-lone-rancher-irish-grill'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1071804003'

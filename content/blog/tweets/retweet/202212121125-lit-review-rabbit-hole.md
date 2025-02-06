@@ -3,6 +3,8 @@ title: 'Down the Rabbit Hole: Lit Review with Zotero and Obsidian'
 draft: true
 date: 2022-12-12T11:25:45+00:00
 slug: '202212121125-lit-review-rabbit-hole'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1602142634461790208'

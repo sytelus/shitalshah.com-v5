@@ -3,6 +3,8 @@ title: 'Turning Frost into Toast with Exped SynMat 9'
 draft: true
 date: 2010-10-19T13:04:18+00:00
 slug: '201010191304-frost-into-toast-exped-synmat9'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '27807904214'

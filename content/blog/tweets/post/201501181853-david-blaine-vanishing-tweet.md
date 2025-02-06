@@ -3,6 +3,8 @@ title: 'David Blaine''s Tricks Are So Good, They Vanish Mid-Tweet'
 draft: true
 date: 2015-01-18T18:53:12+00:00
 slug: '201501181853-david-blaine-vanishing-tweet'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '556766247656771585'

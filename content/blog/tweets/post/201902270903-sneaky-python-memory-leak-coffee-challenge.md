@@ -3,6 +3,8 @@ title: 'Sleepless Over a Sneaky Python Memory Leak: Free Coffee Challenge!'
 draft: false
 date: 2019-02-27T09:03:42+00:00
 slug: '201902270903-sneaky-python-memory-leak-coffee-challenge'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1100562083383365632'

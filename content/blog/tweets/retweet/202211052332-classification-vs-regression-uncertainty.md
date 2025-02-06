@@ -3,6 +3,8 @@ title: 'Classification vs Regression? Uncertainty Says Hi!'
 draft: true
 date: 2022-11-05T23:32:40+00:00
 slug: '202211052332-classification-vs-regression-uncertainty'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1588932317967679488'

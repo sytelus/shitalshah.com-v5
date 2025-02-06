@@ -3,6 +3,8 @@ title: 'When Gorillas Go Unnoticed: The Selective Attention Test'
 draft: true
 date: 2010-06-04T00:59:56+00:00
 slug: '201006040059-gorillas-go-unnoticed'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '15341990080'

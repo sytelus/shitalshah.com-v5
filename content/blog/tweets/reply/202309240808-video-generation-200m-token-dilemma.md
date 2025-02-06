@@ -3,6 +3,8 @@ title: 'Video Generation''s 200M Token Dilemma'
 draft: true
 date: 2023-09-24T08:08:51+00:00
 slug: '202309240808-video-generation-200m-token-dilemma'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1705751114162065856'

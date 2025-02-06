@@ -3,6 +3,8 @@ title: 'Big-O and the Giant Constants: When Theory Falls Short'
 draft: true
 date: 2023-03-29T08:56:21+00:00
 slug: '202303290856-big-o-giant-constants'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1640895640996843520'

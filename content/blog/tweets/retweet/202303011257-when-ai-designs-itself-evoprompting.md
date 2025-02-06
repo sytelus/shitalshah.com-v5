@@ -3,6 +3,8 @@ title: 'When AI Designs Itself: Exploring EvoPrompting'
 draft: true
 date: 2023-03-01T12:57:29+00:00
 slug: '202303011257-when-ai-designs-itself-evoprompting'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1630794363231170562'

@@ -3,6 +3,8 @@ title: 'IEE-Expensive: Paywalls and Predatory Practices'
 draft: true
 date: 2021-02-09T19:04:02+00:00
 slug: '202102091904-iee-expensive-paywalls'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1359095710080110595'

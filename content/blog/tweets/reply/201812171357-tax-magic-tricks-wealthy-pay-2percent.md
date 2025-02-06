@@ -3,6 +3,8 @@ title: 'Tax Magic Tricks: How the Wealthy Pay Only 2%'
 draft: true
 date: 2018-12-17T13:57:17+00:00
 slug: '201812171357-tax-magic-tricks-wealthy-pay-2percent'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1074544040312418304'

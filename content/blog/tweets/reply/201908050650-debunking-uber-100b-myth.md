@@ -3,6 +3,8 @@ title: 'Uber''s Budget Isn''t That Uber: Debunking the $100B Myth'
 draft: true
 date: 2019-08-05T06:50:09+00:00
 slug: '201908050650-debunking-uber-100b-myth'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1158163242184671232'

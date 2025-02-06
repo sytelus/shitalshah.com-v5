@@ -3,6 +3,8 @@ title: 'Wardrobe Woes: Seeking a Fashion Agent'
 draft: true
 date: 2024-10-21T11:29:56+00:00
 slug: '202410211129-wardrobe-woes-fashion-agent'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1848220148899238043'

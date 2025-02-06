@@ -3,6 +3,8 @@ title: 'Progress Disguised: The Float32 log_softmax Bug'
 draft: false
 date: 2022-08-17T08:19:31+00:00
 slug: '202208170819-float32-log-softmax-bug'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1559711487035265025'

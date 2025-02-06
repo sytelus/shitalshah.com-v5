@@ -3,6 +3,8 @@ title: 'LangChain Exposed: What''s Under the Hood?'
 draft: true
 date: 2023-04-16T03:05:21+00:00
 slug: '202304160305-langchain-whats-under-the-hood'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1647330288626724868'

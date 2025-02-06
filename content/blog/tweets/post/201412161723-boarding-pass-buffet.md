@@ -3,6 +3,8 @@ title: 'Boarding Pass Buffet: Chinese Man''s Free Meal Scheme'
 draft: true
 date: 2014-12-16T17:23:35+00:00
 slug: '201412161723-boarding-pass-buffet'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '544784897874100224'

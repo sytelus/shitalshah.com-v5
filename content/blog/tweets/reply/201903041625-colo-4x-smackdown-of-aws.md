@@ -3,6 +3,8 @@ title: 'Colo''s 4X Smackdown of AWS'
 draft: true
 date: 2019-03-04T16:25:28+00:00
 slug: '201903041625-colo-4x-smackdown-of-aws'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1102485197637840896'

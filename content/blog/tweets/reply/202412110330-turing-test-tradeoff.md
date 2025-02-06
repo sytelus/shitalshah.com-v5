@@ -3,6 +3,8 @@ title: 'Turing Test Trade-Off: Training to Trick the Test'
 draft: true
 date: 2024-12-11T03:30:28+00:00
 slug: '202412110330-turing-test-tradeoff'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1866566169056117193'

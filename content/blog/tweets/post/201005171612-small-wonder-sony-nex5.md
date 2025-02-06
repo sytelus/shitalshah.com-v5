@@ -3,6 +3,8 @@ title: 'Small Wonder: Sony NEX-5 Packs SLR Power'
 draft: true
 date: 2010-05-17T16:12:06+00:00
 slug: '201005171612-small-wonder-sony-nex5'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '14150734101'

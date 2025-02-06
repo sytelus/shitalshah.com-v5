@@ -3,6 +3,8 @@ title: 'AI''s Secret Sauces: When Success Doesn''t Generalize'
 draft: true
 date: 2023-12-01T08:26:36+00:00
 slug: '202312010826-ais-secret-sauces'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1730382857313685507'

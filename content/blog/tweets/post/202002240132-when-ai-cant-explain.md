@@ -3,6 +3,8 @@ title: 'When AI Can''t Explain and You Can''t Complain'
 draft: false
 date: 2020-02-24T01:32:58+00:00
 slug: '202002240132-when-ai-cant-explain'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1231633059792818176'

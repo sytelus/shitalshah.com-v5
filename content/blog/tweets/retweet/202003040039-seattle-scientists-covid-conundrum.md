@@ -3,6 +3,8 @@ title: 'Seattle Scientist''s COVID Conundrum'
 draft: true
 date: 2020-03-04T00:39:25+00:00
 slug: '202003040039-seattle-scientists-covid-conundrum'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1234881074938793984'

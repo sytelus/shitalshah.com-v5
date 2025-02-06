@@ -3,6 +3,8 @@ title: 'Behind the Fryers: McDonald''s Transparency Goes Large'
 draft: true
 date: 2012-11-11T16:14:26+00:00
 slug: '201211111614-behind-the-fryers'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '267540777910030336'

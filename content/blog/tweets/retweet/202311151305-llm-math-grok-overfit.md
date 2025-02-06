@@ -3,6 +3,8 @@ title: 'LLMs and Math: Grokking or Overfitting?'
 draft: true
 date: 2023-11-15T13:05:50+00:00
 slug: '202311151305-llm-math-grok-overfit'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1724654922250260809'

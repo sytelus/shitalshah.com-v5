@@ -3,6 +3,8 @@ title: 'Blind GPT-3 Gets a Body'
 draft: true
 date: 2022-11-24T10:20:54+00:00
 slug: '202211241020-blind-gpt3-gets-body'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1595603334441840640'

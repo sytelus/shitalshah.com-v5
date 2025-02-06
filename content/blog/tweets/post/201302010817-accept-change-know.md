@@ -3,6 +3,8 @@ title: 'The Original Accept, Change, Know'
 draft: true
 date: 2013-02-01T08:17:24+00:00
 slug: '201302010817-accept-change-know'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '297136532358320128'

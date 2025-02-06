@@ -3,6 +3,8 @@ title: 'Decoding RFT with Zheng: What''s in a Reasoning Path?'
 draft: true
 date: 2023-08-05T10:04:22+00:00
 slug: '202308051004-decoding-rft-with-zheng'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1687660789585629184'

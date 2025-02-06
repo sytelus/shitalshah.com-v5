@@ -3,6 +3,8 @@ title: 'Small Model, Big Win: phi-3-mini Beats 34B Giants'
 draft: true
 date: 2024-05-15T13:59:03+00:00
 slug: '202405151359-phi3mini-beats-34b-giants'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1790638006409548072'

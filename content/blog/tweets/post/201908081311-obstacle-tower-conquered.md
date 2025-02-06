@@ -3,6 +3,8 @@ title: 'Cracking the Uncrackable: Obstacle Tower Conquered'
 draft: false
 date: 2019-08-08T13:11:48+00:00
 slug: '201908081311-obstacle-tower-conquered'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1159346451329298432'

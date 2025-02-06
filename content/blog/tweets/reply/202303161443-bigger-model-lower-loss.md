@@ -3,6 +3,8 @@ title: 'Why Train Longer When You Can Go Bigger?'
 draft: true
 date: 2023-03-16T14:43:20+00:00
 slug: '202303161443-bigger-model-lower-loss'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1636271920189681664'

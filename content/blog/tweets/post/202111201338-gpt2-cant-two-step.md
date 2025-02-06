@@ -3,6 +3,8 @@ title: 'GPT-2 Can''t Two-Step But Jives at Five'
 draft: false
 date: 2021-11-20T13:38:06+00:00
 slug: '202111201338-gpt2-cant-two-step'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1461931838591565828'

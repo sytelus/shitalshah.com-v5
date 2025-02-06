@@ -3,6 +3,8 @@ title: 'Winter is Coming: Climate Predictions Ahead'
 draft: true
 date: 2010-10-22T05:14:47+00:00
 slug: '201010220514-winter-is-coming'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '28065236566'

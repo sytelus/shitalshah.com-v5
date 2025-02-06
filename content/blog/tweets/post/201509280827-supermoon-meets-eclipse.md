@@ -3,6 +3,8 @@ title: 'Lunar Double Whammy: Supermoon Meets Eclipse'
 draft: true
 date: 2015-09-28T08:27:13+00:00
 slug: '201509280827-supermoon-meets-eclipse'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '648307944514154496'

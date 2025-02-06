@@ -3,6 +3,8 @@ title: 'Hardware Heroes, Software Zeros'
 draft: true
 date: 2021-03-05T19:21:55+00:00
 slug: '202103051921-hardware-heroes-software-zeros'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1367797519355314184'

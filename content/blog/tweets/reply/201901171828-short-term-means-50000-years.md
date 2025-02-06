@@ -3,6 +3,8 @@ title: 'When Short-Term Means 50,000 Years: Worrying about Yellowstone'
 draft: true
 date: 2019-01-17T18:28:35+00:00
 slug: '201901171828-short-term-means-50000-years'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1085846338548297731'

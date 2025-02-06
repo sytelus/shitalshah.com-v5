@@ -3,6 +3,8 @@ title: 'Flynn-ing High: A Century of Rising IQs'
 draft: true
 date: 2024-01-01T02:05:50+00:00
 slug: '202401010205-flynn-high-century-rising-iqs'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1741521057591517445'

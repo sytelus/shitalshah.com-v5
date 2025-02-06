@@ -3,6 +3,8 @@ title: 'Conversing with Code: Meet Tensai!'
 draft: true
 date: 2023-01-03T16:07:46+00:00
 slug: '202301031607-conversing-with-code-tensai'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1610186140312801281'

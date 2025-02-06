@@ -3,6 +3,8 @@ title: 'The Great Tech Migration'
 draft: true
 date: 2021-10-10T09:17:08+00:00
 slug: '202110100917-the-great-tech-migration'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1447023360039215106'

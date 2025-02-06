@@ -3,6 +3,8 @@ title: 'Paseo: The Sandwich Worth a Cross-Border Chill'
 draft: true
 date: 2014-01-29T05:56:11+00:00
 slug: '201401290556-paseo-cross-border-chill'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '428285401959108608'

@@ -3,6 +3,8 @@ title: 'Reasoning in the Blink of an AI: Slides from "Reasoning with Inference-T
 draft: true
 date: 2024-09-26T13:43:50+00:00
 slug: '202409261343-inference-time-reasoning'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1839194147837849685'

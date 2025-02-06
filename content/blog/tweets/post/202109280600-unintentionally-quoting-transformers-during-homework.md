@@ -3,6 +3,8 @@ title: 'Unintentionally Quoting Transformers During Homework'
 draft: false
 date: 2021-09-28T06:00:04+00:00
 slug: '202109280600-unintentionally-quoting-transformers-during-homework'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1442625113044619265'

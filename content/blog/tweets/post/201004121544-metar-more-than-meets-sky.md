@@ -3,6 +3,8 @@ title: 'METAR: More Than Meets The Sky'
 draft: true
 date: 2010-04-12T15:44:00+00:00
 slug: '201004121544-metar-more-than-meets-sky'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '12036439909'

@@ -3,6 +3,8 @@ title: 'AI Bots Slowed to Human Reflexes: Can They Team Up in 5v5?'
 draft: true
 date: 2018-08-06T13:52:39+00:00
 slug: '201808061352-ai-bots-human-reflexes-5v5'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1026360387699073024'

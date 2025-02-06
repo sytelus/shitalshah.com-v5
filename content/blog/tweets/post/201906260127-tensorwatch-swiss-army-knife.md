@@ -3,6 +3,8 @@ title: 'TensorWatch: The Swiss Army Knife of Machine Learning Debugging'
 draft: false
 date: 2019-06-26T01:27:23+00:00
 slug: '201906260127-tensorwatch-swiss-army-knife'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1143586501814562816'

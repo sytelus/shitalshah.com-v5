@@ -3,6 +3,8 @@ title: 'Peak Awesomeness: Trekking in the Himalayas'
 draft: true
 date: 2010-04-28T02:53:27+00:00
 slug: '201004280253-peak-awesomeness-trekking-himalayas'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '12961859262'

@@ -3,6 +3,8 @@ title: 'Powncing on Emails: Do We Really Need This?'
 draft: true
 date: 2008-04-07T13:24:52+00:00
 slug: '200804071324-powncing-on-emails-do-we-really-need-this'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '784222946'

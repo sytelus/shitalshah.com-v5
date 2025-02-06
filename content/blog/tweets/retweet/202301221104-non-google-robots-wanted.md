@@ -3,6 +3,8 @@ title: 'Non-Google Robots Wanted: Seeking Recent ML + Robotics Papers'
 draft: true
 date: 2023-01-22T11:04:04+00:00
 slug: '202301221104-non-google-robots-wanted'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1616995081919270913'

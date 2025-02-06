@@ -3,6 +3,8 @@ title: 'Phi-4 Goes Official: No More Bootlegs!'
 draft: false
 date: 2025-01-08T23:32:21+00:00
 slug: '202501082332-phi-4-official-release'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1877015492126220594'

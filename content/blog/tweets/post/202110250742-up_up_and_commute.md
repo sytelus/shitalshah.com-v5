@@ -3,6 +3,8 @@ title: 'Up, Up, and Commute Away: Jetson ONE Personal Drone'
 draft: false
 date: 2021-10-25T07:42:52+00:00
 slug: '202110250742-up_up_and_commute'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1452435456411389953'

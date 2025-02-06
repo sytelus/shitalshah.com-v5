@@ -3,6 +3,8 @@ title: 'Small But Mighty: 3B Model Outsmarts 58X Larger LLM'
 draft: false
 date: 2023-02-03T16:05:23+00:00
 slug: '202302031605-small-but-mighty-3b-model'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1621419563559833601'

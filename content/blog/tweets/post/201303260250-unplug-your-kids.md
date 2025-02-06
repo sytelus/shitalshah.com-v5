@@ -3,6 +3,8 @@ title: 'Unplug Your Kids: 3 Secrets to Raising Nature Lovers'
 draft: true
 date: 2013-03-26T02:50:11+00:00
 slug: '201303260250-unplug-your-kids'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '316275841413816320'

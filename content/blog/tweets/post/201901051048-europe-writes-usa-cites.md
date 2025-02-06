@@ -3,6 +3,8 @@ title: 'AI Papers Race: Europe Writes, USA Cites'
 draft: false
 date: 2019-01-05T10:48:20+00:00
 slug: '201901051048-europe-writes-usa-cites'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1081381855067336704'

@@ -3,6 +3,8 @@ title: 'Prompt Engineering Guide So Good, It Cites My Tweets!'
 draft: true
 date: 2022-12-22T11:55:40+00:00
 slug: '202212221155-prompt-engineering-guide-cites-my-tweets'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1605774042132512768'

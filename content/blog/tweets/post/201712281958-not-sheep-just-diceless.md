@@ -3,6 +3,8 @@ title: 'Not Sheep, Just Diceless'
 draft: true
 date: 2017-12-28T19:58:48+00:00
 slug: '201712281958-not-sheep-just-diceless'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '946349713984438272'

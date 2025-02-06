@@ -3,6 +3,8 @@ title: 'Nicely Done! Now, Where''s the Recipe?'
 draft: true
 date: 2024-11-21T18:21:12+00:00
 slug: '202411211821-nicely-done-wheres-the-recipe'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1859542571153838574'

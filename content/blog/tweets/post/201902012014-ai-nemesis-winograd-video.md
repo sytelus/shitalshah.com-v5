@@ -3,6 +3,8 @@ title: 'AI''s Nemesis: Winograd Challenge and Video Storytelling'
 draft: false
 date: 2019-02-01T20:14:33+00:00
 slug: '201902012014-ai-nemesis-winograd-video'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1091308821799030789'

@@ -3,6 +3,8 @@ title: 'When ''Be Smart'' Isn''t Smart Advice'
 draft: true
 date: 2019-01-02T00:26:33+00:00
 slug: '201901020026-when-be-smart-is-not-smart-advice'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1080138217985167361'

@@ -3,6 +3,8 @@ title: 'Annual Indexes: The Original Search Engines'
 draft: true
 date: 2019-02-11T00:45:06+00:00
 slug: '201902110045-annual-indexes-original-search-engines'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1094638398415953920'

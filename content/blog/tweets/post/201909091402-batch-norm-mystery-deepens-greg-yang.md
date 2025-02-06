@@ -3,6 +3,8 @@ title: 'Batch Norm: The Mystery Deepens with Greg Yang'
 draft: false
 date: 2019-09-09T14:02:25+00:00
 slug: '201909091402-batch-norm-mystery-deepens-greg-yang'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1170955602442407936'

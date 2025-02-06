@@ -3,6 +3,8 @@ title: 'Protein Shapes: More Than Just a Folding Matter'
 draft: true
 date: 2021-02-13T13:58:22+00:00
 slug: '202102131358-protein-shapes-more-than-folding'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1360468337633857537'

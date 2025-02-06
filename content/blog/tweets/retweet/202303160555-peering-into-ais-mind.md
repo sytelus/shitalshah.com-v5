@@ -3,6 +3,8 @@ title: 'Peering into AI''s Mind with the Tuned Lens'
 draft: true
 date: 2023-03-16T05:55:41+00:00
 slug: '202303160555-peering-into-ais-mind'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1636139129204514817'

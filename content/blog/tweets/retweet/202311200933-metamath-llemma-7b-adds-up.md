@@ -3,6 +3,8 @@ title: 'MetaMath-Llemma-7B Adds Up with High Scores'
 draft: true
 date: 2023-11-20T09:33:14+00:00
 slug: '202311200933-metamath-llemma-7b-adds-up'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1726413359556567530'

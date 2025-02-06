@@ -3,6 +3,8 @@ title: 'Stacking Up: The Stack v1.1 Adds More Languages!'
 draft: true
 date: 2022-12-02T12:24:28+00:00
 slug: '202212021224-the-stack-v1-1-release'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1598533532397162496'

@@ -3,6 +3,8 @@ title: 'Randomness Needs Infinite Entropy—Universe''s Catch-22'
 draft: true
 date: 2022-11-10T04:14:17+00:00
 slug: '202211100414-randomness-infinite-entropy-catch-22'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1590437642130558976'

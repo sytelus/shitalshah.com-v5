@@ -3,6 +3,8 @@ title: 'GIL, Lambdas, and 24-byte Bools: Python Pet Peeves'
 draft: true
 date: 2019-03-12T12:05:12+00:00
 slug: '201903121205-python-pet-peeves'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1105333899347910658'

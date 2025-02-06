@@ -3,6 +3,8 @@ title: 'Hands-Free Stop Motion Magic'
 draft: false
 date: 2020-11-29T17:30:24+00:00
 slug: '202011291730-hands-free-stop-motion-magic'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1332980219263676421'

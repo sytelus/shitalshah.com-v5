@@ -3,6 +3,8 @@ title: 'Job Postings: Hedge Your Bets or Go All In?'
 draft: true
 date: 2021-12-06T10:46:02+00:00
 slug: '202112061046-job_postings_hedge_your_bets_or_go_all_in'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1467686743226798081'

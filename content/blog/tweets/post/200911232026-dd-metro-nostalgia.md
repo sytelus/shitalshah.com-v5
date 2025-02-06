@@ -3,6 +3,8 @@ title: 'Time-Traveling Couch Potato: Watching Old DD Metro Series and Ads'
 draft: true
 date: 2009-11-23T20:26:49+00:00
 slug: '200911232026-dd-metro-nostalgia'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '5974949306'

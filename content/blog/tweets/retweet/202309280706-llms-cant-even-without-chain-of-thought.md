@@ -3,6 +3,8 @@ title: 'Why LLMs Can''t Even Without Chain of Thought'
 draft: true
 date: 2023-09-28T07:06:33+00:00
 slug: '202309280706-llms-cant-even-without-chain-of-thought'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1707184986947047472'

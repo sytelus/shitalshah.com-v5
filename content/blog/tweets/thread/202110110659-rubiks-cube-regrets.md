@@ -3,6 +3,8 @@ title: 'Rubik''s Cube Regrets: OpenAI''s Robotics Lead Speaks'
 draft: false
 date: 2021-10-11T06:59:56+00:00
 slug: '202110110659-rubiks-cube-regrets'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1447351223233888257'

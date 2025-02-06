@@ -3,6 +3,8 @@ title: 'Uber''s Promo Spending Leaves Self-Driving in the Dust'
 draft: true
 date: 2019-08-10T12:00:17+00:00
 slug: '201908101200-uber-promo-spending'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1160053229402517504'

@@ -3,6 +3,8 @@ title: 'Penguins in Windows: Ubuntu Arrives on Windows Store'
 draft: true
 date: 2017-07-11T18:34:50+00:00
 slug: '201707111834-penguins-in-windows'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '884737743598764032'

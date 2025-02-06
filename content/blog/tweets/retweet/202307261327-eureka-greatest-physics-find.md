@@ -3,6 +3,8 @@ title: 'Eureka! The Greatest Physics Find Nobody Gets'
 draft: true
 date: 2023-07-26T13:27:38+00:00
 slug: '202307261327-eureka-greatest-physics-find'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1684088068209516544'

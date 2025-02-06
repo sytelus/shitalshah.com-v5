@@ -3,6 +3,8 @@ title: 'Once a Virus Maker, Always Remembered'
 draft: true
 date: 2010-07-09T18:53:34+00:00
 slug: '201007091853-once-a-virus-maker-always-remembered'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '18111995435'

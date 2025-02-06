@@ -3,6 +3,8 @@ title: 'The Stack Trace Mystery Models Can''t Solve'
 draft: true
 date: 2025-01-07T05:04:08+00:00
 slug: '202501070504-stack-trace-mystery'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1876374214992945324'

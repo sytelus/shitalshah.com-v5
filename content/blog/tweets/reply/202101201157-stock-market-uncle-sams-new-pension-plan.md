@@ -3,6 +3,8 @@ title: 'Stock Market: Uncle Sam''s New Pension Plan'
 draft: true
 date: 2021-01-20T11:57:21+00:00
 slug: '202101201157-stock-market-uncle-sams-new-pension-plan'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1351740573527334914'

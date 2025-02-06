@@ -3,6 +3,8 @@ title: 'ECMO: When ''Almost Dead'' Isn''t Dead Enough'
 draft: false
 date: 2018-02-10T16:52:29+00:00
 slug: '201802101652-ecmo-almost-dead'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '962247891157839873'

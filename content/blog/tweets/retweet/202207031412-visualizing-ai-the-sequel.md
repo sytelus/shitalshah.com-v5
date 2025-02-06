@@ -3,6 +3,8 @@ title: 'Visualizing AI: The Sequel—Now with Extra Symbolism!'
 draft: true
 date: 2022-07-03T14:12:03+00:00
 slug: '202207031412-visualizing-ai-the-sequel'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1543492751055998977'

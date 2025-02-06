@@ -3,6 +3,8 @@ title: 'Thanksgiving with the JavaScript Rhino'
 draft: true
 date: 2009-11-29T16:34:47+00:00
 slug: '200911291634-thanksgiving-javascript-rhino'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '6165507596'

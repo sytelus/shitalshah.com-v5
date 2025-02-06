@@ -3,6 +3,8 @@ title: 'Follow Like Minds, Solve Problems'
 draft: true
 date: 2024-10-21T08:14:01+00:00
 slug: '202410210814-follow-like-minds-solve-problems'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1848170847057613206'

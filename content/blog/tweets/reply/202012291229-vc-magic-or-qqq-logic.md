@@ -3,6 +3,8 @@ title: 'VC Magic or QQQ Logic?'
 draft: true
 date: 2020-12-29T12:29:51+00:00
 slug: '202012291229-vc-magic-or-qqq-logic'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1343776219708342276'

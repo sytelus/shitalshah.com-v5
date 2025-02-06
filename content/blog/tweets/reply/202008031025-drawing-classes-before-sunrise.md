@@ -3,6 +3,8 @@ title: 'Drawing Classes Before Sunrise? Kids Need Zzz, Not Art'
 draft: true
 date: 2020-08-03T10:25:14+00:00
 slug: '202008031025-drawing-classes-before-sunrise'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1290126554400342018'

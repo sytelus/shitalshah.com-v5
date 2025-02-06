@@ -3,6 +3,8 @@ title: 'AI Got You Overwhelmed? There''s a Spreadsheet for That'
 draft: true
 date: 2023-01-06T13:03:01+00:00
 slug: '202301061303-ai-overwhelmed-spreadsheet'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1611226811417133056'

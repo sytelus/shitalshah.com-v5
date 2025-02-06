@@ -3,6 +3,8 @@ title: 'Monospaced Madness: 500 Fonts on Shuffle'
 draft: false
 date: 2021-02-09T13:32:39+00:00
 slug: '202102091332-monospaced-madness'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1359012313110511616'

@@ -3,6 +3,8 @@ title: 'From Data Storage to Data Stories: The 10x Enterprise Revolution'
 draft: true
 date: 2019-12-28T05:51:22+00:00
 slug: '201912280551-data-storage-to-data-stories'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1210679590261182464'

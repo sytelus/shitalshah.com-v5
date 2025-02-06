@@ -3,6 +3,8 @@ title: 'Wanna-be Jobs and the Simplicity Trap'
 draft: false
 date: 2019-11-23T16:52:52+00:00
 slug: '201911231652-wannabe-jobs-simplicity-trap'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1198162486215593984'

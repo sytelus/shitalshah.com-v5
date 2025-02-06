@@ -3,6 +3,8 @@ title: 'Open Source with No Source: The Empty Repo Trend?'
 draft: true
 date: 2023-05-05T13:47:32+00:00
 slug: '202305051347-open-source-empty-repos'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1654377269845180417'

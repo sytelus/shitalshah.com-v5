@@ -3,6 +3,8 @@ title: 'Toddler Questions That Stump Aliens'
 draft: true
 date: 2019-06-07T06:42:22+00:00
 slug: '201906070642-toddler-questions-stump-aliens'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1136780401869934592'

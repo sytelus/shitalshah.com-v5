@@ -3,6 +3,8 @@ title: 'Climb Every Mountain—in Your Gym! Thanks to 3D Models'
 draft: true
 date: 2017-05-10T15:34:00+00:00
 slug: '201705101534-climb-every-mountain-in-gym'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '862224189175943169'

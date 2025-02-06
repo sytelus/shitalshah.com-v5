@@ -3,6 +3,8 @@ title: 'Don''t Roll the Dice: Embrace Infinite AI Training'
 draft: true
 date: 2023-08-07T06:42:52+00:00
 slug: '202308070642-embrace-infinite-ai-training'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1688334856345079809'

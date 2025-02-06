@@ -3,6 +3,8 @@ title: 'Cutting the Fluff: Sharpening Open Questions'
 draft: true
 date: 2021-10-14T13:58:56+00:00
 slug: '202110141358-cutting-the-fluff-sharpening-open-questions'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1448543830110707712'

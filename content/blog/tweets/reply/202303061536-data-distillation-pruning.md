@@ -3,6 +3,8 @@ title: 'Data Distillation and Pruning: When Less is More'
 draft: true
 date: 2023-03-06T15:36:40+00:00
 slug: '202303061536-data-distillation-pruning'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1632646363535253505'

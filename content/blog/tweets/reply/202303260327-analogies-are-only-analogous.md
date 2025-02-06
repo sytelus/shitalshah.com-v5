@@ -3,6 +3,8 @@ title: 'Analogies Are Only Analogous'
 draft: true
 date: 2023-03-26T03:27:14+00:00
 slug: '202303260327-analogies-are-only-analogous'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1639725649828151296'

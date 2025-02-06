@@ -3,6 +3,8 @@ title: 'Startups Burn Cash, Big Companies Can''t Fail'
 draft: true
 date: 2019-11-16T12:31:52+00:00
 slug: '201911161231-startups-burn-cash-big-companies-cant-fail'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1195560089144320000'

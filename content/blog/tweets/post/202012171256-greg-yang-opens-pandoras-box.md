@@ -3,6 +3,8 @@ title: 'Greg Yang Opens Pandora''s Box—A Thread Worth Your Time'
 draft: false
 date: 2020-12-17T12:56:57+00:00
 slug: '202012171256-greg-yang-opens-pandoras-box'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1339434386874224640'

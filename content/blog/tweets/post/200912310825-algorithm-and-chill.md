@@ -3,6 +3,8 @@ title: 'Algorithm and Chill: Fantastic Netflix Prize Analysis'
 draft: true
 date: 2009-12-31T08:25:06+00:00
 slug: '200912310825-algorithm-and-chill'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '7214373293'

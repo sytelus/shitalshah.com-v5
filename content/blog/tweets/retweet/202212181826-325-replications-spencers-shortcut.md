@@ -3,6 +3,8 @@ title: '325 Replications Later: Spencer''s Shortcut to Psychology Studies'
 draft: true
 date: 2022-12-18T18:26:06+00:00
 slug: '202212181826-325-replications-spencers-shortcut'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1604422749149048832'

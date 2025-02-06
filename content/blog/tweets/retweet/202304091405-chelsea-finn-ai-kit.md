@@ -3,6 +3,8 @@ title: 'But Wait, There''s More! Chelsea Finn''s AI Kit Extravaganza'
 draft: true
 date: 2023-04-09T14:05:18+00:00
 slug: '202304091405-chelsea-finn-ai-kit'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1644959655506919424'

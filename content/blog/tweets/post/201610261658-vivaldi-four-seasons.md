@@ -3,6 +3,8 @@ title: 'Why Vivaldi''s ''Four Seasons'' Is Always In Season'
 draft: true
 date: 2016-10-26T16:58:50+00:00
 slug: '201610261658-vivaldi-four-seasons'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '791217514139095040'

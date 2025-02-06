@@ -3,6 +3,8 @@ title: 'Sun''s Out, Decade''s Done'
 draft: true
 date: 2011-01-01T13:05:24+00:00
 slug: '201101011305-suns-out-decades-done'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '21069456633499648'

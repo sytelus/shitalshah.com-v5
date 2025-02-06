@@ -3,6 +3,8 @@ title: 'Science Isn''t a Magic Show: Show Your Work!'
 draft: true
 date: 2018-08-15T12:46:09+00:00
 slug: '201808151246-science-isnt-a-magic-show'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1029605141387898881'

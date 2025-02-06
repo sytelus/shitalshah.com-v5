@@ -3,6 +3,8 @@ title: 'Skip Connections and MLPs: The Secret Sauce in Attention'
 draft: false
 date: 2021-03-08T16:15:05+00:00
 slug: '202103081615-skip-connections-mlps-secret-sauce'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1368837662866477059'

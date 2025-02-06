@@ -3,6 +3,8 @@ title: 'AI''s Bimodal Brilliance: PhD or Fifth Grader?'
 draft: true
 date: 2024-11-04T23:13:52+00:00
 slug: '202411042313-ai-bimodal-brilliance'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1853455629362606441'

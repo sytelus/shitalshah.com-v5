@@ -3,6 +3,8 @@ title: 'Triple Loss: Don''t Be Dumb, Stay Home'
 draft: true
 date: 2020-12-24T15:22:13+00:00
 slug: '202012241522-triple-loss-stay-home'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1342007656093904897'

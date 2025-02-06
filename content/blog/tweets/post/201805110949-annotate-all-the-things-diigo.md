@@ -3,6 +3,8 @@ title: 'Annotate All The Things: Diigo Is Life-Changing'
 draft: false
 date: 2018-05-11T09:49:48+00:00
 slug: '201805110949-annotate-all-the-things-diigo'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '994771526405840896'

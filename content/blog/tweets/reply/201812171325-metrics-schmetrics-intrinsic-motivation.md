@@ -3,6 +3,8 @@ title: 'Metrics Schmetrics: Let Creativity Thrive on Intrinsic Motivation'
 draft: true
 date: 2018-12-17T13:25:03+00:00
 slug: '201812171325-metrics-schmetrics-intrinsic-motivation'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1074535926888452096'

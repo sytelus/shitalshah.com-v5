@@ -3,6 +3,8 @@ title: 'Hand-Waving Humans and the Devil in the Data'
 draft: true
 date: 2024-10-28T19:14:26+00:00
 slug: '202410281914-hand-waving-humans-devil-data'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1850873758762049939'

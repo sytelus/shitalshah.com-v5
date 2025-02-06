@@ -3,6 +3,8 @@ title: 'Mother Nature''s VIP List: Protected Areas on Google Maps'
 draft: true
 date: 2010-10-22T07:06:26+00:00
 slug: '201010220706-mother-natures-vip-list-google-maps'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '28073703073'

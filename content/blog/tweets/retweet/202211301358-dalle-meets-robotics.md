@@ -3,6 +3,8 @@ title: 'When DALL-E Met Robotics: A Summer Innovation'
 draft: true
 date: 2022-11-30T13:58:23+00:00
 slug: '202211301358-dalle-meets-robotics'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1597832393603559424'

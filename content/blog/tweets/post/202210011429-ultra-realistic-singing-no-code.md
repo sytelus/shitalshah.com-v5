@@ -3,6 +3,8 @@ title: 'Ultra-Realistic Singing from Sheet Music—But No Code'
 draft: false
 date: 2022-10-01T14:29:55+00:00
 slug: '202210011429-ultra-realistic-singing-no-code'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1576112155254231041'

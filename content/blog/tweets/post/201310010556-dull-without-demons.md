@@ -3,6 +3,8 @@ title: 'Won''t It Be Dull Without Our Demons?'
 draft: true
 date: 2013-10-01T05:56:00+00:00
 slug: '201310010556-dull-without-demons'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '384813909527367680'

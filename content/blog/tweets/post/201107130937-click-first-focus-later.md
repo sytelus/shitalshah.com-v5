@@ -3,6 +3,8 @@ title: 'Click First, Focus Later: The Camera That Lets You Refocus Your Shots'
 draft: true
 date: 2011-07-13T09:37:37+00:00
 slug: '201107130937-click-first-focus-later'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '90973125335973888'

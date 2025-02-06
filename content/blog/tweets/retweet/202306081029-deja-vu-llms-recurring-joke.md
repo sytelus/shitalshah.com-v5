@@ -3,6 +3,8 @@ title: 'Déjà Vu: LLMs and the Recurring Joke'
 draft: true
 date: 2023-06-08T10:29:25+00:00
 slug: '202306081029-deja-vu-llms-recurring-joke'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1666648600393441282'

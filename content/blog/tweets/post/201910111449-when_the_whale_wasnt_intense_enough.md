@@ -3,6 +3,8 @@ title: 'When The Whale Wasn''t Intense Enough'
 draft: false
 date: 2019-10-11T14:49:19+00:00
 slug: '201910111449-when_the_whale_wasnt_intense_enough'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1182563818070859777'

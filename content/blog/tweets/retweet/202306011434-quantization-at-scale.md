@@ -3,6 +3,8 @@ title: 'Quantization at Scale: Tiny Bits, Huge Impact'
 draft: true
 date: 2023-06-01T14:34:46+00:00
 slug: '202306011434-quantization-at-scale'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1664173629419196422'

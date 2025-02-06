@@ -3,6 +3,8 @@ title: 'Answering for Knowledge, Curiosity, or Just a Little Push'
 draft: true
 date: 2010-02-25T08:28:13+00:00
 slug: '201002250828-answering-for-knowledge-curiosity-push'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '9600632051'

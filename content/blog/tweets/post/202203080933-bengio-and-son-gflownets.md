@@ -3,6 +3,8 @@ title: 'Bengio & Son: Family Flows in GFlowNets'
 draft: false
 date: 2022-03-08T09:33:14+00:00
 slug: '202203080933-bengio-and-son-gflownets'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1501008108054712320'

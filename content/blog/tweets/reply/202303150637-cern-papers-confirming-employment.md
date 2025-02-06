@@ -3,6 +3,8 @@ title: 'CERN Papers: Confirming Employment One Citation at a Time'
 draft: true
 date: 2023-03-15T06:37:43+00:00
 slug: '202303150637-cern-papers-confirming-employment'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1635787319365210112'

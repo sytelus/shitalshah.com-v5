@@ -3,6 +3,8 @@ title: 'Greg Yang''s Unbounded Bold Vision: Leveling Up!'
 draft: true
 date: 2023-07-13T13:28:37+00:00
 slug: '202307131328-greg-yang-bold-vision'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1679377272812482561'

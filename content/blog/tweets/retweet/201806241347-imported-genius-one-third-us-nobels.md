@@ -3,6 +3,8 @@ title: 'Imported Genius: One-Third of U.S. Science Nobels by Immigrants'
 draft: true
 date: 2018-06-24T13:47:29+00:00
 slug: '201806241347-imported-genius-one-third-us-nobels'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1010776407788535808'

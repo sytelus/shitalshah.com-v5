@@ -3,6 +3,8 @@ title: 'Introducing Tort: The Task Mortality Metric'
 draft: false
 date: 2020-04-20T12:59:39+00:00
 slug: '202004201259-introducing-tort'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1252114689904963585'

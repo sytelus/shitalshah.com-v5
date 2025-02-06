@@ -3,6 +3,8 @@ title: 'Getting Deep with YouTube Motion'
 draft: false
 date: 2019-05-24T14:51:44+00:00
 slug: '201905241451-getting-deep-with-youtube-motion'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1131830124783886336'

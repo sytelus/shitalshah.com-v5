@@ -3,6 +3,8 @@ title: 'The High Cost of Free Deals'
 draft: false
 date: 2019-02-19T17:43:50+00:00
 slug: '201902191743-high_cost_of_free_deals'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1097793876419432449'

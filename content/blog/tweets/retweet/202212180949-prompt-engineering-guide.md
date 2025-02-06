@@ -3,6 +3,8 @@ title: 'Promptly Engineering: New Guide Released!'
 draft: true
 date: 2022-12-18T09:49:09+00:00
 slug: '202212180949-prompt-engineering-guide'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1604292654774202368'

@@ -3,6 +3,8 @@ title: 'Why AI Can''t Play Calvinball'
 draft: true
 date: 2018-12-28T11:55:51+00:00
 slug: '201812281155-why-ai-cant-play-calvinball'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1078499745247580160'

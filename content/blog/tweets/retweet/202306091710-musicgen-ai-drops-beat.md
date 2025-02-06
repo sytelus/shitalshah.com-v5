@@ -3,6 +3,8 @@ title: 'Unleashing MusicGen: When AI Drops the Beat!'
 draft: true
 date: 2023-06-09T17:10:31+00:00
 slug: '202306091710-musicgen-ai-drops-beat'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1667111925879291908'

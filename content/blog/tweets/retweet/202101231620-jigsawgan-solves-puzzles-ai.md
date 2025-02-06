@@ -3,6 +3,8 @@ title: 'Piece It Together: JigsawGAN Solves Puzzles with AI'
 draft: true
 date: 2021-01-23T16:20:02+00:00
 slug: '202101231620-jigsawgan-solves-puzzles-ai'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1352893844837212160'

@@ -3,6 +3,8 @@ title: 'From Moonshots to Mega Yachts: How the Rich Spend Their Fortune'
 draft: true
 date: 2020-12-17T15:24:17+00:00
 slug: '202012171524-from-moonshots-to-mega-yachts'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1339471461325570049'

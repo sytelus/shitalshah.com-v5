@@ -3,6 +3,8 @@ title: 'AirSim Flies into FSR Conference'
 draft: true
 date: 2017-07-20T01:49:12+00:00
 slug: '201707200149-airsim-flies-into-fsr'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '887746157220442112'

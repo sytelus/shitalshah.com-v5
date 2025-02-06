@@ -3,6 +3,8 @@ title: 'Tesla’s Self-Driving Hardware Hits the Road'
 draft: true
 date: 2016-10-20T07:46:19+00:00
 slug: '201610200746-tesla-self-driving-hardware'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '788904143339466752'

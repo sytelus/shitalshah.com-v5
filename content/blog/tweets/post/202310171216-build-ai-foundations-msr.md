@@ -3,6 +3,8 @@ title: 'Build AI Foundations at Microsoft Research!'
 draft: false
 date: 2023-10-17T12:16:23+00:00
 slug: '202310171216-build-ai-foundations-msr'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1714148327233912885'

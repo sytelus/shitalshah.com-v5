@@ -3,6 +3,8 @@ title: 'A Stroke of Genius: AI Sketches Guided by Vector Flow'
 draft: true
 date: 2020-12-17T14:57:53+00:00
 slug: '202012171457-ai-sketches-vector-flow'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1339464818135191552'

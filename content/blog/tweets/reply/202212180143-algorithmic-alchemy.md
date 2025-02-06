@@ -3,6 +3,8 @@ title: 'Algorithmic Alchemy: Turning Time into Space'
 draft: true
 date: 2022-12-18T01:43:34+00:00
 slug: '202212180143-algorithmic-alchemy'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1604170452850839552'

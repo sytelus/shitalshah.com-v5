@@ -3,6 +3,8 @@ title: 'Windows 7 Support Just a Tweet Away!'
 draft: true
 date: 2009-10-17T14:09:52+00:00
 slug: '200910171409-windows7-support-twitter'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '4937745255'

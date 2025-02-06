@@ -3,6 +3,8 @@ title: 'When Diagrams Level Up: Brian Douglas Edition'
 draft: true
 date: 2020-12-29T13:33:10+00:00
 slug: '202012291333-when-diagrams-level-up'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1343792154099863552'

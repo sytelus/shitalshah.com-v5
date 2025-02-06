@@ -3,6 +3,8 @@ title: 'Passion: Batteries Not Included'
 draft: true
 date: 2011-07-08T13:45:48+00:00
 slug: '201107081345-passion-batteries-not-included'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '89223639790141440'

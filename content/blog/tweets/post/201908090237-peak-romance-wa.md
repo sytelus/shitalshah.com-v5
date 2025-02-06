@@ -3,6 +3,8 @@ title: 'Peak Romance: Washington''s Mountaintop Weddings'
 draft: false
 date: 2019-08-09T02:37:58+00:00
 slug: '201908090237-peak-romance-wa'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1159549332296785924'

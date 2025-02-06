@@ -3,6 +3,8 @@ title: 'Stormy Hikes and Snow Dust Delights at Snoqualmie Falls'
 draft: true
 date: 2008-12-21T07:55:48+00:00
 slug: '200812210755-stormy-snoqualmie-hike'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1069721531'

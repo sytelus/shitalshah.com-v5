@@ -3,6 +3,8 @@ title: 'Zip It Good: LLMs Take on Text Compression'
 draft: true
 date: 2023-06-08T09:36:32+00:00
 slug: '202306080936-llmzip-text-compression'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1666635290323083265'

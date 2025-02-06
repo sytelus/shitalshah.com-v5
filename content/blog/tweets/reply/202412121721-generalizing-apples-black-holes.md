@@ -3,6 +3,8 @@ title: 'Generalizing from Apples to Black Holes'
 draft: true
 date: 2024-12-12T17:21:00+00:00
 slug: '202412121721-generalizing-apples-black-holes'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1867137565624811781'

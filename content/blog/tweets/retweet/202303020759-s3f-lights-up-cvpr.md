@@ -3,6 +3,8 @@ title: 'S3F Lights Up CVPR with Relightable Avatars'
 draft: true
 date: 2023-03-02T07:59:11+00:00
 slug: '202303020759-s3f-lights-up-cvpr'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1631081681733160961'

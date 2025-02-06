@@ -3,6 +3,8 @@ title: 'Small Data, Big Gains: Pre-training Revolution'
 draft: false
 date: 2023-02-03T15:25:19+00:00
 slug: '202302031525-small-data-big-gains-pre-training-revolution'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1621409482474676224'

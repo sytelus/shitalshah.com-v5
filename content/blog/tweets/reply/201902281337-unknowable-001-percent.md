@@ -3,6 +3,8 @@ title: 'The Unknowable 0.01%'
 draft: true
 date: 2019-02-28T13:37:43+00:00
 slug: '201902281337-unknowable-001-percent'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1100993429784285184'

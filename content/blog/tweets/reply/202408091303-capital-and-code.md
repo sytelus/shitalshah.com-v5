@@ -3,6 +3,8 @@ title: 'Capital and Code: Piketty and Knuth'
 draft: true
 date: 2024-08-09T13:03:14+00:00
 slug: '202408091303-capital-and-code'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1821789316701626841'

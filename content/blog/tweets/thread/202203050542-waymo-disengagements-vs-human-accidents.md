@@ -3,6 +3,8 @@ title: 'Waymo to Go? Disengagements Every 12K Miles vs. Human Accidents Every 50
 draft: false
 date: 2022-03-05T05:42:17+00:00
 slug: '202203050542-waymo-disengagements-vs-human-accidents'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1499862819876982784'

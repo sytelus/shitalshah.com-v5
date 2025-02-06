@@ -3,6 +3,8 @@ title: 'Move Over, Buffett: Microsoft''s 2160X Return in 40 Years'
 draft: false
 date: 2021-01-20T13:08:40+00:00
 slug: '202101201308-move-over-buffett-microsoft-2160x'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1351758521306550272'

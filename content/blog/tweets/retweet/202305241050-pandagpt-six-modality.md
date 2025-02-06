@@ -3,6 +3,8 @@ title: 'PandaGPT: The Six-Modality Instruction Follower'
 draft: true
 date: 2023-05-24T10:50:58+00:00
 slug: '202305241050-pandagpt-six-modality'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1661218204792791040'

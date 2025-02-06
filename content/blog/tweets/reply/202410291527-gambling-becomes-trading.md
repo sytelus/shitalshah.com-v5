@@ -3,6 +3,8 @@ title: 'Wait, Is Gambling Just Trading in Disguise?'
 draft: true
 date: 2024-10-29T15:27:57+00:00
 slug: '202410291527-gambling-becomes-trading'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1851179150918525331'

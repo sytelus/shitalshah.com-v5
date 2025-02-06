@@ -3,6 +3,8 @@ title: 'Mind Blown by Deep Learning''s Implicit Regularization'
 draft: true
 date: 2021-01-07T21:18:39+00:00
 slug: '202101072118-mind-blown-implicit-regularization'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1347170786348421120'

@@ -3,6 +3,8 @@ title: 'Lost Finale Loses the Plot'
 draft: true
 date: 2010-05-26T15:10:34+00:00
 slug: '201005261510-lost-finale-loses-the-plot'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '14749744312'

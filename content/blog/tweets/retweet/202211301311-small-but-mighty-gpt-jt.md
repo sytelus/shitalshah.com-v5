@@ -3,6 +3,8 @@ title: 'Small but Mighty: GPT-JT Beats the Big Boys'
 draft: true
 date: 2022-11-30T13:11:28+00:00
 slug: '202211301311-small-but-mighty-gpt-jt'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1597820587371814912'

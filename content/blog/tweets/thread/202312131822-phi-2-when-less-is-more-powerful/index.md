@@ -3,6 +3,8 @@ title: 'Phi-2: When Less Is More Powerful'
 draft: false
 date: 2023-12-13T18:22:51+00:00
 slug: '202312131822-phi-2-when-less-is-more-powerful'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1734881560271454525'

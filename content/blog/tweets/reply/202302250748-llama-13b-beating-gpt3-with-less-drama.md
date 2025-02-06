@@ -3,6 +3,8 @@ title: 'LLaMA-13B: Beating GPT-3 With Less Drama'
 draft: true
 date: 2023-02-25T07:48:18+00:00
 slug: '202302250748-llama-13b-beating-gpt3-with-less-drama'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1629267001620267013'

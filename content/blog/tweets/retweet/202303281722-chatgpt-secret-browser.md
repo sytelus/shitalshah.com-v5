@@ -3,6 +3,8 @@ title: 'ChatGPT and the Secret Browser: Unmasking the Hidden Prompt'
 draft: true
 date: 2023-03-28T17:22:26+00:00
 slug: '202303281722-chatgpt-secret-browser'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1640660610286522369'

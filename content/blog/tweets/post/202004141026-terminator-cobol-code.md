@@ -3,6 +3,8 @@ title: 'Terminator''s Secret Language: COBOL'
 draft: false
 date: 2020-04-14T10:26:05+00:00
 slug: '202004141026-terminator-cobol-code'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1249901716822093826'

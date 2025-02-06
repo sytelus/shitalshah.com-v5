@@ -3,6 +3,8 @@ title: 'PyTorch Overtakes TensorFlow in arXiv Papers'
 draft: false
 date: 2019-08-06T06:01:52+00:00
 slug: '201908060601-pytorch-overtakes-tensorflow-arxiv'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1158513480455950336'

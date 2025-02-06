@@ -3,6 +3,8 @@ title: 'Computer Science Misnomer'
 draft: false
 date: 2020-12-19T14:24:03+00:00
 slug: '202012191424-computer-science-misnomer'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1340181081190924289'

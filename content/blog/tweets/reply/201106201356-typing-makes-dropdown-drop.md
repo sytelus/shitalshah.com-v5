@@ -3,6 +3,8 @@ title: 'When Typing Makes Dropdowns Drop: IE9 & Firefox Follies'
 draft: true
 date: 2011-06-20T13:56:26+00:00
 slug: '201106201356-typing-makes-dropdown-drop'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '82703334141730816'

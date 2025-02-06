@@ -3,6 +3,8 @@ title: 'Water Beats the Times: Zuckerberg''s Desert Tale'
 draft: true
 date: 2012-04-11T12:49:00+00:00
 slug: '201204111249-water-beats-the-times'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '189953173266513921'

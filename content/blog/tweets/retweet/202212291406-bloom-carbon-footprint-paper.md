@@ -3,6 +3,8 @@ title: 'BLOOM''s Carbon Footprint Paper Sprouts!'
 draft: true
 date: 2022-12-29T14:06:06+00:00
 slug: '202212291406-bloom-carbon-footprint-paper'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1608343585371615232'

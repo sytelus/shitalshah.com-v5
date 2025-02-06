@@ -3,6 +3,8 @@ title: 'Fractals All the Way Down: Brownian Motion Explored'
 draft: true
 date: 2010-02-25T05:23:56+00:00
 slug: '201002250523-fractals-all-the-way-down'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '9593271808'

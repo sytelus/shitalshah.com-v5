@@ -3,6 +3,8 @@ title: 'Text Leaderboards? So Passé—Enter Multimodal AI with Planning'
 draft: false
 date: 2024-05-07T11:29:38+00:00
 slug: '202405071129-text-leaderboards-so-passe'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1787701298986635310'

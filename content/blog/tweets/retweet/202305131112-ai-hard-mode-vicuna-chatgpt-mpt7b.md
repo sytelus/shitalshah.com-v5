@@ -3,6 +3,8 @@ title: 'AI on Hard Mode: Vicuna, ChatGPT, and MPT-7B Take the Challenge'
 draft: true
 date: 2023-05-13T11:12:56+00:00
 slug: '202305131112-ai-hard-mode-vicuna-chatgpt-mpt7b'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1657237467404312576'

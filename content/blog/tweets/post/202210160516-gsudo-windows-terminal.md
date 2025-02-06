@@ -3,6 +3,8 @@ title: 'gsudo: The sudo Windows Always Wanted'
 draft: false
 date: 2022-10-16T05:16:42+00:00
 slug: '202210160516-gsudo-windows-terminal'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1581408753529692161'

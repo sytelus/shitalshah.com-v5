@@ -3,6 +3,8 @@ title: 'Copilot Confidential: Inside the AI That''s Writing Your Code'
 draft: true
 date: 2022-12-19T12:15:09+00:00
 slug: '202212191215-copilot-confidential'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1604691784982212608'

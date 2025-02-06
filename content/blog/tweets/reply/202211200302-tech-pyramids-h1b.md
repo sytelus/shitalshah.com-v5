@@ -3,6 +3,8 @@ title: 'Tech''s Pyramids: Built on H1B Shoulders'
 draft: true
 date: 2022-11-20T03:02:55+00:00
 slug: '202211200302-tech-pyramids-h1b'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1594043559036223488'

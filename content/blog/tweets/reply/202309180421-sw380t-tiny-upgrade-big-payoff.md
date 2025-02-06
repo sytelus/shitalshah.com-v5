@@ -3,6 +3,8 @@ title: 'SW380T: Tiny Upgrade, Big Payoff'
 draft: true
 date: 2023-09-18T04:21:51+00:00
 slug: '202309180421-sw380t-tiny-upgrade-big-payoff'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1703519658329198949'

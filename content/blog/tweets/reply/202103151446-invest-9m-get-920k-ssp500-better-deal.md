@@ -3,6 +3,8 @@ title: 'Invest $9M, Get $920K—Is the S&P 500 a Better Deal?'
 draft: true
 date: 2021-03-15T14:46:24+00:00
 slug: '202103151446-invest-9m-get-920k-ssp500-better-deal'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1371367160522534920'

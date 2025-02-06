@@ -3,6 +3,8 @@ title: 'Same Old Tech, Different Paint'
 draft: true
 date: 2024-12-15T13:22:31+00:00
 slug: '202412151322-same-old-tech-different-paint'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1868164714427224131'

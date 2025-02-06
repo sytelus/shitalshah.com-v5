@@ -3,6 +3,8 @@ title: 'Into the PIT for OTR: The Largest Cavers'' Gathering'
 draft: true
 date: 2010-09-02T02:18:21+00:00
 slug: '201009020218-into-the-pit-for-otr'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '22733805615'

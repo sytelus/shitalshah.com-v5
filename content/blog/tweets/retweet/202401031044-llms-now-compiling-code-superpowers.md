@@ -3,6 +3,8 @@ title: 'LLMs Now Compiling: Code Superpowers Unleashed'
 draft: true
 date: 2024-01-03T10:44:24+00:00
 slug: '202401031044-llms-now-compiling-code-superpowers'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1742376333173555339'

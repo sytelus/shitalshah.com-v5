@@ -3,6 +3,8 @@ title: 'Hooked on Fish🐟: New Algorithm for Domain Generalization'
 draft: true
 date: 2021-10-31T16:37:01+00:00
 slug: '202110311637-fish-algorithm-release'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1454744205813641217'

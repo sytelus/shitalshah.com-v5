@@ -3,6 +3,8 @@ title: 'Abelson & Sussman''s Lectures: The Best Thing Since Binary'
 draft: true
 date: 2009-12-14T11:11:18+00:00
 slug: '200912141111-best-thing-since-binary'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '6649738106'

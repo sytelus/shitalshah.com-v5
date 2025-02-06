@@ -3,6 +3,8 @@ title: 'Cabin Creek Skiing: When 4 Inches Isn''t Enough'
 draft: true
 date: 2010-04-04T06:51:20+00:00
 slug: '201004040651-cabin-creek-skiing-when-4-inches-isnt-enough'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '11558989750'

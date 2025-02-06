@@ -3,6 +3,8 @@ title: 'When Math Explains But Doesn''t Cause'
 draft: true
 date: 2018-10-21T12:39:55+00:00
 slug: '201810211239-when-math-explains-but-doesnt-cause'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1053883560271077376'

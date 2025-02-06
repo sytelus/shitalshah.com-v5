@@ -3,6 +3,8 @@ title: 'Cheap Humidifiers: Cute Packaging, Moldy Outcomes'
 draft: true
 date: 2018-12-23T17:10:39+00:00
 slug: '201812231710-cheap-humidifiers-moldy-outcomes'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1076767026134171653'

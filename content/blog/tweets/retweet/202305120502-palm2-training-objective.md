@@ -3,6 +3,8 @@ title: 'PaLM2 Spills the Beans: Training Objective Matters'
 draft: true
 date: 2023-05-12T05:02:45+00:00
 slug: '202305120502-palm2-training-objective'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1656781917302456320'

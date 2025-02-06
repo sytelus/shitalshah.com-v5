@@ -3,6 +3,8 @@ title: 'Moon''s Crash Course: 60 Seconds of Mayhem'
 draft: true
 date: 2020-12-20T06:27:40+00:00
 slug: '202012200627-moons-crash-course'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1340423583709851648'

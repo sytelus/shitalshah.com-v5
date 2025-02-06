@@ -3,6 +3,8 @@ title: 'Programming Computers Using Natural Language: A 1970s Joke'
 draft: true
 date: 2021-04-27T13:37:28+00:00
 slug: '202104271337-programming-computers-natural-language-joke'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1386932491517267974'

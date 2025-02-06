@@ -3,6 +3,8 @@ title: 'Finally, a ''God'' Even a Scientist Can Believe In'
 draft: true
 date: 2022-11-10T04:15:46+00:00
 slug: '202211100415-god-a-scientist-can-believe'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1590438016870682624'

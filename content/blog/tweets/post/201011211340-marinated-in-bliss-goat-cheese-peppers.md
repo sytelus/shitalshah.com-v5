@@ -3,6 +3,8 @@ title: 'Marinated in Bliss: Discovering Goat Cheese Sweet Peppers at Costco'
 draft: true
 date: 2010-11-21T13:40:26+00:00
 slug: '201011211340-marinated-in-bliss-goat-cheese-peppers'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '6220369430061057'

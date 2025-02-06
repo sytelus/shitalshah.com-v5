@@ -3,6 +3,8 @@ title: 'GPT-4''s Albuquerque Quirk: The ''Q'' That Triggers New Mexico'
 draft: true
 date: 2024-11-04T06:42:03+00:00
 slug: '202411040642-gpt4-albuquerque-quirk'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1853206032258134197'

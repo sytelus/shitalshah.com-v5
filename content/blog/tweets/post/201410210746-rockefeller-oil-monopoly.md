@@ -3,6 +3,8 @@ title: 'Rockefeller''s Oil Monopoly: Swimming in Black Gold'
 draft: true
 date: 2014-10-21T07:46:35+00:00
 slug: '201410210746-rockefeller-oil-monopoly'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '524361067208507393'

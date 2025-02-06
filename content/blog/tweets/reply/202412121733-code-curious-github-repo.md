@@ -3,6 +3,8 @@ title: 'Code Curious: Where''s the GitHub Repo?'
 draft: true
 date: 2024-12-12T17:33:59+00:00
 slug: '202412121733-code-curious-github-repo'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1867140836368224301'

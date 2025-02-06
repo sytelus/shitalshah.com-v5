@@ -3,6 +3,8 @@ title: 'Got Python Hotspots? Numba-JIT Them Away!'
 draft: false
 date: 2019-10-16T19:55:31+00:00
 slug: '201910161955-numba-jit-python-hotspots'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1184452815147552768'

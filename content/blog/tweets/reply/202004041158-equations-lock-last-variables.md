@@ -3,6 +3,8 @@ title: 'When Equations Lock Down the Last Variables'
 draft: true
 date: 2020-04-04T11:58:30+00:00
 slug: '202004041158-equations-lock-last-variables'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1246301094860296194'

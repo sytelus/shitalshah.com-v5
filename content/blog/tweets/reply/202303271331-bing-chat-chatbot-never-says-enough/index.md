@@ -3,6 +3,8 @@ title: 'Bing Chat: The Chatbot That Never Says Enough!'
 draft: true
 date: 2023-03-27T13:31:24+00:00
 slug: '202303271331-bing-chat-chatbot-never-says-enough'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1640240080697823232'

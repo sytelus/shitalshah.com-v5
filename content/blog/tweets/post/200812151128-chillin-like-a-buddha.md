@@ -3,6 +3,8 @@ title: 'Chillin'' Like a Buddha'
 draft: true
 date: 2008-12-15T11:28:25+00:00
 slug: '200812151128-chillin-like-a-buddha'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1057829008'

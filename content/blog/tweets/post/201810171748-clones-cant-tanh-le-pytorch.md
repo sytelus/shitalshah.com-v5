@@ -3,6 +3,8 @@ title: 'Clones Can''t tanh-le PyTorch'
 draft: false
 date: 2018-10-17T17:48:51+00:00
 slug: '201810171748-clones-cant-tanh-le-pytorch'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1052511754574475264'

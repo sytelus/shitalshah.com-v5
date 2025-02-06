@@ -3,6 +3,8 @@ title: 'Zooming Between Pixels: AI''s Continuous Vision'
 draft: true
 date: 2020-12-20T06:12:33+00:00
 slug: '202012200612-zooming-between-pixels'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1340419777299288064'

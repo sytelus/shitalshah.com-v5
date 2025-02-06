@@ -3,6 +3,8 @@ title: 'Blame Einstein: When Light Speed Limits Internet Speed'
 draft: true
 date: 2014-11-17T13:37:28+00:00
 slug: '201411171337-blame-einstein-internet-speed'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '534218743367221248'

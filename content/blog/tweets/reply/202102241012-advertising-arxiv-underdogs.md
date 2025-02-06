@@ -3,6 +3,8 @@ title: 'Advertising arXiv: Let the Underdogs Shine'
 draft: true
 date: 2021-02-24T10:12:58+00:00
 slug: '202102241012-advertising-arxiv-underdogs'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1364397879796797441'

@@ -3,6 +3,8 @@ title: 'Don''t Reinforce Regret—Apply to RL Open Source Fest 2021!'
 draft: true
 date: 2021-03-01T22:36:27+00:00
 slug: '202103012236-dont-reinforce-regret'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1366396922458558467'

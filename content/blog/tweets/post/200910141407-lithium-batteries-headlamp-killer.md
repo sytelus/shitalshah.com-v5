@@ -3,6 +3,8 @@ title: 'Lithium Batteries: The Headlamp Killer'
 draft: true
 date: 2009-10-14T14:07:37+00:00
 slug: '200910141407-lithium-batteries-headlamp-killer'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '4856824072'

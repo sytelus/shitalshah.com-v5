@@ -3,6 +3,8 @@ title: 'Comcast''s Chatbot and the Illusion of Hard Work'
 draft: false
 date: 2019-11-14T11:33:46+00:00
 slug: '201911141133-comcast-chatbot-illusion'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1194820690886742016'

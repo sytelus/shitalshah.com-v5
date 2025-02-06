@@ -3,6 +3,8 @@ title: 'Microsoft''s ''Smol'' Marvel: Phi-4 Unveiled'
 draft: false
 date: 2024-12-13T11:04:46+00:00
 slug: '202412131104-microsoft-phi-4-smol-marvel'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1867405273255796968'

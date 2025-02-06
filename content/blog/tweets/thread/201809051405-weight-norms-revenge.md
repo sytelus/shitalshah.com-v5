@@ -3,6 +3,8 @@ title: 'Weight Norm''s Revenge: Equivalence with Batch Norm and L2 Reg'
 draft: false
 date: 2018-09-05T14:05:14+00:00
 slug: '201809051405-weight-norms-revenge'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1037235190244855810'

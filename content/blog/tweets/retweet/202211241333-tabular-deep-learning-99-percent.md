@@ -3,6 +3,8 @@ title: 'Tabular Deep Learning: 99.9% Useless, 100% Appreciated'
 draft: true
 date: 2022-11-24T13:33:00+00:00
 slug: '202211241333-tabular-deep-learning-99-percent'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1595651676928561154'

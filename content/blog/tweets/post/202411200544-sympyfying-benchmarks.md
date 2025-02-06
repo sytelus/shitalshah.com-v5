@@ -3,6 +3,8 @@ title: 'SymPy-fying Benchmarks: FrontierMath''s Big Unlock'
 draft: false
 date: 2024-11-20T05:44:03+00:00
 slug: '202411200544-sympyfying-benchmarks'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1858989641174839425'

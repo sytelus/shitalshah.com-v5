@@ -3,6 +3,8 @@ title: 'No Body? No Problem! LMs and Language Understanding'
 draft: false
 date: 2020-10-23T20:07:00+00:00
 slug: '202010232007-no-body-no-problem'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1319626376308088832'

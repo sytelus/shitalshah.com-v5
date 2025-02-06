@@ -3,6 +3,8 @@ title: 'Mount Si: Nature''s Maxed-Out Treadmill'
 draft: true
 date: 2010-10-21T06:27:52+00:00
 slug: '201010210627-mount-si-natures-maxed-out-treadmill'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '27974766580'

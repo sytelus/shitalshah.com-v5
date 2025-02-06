@@ -3,6 +3,8 @@ title: 'Starry Mega-Mosaic: Interactive Sky from 1000s of Photos'
 draft: true
 date: 2011-05-22T14:06:32+00:00
 slug: '201105221406-starry-mega-mosaic'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '72196629972783104'

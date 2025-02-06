@@ -3,6 +3,8 @@ title: 'Seven Times the Charm: Understanding the Rule of 7'
 draft: true
 date: 2012-05-11T13:28:00+00:00
 slug: '201205111328-seven-times-the-charm'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '200834625126404097'

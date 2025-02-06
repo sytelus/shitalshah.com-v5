@@ -3,6 +3,8 @@ title: 'Xbox to iPad Gen 3: "Do You Even Gflop, Bro?"'
 draft: true
 date: 2012-04-17T15:30:05+00:00
 slug: '201204171530-do-you-even-gflop-bro'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '192168038454398976'

@@ -3,6 +3,8 @@ title: 'GPT-NeoX-20B Slimmed Down: Runs on a Single GPU'
 draft: true
 date: 2022-04-07T08:22:14+00:00
 slug: '202204070822-gpt-neox-20b-single-gpu'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1511876972820852741'

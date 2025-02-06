@@ -3,6 +3,8 @@ title: 'Robots Fighting Physics? Go with the Flow!'
 draft: true
 date: 2019-02-19T23:05:23+00:00
 slug: '201902192305-robots-fighting-physics'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1097874797579591680'

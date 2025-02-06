@@ -3,6 +3,8 @@ title: 'Art Battle Royale: DALL-E vs Midjourney vs StableDiffusion'
 draft: true
 date: 2022-08-21T08:54:05+00:00
 slug: '202208210854-ai-art-battle-dalle-midjourney-stable-diffusion'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1561169736704004097'

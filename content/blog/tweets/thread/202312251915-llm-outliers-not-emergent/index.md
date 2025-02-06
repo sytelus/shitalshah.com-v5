@@ -3,6 +3,8 @@ title: 'LLM Outliers: Not So Emergent After All!'
 draft: false
 date: 2023-12-25T19:15:37+00:00
 slug: '202312251915-llm-outliers-not-emergent'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1739243496916349209'

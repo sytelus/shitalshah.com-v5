@@ -3,6 +3,8 @@ title: 'Small Wonder: 20B Encoder-Decoder Beats 70B Chinchilla'
 draft: false
 date: 2022-09-13T06:35:56+00:00
 slug: '202209130635-20b-encoder-beats-70b-chinchilla'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1569469891744526337'

@@ -3,6 +3,8 @@ title: 'Nature''s GPS: Dishes and Trees Point South'
 draft: false
 date: 2018-05-06T14:59:25+00:00
 slug: '201805061459-dishes-trees-point-south'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '993037503597707264'

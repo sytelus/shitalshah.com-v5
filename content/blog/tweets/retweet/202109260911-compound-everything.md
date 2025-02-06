@@ -3,6 +3,8 @@ title: 'Compound Everything: Naval''s Life Hack'
 draft: true
 date: 2021-09-26T09:11:06+00:00
 slug: '202109260911-compound-everything'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1441948411951915011'

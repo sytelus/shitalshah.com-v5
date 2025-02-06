@@ -3,6 +3,8 @@ title: 'LeCun on Classical ML Frameworks: N Layers Includes N=1'
 draft: false
 date: 2018-05-03T13:23:16+00:00
 slug: '201805031323-lecun-n-layers-includes-one'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '991926143665106944'

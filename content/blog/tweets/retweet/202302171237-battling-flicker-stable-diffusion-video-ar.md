@@ -3,6 +3,8 @@ title: 'Battling the Flicker: Stable Diffusion Takes on Video and AR'
 draft: true
 date: 2023-02-17T12:37:38+00:00
 slug: '202302171237-battling-flicker-stable-diffusion-video-ar'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1626440712773570563'

@@ -3,6 +3,8 @@ title: 'Variable Suspects: Programming the Perfect Murder Mystery'
 draft: true
 date: 2023-03-29T09:04:07+00:00
 slug: '202303290904-variable-suspects'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1640897592338051074'

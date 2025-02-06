@@ -3,6 +3,8 @@ title: 'Revisiting Scaling Laws: Cooking Up Reliable Estimates'
 draft: true
 date: 2022-09-15T15:45:22+00:00
 slug: '202209151545-revisiting-scaling-laws'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1570332938344222723'

@@ -3,6 +3,8 @@ title: 'HELM v0.2.0 Sets Sail: Evaluating OpenAI and AI21Labs Models'
 draft: true
 date: 2023-01-04T15:56:04+00:00
 slug: '202301041556-helm-v0-2-0-openai-ai21labs-evaluation'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1610545585828016128'

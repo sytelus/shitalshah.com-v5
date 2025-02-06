@@ -3,6 +3,8 @@ title: 'Can Great Training Save a Bad Model?'
 draft: true
 date: 2024-01-06T10:06:16+00:00
 slug: '202401061006-can-great-training-save-bad-model'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1743453903163998215'

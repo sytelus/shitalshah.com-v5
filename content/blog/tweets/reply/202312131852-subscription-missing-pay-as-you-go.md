@@ -3,6 +3,8 @@ title: 'Subscription Missing? Pay as You Go!'
 draft: true
 date: 2023-12-13T18:52:21+00:00
 slug: '202312131852-subscription-missing-pay-as-you-go'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1734888986710278522'

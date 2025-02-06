@@ -3,6 +3,8 @@ title: 'X-Men Movie Was Meh, But That Scene Was Way Cool'
 draft: true
 date: 2015-02-07T20:25:16+00:00
 slug: '201502072025-xmen-meh-movie-way-cool-scene'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '564037174899642368'

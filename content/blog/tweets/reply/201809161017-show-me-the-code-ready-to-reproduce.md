@@ -3,6 +3,8 @@ title: 'Show Me the Code: Ready to Reproduce!'
 draft: true
 date: 2018-09-16T10:17:41+00:00
 slug: '201809161017-show-me-the-code-ready-to-reproduce'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1041164188494622721'

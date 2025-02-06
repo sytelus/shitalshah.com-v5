@@ -3,6 +3,8 @@ title: 'Borland Bytes the Dust: Remembering Turbo Pascal and Turbo C++'
 draft: true
 date: 2009-08-05T14:06:43+00:00
 slug: '200908051406-borland-bytes-the-dust'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '3141305821'

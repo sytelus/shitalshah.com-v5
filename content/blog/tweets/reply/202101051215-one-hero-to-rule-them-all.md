@@ -3,6 +3,8 @@ title: 'One Hero to Rule Them All: Hero Worship Everywhere'
 draft: true
 date: 2021-01-05T12:15:26+00:00
 slug: '202101051215-one-hero-to-rule-them-all'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1346309304467394560'

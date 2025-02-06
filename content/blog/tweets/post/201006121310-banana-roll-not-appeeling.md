@@ -3,6 +3,8 @@ title: 'Banana Roll at Overcrowded PF Chang’s: Not Appeeling'
 draft: true
 date: 2010-06-12T13:10:46+00:00
 slug: '201006121310-banana-roll-not-appeeling'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '15984182853'

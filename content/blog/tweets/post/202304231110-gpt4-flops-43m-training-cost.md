@@ -3,6 +3,8 @@ title: 'Big Flops, Bigger Bills: GPT-4''s $43M Training Cost'
 draft: false
 date: 2023-04-23T11:10:08+00:00
 slug: '202304231110-gpt4-flops-43m-training-cost'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1649989002274168832'

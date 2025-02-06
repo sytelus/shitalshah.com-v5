@@ -3,6 +3,8 @@ title: 'Cooking up FLAN-T5-XXL: A Speedy Recipe with DeepSpeed & Hugs'
 draft: true
 date: 2023-02-17T18:19:00+00:00
 slug: '202302171819-cooking-flan-t5-xxl-with-deepspeed'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1626526621971935233'

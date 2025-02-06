@@ -3,6 +3,8 @@ title: 'When T10Y3M Dips, Recession Tips'
 draft: false
 date: 2019-08-08T16:08:16+00:00
 slug: '201908081608-t10y3m-dips'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1159390862670888960'

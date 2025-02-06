@@ -3,6 +3,8 @@ title: 'Deep Learning Recommenders Fall Flat: Heuristics Have the Last Laugh'
 draft: false
 date: 2019-07-23T07:52:29+00:00
 slug: '201907230752-deep-learning-recommenders-fall-flat'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1153467885802553346'

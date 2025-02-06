@@ -3,6 +3,8 @@ title: 'From ''Think Deeply'' to ''Checklists'': Better ML Reviews'
 draft: true
 date: 2020-03-21T19:07:07+00:00
 slug: '202003211907-better-ml-reviews'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1241335529074880514'

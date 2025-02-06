@@ -3,6 +3,8 @@ title: 'TensorWatch: Ditch the Board, Customize with Jupyter'
 draft: true
 date: 2019-08-27T16:01:24+00:00
 slug: '201908271601-tensorwatch-ditch-board'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1166274501027360769'

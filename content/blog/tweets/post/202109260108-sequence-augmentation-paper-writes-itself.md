@@ -3,6 +3,8 @@ title: 'Sequence Augmentation: The Paper That Writes Itself'
 draft: false
 date: 2021-09-26T01:08:07+00:00
 slug: '202109260108-sequence-augmentation-paper-writes-itself'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1441826867376377858'

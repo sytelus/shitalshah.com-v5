@@ -3,6 +3,8 @@ title: 'When Our Hoboken Backyard Became a Pool'
 draft: true
 date: 2012-11-01T15:01:29+00:00
 slug: '201211011501-hoboken-backyard-flood'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '263913637935202304'

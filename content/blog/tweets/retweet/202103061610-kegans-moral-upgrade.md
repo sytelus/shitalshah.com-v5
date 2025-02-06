@@ -3,6 +3,8 @@ title: 'Kegan''s Moral Upgrade: From Peer Pressure to Self Pressure'
 draft: true
 date: 2021-03-06T16:10:24+00:00
 slug: '202103061610-kegans-moral-upgrade'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1368111709047517186'

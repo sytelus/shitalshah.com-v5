@@ -3,6 +3,8 @@ title: 'Price of Dignity: Nobility''s Cost in The Tudors'
 draft: true
 date: 2010-03-29T05:47:07+00:00
 slug: '201003290547-price-of-dignity-tudors'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '11216626528'

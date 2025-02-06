@@ -3,6 +3,8 @@ title: 'Orchestra, IMAX, and Choral... Wait, What?'
 draft: true
 date: 2012-05-20T03:24:52+00:00
 slug: '201205200324-orchestra-imax-choral'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '203944330992431105'

@@ -3,6 +3,8 @@ title: 'Does Restricting Freedom Harm Generation Quality?'
 draft: true
 date: 2023-01-26T05:31:39+00:00
 slug: '202301260531-restricting-freedom-generation-quality'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1618360978332348416'

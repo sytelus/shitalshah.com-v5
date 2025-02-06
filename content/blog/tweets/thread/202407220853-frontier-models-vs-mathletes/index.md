@@ -3,6 +3,8 @@ title: 'Frontier Models vs. Mathletes: The Great IMO Showdown'
 draft: false
 date: 2024-07-22T08:53:37+00:00
 slug: '202407220853-frontier-models-vs-mathletes'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1815203516941766757'

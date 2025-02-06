@@ -3,6 +3,8 @@ title: 'The Long and Short of It: Exploring Long Context Models'
 draft: true
 date: 2023-06-03T06:36:10+00:00
 slug: '202306030636-long-context-models'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1664777959134068736'

@@ -3,6 +3,8 @@ title: 'Max Entropy: The Universe''s Answer to Vague Problems'
 draft: true
 date: 2025-01-08T01:44:37+00:00
 slug: '202501080144-max-entropy-vague-problems'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1876686391746453646'

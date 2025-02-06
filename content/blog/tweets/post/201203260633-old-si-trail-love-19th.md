@@ -3,6 +3,8 @@ title: 'Mount Si''s Old Trail: Love at 19th Hike'
 draft: true
 date: 2012-03-26T06:33:48+00:00
 slug: '201203260633-old-si-trail-love-19th'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '184060545601769473'

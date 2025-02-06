@@ -3,6 +3,8 @@ title: 'When Pixels Play Tricks: Visual Distractions in Control'
 draft: true
 date: 2021-01-13T20:02:29+00:00
 slug: '202101132002-pixels-play-tricks-visual-distractions-control'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1349325947879608322'

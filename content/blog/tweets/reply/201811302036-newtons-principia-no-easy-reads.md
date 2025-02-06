@@ -3,6 +3,8 @@ title: 'Newton''s Principia: No Easy Reads Allowed'
 draft: true
 date: 2018-11-30T20:36:50+00:00
 slug: '201811302036-newtons-principia-no-easy-reads'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1068483993299910656'

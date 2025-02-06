@@ -3,6 +3,8 @@ title: 'LLMs vs. Imaginary Books: Lost in Long Context?'
 draft: true
 date: 2024-06-27T15:10:25+00:00
 slug: '202406271510-llms-vs-imaginary-books'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1806238642916237620'

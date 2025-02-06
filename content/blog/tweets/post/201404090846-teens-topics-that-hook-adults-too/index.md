@@ -3,6 +3,8 @@ title: 'Teens'' Topics That Hook Adults Too!'
 draft: true
 date: 2014-04-09T08:46:23+00:00
 slug: '201404090846-teens-topics-that-hook-adults-too'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '453710482168217600'

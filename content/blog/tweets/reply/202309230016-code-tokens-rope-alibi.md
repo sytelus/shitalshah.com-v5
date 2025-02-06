@@ -3,6 +3,8 @@ title: 'Code Tokens Aren''t Soup Ingredients: From RoPE to ALiBi'
 draft: true
 date: 2023-09-23T00:16:09+00:00
 slug: '202309230016-code-tokens-rope-alibi'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1705269768264221095'

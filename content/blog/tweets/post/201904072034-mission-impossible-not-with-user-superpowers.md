@@ -3,6 +3,8 @@ title: 'Mission Impossible? Not with User Superpowers'
 draft: false
 date: 2019-04-07T20:34:19+00:00
 slug: '201904072034-mission-impossible-not-with-user-superpowers'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1114884106989387776'

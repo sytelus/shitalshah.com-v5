@@ -3,6 +3,8 @@ title: 'Bing''s ''Ohhhh WOOOOW!'' Image Stuns Today'
 draft: true
 date: 2014-02-24T16:50:07+00:00
 slug: '201402241650-bing-oh-wow-image'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '437872054096785408'

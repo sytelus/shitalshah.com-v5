@@ -3,6 +3,8 @@ title: 'Modules, Not Networks: Build with Precision'
 draft: true
 date: 2019-02-24T21:37:34+00:00
 slug: '201902242137-modules-not-networks-build-precision'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1099664636750643201'

@@ -3,6 +3,8 @@ title: 'Cache Me If You Can: Speeding Up WMV Playback in VLC'
 draft: true
 date: 2010-12-14T13:28:54+00:00
 slug: '201012141328-cache-me-if-you-can'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '14552389205893120'

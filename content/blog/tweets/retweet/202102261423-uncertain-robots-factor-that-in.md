@@ -3,6 +3,8 @@ title: 'Uncertain Robots? Factor That In!'
 draft: true
 date: 2021-02-26T14:23:28+00:00
 slug: '202102261423-uncertain-robots-factor-that-in'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1365185695690625026'

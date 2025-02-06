@@ -3,6 +3,8 @@ title: 'Lucy Rocks: Meet the Most Important Fossil'
 draft: true
 date: 2009-01-11T09:52:49+00:00
 slug: '200901110952-lucy-rocks-fossil'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1110145359'

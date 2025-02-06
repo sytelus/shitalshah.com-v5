@@ -3,6 +3,8 @@ title: 'Lost Neuron Seeks Connection'
 draft: true
 date: 2021-11-05T05:37:57+00:00
 slug: '202111050537-lost-neuron-seeks-connection'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1456390285638864896'

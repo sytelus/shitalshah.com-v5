@@ -3,6 +3,8 @@ title: 'Testing, Testing: 33% More Daily COVID-19 Tests, 12% Positive'
 draft: false
 date: 2020-03-24T13:49:54+00:00
 slug: '202003241349-testing-testing-33-more-tests'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1242342862508838912'

@@ -3,6 +3,8 @@ title: 'Rubik''s Conquered: DeepCubeA Gives RL a Twist'
 draft: false
 date: 2019-09-21T06:37:24+00:00
 slug: '201909210637-deepcubea-rl-rubiks'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1175192265590898688'

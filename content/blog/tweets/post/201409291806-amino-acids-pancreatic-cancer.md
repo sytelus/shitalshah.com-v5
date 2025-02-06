@@ -3,6 +3,8 @@ title: 'Amino Acids Ring the Alarm on Pancreatic Cancer'
 draft: true
 date: 2014-09-29T18:06:27+00:00
 slug: '201409291806-amino-acids-pancreatic-cancer'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '516544530196078592'

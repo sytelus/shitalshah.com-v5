@@ -3,6 +3,8 @@ title: 'Goobuntu: When Google Weds Ubuntu'
 draft: true
 date: 2012-09-04T16:29:11+00:00
 slug: '201209041629-goobuntu-truth'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '242917213445709825'

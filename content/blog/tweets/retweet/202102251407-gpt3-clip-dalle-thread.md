@@ -3,6 +3,8 @@ title: 'GPT-3, CLIP, DALL·E Walk into a Thread'
 draft: true
 date: 2021-02-25T14:07:58+00:00
 slug: '202102251407-gpt3-clip-dalle-thread'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1364819408326037512'

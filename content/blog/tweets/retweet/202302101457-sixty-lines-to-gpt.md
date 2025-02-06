@@ -3,6 +3,8 @@ title: '60 Lines to GPT: A Byte-Sized LLM Guide'
 draft: true
 date: 2023-02-10T14:57:29+00:00
 slug: '202302101457-sixty-lines-to-gpt'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1623939191100047361'

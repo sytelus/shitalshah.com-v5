@@ -3,6 +3,8 @@ title: 'Mirror, Mirror on the Disk: Robocopy Sync Command'
 draft: true
 date: 2011-08-27T12:57:41+00:00
 slug: '201108271257-robocopy-mirror-sync-command'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '107330924726861825'

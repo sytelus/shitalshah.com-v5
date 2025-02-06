@@ -3,6 +3,8 @@ title: 'Snowshoeing into Paradise: Adventures with MSR Lightning Ascent'
 draft: true
 date: 2009-01-28T14:25:18+00:00
 slug: '200901281425-snowshoeing-into-paradise'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1154539267'

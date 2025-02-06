@@ -3,6 +3,8 @@ title: 'Phased and Confused: Devin''s Video Sparks Technical Thoughts'
 draft: false
 date: 2024-03-14T18:18:40+00:00
 slug: '202403141818-phased-and-confused-devin-video'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1768235290974683267'

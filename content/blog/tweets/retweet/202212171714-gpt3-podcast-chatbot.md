@@ -3,6 +3,8 @@ title: 'GPT-3 Swallowed My Podcast and Spit Out a Chatbot'
 draft: true
 date: 2022-12-17T17:14:50+00:00
 slug: '202212171714-gpt3-podcast-chatbot'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1604042425751982081'

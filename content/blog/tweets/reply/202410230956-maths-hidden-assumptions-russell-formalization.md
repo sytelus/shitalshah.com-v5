@@ -3,6 +3,8 @@ title: 'Math''s Hidden Assumptions: Bertrand Russell''s Formalization'
 draft: true
 date: 2024-10-23T09:56:51+00:00
 slug: '202410230956-maths-hidden-assumptions-russell-formalization'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1848921501598421362'

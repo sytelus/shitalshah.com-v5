@@ -3,6 +3,8 @@ title: 'Born to Babble: Chomsky''s Hardwired Language Theory'
 draft: false
 date: 2023-02-28T16:22:02+00:00
 slug: '202302281622-chomsky-born-to-babble'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1630483452914020356'

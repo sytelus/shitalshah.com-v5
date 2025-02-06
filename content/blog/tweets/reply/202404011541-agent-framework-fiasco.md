@@ -3,6 +3,8 @@ title: 'Agent Framework Fiasco: A Skeptic''s Critique'
 draft: true
 date: 2024-04-01T15:41:33+00:00
 slug: '202404011541-agent-framework-fiasco'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1774718734072164468'

@@ -3,6 +3,8 @@ title: 'Transformers Barely Pass Teen Math Exams'
 draft: false
 date: 2019-04-05T17:30:46+00:00
 slug: '201904051730-transformers-barely-pass-teen-math-exams'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1114113142148096000'

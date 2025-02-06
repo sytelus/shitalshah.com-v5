@@ -3,6 +3,8 @@ title: 'FSDP and DeepSpeed Zero Break Up with 7B+ Models'
 draft: true
 date: 2024-02-11T15:33:33+00:00
 slug: '202402111533-fsdp-deepspeed-7b-models'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1756582227725767073'

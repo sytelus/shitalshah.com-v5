@@ -3,6 +3,8 @@ title: 'Rewind to ''22: Meme Still Got It?'
 draft: true
 date: 2023-02-17T15:40:17+00:00
 slug: '202302171540-rewind-22-meme-still-got-it'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1626486679031910401'

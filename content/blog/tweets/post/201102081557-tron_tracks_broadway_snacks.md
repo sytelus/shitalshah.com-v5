@@ -3,6 +3,8 @@ title: 'From Tron Tracks to Broadway Snacks'
 draft: true
 date: 2011-02-08T15:57:49+00:00
 slug: '201102081557-tron_tracks_broadway_snacks'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '34883583592103936'

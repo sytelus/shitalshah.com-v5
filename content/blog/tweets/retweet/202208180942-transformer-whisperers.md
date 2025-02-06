@@ -3,6 +3,8 @@ title: 'Transformer Whisperers: 3 Packages to Explain HuggingFace Predictions'
 draft: true
 date: 2022-08-18T09:42:46+00:00
 slug: '202208180942-transformer-whisperers'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1560094826388807680'

@@ -3,6 +3,8 @@ title: 'No Flying Cars, But Dog-Level AI? Rodney Brooks'' Bold Predictions'
 draft: false
 date: 2021-01-02T13:21:18+00:00
 slug: '202101021321-rodney-brooks-bold-predictions'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1345238716760031232'

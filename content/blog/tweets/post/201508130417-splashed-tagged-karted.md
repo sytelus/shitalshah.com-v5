@@ -3,6 +3,8 @@ title: 'Splashed, Tagged, and Karted: Team Event Shenanigans'
 draft: true
 date: 2015-08-13T04:17:27+00:00
 slug: '201508130417-splashed-tagged-karted'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '631575246731124736'

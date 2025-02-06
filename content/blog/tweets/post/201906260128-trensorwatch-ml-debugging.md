@@ -3,6 +3,8 @@ title: 'TrensorWatch: The Swiss Army Knife of ML Debugging'
 draft: false
 date: 2019-06-26T01:28:20+00:00
 slug: '201906260128-trensorwatch-ml-debugging'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1143586740298506241'

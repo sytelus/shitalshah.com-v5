@@ -3,6 +3,8 @@ title: 'Drop It Like It''s Hot: AutoDropout for Deep Networks'
 draft: true
 date: 2021-01-08T00:14:07+00:00
 slug: '202101080014-drop-it-like-its-hot-autodropout'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1347214945407025157'

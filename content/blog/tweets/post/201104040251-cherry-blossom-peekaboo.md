@@ -3,6 +3,8 @@ title: 'Cherry Blossom Peekaboo: UW Quads Blooming, Japanese Garden Bare'
 draft: true
 date: 2011-04-04T02:51:53+00:00
 slug: '201104040251-cherry-blossom-peekaboo'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '54632231242706944'

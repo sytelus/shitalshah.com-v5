@@ -3,6 +3,8 @@ title: 'GeoSetter: GPS for Your JPEGs'
 draft: true
 date: 2010-04-20T12:03:11+00:00
 slug: '201004201203-geosetter-gps-for-your-jpegs'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '12498703030'

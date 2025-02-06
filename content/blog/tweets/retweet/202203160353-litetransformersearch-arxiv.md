@@ -3,6 +3,8 @@ title: 'LiteTransformerSearch Lands on arXiv: On-device Models Without Training'
 draft: true
 date: 2022-03-16T03:53:35+00:00
 slug: '202203160353-litetransformersearch-arxiv'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1503836834203197443'

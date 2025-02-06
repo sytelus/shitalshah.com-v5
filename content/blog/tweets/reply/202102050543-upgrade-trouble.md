@@ -3,6 +3,8 @@ title: 'House Prices Double, The Upgrade Trouble'
 draft: true
 date: 2021-02-05T05:43:06+00:00
 slug: '202102050543-upgrade-trouble'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1357444597211754496'

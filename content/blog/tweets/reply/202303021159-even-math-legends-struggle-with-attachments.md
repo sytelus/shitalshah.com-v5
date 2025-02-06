@@ -3,6 +3,8 @@ title: 'Even Math Legends Struggle With Attachments'
 draft: true
 date: 2023-03-02T11:59:50+00:00
 slug: '202303021159-even-math-legends-struggle-with-attachments'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1631142242365898752'

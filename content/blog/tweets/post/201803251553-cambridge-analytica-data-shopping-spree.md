@@ -3,6 +3,8 @@ title: 'Cambridge Analytica''s Data Shopping Spree'
 draft: false
 date: 2018-03-25T15:53:45+00:00
 slug: '201803251553-cambridge-analytica-data-shopping-spree'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '977830888670048258'

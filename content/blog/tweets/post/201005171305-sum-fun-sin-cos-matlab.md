@@ -3,6 +3,8 @@ title: 'Sum Fun: Plotting Sin(x) + Cos(x) in Matlab'
 draft: true
 date: 2010-05-17T13:05:13+00:00
 slug: '201005171305-sum-fun-sin-cos-matlab'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '14144876599'

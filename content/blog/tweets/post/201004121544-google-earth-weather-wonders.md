@@ -3,6 +3,8 @@ title: 'Google Earth''s Weather Wonders: Plan Your Weekend with 24hr Clouds'
 draft: true
 date: 2010-04-12T15:44:55+00:00
 slug: '201004121544-google-earth-weather-wonders'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '12036461944'

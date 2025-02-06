@@ -3,6 +3,8 @@ title: 'Vertical Caving: When Going Down Costs Big Bucks'
 draft: true
 date: 2010-04-20T11:49:59+00:00
 slug: '201004201149-vertical-caving-expenses'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '12498153495'

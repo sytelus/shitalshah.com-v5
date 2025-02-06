@@ -3,6 +3,8 @@ title: 'Brushing Up with Copilot: My Coding BFF'
 draft: true
 date: 2023-02-17T14:20:57+00:00
 slug: '202302171420-brushing-up-with-copilot'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1626466712358121473'

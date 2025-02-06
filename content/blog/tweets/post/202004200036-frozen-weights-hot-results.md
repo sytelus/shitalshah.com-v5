@@ -3,6 +3,8 @@ title: 'Frozen Weights, Hot Results: Batch Norm Gets 83% on CIFAR-10'
 draft: false
 date: 2020-04-20T00:36:34+00:00
 slug: '202004200036-frozen-weights-hot-results'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1251927683765645318'

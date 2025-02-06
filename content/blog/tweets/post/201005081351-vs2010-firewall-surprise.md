@@ -3,6 +3,8 @@ title: 'VS2010''s Firewall Surprise: No Network After Install'
 draft: true
 date: 2010-05-08T13:51:02+00:00
 slug: '201005081351-vs2010-firewall-surprise'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '13595259555'

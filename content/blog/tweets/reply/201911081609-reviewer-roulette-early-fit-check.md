@@ -3,6 +3,8 @@ title: 'Reviewer Roulette: Why We Need an Early Fit Check'
 draft: true
 date: 2019-11-08T16:09:07+00:00
 slug: '201911081609-reviewer-roulette-early-fit-check'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1192715659467087877'

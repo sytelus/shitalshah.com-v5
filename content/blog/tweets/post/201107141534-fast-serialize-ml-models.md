@@ -3,6 +3,8 @@ title: 'Fast and Serializable: Saving Huge ML Models in a Flash'
 draft: true
 date: 2011-07-14T15:34:37+00:00
 slug: '201107141534-fast-serialize-ml-models'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '91425354870292480'

@@ -3,6 +3,8 @@ title: 'Teaching Tiny AI to Think Big'
 draft: true
 date: 2022-12-19T10:57:14+00:00
 slug: '202212191057-tiny_ai_think_big'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1604672174551203841'

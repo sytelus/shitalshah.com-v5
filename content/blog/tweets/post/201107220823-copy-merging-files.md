@@ -3,6 +3,8 @@ title: 'Copy That! Merging Files Made Easy'
 draft: true
 date: 2011-07-22T08:23:34+00:00
 slug: '201107220823-copy-merging-files'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '94215978552000512'

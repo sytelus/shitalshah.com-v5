@@ -3,6 +3,8 @@ title: 'Pixels to Actions: 1X AI''s Latest Software Sorcery'
 draft: true
 date: 2024-02-09T17:49:13+00:00
 slug: '202402091749-pixels-to-actions-1x-ai-update'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1755891594253987977'

@@ -3,6 +3,8 @@ title: 'When Equations Photobomb Nature'
 draft: true
 date: 2010-02-09T19:58:52+00:00
 slug: '201002091958-equations-photobomb-nature'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '8851600616'

@@ -3,6 +3,8 @@ title: 'Eiko Bootstrapping: Reasking the PI for Preferred Answers'
 draft: true
 date: 2021-11-05T14:23:18+00:00
 slug: '202111051423-eiko-bootstrapping-preferred-answers'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1456522493796122624'

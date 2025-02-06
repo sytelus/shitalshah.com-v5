@@ -3,6 +3,8 @@ title: 'Fixing HTML: The Birth of CSS and JS'
 draft: true
 date: 2023-12-22T14:53:49+00:00
 slug: '202312221453-fixing-html-birth-of-css-js'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1738090448210809042'

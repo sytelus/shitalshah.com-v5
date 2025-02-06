@@ -3,6 +3,8 @@ title: 'BERT''s Secret Sauce for Multiple Choice'
 draft: false
 date: 2019-08-14T22:12:52+00:00
 slug: '201908142212-bert-mcq-secret-sauce'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1161656941715714049'

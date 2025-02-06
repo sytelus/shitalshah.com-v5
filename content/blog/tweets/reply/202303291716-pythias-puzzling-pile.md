@@ -3,6 +3,8 @@ title: 'Pythia''s Puzzling Pile: Where''s the Dedup Script?'
 draft: true
 date: 2023-03-29T17:16:14+00:00
 slug: '202303291716-pythias-puzzling-pile'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1641021439917834240'

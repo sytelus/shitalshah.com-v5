@@ -3,6 +3,8 @@ title: 'Wait, We Chose Our Birthplace?'
 draft: false
 date: 2019-01-24T22:20:56+00:00
 slug: '201901242220-wait-we-chose-our-birthplace'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1088441524021383168'

@@ -3,6 +3,8 @@ title: 'Head in the Clouds: Simulating Human Heads in AirSim'
 draft: false
 date: 2019-09-22T10:37:12+00:00
 slug: '201909221037-head-in-the-clouds-airsim'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1175615000989143041'

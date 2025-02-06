@@ -3,6 +3,8 @@ title: 'Sampling Theorem: To 2f and Beyond!'
 draft: true
 date: 2010-02-02T06:01:54+00:00
 slug: '201002020601-sampling-theorem-to-2f-and-beyond'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '8515623465'

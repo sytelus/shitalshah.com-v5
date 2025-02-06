@@ -3,6 +3,8 @@ title: 'Defrosting My Opinions on Wim Hof'
 draft: true
 date: 2017-04-20T10:22:38+00:00
 slug: '201704201022-defrosting-my-opinions-on-wim-hof'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '854898073847218176'

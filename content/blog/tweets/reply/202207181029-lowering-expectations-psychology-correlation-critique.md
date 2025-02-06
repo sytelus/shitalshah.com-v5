@@ -3,6 +3,8 @@ title: 'Lowering Expectations: A Critique of Psychology''s Correlation Studies'
 draft: true
 date: 2022-07-18T10:29:23+00:00
 slug: '202207181029-lowering-expectations-psychology-correlation-critique'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1548872534593904640'

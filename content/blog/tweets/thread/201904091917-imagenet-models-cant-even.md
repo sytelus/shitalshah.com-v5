@@ -3,6 +3,8 @@ title: 'ImageNet Models Can''t Even ImageNet'
 draft: false
 date: 2019-04-09T19:17:30+00:00
 slug: '201904091917-imagenet-models-cant-even'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1115589551311876096'

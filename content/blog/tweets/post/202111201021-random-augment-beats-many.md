@@ -3,6 +3,8 @@ title: 'Augmentation Lottery: One Random Augment Beats Many'
 draft: false
 date: 2021-11-20T10:21:19+00:00
 slug: '202111201021-random-augment-beats-many'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1461882318298124289'

@@ -3,6 +3,8 @@ title: 'AI Models Behaving Like Contractors on Their Last Day'
 draft: true
 date: 2025-02-03T10:59:27+00:00
 slug: '202502031059-ai-models-last-day-contractors'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1886248104095309895'

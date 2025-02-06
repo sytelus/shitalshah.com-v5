@@ -3,6 +3,8 @@ title: 'Is DeepSpeed Level 2 the Fast Lane for LLM Training?'
 draft: true
 date: 2023-03-30T02:37:09+00:00
 slug: '202303300237-deepspeed-level2-llm-training'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1641162600020074497'

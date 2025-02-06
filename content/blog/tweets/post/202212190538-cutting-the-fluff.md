@@ -3,6 +3,8 @@ title: 'Cutting the Fluff: Time-Saving Features Ahead'
 draft: false
 date: 2022-12-19T05:38:17+00:00
 slug: '202212190538-cutting-the-fluff'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1604591909606809600'

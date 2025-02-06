@@ -3,6 +3,8 @@ title: 'Can LLaMA''s 3 Tricks Make NanoGPT Gallop?'
 draft: true
 date: 2023-03-29T10:16:30+00:00
 slug: '202303291016-llama-nanogpt-tricks'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1640915809768980480'

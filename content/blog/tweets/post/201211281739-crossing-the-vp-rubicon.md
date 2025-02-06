@@ -3,6 +3,8 @@ title: 'Crossing the VP Rubicon'
 draft: true
 date: 2012-11-28T17:39:21+00:00
 slug: '201211281739-crossing-the-vp-rubicon'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '273722739490172929'

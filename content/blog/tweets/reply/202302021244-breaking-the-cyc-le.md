@@ -3,6 +3,8 @@ title: 'Breaking the Cyc-le: A Different Approach to AI Alignment'
 draft: true
 date: 2023-02-02T12:44:47+00:00
 slug: '202302021244-breaking-the-cyc-le'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1621006696108937216'

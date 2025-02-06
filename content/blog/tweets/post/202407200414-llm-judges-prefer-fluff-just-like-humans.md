@@ -3,6 +3,8 @@ title: 'LLM Judges Prefer Fluff—Just Like Humans!'
 draft: false
 date: 2024-07-20T04:14:49+00:00
 slug: '202407200414-llm-judges-prefer-fluff-just-like-humans'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1814408578951983105'

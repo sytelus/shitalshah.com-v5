@@ -3,6 +3,8 @@ title: 'Entropy Explains Messy Laws'
 draft: true
 date: 2020-03-31T17:16:53+00:00
 slug: '202003311716-entropy-explains-messy-laws'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1244931667032072192'

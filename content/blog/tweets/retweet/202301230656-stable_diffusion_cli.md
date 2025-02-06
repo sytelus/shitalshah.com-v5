@@ -3,6 +3,8 @@ title: 'Command the Diffusion: Super Useful Stable Diffusion CLI Found'
 draft: true
 date: 2023-01-23T06:56:45+00:00
 slug: '202301230656-stable_diffusion_cli'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1617295229098549249'

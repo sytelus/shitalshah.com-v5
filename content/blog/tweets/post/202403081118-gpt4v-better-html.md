@@ -3,6 +3,8 @@ title: 'GPT-4V Turns Screenshots into Better Websites'
 draft: false
 date: 2024-03-08T11:18:10+00:00
 slug: '202403081118-gpt4v-better-html'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1765940044282691909'

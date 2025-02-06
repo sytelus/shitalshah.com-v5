@@ -3,6 +3,8 @@ title: 'Apple: So Big, The Stats Need a Bigger Screen'
 draft: true
 date: 2021-09-10T13:38:26+00:00
 slug: '202109101338-apple-big-stats'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1436217483623501849'

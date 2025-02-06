@@ -3,6 +3,8 @@ title: 'Competence vs Proficiency: Getting It Done vs Knowing Why'
 draft: true
 date: 2016-08-17T02:38:51+00:00
 slug: '201608170238-competence-vs-proficiency'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '765633945199190018'

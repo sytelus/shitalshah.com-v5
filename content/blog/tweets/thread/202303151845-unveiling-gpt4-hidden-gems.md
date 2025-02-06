@@ -3,6 +3,8 @@ title: 'Unveiling GPT-4''s Hidden Gems'
 draft: false
 date: 2023-03-15T18:45:06+00:00
 slug: '202303151845-unveiling-gpt4-hidden-gems'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1635970371466989575'

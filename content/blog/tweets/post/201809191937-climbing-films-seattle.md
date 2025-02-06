@@ -3,6 +3,8 @@ title: 'Climbing Films Ascend Seattle Tonight!'
 draft: false
 date: 2018-09-19T19:37:01+00:00
 slug: '201809191937-climbing-films-seattle'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1042392115483820032'

@@ -3,6 +3,8 @@ title: 'Cache Me Not: GPU Performance and Pinned Memory'
 draft: true
 date: 2019-12-04T14:15:56+00:00
 slug: '201912041415-cache-me-not-gpu-pinned-memory'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1202109258562588672'

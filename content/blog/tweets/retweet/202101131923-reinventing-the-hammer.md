@@ -3,6 +3,8 @@ title: 'Reinventing the Hammer: An Academic Tale'
 draft: true
 date: 2021-01-13T19:23:32+00:00
 slug: '202101131923-reinventing-the-hammer'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1349316144130260997'

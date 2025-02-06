@@ -3,6 +3,8 @@ title: 'When ''Programmer'' Wasn''t a Profession'
 draft: false
 date: 2020-12-04T00:27:00+00:00
 slug: '202012040027-when-programmer-wasnt-a-profession'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1334534610483494913'

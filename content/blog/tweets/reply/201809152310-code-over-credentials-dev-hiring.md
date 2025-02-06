@@ -3,6 +3,8 @@ title: 'Code Over Credentials: The Dev Hiring Dilemma'
 draft: true
 date: 2018-09-15T23:10:49+00:00
 slug: '201809152310-code-over-credentials-dev-hiring'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1040996365847810049'

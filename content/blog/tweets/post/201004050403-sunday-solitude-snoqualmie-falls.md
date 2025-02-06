@@ -3,6 +3,8 @@ title: 'Sunday Solitude at Snoqualmie Falls'
 draft: true
 date: 2010-04-05T04:03:08+00:00
 slug: '201004050403-sunday-solitude-snoqualmie-falls'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '11605736860'

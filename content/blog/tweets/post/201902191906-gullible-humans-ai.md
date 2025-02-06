@@ -3,6 +3,8 @@ title: 'Not Better AI, Just Gullible Humans'
 draft: false
 date: 2019-02-19T19:06:24+00:00
 slug: '201902191906-gullible-humans-ai'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1097814653516693504'

@@ -3,6 +3,8 @@ title: 'Neural Architecture Search Party at Microsoft Research!'
 draft: false
 date: 2021-11-16T04:52:55+00:00
 slug: '202111160452-neural-architecture-search-party-msr'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1460350121984413698'

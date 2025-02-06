@@ -3,6 +3,8 @@ title: 'Foundation Models: OpenAI Still King in Lucrative Platform Game'
 draft: false
 date: 2023-02-28T11:02:51+00:00
 slug: '202302281102-foundation-models-openai-still-king'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1630403125373964289'

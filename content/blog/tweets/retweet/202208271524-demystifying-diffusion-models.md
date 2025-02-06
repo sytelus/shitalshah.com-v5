@@ -3,6 +3,8 @@ title: 'Demystifying Diffusion Models'
 draft: true
 date: 2022-08-27T15:24:53+00:00
 slug: '202208271524-demystifying-diffusion-models'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1563442416006623233'

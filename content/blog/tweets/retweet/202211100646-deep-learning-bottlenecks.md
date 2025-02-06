@@ -3,6 +3,8 @@ title: 'Deep Learning Bottlenecks: Time to Face the Profiler'
 draft: true
 date: 2022-11-10T06:46:07+00:00
 slug: '202211100646-deep-learning-bottlenecks'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1590475853091459073'

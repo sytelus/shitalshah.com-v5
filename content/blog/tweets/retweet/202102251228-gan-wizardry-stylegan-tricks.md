@@ -3,6 +3,8 @@ title: 'GAN Wizardry: Unveiling StyleGAN''s Secret Tricks'
 draft: true
 date: 2021-02-25T12:28:02+00:00
 slug: '202102251228-gan-wizardry-stylegan-tricks'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1364794259774140420'

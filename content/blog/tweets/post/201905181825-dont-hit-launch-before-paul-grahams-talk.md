@@ -3,6 +3,8 @@ title: 'Don''t Hit ''Launch'' Before Paul Graham''s Talk'
 draft: false
 date: 2019-05-18T18:25:40+00:00
 slug: '201905181825-dont-hit-launch-before-paul-grahams-talk'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1129709635621883904'

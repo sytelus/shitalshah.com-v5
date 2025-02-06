@@ -3,6 +3,8 @@ title: 'Fineweb''s Optimizer: As General-Purpose as Adam'
 draft: true
 date: 2024-10-13T12:55:43+00:00
 slug: '202410131255-fineweb-optimizer-like-adam'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1845342636116476391'

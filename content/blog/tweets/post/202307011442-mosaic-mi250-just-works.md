@@ -3,6 +3,8 @@ title: 'Mosaic''s Magic: MI250 Now ''Just Works'' at 80% of A100'
 draft: false
 date: 2023-07-01T14:42:51+00:00
 slug: '202307011442-mosaic-mi250-just-works'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1675047296944455681'

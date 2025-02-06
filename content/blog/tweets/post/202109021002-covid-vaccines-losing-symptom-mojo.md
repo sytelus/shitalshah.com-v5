@@ -3,6 +3,8 @@ title: 'COVID Vaccines Losing Symptom Mojo? Boosters to the Rescue!'
 draft: false
 date: 2021-09-02T10:02:08+00:00
 slug: '202109021002-covid-vaccines-losing-symptom-mojo'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1433263949512773634'

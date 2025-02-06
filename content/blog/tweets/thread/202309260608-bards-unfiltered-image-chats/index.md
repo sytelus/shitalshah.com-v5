@@ -3,6 +3,8 @@ title: 'Bard''s Unfiltered Image Chats: No Cherry-Picking!'
 draft: false
 date: 2023-09-26T06:08:48+00:00
 slug: '202309260608-bards-unfiltered-image-chats'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1706445677310669056'

@@ -3,6 +3,8 @@ title: 'C#''s Ignored Gem: The Null Coalescing Operator'
 draft: true
 date: 2011-01-19T06:58:39+00:00
 slug: '201101190658-csharp-null-coalescing-operator'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '27500143200702466'

@@ -3,6 +3,8 @@ title: 'Transformers Go Loopy: AI Models as Programmable Computers'
 draft: true
 date: 2023-01-31T17:29:35+00:00
 slug: '202301311729-transformers-go-loopy'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1620353591113568256'

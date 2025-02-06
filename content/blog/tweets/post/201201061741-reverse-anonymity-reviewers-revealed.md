@@ -3,6 +3,8 @@ title: 'Reverse Anonymity: Reviewers Revealed'
 draft: true
 date: 2012-01-06T17:41:05+00:00
 slug: '201201061741-reverse-anonymity-reviewers-revealed'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '155222343126495233'

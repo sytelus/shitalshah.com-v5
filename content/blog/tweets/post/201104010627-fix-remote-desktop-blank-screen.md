@@ -3,6 +3,8 @@ title: 'Staring into the Void: Fixing Remote Desktop''s Blank Screen'
 draft: true
 date: 2011-04-01T06:27:53+00:00
 slug: '201104010627-fix-remote-desktop-blank-screen'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '53599426165477376'

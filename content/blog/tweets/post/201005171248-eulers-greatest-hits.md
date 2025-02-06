@@ -3,6 +3,8 @@ title: 'Euler''s Greatest Hits'
 draft: true
 date: 2010-05-17T12:48:43+00:00
 slug: '201005171248-eulers-greatest-hits'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '14144293778'

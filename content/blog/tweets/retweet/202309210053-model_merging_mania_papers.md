@@ -3,6 +3,8 @@ title: 'Model Merging Mania: Must-Read Papers Collection'
 draft: true
 date: 2023-09-21T00:53:51+00:00
 slug: '202309210053-model_merging_mania_papers'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1704554479956496388'

@@ -3,6 +3,8 @@ title: 'Kinected the Dots: $20 Webcam Magic'
 draft: false
 date: 2019-04-13T13:06:22+00:00
 slug: '201904131306-kinected-the-dots'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1116945702645485570'

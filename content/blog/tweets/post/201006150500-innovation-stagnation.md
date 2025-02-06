@@ -3,6 +3,8 @@ title: 'Innovation Stagnation: Are We Still in the 1600s?'
 draft: true
 date: 2010-06-15T05:00:14+00:00
 slug: '201006150500-innovation-stagnation'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '16178970845'

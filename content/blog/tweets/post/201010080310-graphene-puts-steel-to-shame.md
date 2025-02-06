@@ -3,6 +3,8 @@ title: 'Graphene: The Material That Puts Steel to Shame'
 draft: true
 date: 2010-10-08T03:10:23+00:00
 slug: '201010080310-graphene-puts-steel-to-shame'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '26681266976'

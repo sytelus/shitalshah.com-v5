@@ -3,6 +3,8 @@ title: 'HP''s Ink-credible Tactics: Disabling Cartridges When You Unsubscribe'
 draft: true
 date: 2024-10-19T14:44:00+00:00
 slug: '202410191444-hp-disables-ink-on-unsubscribe'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1847544211081744405'

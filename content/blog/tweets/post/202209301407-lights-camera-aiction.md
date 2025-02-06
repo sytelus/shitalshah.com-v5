@@ -3,6 +3,8 @@ title: 'Lights, Camera, AIction: Tiny Model Makes Big Movies'
 draft: false
 date: 2022-09-30T14:07:08+00:00
 slug: '202209301407-lights-camera-aiction'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1575744036329046016'

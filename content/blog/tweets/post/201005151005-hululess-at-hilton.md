@@ -3,6 +3,8 @@ title: 'Hulu-less at the Hilton'
 draft: true
 date: 2010-05-15T10:05:06+00:00
 slug: '201005151005-hululess-at-hilton'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '14014365308'

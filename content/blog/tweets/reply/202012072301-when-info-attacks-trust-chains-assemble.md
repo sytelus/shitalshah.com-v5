@@ -3,6 +3,8 @@ title: 'When Info Attacks: Trust Chains Assemble!'
 draft: true
 date: 2020-12-07T23:01:39+00:00
 slug: '202012072301-when-info-attacks-trust-chains-assemble'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1335962682898313218'

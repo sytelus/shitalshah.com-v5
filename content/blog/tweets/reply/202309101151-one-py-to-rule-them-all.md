@@ -3,6 +3,8 @@ title: 'One .py to Rule Them All: Reusable Functions Across Projects'
 draft: true
 date: 2023-09-10T11:51:42+00:00
 slug: '202309101151-one-py-to-rule-them-all'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1700733763830141332'

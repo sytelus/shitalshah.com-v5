@@ -3,6 +3,8 @@ title: 'Wait, Washington Has Hummers?'
 draft: true
 date: 2010-04-06T11:00:51+00:00
 slug: '201004061100-washington-hummers'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '11679995871'

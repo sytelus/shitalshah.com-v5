@@ -3,6 +3,8 @@ title: 'AllenNLP Now Shelved at Papers with Code'
 draft: true
 date: 2021-03-17T07:34:02+00:00
 slug: '202103170734-allennlp-on-paperswithcode'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1371983125987741697'

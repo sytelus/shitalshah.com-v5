@@ -3,6 +3,8 @@ title: 'Feller''s Probability: Beating the Textbook Pricing Scam'
 draft: true
 date: 2008-12-30T19:12:55+00:00
 slug: '200812301912-fellers-probability-textbook-scam'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1085712585'

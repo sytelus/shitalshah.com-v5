@@ -3,6 +3,8 @@ title: 'Moving Madness: 3 U-Hauls, 9 Cars, and a Garage Sale Revelation'
 draft: true
 date: 2009-06-29T11:39:32+00:00
 slug: '200906291139-moving-madness-garage-sale'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '2383265351'

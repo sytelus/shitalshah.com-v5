@@ -3,6 +3,8 @@ title: 'Can''t Reason Without Knowledge: The Long Tail Trouble'
 draft: true
 date: 2024-04-19T09:08:49+00:00
 slug: '202404190908-cant-reason-without-knowledge'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1781142879316201487'

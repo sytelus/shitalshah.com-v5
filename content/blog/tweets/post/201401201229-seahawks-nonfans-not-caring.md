@@ -3,6 +3,8 @@ title: 'Seahawks Nonfans Continue Not Caring'
 draft: true
 date: 2014-01-20T12:29:17+00:00
 slug: '201401201229-seahawks-nonfans-not-caring'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '425122836856848385'

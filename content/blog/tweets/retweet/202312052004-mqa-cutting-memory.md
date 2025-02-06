@@ -3,6 +3,8 @@ title: 'MQA: Cutting Memory, But at What Cost?'
 draft: true
 date: 2023-12-05T20:04:33+00:00
 slug: '202312052004-mqa-cutting-memory'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1732008053208387597'

@@ -3,6 +3,8 @@ title: 'GPT-4 Flunks Tricky Economics Exam'
 draft: true
 date: 2023-05-28T13:24:52+00:00
 slug: '202305281324-gpt4-flunks-economics-exam'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1662706486265667584'

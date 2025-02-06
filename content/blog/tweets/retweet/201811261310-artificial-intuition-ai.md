@@ -3,6 +3,8 @@ title: 'Artificial Intuition: When AI Follows Its Gut'
 draft: true
 date: 2018-11-26T13:10:14+00:00
 slug: '201811261310-artificial-intuition-ai'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1066922053733769217'

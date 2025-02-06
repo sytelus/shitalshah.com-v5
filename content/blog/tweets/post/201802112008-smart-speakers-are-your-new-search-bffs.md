@@ -3,6 +3,8 @@ title: 'Smart Speakers Are Your New Search BFFs!'
 draft: false
 date: 2018-02-11T20:08:06+00:00
 slug: '201802112008-smart-speakers-are-your-new-search-bffs'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '962659507678494720'

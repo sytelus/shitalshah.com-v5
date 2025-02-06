@@ -3,6 +3,8 @@ title: 'Model Mayhem: 23 Architectures Under the Microscope'
 draft: false
 date: 2023-12-30T16:41:32+00:00
 slug: '202312301641-model-mayhem-23-architectures'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1741016657013973412'

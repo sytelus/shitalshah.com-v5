@@ -3,6 +3,8 @@ title: 'From Nimble to Titanic: The Codebase Gap Explained'
 draft: true
 date: 2022-11-20T02:58:58+00:00
 slug: '202211200258-nimble-to-titanic-codebase-gap'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1594042568207372290'

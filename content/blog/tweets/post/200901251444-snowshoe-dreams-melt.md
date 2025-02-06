@@ -3,6 +3,8 @@ title: 'Snowshoe Dreams Melt in 60°F Mountains'
 draft: true
 date: 2009-01-25T14:44:27+00:00
 slug: '200901251444-snowshoe-dreams-melt'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1146259149'

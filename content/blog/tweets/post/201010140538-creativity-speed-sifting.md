@@ -3,6 +3,8 @@ title: 'Creativity: Speed-Sifting Through Billions of Ideas'
 draft: true
 date: 2010-10-14T05:38:41+00:00
 slug: '201010140538-creativity-speed-sifting'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '27282926276'

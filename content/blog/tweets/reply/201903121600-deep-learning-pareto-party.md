@@ -3,6 +3,8 @@ title: 'Deep Learning''s Pareto Party: 10 Institutes Rule the Roost'
 draft: true
 date: 2019-03-12T16:00:08+00:00
 slug: '201903121600-deep-learning-pareto-party'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1105393021644812288'

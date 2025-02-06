@@ -3,6 +3,8 @@ title: 'AI''s Narrow Superpowers: AGI Not Included'
 draft: true
 date: 2020-12-20T12:45:55+00:00
 slug: '202012201245-narrow-ai-superpowers-no-agi'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1340518769857159169'

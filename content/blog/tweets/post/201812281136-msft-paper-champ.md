@@ -3,6 +3,8 @@ title: 'Paper Champ: Microsoft Research Tops CS Awards Since ''96'
 draft: false
 date: 2018-12-28T11:36:24+00:00
 slug: '201812281136-msft-paper-champ'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1078494850897440768'

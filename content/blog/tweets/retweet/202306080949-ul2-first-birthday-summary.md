@@ -3,6 +3,8 @@ title: 'UL2''s First Birthday: Summing It Up!'
 draft: true
 date: 2023-06-08T09:49:07+00:00
 slug: '202306080949-ul2-first-birthday-summary'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1666638457186447360'

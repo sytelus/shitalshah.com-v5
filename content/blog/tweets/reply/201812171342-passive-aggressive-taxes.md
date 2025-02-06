@@ -3,6 +3,8 @@ title: 'Passive Aggressive Taxes: When Doing Less Pays More'
 draft: true
 date: 2018-12-17T13:42:44+00:00
 slug: '201812171342-passive-aggressive-taxes'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1074540378290679809'

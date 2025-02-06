@@ -3,6 +3,8 @@ title: 'Waiting for Food, Falling for Football'
 draft: true
 date: 2008-12-22T08:01:40+00:00
 slug: '200812220801-waiting-for-food-falling-for-football'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1071307961'

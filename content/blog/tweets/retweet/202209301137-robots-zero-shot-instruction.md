@@ -3,6 +3,8 @@ title: 'Robots Skip Training Day, Still Follow Instructions'
 draft: true
 date: 2022-09-30T11:37:53+00:00
 slug: '202209301137-robots-zero-shot-instruction'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1575706476769050624'

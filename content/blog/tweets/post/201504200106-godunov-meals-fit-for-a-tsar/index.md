@@ -3,6 +3,8 @@ title: 'Godunov – Meals Fit for a Tsar'
 draft: true
 date: 2015-04-20T01:06:16+00:00
 slug: '201504200106-godunov-meals-fit-for-a-tsar'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '589852530470957056'

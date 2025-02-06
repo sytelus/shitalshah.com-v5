@@ -3,6 +3,8 @@ title: 'Code Before Comparison: Matching Models to GPT-3.5?'
 draft: true
 date: 2023-07-19T12:32:12+00:00
 slug: '202307191232-code-before-comparison-matching-models'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1681537399145242624'

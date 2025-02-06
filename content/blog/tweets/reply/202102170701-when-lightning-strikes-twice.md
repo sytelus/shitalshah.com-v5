@@ -3,6 +3,8 @@ title: 'When Lightning Strikes Twice: Unconnected Geniuses, Same Discovery'
 draft: true
 date: 2021-02-17T07:01:51+00:00
 slug: '202102170701-when-lightning-strikes-twice'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1361813068850679809'

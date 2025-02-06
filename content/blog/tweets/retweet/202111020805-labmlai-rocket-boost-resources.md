@@ -3,6 +3,8 @@ title: 'Labml.ai''s Rocket Boost: Resources for Every Paper!'
 draft: true
 date: 2021-11-02T08:05:27+00:00
 slug: '202111020805-labmlai-rocket-boost-resources'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1455340241431121922'

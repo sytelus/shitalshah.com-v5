@@ -3,6 +3,8 @@ title: 'Goldilocks Learning Rates: Just Right for Deep Neural Nets'
 draft: false
 date: 2018-09-26T12:30:18+00:00
 slug: '201809261230-goldilocks-learning-rates-deep-neural-nets'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1044821441244467206'

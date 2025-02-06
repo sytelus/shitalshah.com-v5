@@ -3,6 +3,8 @@ title: 'Don''t MOFF at MODD: Sony''s Secret Files Explained'
 draft: true
 date: 2011-07-19T08:07:23+00:00
 slug: '201107190807-modd-moff-sony-files'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '93124743565295616'

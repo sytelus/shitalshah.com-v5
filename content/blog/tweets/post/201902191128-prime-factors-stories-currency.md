@@ -3,6 +3,8 @@ title: 'Prime Factors: When Stories Are the Real Currency'
 draft: false
 date: 2019-02-19T11:28:03+00:00
 slug: '201902191128-prime-factors-stories-currency'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1097699304171540480'

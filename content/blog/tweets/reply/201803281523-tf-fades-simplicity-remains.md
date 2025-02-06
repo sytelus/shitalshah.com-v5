@@ -3,6 +3,8 @@ title: 'TF Fades, Simplicity Remains'
 draft: true
 date: 2018-03-28T15:23:07+00:00
 slug: '201803281523-tf-fades-simplicity-remains'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '978910341244641280'

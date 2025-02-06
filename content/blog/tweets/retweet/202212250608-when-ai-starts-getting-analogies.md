@@ -3,6 +3,8 @@ title: 'When AI Starts Getting Analogies'
 draft: true
 date: 2022-12-25T06:08:23+00:00
 slug: '202212250608-when-ai-starts-getting-analogies'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1606773809704763392'

@@ -3,6 +3,8 @@ title: 'GitHub''s ''We Don''t Support This'': A Frustrated Developer''s Plea'
 draft: false
 date: 2019-11-01T14:35:11+00:00
 slug: '201911011435-github-we-dont-support-this-frustration'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1190170405828325376'

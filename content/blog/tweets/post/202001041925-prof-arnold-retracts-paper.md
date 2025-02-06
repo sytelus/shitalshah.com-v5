@@ -3,6 +3,8 @@ title: 'Prof. Arnold''s Nobel Act: Retracting Her Own Paper'
 draft: false
 date: 2020-01-04T19:25:06+00:00
 slug: '202001041925-prof-arnold-retracts-paper'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1213421089906278401'

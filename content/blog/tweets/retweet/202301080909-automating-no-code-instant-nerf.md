@@ -3,6 +3,8 @@ title: 'Automating No-Code Instant NeRF: When ''No Code'' Is Too Much Work!'
 draft: true
 date: 2023-01-08T09:09:04+00:00
 slug: '202301080909-automating-no-code-instant-nerf'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1611892711434649605'

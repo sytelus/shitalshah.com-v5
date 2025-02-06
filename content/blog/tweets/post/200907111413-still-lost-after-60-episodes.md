@@ -3,6 +3,8 @@ title: 'Still Lost After 60 Episodes'
 draft: true
 date: 2009-07-11T14:13:22+00:00
 slug: '200907111413-still-lost-after-60-episodes'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '2581007395'

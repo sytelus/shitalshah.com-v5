@@ -3,6 +3,8 @@ title: 'Twins Prove Longevity Runs in the Genes, Not NGF'
 draft: true
 date: 2023-01-05T09:00:20+00:00
 slug: '202301050900-twins-longevity-genes'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1610803349334654976'

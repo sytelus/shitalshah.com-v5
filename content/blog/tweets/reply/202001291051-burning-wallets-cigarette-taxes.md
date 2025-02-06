@@ -3,6 +3,8 @@ title: 'Burning Wallets: Do Cigarette Taxes Punish the Poor?'
 draft: true
 date: 2020-01-29T10:51:47+00:00
 slug: '202001291051-burning-wallets-cigarette-taxes'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1222351606236057600'

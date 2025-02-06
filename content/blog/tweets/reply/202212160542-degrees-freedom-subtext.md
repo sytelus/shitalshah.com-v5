@@ -3,6 +3,8 @@ title: 'Degrees of Freedom: Mastering the Art of Subtext'
 draft: true
 date: 2022-12-16T05:42:06+00:00
 slug: '202212160542-degrees-freedom-subtext'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1603505703724806144'

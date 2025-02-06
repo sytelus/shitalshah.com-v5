@@ -3,6 +3,8 @@ title: 'PyTorch Smuggles CUDA Onboard'
 draft: false
 date: 2023-04-25T14:56:37+00:00
 slug: '202304251456-pytorch-smuggles-cuda'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1650770776126267394'

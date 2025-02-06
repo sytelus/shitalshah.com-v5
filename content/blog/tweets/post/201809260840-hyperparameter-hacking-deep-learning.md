@@ -3,6 +3,8 @@ title: 'Hyperparameter Hacking: A Practical Guide to Tuning Deep Learning Models
 draft: false
 date: 2018-09-26T08:40:28+00:00
 slug: '201809260840-hyperparameter-hacking-deep-learning'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1044763602635243521'

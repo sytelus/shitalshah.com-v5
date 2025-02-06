@@ -3,6 +3,8 @@ title: 'Cliffhangers and Campfires: Final Climb at Leavenworth'
 draft: true
 date: 2009-05-30T07:11:33+00:00
 slug: '200905300711-cliffhangers-campfires-leavenworth'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1966137020'

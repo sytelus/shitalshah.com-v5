@@ -3,6 +3,8 @@ title: 'From Snapshots to Scans: CLIP Does the Paperwork'
 draft: false
 date: 2021-01-23T13:14:13+00:00
 slug: '202101231314-from-snapshots-to-scans-clip-does-the-paperwork'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1352847080864194561'

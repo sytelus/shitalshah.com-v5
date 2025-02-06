@@ -3,6 +3,8 @@ title: 'Hotter Than Hell: Io’s Volcanic Fury Mapped'
 draft: true
 date: 2019-12-03T17:11:39+00:00
 slug: '201912031711-hotter-than-hell-io'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1201791092519141376'

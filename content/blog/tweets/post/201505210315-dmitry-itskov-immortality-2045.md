@@ -3,6 +3,8 @@ title: 'Dmitry Itskov''s Immortality Mission: 2045 or Bust'
 draft: true
 date: 2015-05-21T03:15:44+00:00
 slug: '201505210315-dmitry-itskov-immortality-2045'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '601119135217504256'

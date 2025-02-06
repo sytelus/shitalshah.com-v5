@@ -3,6 +3,8 @@ title: 'Little Compute, Big AI Ideas'
 draft: true
 date: 2020-01-21T17:56:18+00:00
 slug: '202001211756-little-compute-big-ai'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1219559337082753024'

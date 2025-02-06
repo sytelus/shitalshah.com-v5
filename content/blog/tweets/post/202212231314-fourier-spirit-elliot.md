@@ -3,6 +3,8 @@ title: 'Get in the Fourier Spirit with Physics Elliot'
 draft: false
 date: 2022-12-23T13:14:21+00:00
 slug: '202212231314-fourier-spirit-elliot'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1606156232099860482'

@@ -3,6 +3,8 @@ title: 'Skip the Fluff: Optionality Made Simple'
 draft: false
 date: 2018-10-29T15:56:59+00:00
 slug: '201810291556-optionality-made-simple'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1056832257036496898'

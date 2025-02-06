@@ -3,6 +3,8 @@ title: 'Unreal! Archai Repo Now Works on Mobile'
 draft: false
 date: 2021-02-11T15:11:49+00:00
 slug: '202102111511-unreal-archai-repo-mobile'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1359762044354846722'

@@ -3,6 +3,8 @@ title: 'Video Deep Learning: CNNs Still Stealing the Show'
 draft: true
 date: 2022-11-19T01:46:35+00:00
 slug: '202211190146-video-deep-learning-cnns'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1593661964156571648'

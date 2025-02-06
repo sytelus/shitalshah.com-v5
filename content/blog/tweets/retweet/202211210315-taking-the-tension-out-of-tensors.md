@@ -3,6 +3,8 @@ title: 'Taking the Tension out of Tensors with Lovely Tensors'
 draft: true
 date: 2022-11-21T03:15:37+00:00
 slug: '202211210315-taking-the-tension-out-of-tensors'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1594409144555278336'

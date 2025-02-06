@@ -3,6 +3,8 @@ title: 'Drowning in Data, Thirsty for Insights'
 draft: true
 date: 2019-12-28T10:45:18+00:00
 slug: '201912281045-drowning-in-data-thirsty-for-insights'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1210753563208515585'

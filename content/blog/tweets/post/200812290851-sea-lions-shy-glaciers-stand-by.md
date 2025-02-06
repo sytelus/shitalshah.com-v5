@@ -3,6 +3,8 @@ title: 'Sea Lions Shy, Glaciers Stand By'
 draft: true
 date: 2008-12-29T08:51:41+00:00
 slug: '200812290851-sea-lions-shy-glaciers-stand-by'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1083101799'

@@ -3,6 +3,8 @@ title: 'Specificity Please!: A Reply to [@IntuitMachine](https://x.com/IntuitMac
 draft: true
 date: 2022-04-28T14:12:01+00:00
 slug: '202204281412-specificity-please'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1519575143525150720'

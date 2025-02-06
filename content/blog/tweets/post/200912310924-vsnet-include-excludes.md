@@ -3,6 +3,8 @@ title: 'VS.Net: When "Include in Project" Excludes Itself'
 draft: true
 date: 2009-12-31T09:24:05+00:00
 slug: '200912310924-vsnet-include-excludes'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '7216104117'

@@ -3,6 +3,8 @@ title: 'Fire-and-Forget Publishing: Passing Reviews Without Purpose'
 draft: true
 date: 2019-05-10T11:28:57+00:00
 slug: '201905101128-fire-and-forget-publishing'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1126705662891708417'

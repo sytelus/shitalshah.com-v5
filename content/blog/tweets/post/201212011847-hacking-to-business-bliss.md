@@ -3,6 +3,8 @@ title: 'Hacking Your Way to Business Bliss'
 draft: true
 date: 2012-12-01T18:47:49+00:00
 slug: '201212011847-hacking-to-business-bliss'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '274827136127336449'

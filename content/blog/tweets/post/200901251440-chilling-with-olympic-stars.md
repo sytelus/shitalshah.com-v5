@@ -3,6 +3,8 @@ title: 'Chilling with Olympic Stars: 10 Rows from the Ice'
 draft: true
 date: 2009-01-25T14:40:24+00:00
 slug: '200901251440-chilling-with-olympic-stars'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1146252178'

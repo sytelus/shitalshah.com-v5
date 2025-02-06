@@ -3,6 +3,8 @@ title: 'From Robots to Games: Top RL Papers by Application'
 draft: false
 date: 2018-10-20T09:28:37+00:00
 slug: '201810200928-rl-papers-by-application'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1053473031010496512'

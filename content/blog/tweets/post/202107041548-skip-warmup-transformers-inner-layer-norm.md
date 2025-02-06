@@ -3,6 +3,8 @@ title: 'Skip the Warm-up: Transformers with Inner Layer Norm'
 draft: false
 date: 2021-07-04T15:48:25+00:00
 slug: '202107041548-skip-warmup-transformers-inner-layer-norm'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1411607820542218245'

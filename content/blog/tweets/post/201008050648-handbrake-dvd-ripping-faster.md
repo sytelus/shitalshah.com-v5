@@ -3,6 +3,8 @@ title: 'HandBrake Muscle: Ripping DVDs Faster for Gym Time'
 draft: true
 date: 2010-08-05T06:48:55+00:00
 slug: '201008050648-handbrake-dvd-ripping-faster'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '20343425161'

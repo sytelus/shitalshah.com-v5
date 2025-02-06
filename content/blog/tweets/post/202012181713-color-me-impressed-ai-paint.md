@@ -3,6 +3,8 @@ title: 'Color Me Impressed: Finally Found an AI Paint'
 draft: false
 date: 2020-12-18T17:13:20+00:00
 slug: '202012181713-color-me-impressed-ai-paint'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1339861293113610241'

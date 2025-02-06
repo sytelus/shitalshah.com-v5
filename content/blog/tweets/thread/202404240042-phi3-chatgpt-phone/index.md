@@ -3,6 +3,8 @@ title: 'Phi-3 Phi-nally Brings ChatGPT Natively to Your Phone'
 draft: false
 date: 2024-04-24T00:42:47+00:00
 slug: '202404240042-phi3-chatgpt-phone'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1782827470686925211'

@@ -3,6 +3,8 @@ title: 'GSM8k: Saturated or Still Relevant?'
 draft: true
 date: 2024-08-07T06:05:25+00:00
 slug: '202408070605-gsm8k-saturated-or-relevant'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1820959393573433660'

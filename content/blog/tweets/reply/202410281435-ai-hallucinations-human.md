@@ -3,6 +3,8 @@ title: 'AI Hallucinations: As Human as It Gets'
 draft: true
 date: 2024-10-28T14:35:59+00:00
 slug: '202410281435-ai-hallucinations-human'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1850803686987219122'

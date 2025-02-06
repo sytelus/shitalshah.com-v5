@@ -3,6 +3,8 @@ title: 'Split Your Songs for AI Magic: Demucs Meets MusicGen'
 draft: true
 date: 2023-06-14T15:47:56+00:00
 slug: '202306141547-split-songs-demucs-musicgen'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1668903083731202048'

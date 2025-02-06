@@ -3,6 +3,8 @@ title: 'SOTA Schmota—Does Your Paper Inspire?'
 draft: false
 date: 2024-04-15T20:27:15+00:00
 slug: '202404152027-does-your-paper-inspire'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1779864062161223722'

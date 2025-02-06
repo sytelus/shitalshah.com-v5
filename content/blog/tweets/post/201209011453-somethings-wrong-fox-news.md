@@ -3,6 +3,8 @@ title: 'Something''s Wrong When Fox News Says So'
 draft: true
 date: 2012-09-01T14:53:30+00:00
 slug: '201209011453-somethings-wrong-fox-news'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '241805969787592705'

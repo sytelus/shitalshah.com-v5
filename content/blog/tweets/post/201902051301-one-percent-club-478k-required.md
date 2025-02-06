@@ -3,6 +3,8 @@ title: '1% Club Membership: $478K Required'
 draft: false
 date: 2019-02-05T13:01:10+00:00
 slug: '201902051301-one-percent-club-478k-required'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1092649308514471936'

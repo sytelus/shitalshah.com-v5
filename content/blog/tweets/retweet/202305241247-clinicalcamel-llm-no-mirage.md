@@ -3,6 +3,8 @@ title: 'ClinicalCamel: The LLM That''s No Mirage'
 draft: true
 date: 2023-05-24T12:47:20+00:00
 slug: '202305241247-clinicalcamel-llm-no-mirage'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1661247487292870656'

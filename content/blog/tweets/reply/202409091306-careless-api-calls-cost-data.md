@@ -3,6 +3,8 @@ title: 'Careless API Calls Cost Data'
 draft: true
 date: 2024-09-09T13:06:26+00:00
 slug: '202409091306-careless-api-calls-cost-data'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1833024145761927634'

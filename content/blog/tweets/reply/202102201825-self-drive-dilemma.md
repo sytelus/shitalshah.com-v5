@@ -3,6 +3,8 @@ title: 'Self-Drive Dilemma: To Look or Not to Look?'
 draft: true
 date: 2021-02-20T18:25:17+00:00
 slug: '202102201825-self-drive-dilemma'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1363072225742639106'

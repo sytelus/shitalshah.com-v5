@@ -3,6 +3,8 @@ title: 'Pixels, Phones, and Photography: A Nerdy Exposé'
 draft: true
 date: 2021-02-19T15:48:38+00:00
 slug: '202102191548-pixels-phones-photography'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1362670413755518981'

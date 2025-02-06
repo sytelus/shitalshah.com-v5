@@ -3,6 +3,8 @@ title: 'RedPajama Goes on a Diet: Meet SlimPajama'
 draft: true
 date: 2023-06-13T12:40:31+00:00
 slug: '202306131240-slimpajama-redpajama-diet'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1668493531730833408'

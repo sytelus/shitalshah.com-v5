@@ -3,6 +3,8 @@ title: 'Neural Nets Shrink the Planet: Introducing LGSMs'
 draft: false
 date: 2023-06-07T15:51:00+00:00
 slug: '202306071551-neural-nets-shrink-planet-lgsm'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1666367138653933575'

@@ -3,6 +3,8 @@ title: 'ChatGPT API Swings into the OpenAI Playground'
 draft: true
 date: 2023-03-03T16:03:42+00:00
 slug: '202303031603-chatgpt-api-openai-playground'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1631566003539968000'

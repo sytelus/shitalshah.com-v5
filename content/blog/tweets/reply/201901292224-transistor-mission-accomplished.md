@@ -3,6 +3,8 @@ title: 'Transistor-mission Accomplished: Junction Theories Realized in 1951'
 draft: true
 date: 2019-01-29T22:24:19+00:00
 slug: '201901292224-transistor-mission-accomplished'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1090254317179756545'

@@ -3,6 +3,8 @@ title: 'Earn While You Learn: The CS Degree That Pays You Back'
 draft: false
 date: 2020-01-15T20:04:00+00:00
 slug: '202001152004-earn-while-you-learn-cs-degree'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1217417144041783296'

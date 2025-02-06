@@ -3,6 +3,8 @@ title: 'Coal''s Grand Theft of the Grand Staircase'
 draft: true
 date: 2017-12-23T16:31:35+00:00
 slug: '201712231631-coals-grand-theft-of-grand-staircase'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '944485626329493504'

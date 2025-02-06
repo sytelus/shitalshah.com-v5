@@ -3,6 +3,8 @@ title: 'Kolmogorov''s K and the Quest for V Parameters'
 draft: true
 date: 2021-01-08T10:37:08+00:00
 slug: '202101081037-kolmogorovs-k-quest-for-v-parameters'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1347371732663820290'

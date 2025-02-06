@@ -3,6 +3,8 @@ title: 'LLaMA Avoids The Pile but Rebuilds CommonCrawl Instead'
 draft: true
 date: 2023-04-07T01:55:59+00:00
 slug: '202304070155-llama-avoids-pile-rebuilds-commoncrawl'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1644051343420854272'

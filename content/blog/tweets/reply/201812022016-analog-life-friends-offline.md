@@ -3,6 +3,8 @@ title: 'Analog Life: When Friends Met Offline'
 draft: true
 date: 2018-12-02T20:16:06+00:00
 slug: '201812022016-analog-life-friends-offline'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1069203553535746048'

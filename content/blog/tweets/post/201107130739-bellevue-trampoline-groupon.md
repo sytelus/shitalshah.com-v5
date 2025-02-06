@@ -3,6 +3,8 @@ title: 'Jump for Joy: Bellevue Trampoline Gym Has a Groupon Today'
 draft: true
 date: 2011-07-13T07:39:46+00:00
 slug: '201107130739-bellevue-trampoline-groupon'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '90943465483026433'

@@ -3,6 +3,8 @@ title: 'SF, Who? Try Crypto Cowboys or Taiwan Gold Rush'
 draft: true
 date: 2021-02-18T16:27:25+00:00
 slug: '202102181627-crypto-cowboys-taiwan-gold-rush'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1362317787486560258'

@@ -3,6 +3,8 @@ title: 'You Can''t Just Throw Managers at Research'
 draft: true
 date: 2020-05-28T07:08:59+00:00
 slug: '202005280708-cant-throw-managers-at-research'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1265797178422779904'

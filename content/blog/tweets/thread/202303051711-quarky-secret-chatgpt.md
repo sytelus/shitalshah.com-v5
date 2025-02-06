@@ -3,6 +3,8 @@ title: 'The Quarky Secret of Original ChatGPT'
 draft: false
 date: 2023-03-05T17:11:52+00:00
 slug: '202303051711-quarky-secret-chatgpt'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1632307933739642880'

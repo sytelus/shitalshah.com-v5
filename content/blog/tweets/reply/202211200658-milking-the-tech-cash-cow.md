@@ -3,6 +3,8 @@ title: 'Milking the Tech Cash Cow: Profit Without Innovation'
 draft: true
 date: 2022-11-20T06:58:06+00:00
 slug: '202211200658-milking-the-tech-cash-cow'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1594102747191980032'

@@ -3,6 +3,8 @@ title: 'LoRA Lowdown: Fine-Tuning LLMs with Low-Rank Adaptation'
 draft: true
 date: 2023-11-20T07:23:41+00:00
 slug: '202311200723-lora-lowdown-finetune-llms'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1726380753997676679'

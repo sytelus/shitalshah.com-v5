@@ -3,6 +3,8 @@ title: 'Sit Back and Relax: The Lazy Way to Better Memory'
 draft: false
 date: 2018-02-13T17:28:47+00:00
 slug: '201802131728-lazy-way-to-better-memory'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '963344189852327936'

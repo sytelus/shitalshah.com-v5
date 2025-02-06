@@ -3,6 +3,8 @@ title: 'Life''s Token Economy: 0.5 Billion Words and Counting'
 draft: true
 date: 2023-10-02T06:11:29+00:00
 slug: '202310020611-lifes-token-economy'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1708620681175564300'

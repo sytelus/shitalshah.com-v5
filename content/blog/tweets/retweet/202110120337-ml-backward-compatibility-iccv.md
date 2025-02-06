@@ -3,6 +3,8 @@ title: 'Teaching Old Models New Tricks: Backward Compatibility at ICCV 2021'
 draft: true
 date: 2021-10-12T03:37:22+00:00
 slug: '202110120337-ml-backward-compatibility-iccv'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1447662632085843968'

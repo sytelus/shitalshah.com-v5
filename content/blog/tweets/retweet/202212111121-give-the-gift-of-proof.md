@@ -3,6 +3,8 @@ title: 'Give the Gift of Proof'
 draft: true
 date: 2022-12-11T11:21:03+00:00
 slug: '202212111121-give-the-gift-of-proof'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1601779064729395200'

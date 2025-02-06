@@ -3,6 +3,8 @@ title: 'Transforming Inference: Unveiling Hidden Performance Lore'
 draft: true
 date: 2022-03-31T06:29:42+00:00
 slug: '202203310629-transformer-inference-performance-lore'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1509311939263954947'

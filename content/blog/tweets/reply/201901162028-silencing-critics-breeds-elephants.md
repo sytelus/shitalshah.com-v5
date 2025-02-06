@@ -3,6 +3,8 @@ title: 'Silencing Critics Breeds Elephants'
 draft: true
 date: 2019-01-16T20:28:13+00:00
 slug: '201901162028-silencing-critics-breeds-elephants'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1085514057262624770'

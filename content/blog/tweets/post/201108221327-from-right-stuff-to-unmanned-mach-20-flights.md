@@ -3,6 +3,8 @@ title: 'From ''The Right Stuff'' to Unmanned Mach 20 Flights'
 draft: true
 date: 2011-08-22T13:27:15+00:00
 slug: '201108221327-from-right-stuff-to-unmanned-mach-20-flights'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '105526427331473408'

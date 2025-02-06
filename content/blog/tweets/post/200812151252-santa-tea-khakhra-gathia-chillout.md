@@ -3,6 +3,8 @@ title: 'Santa''s Tea Time: Khakhra, Gathia, and Chillout Beats'
 draft: true
 date: 2008-12-15T12:52:56+00:00
 slug: '200812151252-santa-tea-khakhra-gathia-chillout'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1057942494'

@@ -3,6 +3,8 @@ title: 'ChatGPT with Citations: Farewell to Blue Links'
 draft: false
 date: 2023-01-20T15:51:34+00:00
 slug: '202301201551-chatgpt-with-citations'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1616342657340694529'

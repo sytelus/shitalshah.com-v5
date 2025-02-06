@@ -3,6 +3,8 @@ title: 'Cracked the Proof! Wolfram Alpha Is My Math Debugger'
 draft: true
 date: 2009-12-11T18:16:52+00:00
 slug: '200912111816-wolfram-alpha-math-debugger'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '6562755550'

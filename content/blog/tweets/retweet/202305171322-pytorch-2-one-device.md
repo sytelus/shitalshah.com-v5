@@ -3,6 +3,8 @@ title: 'PyTorch 2.0: One Device to Rule Them All'
 draft: true
 date: 2023-05-17T13:22:43+00:00
 slug: '202305171322-pytorch-2-one-device'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1658719679769370624'

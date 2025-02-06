@@ -3,6 +3,8 @@ title: 'Optimus Prime Meets Q-Learning: Transformers in Reinforcement Learning'
 draft: true
 date: 2023-01-15T13:35:53+00:00
 slug: '202301151335-optimus-prime-meets-q-learning'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1614496574746554368'

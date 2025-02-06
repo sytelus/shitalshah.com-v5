@@ -3,6 +3,8 @@ title: 'Don''t Just get_ It: Maybe create_ It Instead'
 draft: false
 date: 2020-04-18T10:21:14+00:00
 slug: '202004181021-dont-just-get-it'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1251350046848630784'

@@ -3,6 +3,8 @@ title: 'In ML We Trust—Wait, No We Don''t'
 draft: true
 date: 2021-01-29T15:09:08+00:00
 slug: '202101291509-in-ml-we-dont-trust'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1355050328807280650'

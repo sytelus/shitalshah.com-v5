@@ -3,6 +3,8 @@ title: 'Digging the Term ''Subterranean Trailblazers'
 draft: true
 date: 2012-08-07T04:01:44+00:00
 slug: '201208070401-digging-the-term-subterranean-trailblazers'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '232582251035111424'

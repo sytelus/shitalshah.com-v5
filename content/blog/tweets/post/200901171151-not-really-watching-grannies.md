@@ -3,6 +3,8 @@ title: 'Not Really Watching Grannies on Safari in South Korea'
 draft: true
 date: 2009-01-17T11:51:15+00:00
 slug: '200901171151-not-really-watching-grannies'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1125479007'

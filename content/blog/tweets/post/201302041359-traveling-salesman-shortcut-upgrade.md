@@ -3,6 +3,8 @@ title: 'Traveling Salesman Gets a Shortcut Upgrade'
 draft: true
 date: 2013-02-04T13:59:19+00:00
 slug: '201302041359-traveling-salesman-shortcut-upgrade'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '298309740138729472'

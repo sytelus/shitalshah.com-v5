@@ -3,6 +3,8 @@ title: 'One Instruction to Rule Them All: Looped Transformers'
 draft: false
 date: 2023-12-12T18:02:12+00:00
 slug: '202312121802-one-instruction-looped-transformers'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1734513978976661768'

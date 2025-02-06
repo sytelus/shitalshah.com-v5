@@ -3,6 +3,8 @@ title: 'General Purpose Computers With Amnesia?'
 draft: true
 date: 2022-11-18T14:04:35+00:00
 slug: '202211181404-gpc-with-amnesia'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1593485299832991745'

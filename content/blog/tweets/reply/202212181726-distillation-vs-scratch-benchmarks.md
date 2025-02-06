@@ -3,6 +3,8 @@ title: 'Autoregressive Distillation Showdown: Benchmarks Needed!'
 draft: true
 date: 2022-12-18T17:26:50+00:00
 slug: '202212181726-distillation-vs-scratch-benchmarks'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1604407833872982017'

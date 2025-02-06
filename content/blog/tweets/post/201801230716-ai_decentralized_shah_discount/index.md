@@ -3,6 +3,8 @@ title: 'AI Decentralized: Shah Gives Talk, You Get Discount!'
 draft: false
 date: 2018-01-23T07:16:22+00:00
 slug: '201801230716-ai_decentralized_shah_discount'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '955579922700910592'

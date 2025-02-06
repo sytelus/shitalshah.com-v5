@@ -3,6 +3,8 @@ title: 'Humans Process 1 Billion Language Tokens (Not Counting Memes)'
 draft: true
 date: 2023-01-26T05:26:34+00:00
 slug: '202301260526-humans-process-1b-tokens'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1618359699954610178'

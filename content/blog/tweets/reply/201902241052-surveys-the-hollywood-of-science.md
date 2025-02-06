@@ -3,6 +3,8 @@ title: 'Surveys: The Hollywood of Science'
 draft: true
 date: 2019-02-24T10:52:22+00:00
 slug: '201902241052-surveys-the-hollywood-of-science'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1099502267294609408'

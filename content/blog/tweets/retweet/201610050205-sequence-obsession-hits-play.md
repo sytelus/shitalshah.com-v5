@@ -3,6 +3,8 @@ title: 'Sequence Obsession Hits ''Play'': Diving into Video Generation'
 draft: true
 date: 2016-10-05T02:05:41+00:00
 slug: '201610050205-sequence-obsession-hits-play'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '783382600161173505'

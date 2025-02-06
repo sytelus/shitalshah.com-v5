@@ -3,6 +3,8 @@ title: 'Kids These Days Can''t Even Computer'
 draft: true
 date: 2013-08-17T13:54:55+00:00
 slug: '201308171354-kids-these-days-cant-even-computer'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '368626982222704640'

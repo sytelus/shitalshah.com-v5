@@ -3,6 +3,8 @@ title: 'Climbers Drop Out, Cavers Cave In'
 draft: true
 date: 2009-05-17T12:56:04+00:00
 slug: '200905171256-climbers-drop-out-cavers-cave-in'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1823770622'

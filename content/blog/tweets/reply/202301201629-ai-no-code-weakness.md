@@ -3,6 +3,8 @@ title: 'Brains but No Code: The AI''s Huge Weakness'
 draft: true
 date: 2023-01-20T16:29:00+00:00
 slug: '202301201629-ai-no-code-weakness'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1616352076610822146'

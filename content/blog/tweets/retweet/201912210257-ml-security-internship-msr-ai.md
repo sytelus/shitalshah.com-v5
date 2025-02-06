@@ -3,6 +3,8 @@ title: 'Guardians of Machine Learning: Intern at MSR AI'
 draft: true
 date: 2019-12-21T02:57:41+00:00
 slug: '201912210257-ml-security-internship-msr-ai'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1208099168679415808'

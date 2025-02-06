@@ -3,6 +3,8 @@ title: 'Summit Up: Banff Film Fest Hits Seattle Nov 28'
 draft: true
 date: 2012-10-02T04:42:24+00:00
 slug: '201210020442-banff-film-fest-seattle'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '252886205874700289'

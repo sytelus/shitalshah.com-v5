@@ -3,6 +3,8 @@ title: 'Missing the Burn, Off to OTR'
 draft: true
 date: 2010-08-17T07:55:59+00:00
 slug: '201008170755-missing-the-burn-off-to-otr'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '21360207421'

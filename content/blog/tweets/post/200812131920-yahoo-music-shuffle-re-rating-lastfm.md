@@ -3,6 +3,8 @@ title: 'Yahoo''s Music Shuffle: Re-Rating on Last.fm'
 draft: true
 date: 2008-12-13T19:20:00+00:00
 slug: '200812131920-yahoo-music-shuffle-re-rating-lastfm'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1055135866'

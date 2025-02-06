@@ -3,6 +3,8 @@ title: 'Quadruple Strings at the Triple Door'
 draft: true
 date: 2011-04-21T11:53:45+00:00
 slug: '201104211153-quadruple-strings-triple-door'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '60929191796932608'

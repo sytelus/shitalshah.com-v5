@@ -3,6 +3,8 @@ title: 'Stationary Action: Simple Principle, Complex Universe'
 draft: true
 date: 2018-12-30T19:22:02+00:00
 slug: '201812301922-stationary-action-complex-universe'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1079336805290303488'

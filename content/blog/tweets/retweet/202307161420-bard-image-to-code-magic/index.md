@@ -3,6 +3,8 @@ title: 'When Bard Sees, It Codes: Image to Code Magic'
 draft: true
 date: 2023-07-16T14:20:24+00:00
 slug: '202307161420-bard-image-to-code-magic'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1680477466601865216'

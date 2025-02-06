@@ -3,6 +3,8 @@ title: 'Lost in the Academic Ring: A Dark Field Mystery'
 draft: true
 date: 2019-08-17T14:43:31+00:00
 slug: '201908171443-lost-in-academic-ring-dark-field'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1162631023206600704'

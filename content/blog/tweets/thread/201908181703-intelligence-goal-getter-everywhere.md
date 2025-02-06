@@ -3,6 +3,8 @@ title: 'Intelligence: The Ultimate Goal-getter Everywhere'
 draft: false
 date: 2019-08-18T17:03:52+00:00
 slug: '201908181703-intelligence-goal-getter-everywhere'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1163028734091251712'

@@ -3,6 +3,8 @@ title: 'Khan Academy''s GPT-4 Tutor: The Teacher Who Never Gets Tired'
 draft: false
 date: 2023-03-17T10:06:26+00:00
 slug: '202303171006-khan-academy-gpt4-tutor'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1636564624182235136'

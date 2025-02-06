@@ -3,6 +3,8 @@ title: 'Implicitly Awesome: Neural Nets Reimagine Computer Vision'
 draft: true
 date: 2020-12-29T12:32:13+00:00
 slug: '202012291232-implicitly-awesome-neural-nets'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1343776813412061184'

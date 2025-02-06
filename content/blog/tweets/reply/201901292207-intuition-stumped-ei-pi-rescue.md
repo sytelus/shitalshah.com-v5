@@ -3,6 +3,8 @@ title: 'Intuition Stumped: e^(iπ) = -1 to the Rescue'
 draft: true
 date: 2019-01-29T22:07:15+00:00
 slug: '201901292207-intuition-stumped-ei-pi-rescue'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1090250019377111040'

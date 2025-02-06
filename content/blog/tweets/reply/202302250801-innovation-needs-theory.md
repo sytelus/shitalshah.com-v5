@@ -3,6 +3,8 @@ title: 'Can''t Spell Innovation Without Theory'
 draft: true
 date: 2023-02-25T08:01:13+00:00
 slug: '202302250801-innovation-needs-theory'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1629270253388591110'

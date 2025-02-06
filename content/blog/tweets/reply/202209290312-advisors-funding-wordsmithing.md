@@ -3,6 +3,8 @@ title: 'Advisors: From Funding to Wordsmithing'
 draft: true
 date: 2022-09-29T03:12:20+00:00
 slug: '202209290312-advisors-funding-wordsmithing'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1575216860286832640'

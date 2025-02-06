@@ -3,6 +3,8 @@ title: 'I See Your Portable Screen and Raise You a 4K OLED'
 draft: true
 date: 2021-09-29T13:53:03+00:00
 slug: '202109291353-i-raise-you-4k-oled-portable-screen'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1443106532380450816'

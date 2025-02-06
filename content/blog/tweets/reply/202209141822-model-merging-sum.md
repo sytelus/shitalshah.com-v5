@@ -3,6 +3,8 @@ title: 'Model Merging: Not Quite the Sum of Its Parts?'
 draft: true
 date: 2022-09-14T18:22:46+00:00
 slug: '202209141822-model-merging-sum'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1570010161393332230'

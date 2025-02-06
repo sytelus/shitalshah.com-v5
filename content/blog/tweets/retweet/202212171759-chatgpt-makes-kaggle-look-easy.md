@@ -3,6 +3,8 @@ title: 'ChatGPT Makes Kaggle Look Easy'
 draft: true
 date: 2022-12-17T17:59:01+00:00
 slug: '202212171759-chatgpt-makes-kaggle-look-easy'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1604053542331125760'

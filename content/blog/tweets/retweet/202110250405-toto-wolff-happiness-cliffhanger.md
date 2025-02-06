@@ -3,6 +3,8 @@ title: 'Toto Wolff''s Cliffhanger on Happiness'
 draft: true
 date: 2021-10-25T04:05:46+00:00
 slug: '202110250405-toto-wolff-happiness-cliffhanger'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1452380822728708098'

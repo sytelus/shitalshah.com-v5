@@ -3,6 +3,8 @@ title: '50,000 Years Later, AI Takes the GDP Wheel'
 draft: true
 date: 2023-04-12T07:34:33+00:00
 slug: '202304120734-ai-takes-gdp-wheel'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1645948484439162885'

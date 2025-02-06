@@ -3,6 +3,8 @@ title: 'Moore''s Law: The Tiny Tweaks Behind Exponential Leaps'
 draft: false
 date: 2021-09-27T06:00:21+00:00
 slug: '202109270600-moores-law-tiny-tweaks'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1442262796855439363'

@@ -3,6 +3,8 @@ title: 'AI''s ArXiv Avalanche: Skipping Peer Review'
 draft: true
 date: 2023-07-19T10:35:30+00:00
 slug: '202307191035-ai-arxiv-skipping-peer-review'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1681508031144800256'

@@ -3,6 +3,8 @@ title: 'Einstein''s Theory of Academic Freedom'
 draft: true
 date: 2019-02-17T19:17:41+00:00
 slug: '201902171917-einstein-academic-freedom'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1097092719124439047'

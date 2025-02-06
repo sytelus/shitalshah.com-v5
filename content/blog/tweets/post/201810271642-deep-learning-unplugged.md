@@ -3,6 +3,8 @@ title: 'Deep Learning Unplugged: SOTA with Just Convs and ReLU'
 draft: false
 date: 2018-10-27T16:42:17+00:00
 slug: '201810271642-deep-learning-unplugged'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1056118882413367296'

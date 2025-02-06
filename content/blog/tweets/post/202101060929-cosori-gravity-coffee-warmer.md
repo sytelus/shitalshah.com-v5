@@ -3,6 +3,8 @@ title: 'Hot Coffee Thanks to Gravity—COSORI''s Clever Warmer'
 draft: false
 date: 2021-01-06T09:29:15+00:00
 slug: '202101060929-cosori-gravity-coffee-warmer'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1346629874115481602'

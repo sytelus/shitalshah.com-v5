@@ -3,6 +3,8 @@ title: 'Vocab Sizes: From Guilty Tens to Speedy Sixty-Fours'
 draft: false
 date: 2023-02-06T09:39:52+00:00
 slug: '202302060939-vocab-sizes-tens-to-sixty-fours'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1622409711202238464'

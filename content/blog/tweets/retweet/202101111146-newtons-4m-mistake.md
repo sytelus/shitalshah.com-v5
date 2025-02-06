@@ -3,6 +3,8 @@ title: 'Newton''s Stock Crash: A Genius''s $4M Mistake'
 draft: true
 date: 2021-01-11T11:46:12+00:00
 slug: '202101111146-newtons-4m-mistake'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1348476278358167553'

@@ -3,6 +3,8 @@ title: 'AI''s 13-Minute Musings: The Cost of H100s'
 draft: true
 date: 2024-12-21T05:41:06+00:00
 slug: '202412210541-ais-13-minute-musings-cost-of-h100s'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1870222921660281115'

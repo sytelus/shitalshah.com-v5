@@ -3,6 +3,8 @@ title: 'GPT-4''s Coding: Tortoise vs. Codex Hare'
 draft: true
 date: 2023-03-23T13:40:18+00:00
 slug: '202303231340-gpt4-coding-tortoise-vs-codex-hare'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1638792771208351745'

@@ -3,6 +3,8 @@ title: 'An XKCD Only Math Geeks Will Get'
 draft: true
 date: 2021-10-12T03:52:58+00:00
 slug: '202110120352-xkcd-only-math-geeks'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1447666557522362370'

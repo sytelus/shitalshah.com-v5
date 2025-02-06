@@ -3,6 +3,8 @@ title: 'Small Transformers, Big Math'
 draft: true
 date: 2023-07-10T19:32:12+00:00
 slug: '202307101932-small-transformers-big-math'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1678381604669132801'

@@ -3,6 +3,8 @@ title: 'Microwaves Zap Infrared Between NY and Chicago'
 draft: true
 date: 2012-06-05T09:46:32+00:00
 slug: '201206050946-microwaves-zap-infrared-ny-chicago'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '209838585686401024'

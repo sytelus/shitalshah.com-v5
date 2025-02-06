@@ -3,6 +3,8 @@ title: 'Bombay Blues: Piles of ''Garbedge'' and Old News'
 draft: true
 date: 2010-07-05T14:46:02+00:00
 slug: '201007051446-bombay-blues-garbedge'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '17775251116'

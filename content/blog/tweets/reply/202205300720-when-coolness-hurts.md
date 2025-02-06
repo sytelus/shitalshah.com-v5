@@ -3,6 +3,8 @@ title: 'When Coolness Hurts: Bewildered by Self-Mutilation'
 draft: true
 date: 2022-05-30T07:20:22+00:00
 slug: '202205300720-when-coolness-hurts'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1531067960164352000'

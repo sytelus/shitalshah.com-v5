@@ -3,6 +3,8 @@ title: 'Weaving Longer Contexts: Yarn Scaling for LLMs'
 draft: false
 date: 2023-09-02T08:36:32+00:00
 slug: '202309020836-yarn-scaling-for-llms'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1697785549027946754'

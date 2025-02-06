@@ -3,6 +3,8 @@ title: 'Flan-tastic LLM: Open-source Flan5 Outshines OpenAI'
 draft: true
 date: 2023-03-01T13:25:48+00:00
 slug: '202303011325-flan5-llm-outshines-openai'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1630801487080357888'

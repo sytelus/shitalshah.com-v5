@@ -3,6 +3,8 @@ title: 'Tech vs. Virus: The Second Wave Showdown'
 draft: true
 date: 2020-04-19T10:28:57+00:00
 slug: '202004191028-tech-vs-virus-second-wave-showdown'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1251714374273626114'

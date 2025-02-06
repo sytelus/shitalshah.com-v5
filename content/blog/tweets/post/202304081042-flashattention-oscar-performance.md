@@ -3,6 +3,8 @@ title: 'FlashAttention''s Oscar-Worthy Performance'
 draft: false
 date: 2023-04-08T10:42:35+00:00
 slug: '202304081042-flashattention-oscar-performance'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1644546251302621184'

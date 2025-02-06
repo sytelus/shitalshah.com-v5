@@ -3,6 +3,8 @@ title: 'Skipping the Stock Market Casino for Local Industry'
 draft: true
 date: 2018-09-07T14:17:17+00:00
 slug: '201809071417-local-industry-over-stock-market'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1037962995291250688'

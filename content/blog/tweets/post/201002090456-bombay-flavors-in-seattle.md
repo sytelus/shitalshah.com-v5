@@ -3,6 +3,8 @@ title: 'Bombay Flavors in Seattle: Seattle Mirchi'
 draft: true
 date: 2010-02-09T04:56:44+00:00
 slug: '201002090456-bombay-flavors-in-seattle'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '8824269284'

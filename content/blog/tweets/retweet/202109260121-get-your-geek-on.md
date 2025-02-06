@@ -3,6 +3,8 @@ title: 'Get Your Geek On: Microsoft Research Summit 2021'
 draft: true
 date: 2021-09-26T01:21:37+00:00
 slug: '202109260121-get-your-geek-on'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1441830264527753219'

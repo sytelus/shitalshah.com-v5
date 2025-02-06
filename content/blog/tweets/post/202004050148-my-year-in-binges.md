@@ -3,6 +3,8 @@ title: 'My Year in Binges: Wars, Popes, and Hidden Figures'
 draft: false
 date: 2020-04-05T01:48:00+00:00
 slug: '202004050148-my-year-in-binges'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1246509843021791232'

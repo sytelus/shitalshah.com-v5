@@ -3,6 +3,8 @@ title: 'Conda in the Fast Lane: Default to Mamba'
 draft: true
 date: 2023-04-04T14:39:46+00:00
 slug: '202304041439-conda-default-mamba'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1643156389353885698'

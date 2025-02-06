@@ -3,6 +3,8 @@ title: 'Switched to Single Quotes: Now Double Quotes Look Funny :)'
 draft: true
 date: 2020-04-05T05:51:22+00:00
 slug: '202004050551-switched-to-single-quotes'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1246571090735841281'

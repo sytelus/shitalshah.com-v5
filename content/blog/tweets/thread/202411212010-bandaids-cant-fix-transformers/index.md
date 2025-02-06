@@ -3,6 +3,8 @@ title: 'Bandaids Can''t Fix Transformers: Tokenization Troubles Exposed'
 draft: false
 date: 2024-11-21T20:10:22+00:00
 slug: '202411212010-bandaids-cant-fix-transformers'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1859570043538862159'

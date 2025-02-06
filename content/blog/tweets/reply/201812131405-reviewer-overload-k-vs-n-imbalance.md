@@ -3,6 +3,8 @@ title: 'Reviewer Overload: The K vs N Imbalance'
 draft: true
 date: 2018-12-13T14:05:32+00:00
 slug: '201812131405-reviewer-overload-k-vs-n-imbalance'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1073096564598546432'

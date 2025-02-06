@@ -3,6 +3,8 @@ title: 'Mamba vs. Attention: A Snake in the Throne Room'
 draft: false
 date: 2023-12-09T20:42:55+00:00
 slug: '202312092042-mamba-vs-attention'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1733467258469724467'

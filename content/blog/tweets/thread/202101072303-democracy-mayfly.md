@@ -3,6 +3,8 @@ title: 'Democracy: The Mayfly of Governments'
 draft: false
 date: 2021-01-07T23:03:08+00:00
 slug: '202101072303-democracy-mayfly'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1347197081920827392'

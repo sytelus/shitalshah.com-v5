@@ -3,6 +3,8 @@ title: 'David vs Goliath: Tiny Models Topple the Giants'
 draft: true
 date: 2023-05-04T13:16:58+00:00
 slug: '202305041316-david-vs-goliath'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1654007191081459712'

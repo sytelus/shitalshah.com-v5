@@ -3,6 +3,8 @@ title: 'SWIFTly Symbolic: The West''s Minimalist Sanctions'
 draft: true
 date: 2022-03-01T08:48:57+00:00
 slug: '202203010848-swiftly-symbolic-west-minimalist-sanctions'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1498460247207256068'

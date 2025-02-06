@@ -3,6 +3,8 @@ title: 'AI Confusion: When ''Girlish Boy'' Means Son'
 draft: false
 date: 2021-12-28T17:46:04+00:00
 slug: '202112281746-ai-confusion-girlish-boy'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1475764982893608964'

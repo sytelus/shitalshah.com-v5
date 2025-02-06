@@ -3,6 +3,8 @@ title: 'Free Coders: Austen''s ''I''m In'' Game'
 draft: true
 date: 2021-03-05T12:21:04+00:00
 slug: '202103051221-free_coders_austens_im_in_game'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1367691608859156484'

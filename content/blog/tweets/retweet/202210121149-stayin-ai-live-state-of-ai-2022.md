@@ -3,6 +3,8 @@ title: 'Stayin'' AI-live: State of AI Report 2022 Drops!'
 draft: true
 date: 2022-10-12T11:49:00+00:00
 slug: '202210121149-stayin-ai-live-state-of-ai-2022'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1580057928731484160'

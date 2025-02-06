@@ -3,6 +3,8 @@ title: 'Don''t Sweat the Lists: It''s Who You Know'
 draft: true
 date: 2019-01-28T04:49:31+00:00
 slug: '201901280449-dont-sweat-the-lists'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1089626477589483521'

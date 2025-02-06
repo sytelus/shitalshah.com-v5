@@ -3,6 +3,8 @@ title: 'In Code We Trust: GitHub Beats Conferences'
 draft: true
 date: 2018-12-28T20:04:16+00:00
 slug: '201812282004-in-code-we-trust-github-beats-conferences'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1078622659011796999'

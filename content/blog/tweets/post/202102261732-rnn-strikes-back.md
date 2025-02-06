@@ -3,6 +3,8 @@ title: 'RNN Strikes Back: SRU++ Overtakes Transformers'
 draft: false
 date: 2021-02-26T17:32:20+00:00
 slug: '202102261732-rnn-strikes-back'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1365233223807111170'

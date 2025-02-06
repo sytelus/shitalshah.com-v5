@@ -3,6 +3,8 @@ title: 'No Guts, No Glory: Unveiling Risk-Takers'' Motivation'
 draft: true
 date: 2013-07-10T14:20:54+00:00
 slug: '201307101420-no-guts-no-glory-risk-takers'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '354862779695497216'

@@ -3,6 +3,8 @@ title: 'Lost in Outlook: Searching for Panasonic, Missing Lookout'
 draft: true
 date: 2008-04-08T04:58:16+00:00
 slug: '200804080458-outlook-search-panasonic-lookout'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '784672511'

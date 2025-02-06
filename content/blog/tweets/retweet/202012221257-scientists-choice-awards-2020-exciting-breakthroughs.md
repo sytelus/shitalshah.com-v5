@@ -3,6 +3,8 @@ title: 'Scientists'' Choice Awards: 2020''s Exciting Breakthroughs'
 draft: true
 date: 2020-12-22T12:57:02+00:00
 slug: '202012221257-scientists-choice-awards-2020-exciting-breakthroughs'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1341246343419858944'

@@ -3,6 +3,8 @@ title: 'Algebra, Transform and Roll Out'
 draft: true
 date: 2021-12-06T13:08:21+00:00
 slug: '202112061308-algebra-transform-roll-out'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1467722559563075588'

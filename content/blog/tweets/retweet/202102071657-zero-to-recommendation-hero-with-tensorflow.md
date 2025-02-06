@@ -3,6 +3,8 @@ title: 'From Zero to Recommendation Hero with TensorFlow'
 draft: true
 date: 2021-02-07T16:57:13+00:00
 slug: '202102071657-zero-to-recommendation-hero-with-tensorflow'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1358339018568552449'

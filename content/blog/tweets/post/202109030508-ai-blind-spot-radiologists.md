@@ -3,6 +3,8 @@ title: 'AI''s Blind Spot: Radiologists Still Ahead'
 draft: false
 date: 2021-09-03T05:08:38+00:00
 slug: '202109030508-ai-blind-spot-radiologists'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1433552471809421337'

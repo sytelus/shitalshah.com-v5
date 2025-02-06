@@ -3,6 +3,8 @@ title: 'AI, Aye? Half the Folks Haven''t Tried It!'
 draft: false
 date: 2025-01-07T02:11:26+00:00
 slug: '202501070211-ai-aye-half-folks-havent-tried'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1876330750683001133'

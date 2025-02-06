@@ -3,6 +3,8 @@ title: 'Twisting Reality: OpenAI''s Real-World Rubik''s Cube Robot'
 draft: true
 date: 2019-10-16T19:46:18+00:00
 slug: '201910161946-twisting-reality-openai-rubiks-robot'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1184450495550636033'

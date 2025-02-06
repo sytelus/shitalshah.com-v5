@@ -3,6 +3,8 @@ title: 'GPT-1 Walked So BERT Could Run'
 draft: true
 date: 2023-04-04T14:24:19+00:00
 slug: '202304041424-gpt1-walked-bert-run'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1643152500860801024'

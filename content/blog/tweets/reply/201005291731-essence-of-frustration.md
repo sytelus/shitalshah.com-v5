@@ -3,6 +3,8 @@ title: 'Essence of Frustration: Groundwear Jacket Not Sold in US'
 draft: true
 date: 2010-05-29T17:31:19+00:00
 slug: '201005291731-essence-of-frustration'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '14967509819'

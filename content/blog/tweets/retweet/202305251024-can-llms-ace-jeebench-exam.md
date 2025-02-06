@@ -3,6 +3,8 @@ title: 'Can LLMs Ace the JEEBench Exam?'
 draft: true
 date: 2023-05-25T10:24:09+00:00
 slug: '202305251024-can-llms-ace-jeebench-exam'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1661573841850863616'

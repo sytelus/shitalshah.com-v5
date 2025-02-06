@@ -3,6 +3,8 @@ title: 'AI: From Laughed At to Hyped Up'
 draft: true
 date: 2019-02-07T08:34:14+00:00
 slug: '201902070834-ai-from-laughed-at-to-hyped-up'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1093306909292093440'

@@ -3,6 +3,8 @@ title: 'Qcktwit Quits: Twitter Broke My App'
 draft: true
 date: 2008-12-26T16:19:24+00:00
 slug: '200812261619-qcktwit-quits-twitter-broke-my-app'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1079070158'

@@ -3,6 +3,8 @@ title: 'The Best Interview Questions You Can''t Answer'
 draft: true
 date: 2024-10-08T07:59:56+00:00
 slug: '202410080759-ask-what-you-dont-know'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1843456258432696424'

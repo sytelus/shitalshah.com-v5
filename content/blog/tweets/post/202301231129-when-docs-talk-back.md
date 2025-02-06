@@ -3,6 +3,8 @@ title: 'When Docs Talk Back: Q&A with GPT-3 and Embeddings'
 draft: false
 date: 2023-01-23T11:29:30+00:00
 slug: '202301231129-when-docs-talk-back'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1617363871811129345'

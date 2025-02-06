@@ -3,6 +3,8 @@ title: 'Bengio''s Unified Theory: From Attention to Causality'
 draft: false
 date: 2019-12-23T23:47:17+00:00
 slug: '201912232347-bengio-unified-theory'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1209138416513736704'

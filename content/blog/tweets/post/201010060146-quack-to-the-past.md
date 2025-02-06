@@ -3,6 +3,8 @@ title: 'Quack to the Past: The Donald Duck Short That Amazed Me'
 draft: true
 date: 2010-10-06T01:46:10+00:00
 slug: '201010060146-quack-to-the-past'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '26481106898'

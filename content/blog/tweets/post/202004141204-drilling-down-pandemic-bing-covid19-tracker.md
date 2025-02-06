@@ -3,6 +3,8 @@ title: 'Drilling Down the Pandemic: Bing''s Underrated COVID-19 Tracker'
 draft: false
 date: 2020-04-14T12:04:34+00:00
 slug: '202004141204-drilling-down-pandemic-bing-covid19-tracker'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1249926500586934272'

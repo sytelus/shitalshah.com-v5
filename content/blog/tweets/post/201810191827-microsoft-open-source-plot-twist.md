@@ -3,6 +3,8 @@ title: 'Microsoft''s Open Source Plot Twist'
 draft: false
 date: 2018-10-19T18:27:28+00:00
 slug: '201810191827-microsoft-open-source-plot-twist'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1053246248260526080'

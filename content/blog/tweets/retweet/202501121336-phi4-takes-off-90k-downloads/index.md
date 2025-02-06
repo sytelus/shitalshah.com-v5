@@ -3,6 +3,8 @@ title: 'Phi-4 Takes Off: 90k Downloads in 3 Days!'
 draft: true
 date: 2025-01-12T13:36:55+00:00
 slug: '202501121336-phi4-takes-off-90k-downloads'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1878315197410021864'

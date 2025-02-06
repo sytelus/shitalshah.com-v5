@@ -3,6 +3,8 @@ title: 'Born to Code or Not: The Programmer DNA Test'
 draft: true
 date: 2011-08-20T16:27:27+00:00
 slug: '201108201627-born-to-code-test'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '104847001048465408'

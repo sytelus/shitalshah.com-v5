@@ -3,6 +3,8 @@ title: 'Ghostly Minds: Stress-testing GPT-4 with FANToM'
 draft: true
 date: 2023-10-27T06:52:01+00:00
 slug: '202310270652-ghostly-minds-gpt4-fantom'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1717690579319206222'

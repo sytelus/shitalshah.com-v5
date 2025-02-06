@@ -3,6 +3,8 @@ title: 'Negatives Giving Back: An 8-Year-Old Explains'
 draft: true
 date: 2022-09-17T08:34:40+00:00
 slug: '202209170834-negatives-giving-back'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1570949325190201344'

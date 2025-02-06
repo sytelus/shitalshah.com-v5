@@ -3,6 +3,8 @@ title: 'Balloting Bonanza: 36 Votes to Cast'
 draft: true
 date: 2016-11-08T21:48:09+00:00
 slug: '201611082148-balloting-bonanza-36-votes'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '795986265808084992'

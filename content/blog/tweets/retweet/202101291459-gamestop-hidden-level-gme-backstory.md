@@ -3,6 +3,8 @@ title: 'GameStop''s Hidden Level: The $GME Backstory Missing from Media'
 draft: true
 date: 2021-01-29T14:59:55+00:00
 slug: '202101291459-gamestop-hidden-level-gme-backstory'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1355048007012519944'

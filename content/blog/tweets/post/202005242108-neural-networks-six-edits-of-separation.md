@@ -3,6 +3,8 @@ title: 'Neural Networks: Six Edits of Separation'
 draft: false
 date: 2020-05-24T21:08:00+00:00
 slug: '202005242108-neural-networks-six-edits-of-separation'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1264558771985997824'

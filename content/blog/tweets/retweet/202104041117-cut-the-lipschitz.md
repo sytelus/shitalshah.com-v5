@@ -3,6 +3,8 @@ title: 'Cut the Lipschitz: Simplify Your Deep Learning Explanations'
 draft: true
 date: 2021-04-04T11:17:04+00:00
 slug: '202104041117-cut-the-lipschitz'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1378562238848532483'

@@ -3,6 +3,8 @@ title: 'GPT-3''s $3.6M Training Regimen'
 draft: false
 date: 2020-05-29T22:34:00+00:00
 slug: '202005292234-gpt3-3-6m-training-regimen'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1266392353981509632'

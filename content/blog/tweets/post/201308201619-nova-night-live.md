@@ -3,6 +3,8 @@ title: 'Nova Night Live: Witness a Star''s Explosion'
 draft: true
 date: 2013-08-20T16:19:26+00:00
 slug: '201308201619-nova-night-live'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '369750510909145088'

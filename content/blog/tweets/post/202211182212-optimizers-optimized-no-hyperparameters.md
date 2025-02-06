@@ -3,6 +3,8 @@ title: 'Optimizers Optimized: No Hyperparameters Required'
 draft: false
 date: 2022-11-18T22:12:53+00:00
 slug: '202211182212-optimizers-optimized-no-hyperparameters'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1593608183003877377'

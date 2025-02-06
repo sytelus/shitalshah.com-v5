@@ -3,6 +3,8 @@ title: 'Eye Candy Overload: WinAmp Visuals on a 100-Inch Screen'
 draft: true
 date: 2011-01-09T20:17:07+00:00
 slug: '201101092017-eye-candy-winamp-100inch'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '24077202224062464'

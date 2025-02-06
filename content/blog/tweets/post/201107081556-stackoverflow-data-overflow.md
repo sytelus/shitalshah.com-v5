@@ -3,6 +3,8 @@ title: 'StackOverflow''s Data Overflow: Machine Learning Goldmine'
 draft: true
 date: 2011-07-08T15:56:17+00:00
 slug: '201107081556-stackoverflow-data-overflow'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '89256479504343040'

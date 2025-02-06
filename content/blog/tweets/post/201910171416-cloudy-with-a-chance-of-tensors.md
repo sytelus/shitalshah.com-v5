@@ -3,6 +3,8 @@ title: 'Cloudy with a Chance of Tensors: Seattle DataFest Awaits'
 draft: false
 date: 2019-10-17T14:16:39+00:00
 slug: '201910171416-cloudy-with-a-chance-of-tensors'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1184729921857306624'

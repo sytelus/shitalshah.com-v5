@@ -3,6 +3,8 @@ title: 'MSFT''s Transformers: More Than Meets the NLP Eye'
 draft: true
 date: 2019-02-17T16:22:54+00:00
 slug: '201902171622-msft-transformers-more-than-nlp'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1097048732703416320'

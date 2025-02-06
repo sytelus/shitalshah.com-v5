@@ -3,6 +3,8 @@ title: 'Can''t Explain It? That''s Why We Use Machine Learning'
 draft: true
 date: 2021-12-08T03:27:53+00:00
 slug: '202112080327-cant-explain-machine-learning'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1468301252631035907'

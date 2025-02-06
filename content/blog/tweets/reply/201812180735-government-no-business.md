@@ -3,6 +3,8 @@ title: 'Why Government Shouldn''t Run a Lemonade Stand'
 draft: true
 date: 2018-12-18T07:35:03+00:00
 slug: '201812180735-government-no-business'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1074810234885918720'

@@ -3,6 +3,8 @@ title: 'Microsoft Bets $10B on ChatGPT''s Creator'
 draft: true
 date: 2023-01-10T19:20:32+00:00
 slug: '202301101920-microsoft-10b-chatgpt'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1612771368743088130'

@@ -3,6 +3,8 @@ title: 'Snow Joke: Major Storm Arriving Late Friday'
 draft: false
 date: 2019-02-07T16:03:04+00:00
 slug: '201902071603-snow-joke-major-storm-friday'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1093419861571784705'

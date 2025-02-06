@@ -3,6 +3,8 @@ title: 'Show Me the Metrics! Confused by AI Claims'
 draft: true
 date: 2023-03-05T06:56:58+00:00
 slug: '202303050656-show-me-the-metrics'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1632153187124908032'

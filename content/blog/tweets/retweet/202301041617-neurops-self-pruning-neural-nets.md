@@ -3,6 +3,8 @@ title: 'NeurOps: When Neural Networks Prune Themselves'
 draft: true
 date: 2023-01-04T16:17:32+00:00
 slug: '202301041617-neurops-self-pruning-neural-nets'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1610550985252036614'

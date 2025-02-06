@@ -3,6 +3,8 @@ title: 'Data Science on Autopilot: Hamel''s GitHub Actions Series'
 draft: true
 date: 2021-02-25T13:53:37+00:00
 slug: '202102251353-data_science_on_autopilot'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1364815796807999488'

@@ -3,6 +3,8 @@ title: 'Transformer Tweaks: No Magic Bullet'
 draft: false
 date: 2021-09-22T11:07:44+00:00
 slug: '202109221107-transformer_tweaks_no_magic_bullet'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1440528215651479552'

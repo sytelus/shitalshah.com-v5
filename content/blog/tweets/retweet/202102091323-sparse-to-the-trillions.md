@@ -3,6 +3,8 @@ title: 'Sparse to the Trillions: A New Era in Language Models'
 draft: true
 date: 2021-02-09T13:23:28+00:00
 slug: '202102091323-sparse-to-the-trillions'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1359010003743432708'

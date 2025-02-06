@@ -3,6 +3,8 @@ title: 'Late Start, Great Views: Climbing Mount Si at Dusk'
 draft: true
 date: 2009-05-23T13:53:20+00:00
 slug: '200905231353-late-start-mount-si'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1891420965'

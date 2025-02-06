@@ -3,6 +3,8 @@ title: 'Turn Your Convolutions Inside Out: Meet Involution'
 draft: true
 date: 2021-03-11T17:43:21+00:00
 slug: '202103111743-turn-your-convolutions-inside-out'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1369947042349412356'

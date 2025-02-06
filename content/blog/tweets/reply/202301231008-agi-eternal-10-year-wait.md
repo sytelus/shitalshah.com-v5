@@ -3,6 +3,8 @@ title: 'AGI: The Eternal 10-Year Wait Since 1958'
 draft: true
 date: 2023-01-23T10:08:26+00:00
 slug: '202301231008-agi-eternal-10-year-wait'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1617343468371841026'

@@ -3,6 +3,8 @@ title: 'Audible Innovations: Top Tech Audiobook Picks'
 draft: false
 date: 2020-04-09T05:46:35+00:00
 slug: '202004090546-audible-innovations-tech-audiobooks'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1248019438110011393'

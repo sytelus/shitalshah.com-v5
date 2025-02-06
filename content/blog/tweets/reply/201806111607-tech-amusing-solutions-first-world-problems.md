@@ -3,6 +3,8 @@ title: 'Tech''s Amusing Solutions to First World Problems'
 draft: true
 date: 2018-06-11T16:07:26+00:00
 slug: '201806111607-tech-amusing-solutions-first-world-problems'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1006100585207062528'

@@ -3,6 +3,8 @@ title: 'Empty Seats, High Prices: The US Train Paradox'
 draft: true
 date: 2020-08-03T10:30:46+00:00
 slug: '202008031030-us-train-paradox'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1290127945395130368'

@@ -3,6 +3,8 @@ title: 'Teddy Knows Best: Resources Aren''t Endless'
 draft: true
 date: 2017-08-24T15:08:41+00:00
 slug: '201708241508-teddy-resources-arent-endless'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '900630932075544576'

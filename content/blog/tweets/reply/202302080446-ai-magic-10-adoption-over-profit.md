@@ -3,6 +3,8 @@ title: 'AI Magic for $10: Adoption Over Profit'
 draft: true
 date: 2023-02-08T04:46:07+00:00
 slug: '202302080446-ai-magic-10-adoption-over-profit'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1623060560542859268'

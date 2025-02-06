@@ -3,6 +3,8 @@ title: 'Robot on a Budget: Co-training with Cheap Hardware'
 draft: false
 date: 2024-01-04T16:35:45+00:00
 slug: '202401041635-robot-on-a-budget'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1742827143183343882'

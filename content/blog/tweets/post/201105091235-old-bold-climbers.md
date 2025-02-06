@@ -3,6 +3,8 @@ title: 'Old Climbers, Bold Climbers, Rarely Both'
 draft: true
 date: 2011-05-09T12:35:47+00:00
 slug: '201105091235-old-bold-climbers'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '67462749789229056'

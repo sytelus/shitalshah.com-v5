@@ -3,6 +3,8 @@ title: 'Look Ma, No Drafts! Accelerate LLMs with Lookahead Decoding'
 draft: true
 date: 2023-11-22T07:31:44+00:00
 slug: '202311220731-lookahead-decoding-speeds-llms'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1727107556445950137'

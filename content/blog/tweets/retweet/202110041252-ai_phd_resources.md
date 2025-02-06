@@ -3,6 +3,8 @@ title: 'From ''I, Robot'' to ''I, PhD'': Essential Resources for AI Applicants'
 draft: true
 date: 2021-10-04T12:52:05+00:00
 slug: '202110041252-ai_phd_resources'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1444903126700486656'

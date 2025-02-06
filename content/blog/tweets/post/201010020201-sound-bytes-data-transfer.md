@@ -3,6 +3,8 @@ title: 'Sound Bytes: Transferring Data via Headphone Jack'
 draft: true
 date: 2010-10-02T02:01:40+00:00
 slug: '201010020201-sound-bytes-data-transfer'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '26106985861'

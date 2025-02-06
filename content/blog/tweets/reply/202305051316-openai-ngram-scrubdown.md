@@ -3,6 +3,8 @@ title: 'OpenAI''s N-Gram Scrubdown: Combating Data Contamination'
 draft: true
 date: 2023-05-05T13:16:15+00:00
 slug: '202305051316-openai-ngram-scrubdown'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1654369397807677440'

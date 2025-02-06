@@ -3,6 +3,8 @@ title: 'Overcoming Catastrophic Forgetting: Solutions Worth Remembering'
 draft: true
 date: 2021-02-20T14:12:22+00:00
 slug: '202102201412-overcoming-catastrophic-forgetting'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1363008573739999233'

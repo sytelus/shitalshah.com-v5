@@ -3,6 +3,8 @@ title: 'Bard''s Coding Conundrum: Smaller Model, Bigger Prompts'
 draft: false
 date: 2023-03-22T13:29:16+00:00
 slug: '202303221329-bards-coding-conundrum'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1638427605631401985'

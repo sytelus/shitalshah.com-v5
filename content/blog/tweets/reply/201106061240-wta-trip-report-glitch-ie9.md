@@ -3,6 +3,8 @@ title: 'Stuck in a Hike Loop: WTA Trip Report Glitch on IE9'
 draft: true
 date: 2011-06-06T12:40:18+00:00
 slug: '201106061240-wta-trip-report-glitch-ie9'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '77610746581753856'

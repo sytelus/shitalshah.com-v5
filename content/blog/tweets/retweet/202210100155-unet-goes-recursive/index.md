@@ -3,6 +3,8 @@ title: 'UNet Goes Recursive: A Fun Fact'
 draft: true
 date: 2022-10-10T01:55:42+00:00
 slug: '202210100155-unet-goes-recursive'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1579183844322086913'

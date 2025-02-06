@@ -3,6 +3,8 @@ title: 'Web3 Wonder Woman: Inspiring Future Female Founders'
 draft: true
 date: 2021-11-21T02:31:13+00:00
 slug: '202111210231-web3-wonder-woman'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1462126399615946755'

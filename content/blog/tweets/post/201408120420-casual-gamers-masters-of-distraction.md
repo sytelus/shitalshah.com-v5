@@ -3,6 +3,8 @@ title: 'Casual Gamers: Masters of Distraction'
 draft: true
 date: 2014-08-12T04:20:34+00:00
 slug: '201408120420-casual-gamers-masters-of-distraction'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '498942072695443459'

@@ -3,6 +3,8 @@ title: 'GPT-4chan and the Art of Deceptive Science'
 draft: true
 date: 2022-11-20T04:06:43+00:00
 slug: '202211200406-gpt4chan-deceptive-science'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1594059617323347969'

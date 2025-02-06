@@ -3,6 +3,8 @@ title: 'Choosing Projects and Chasing Paychecks: The Big Questions'
 draft: true
 date: 2022-11-29T17:32:12+00:00
 slug: '202211291732-choosing-projects-chasing-paychecks'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1597523813654487040'

@@ -3,6 +3,8 @@ title: 'The Great 5G Disguise'
 draft: false
 date: 2023-08-13T11:52:38+00:00
 slug: '202308131152-great-5g-disguise'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1690587140101754880'

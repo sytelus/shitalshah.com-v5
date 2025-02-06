@@ -3,6 +3,8 @@ title: 'From LAN to Laggard: 9.6 MB/s vs 50 KB/s over VPN'
 draft: true
 date: 2010-12-18T07:36:09+00:00
 slug: '201012180736-lan-vs-vpn-speed'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '15913168836501504'

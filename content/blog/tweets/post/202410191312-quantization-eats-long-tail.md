@@ -3,6 +3,8 @@ title: 'Quantization Eats the Long Tail'
 draft: false
 date: 2024-10-19T13:12:55+00:00
 slug: '202410191312-quantization-eats-long-tail'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1847521291936387534'

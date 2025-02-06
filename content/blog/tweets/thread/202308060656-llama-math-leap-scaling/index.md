@@ -3,6 +3,8 @@ title: 'LLAMA''s Math Leap: From 11% to 49% with Scaling'
 draft: false
 date: 2023-08-06T06:56:08+00:00
 slug: '202308060656-llama-math-leap-scaling'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1687975809229918208'

@@ -3,6 +3,8 @@ title: 'Leftover Laughs: Fooled by Microsoft''s April Fools'
 draft: true
 date: 2010-04-02T06:48:43+00:00
 slug: '201004020648-fooled-by-microsoft-april-fools'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '11450968517'

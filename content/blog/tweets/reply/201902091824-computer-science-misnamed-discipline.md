@@ -3,6 +3,8 @@ title: 'Computer Science: The Misnamed Discipline'
 draft: true
 date: 2019-02-09T18:24:59+00:00
 slug: '201902091824-computer-science-misnamed-discipline'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1094180350111051776'

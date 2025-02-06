@@ -3,6 +3,8 @@ title: 'Neural Net Learns to Judge a Paper by Its Cover'
 draft: false
 date: 2018-12-21T14:02:45+00:00
 slug: '201812211402-neural-net-judges-by-cover'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1075994964763398144'

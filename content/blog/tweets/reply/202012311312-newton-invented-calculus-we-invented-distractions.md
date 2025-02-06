@@ -3,6 +3,8 @@ title: 'Newton Invented Calculus, We Invented Distractions'
 draft: true
 date: 2020-12-31T13:12:44+00:00
 slug: '202012311312-newton-invented-calculus-we-invented-distractions'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1344511785253044227'

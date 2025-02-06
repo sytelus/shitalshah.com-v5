@@ -3,6 +3,8 @@ title: 'Arduino: USB, Sensors, Action!'
 draft: true
 date: 2010-10-14T05:41:05+00:00
 slug: '201010140541-arduino-usb-sensors-action'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '27283103591'

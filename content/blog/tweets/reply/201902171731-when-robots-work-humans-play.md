@@ -3,6 +3,8 @@ title: 'When Robots Work, Humans Play'
 draft: true
 date: 2019-02-17T17:31:36+00:00
 slug: '201902171731-when-robots-work-humans-play'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1097066019657412608'

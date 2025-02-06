@@ -3,6 +3,8 @@ title: 'Scalable DBMS? Oracle and DB2 Still Wear the TPC-C Crown'
 draft: true
 date: 2012-05-19T15:52:06+00:00
 slug: '201205191552-oracle-db2-tpc-c-crown'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '203769992687271936'

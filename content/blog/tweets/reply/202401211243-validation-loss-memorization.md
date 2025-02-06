@@ -3,6 +3,8 @@ title: 'Don''t Throw Out Validation Loss with the Memorization Bathwater'
 draft: true
 date: 2024-01-21T12:43:30+00:00
 slug: '202401211243-validation-loss-memorization'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1748929290081845649'

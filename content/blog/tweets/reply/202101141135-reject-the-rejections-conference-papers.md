@@ -3,6 +3,8 @@ title: 'Reject the Rejections: A Proposal for Conference Papers'
 draft: true
 date: 2021-01-14T11:35:13+00:00
 slug: '202101141135-reject-the-rejections-conference-papers'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1349560678336512000'

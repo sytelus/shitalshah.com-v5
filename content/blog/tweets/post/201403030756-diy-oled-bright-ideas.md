@@ -3,6 +3,8 @@ title: 'DIY OLEDs: When Bright Ideas Go Dim'
 draft: true
 date: 2014-03-03T07:56:13+00:00
 slug: '201403030756-diy-oled-bright-ideas'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '440274408649658368'

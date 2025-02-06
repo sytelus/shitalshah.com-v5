@@ -3,6 +3,8 @@ title: 'Refrigerator Roulette: Is Five-Day-Old Food Safe?'
 draft: true
 date: 2024-05-19T00:17:00+00:00
 slug: '202405190017-refrigerator-roulette-five-day-food'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1791880680663863499'

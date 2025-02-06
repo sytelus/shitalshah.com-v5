@@ -3,6 +3,8 @@ title: 'Desert Daze: My Burning Man 2009 Adventure'
 draft: true
 date: 2010-08-27T05:03:40+00:00
 slug: '201008270503-desert-daze-burning-man-2009'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '22213011486'

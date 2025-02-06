@@ -3,6 +3,8 @@ title: 'Pre-training: The Ultimate Dataset Multiplier'
 draft: true
 date: 2021-02-15T11:27:15+00:00
 slug: '202102151127-pre-training-dataset-multiplier'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1361155084436971523'

@@ -3,6 +3,8 @@ title: 'From Quantum Physics to DoorDash: Let That Sink In'
 draft: true
 date: 2020-01-03T18:41:53+00:00
 slug: '202001031841-from-quantum-physics-to-doordash'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1213047824020996096'

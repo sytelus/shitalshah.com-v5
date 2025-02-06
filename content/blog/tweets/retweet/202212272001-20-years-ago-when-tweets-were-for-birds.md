@@ -3,6 +3,8 @@ title: '20 Years Ago: When Tweets Were for Birds'
 draft: true
 date: 2022-12-27T20:01:43+00:00
 slug: '202212272001-20-years-ago-when-tweets-were-for-birds'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1607708301722279936'

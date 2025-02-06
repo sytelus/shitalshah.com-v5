@@ -3,6 +3,8 @@ title: 'Lies, Damned Lies, and High School Statistics'
 draft: true
 date: 2022-03-29T23:24:03+00:00
 slug: '202203292324-lies-damned-lies-high-school-statistics'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1508842432217067523'

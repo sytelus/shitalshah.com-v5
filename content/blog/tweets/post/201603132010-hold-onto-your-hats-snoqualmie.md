@@ -3,6 +3,8 @@ title: 'Hold Onto Your Hats, Snoqualmie!'
 draft: true
 date: 2016-03-13T20:10:31+00:00
 slug: '201603132010-hold-onto-your-hats-snoqualmie'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '709003709246783488'

@@ -3,6 +3,8 @@ title: 'Encoder Enchantment: SD 2.X''s New Inversion Trick'
 draft: true
 date: 2023-05-24T13:51:38+00:00
 slug: '202305241351-encoder-enchantment-sd2x'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1661263672575148033'

@@ -3,6 +3,8 @@ title: 'Breaking the Breakers: Two New Papers on LLM Jailbreaking'
 draft: true
 date: 2023-05-26T13:25:39+00:00
 slug: '202305261325-breaking-the-breakers-llm-jailbreaking'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1661981909285732357'

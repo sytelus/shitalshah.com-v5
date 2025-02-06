@@ -3,6 +3,8 @@ title: 'Real-time Search? More Like Real-time Hide-and-Seek'
 draft: true
 date: 2010-03-29T09:49:10+00:00
 slug: '201003290949-real-time-hide-and-seek'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '11227579205'

@@ -3,6 +3,8 @@ title: 'Gemini Outsmarts GPT-4 When Prompted Right'
 draft: false
 date: 2023-12-07T06:37:49+00:00
 slug: '202312070637-gemini-outsmarts-gpt4'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1732529808486383741'

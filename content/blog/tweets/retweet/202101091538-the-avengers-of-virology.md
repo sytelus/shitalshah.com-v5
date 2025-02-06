@@ -3,6 +3,8 @@ title: 'The Avengers of Virology: Crafting COVID Vaccines'
 draft: true
 date: 2021-01-09T15:38:27+00:00
 slug: '202101091538-the-avengers-of-virology'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1347809948323831811'

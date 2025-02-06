@@ -3,6 +3,8 @@ title: 'Your Life''s Words on a $5 Memory Card'
 draft: false
 date: 2019-09-08T18:15:38+00:00
 slug: '201909081815-lifes-words-5-dollar-memory-card'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1170656938557730816'

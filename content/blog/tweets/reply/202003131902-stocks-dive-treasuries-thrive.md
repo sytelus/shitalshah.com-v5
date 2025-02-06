@@ -3,6 +3,8 @@ title: 'When Stocks Dive, Treasuries Thrive: ZROZ and TLT Climb'
 draft: true
 date: 2020-03-13T19:02:12+00:00
 slug: '202003131902-stocks-dive-treasuries-thrive'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1238435189715398657'

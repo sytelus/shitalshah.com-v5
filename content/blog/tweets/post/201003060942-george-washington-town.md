@@ -3,6 +3,8 @@ title: 'George, Washington: The Town With a Presidential Address'
 draft: true
 date: 2010-03-06T09:42:22+00:00
 slug: '201003060942-george-washington-town'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '10052762332'

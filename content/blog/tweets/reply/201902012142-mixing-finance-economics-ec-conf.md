@@ -3,6 +3,8 @@ title: 'Mixing Finance and Economics at EC Conf'
 draft: true
 date: 2019-02-01T21:42:27+00:00
 slug: '201902012142-mixing-finance-economics-ec-conf'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1091330945305608193'

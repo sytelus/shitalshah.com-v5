@@ -3,6 +3,8 @@ title: 'Big Markets, Small Wallets: When Size Outweighs Purchasing Power'
 draft: true
 date: 2023-01-23T08:40:03+00:00
 slug: '202301230840-big-markets-small-wallets'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1617321227798056961'

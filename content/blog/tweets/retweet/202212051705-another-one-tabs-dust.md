@@ -3,6 +3,8 @@ title: 'Another One Tabs the Dust: New Deep Method Added'
 draft: true
 date: 2022-12-05T17:05:15+00:00
 slug: '202212051705-another-one-tabs-dust'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1599691359371526144'

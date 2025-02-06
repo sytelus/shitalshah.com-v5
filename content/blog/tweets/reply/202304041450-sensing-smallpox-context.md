@@ -3,6 +3,8 @@ title: 'Sensing Smallpox: When Context Goes Viral'
 draft: true
 date: 2023-04-04T14:50:26+00:00
 slug: '202304041450-sensing-smallpox-context'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1643159075876896771'

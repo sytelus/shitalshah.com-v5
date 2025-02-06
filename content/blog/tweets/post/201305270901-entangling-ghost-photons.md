@@ -3,6 +3,8 @@ title: 'Entangling Ghost Photons: Linking Light Across Time'
 draft: true
 date: 2013-05-27T09:01:20+00:00
 slug: '201305270901-entangling-ghost-photons'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '338837291248275457'

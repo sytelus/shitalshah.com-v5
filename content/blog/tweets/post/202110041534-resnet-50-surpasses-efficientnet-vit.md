@@ -3,6 +3,8 @@ title: 'Old Dog, New Tricks: ResNet-50 Surpasses EfficientNet and ViT'
 draft: false
 date: 2021-10-04T15:34:07+00:00
 slug: '202110041534-resnet-50-surpasses-efficientnet-vit'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1444943906961911815'

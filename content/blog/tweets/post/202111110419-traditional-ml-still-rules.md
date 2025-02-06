@@ -3,6 +3,8 @@ title: 'Old but Gold: Traditional ML Still Rules Tabular Data'
 draft: false
 date: 2021-11-11T04:19:31+00:00
 slug: '202111110419-traditional-ml-still-rules'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1458529777141178368'

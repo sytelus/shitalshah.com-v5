@@ -3,6 +3,8 @@ title: 'RobotGPT? VIMA Enters the Chat'
 draft: true
 date: 2023-07-25T01:58:06+00:00
 slug: '202307250158-robotgpt-vima-enters-chat'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1683552149912039424'

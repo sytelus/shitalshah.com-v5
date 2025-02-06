@@ -3,6 +3,8 @@ title: 'Wolf Attacks More Likely Than On-Time Project Delivery'
 draft: true
 date: 2012-08-08T08:50:33+00:00
 slug: '201208080850-wolf-attacks-more-likely-than-on-time-project-delivery'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '233017321910837248'

@@ -3,6 +3,8 @@ title: 'When Math Gets Loopy: The Spirograph Equation'
 draft: false
 date: 2018-08-31T20:30:06+00:00
 slug: '201808312030-when-math-gets-loopy'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1035520105696747520'

@@ -3,6 +3,8 @@ title: 'Switch Transformers: A Picture-Perfect Guide to Parallelism'
 draft: true
 date: 2021-01-22T14:26:11+00:00
 slug: '202101221426-switch_transformers_picture_parallelism'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1352502803797741568'

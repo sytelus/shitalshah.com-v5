@@ -3,6 +3,8 @@ title: 'Virtual Meetings and Real Mountains'
 draft: true
 date: 2010-09-16T06:28:56+00:00
 slug: '201009160628-virtual-meetings-real-mountains'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '24613129114'

@@ -3,6 +3,8 @@ title: 'System Optimization Gets a Deep Reinforcement'
 draft: false
 date: 2019-08-14T21:35:39+00:00
 slug: '201908142135-deep-rl-system-opt'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1161647575860047875'

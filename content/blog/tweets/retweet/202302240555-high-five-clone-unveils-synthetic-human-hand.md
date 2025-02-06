@@ -3,6 +3,8 @@ title: 'High Five! Clone Unveils Synthetic Human Hand'
 draft: true
 date: 2023-02-24T05:55:39+00:00
 slug: '202302240555-high-five-clone-unveils-synthetic-human-hand'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1628876264344780801'

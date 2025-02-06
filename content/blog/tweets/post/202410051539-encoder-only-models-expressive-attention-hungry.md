@@ -3,6 +3,8 @@ title: 'Encoder-Only Models: Expressive but Attention-Hungry'
 draft: false
 date: 2024-10-05T15:39:00+00:00
 slug: '202410051539-encoder-only-models-expressive-attention-hungry'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1842484621642235992'

@@ -3,6 +3,8 @@ title: 'Punctuation Party: Multilingual Model Hits HuggingFace!'
 draft: true
 date: 2021-11-24T07:24:19+00:00
 slug: '202111240724-punctuation-party-multilingual-model'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1463287324826124290'

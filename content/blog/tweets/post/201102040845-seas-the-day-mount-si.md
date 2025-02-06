@@ -3,6 +3,8 @@ title: 'Seas the Day: Climbing Mount Si in 2h25'
 draft: true
 date: 2011-02-04T08:45:39+00:00
 slug: '201102040845-seas-the-day-mount-si'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '33325275832000512'

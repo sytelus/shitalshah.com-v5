@@ -3,6 +3,8 @@ title: 'Subscribe to This: Blogger.com''s Missing Button'
 draft: true
 date: 2009-12-31T09:35:44+00:00
 slug: '200912310935-blogger-missing-subscribe-button'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '7216450577'

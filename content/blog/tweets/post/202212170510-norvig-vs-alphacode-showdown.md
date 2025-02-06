@@ -3,6 +3,8 @@ title: 'Norvig vs AlphaCode: Code Quality Showdown'
 draft: false
 date: 2022-12-17T05:10:46+00:00
 slug: '202212170510-norvig-vs-alphacode-showdown'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1603860208408633344'

@@ -3,6 +3,8 @@ title: 'Decode Your Summer: NLP Internships at Microsoft Research'
 draft: false
 date: 2021-01-21T03:47:42+00:00
 slug: '202101210347-decode-your-summer'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1351979738672205825'

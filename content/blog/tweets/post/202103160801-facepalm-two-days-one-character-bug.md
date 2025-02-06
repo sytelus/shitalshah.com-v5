@@ -3,6 +3,8 @@ title: 'Facepalm: Two Days to Fix a One-Character Bug in Huggingface'
 draft: false
 date: 2021-03-16T08:01:12+00:00
 slug: '202103160801-facepalm-two-days-one-character-bug'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1371627576808988672'

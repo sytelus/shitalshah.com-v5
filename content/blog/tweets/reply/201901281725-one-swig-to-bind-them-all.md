@@ -3,6 +3,8 @@ title: 'One Swig to Bind Them All'
 draft: true
 date: 2019-01-28T17:25:59+00:00
 slug: '201901281725-one-swig-to-bind-them-all'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1089816849561219073'

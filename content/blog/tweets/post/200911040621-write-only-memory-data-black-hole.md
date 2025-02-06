@@ -3,6 +3,8 @@ title: 'Write-Only Memory: The Ultimate Data Black Hole'
 draft: true
 date: 2009-11-04T06:21:50+00:00
 slug: '200911040621-write-only-memory-data-black-hole'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '5403434579'

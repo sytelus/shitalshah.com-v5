@@ -3,6 +3,8 @@ title: 'GPT-4 vs 3.5: The Complex Task Showdown'
 draft: true
 date: 2023-05-03T13:31:56+00:00
 slug: '202305031331-gpt4-vs-35-complex-task-showdown'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1653648568199290881'

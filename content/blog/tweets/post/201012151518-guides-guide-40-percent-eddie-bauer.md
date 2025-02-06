@@ -3,6 +3,8 @@ title: 'A Guide''s Guide to Saving 40% at Eddie Bauer'
 draft: true
 date: 2010-12-15T15:18:58+00:00
 slug: '201012151518-guides-guide-40-percent-eddie-bauer'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '14942476376735745'

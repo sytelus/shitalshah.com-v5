@@ -3,6 +3,8 @@ title: 'GPT-4''s New Fitness Plan: From 25K to 2K GPUs'
 draft: false
 date: 2024-03-19T04:00:02+00:00
 slug: '202403190400-gpt4-fitness-plan'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1769831148694225350'

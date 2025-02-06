@@ -3,6 +3,8 @@ title: 'Genius: Nature, Nurture, or Nearby Grad Students?'
 draft: true
 date: 2020-08-10T10:36:25+00:00
 slug: '202008101036-genius-nature-nurture'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1292666084307292160'

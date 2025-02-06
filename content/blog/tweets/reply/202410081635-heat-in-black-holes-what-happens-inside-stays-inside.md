@@ -3,6 +3,8 @@ title: 'Heat in Black Holes: What Happens Inside Stays Inside'
 draft: true
 date: 2024-10-08T16:35:53+00:00
 slug: '202410081635-heat-in-black-holes-what-happens-inside-stays-inside'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1843586101308797046'

@@ -3,6 +3,8 @@ title: 'Go with the Flow: Optical Flow Beats Frame Stacking in RL'
 draft: false
 date: 2019-10-16T05:35:59+00:00
 slug: '201910160535-go-with-the-flow-rl'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1184236503867613184'

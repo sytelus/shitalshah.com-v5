@@ -3,6 +3,8 @@ title: 'Brains Run on 10W—AI, How About You?'
 draft: true
 date: 2022-10-20T09:04:19+00:00
 slug: '202210200904-brains-10w-challenge'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1582915585633316865'

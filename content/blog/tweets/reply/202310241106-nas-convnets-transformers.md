@@ -3,6 +3,8 @@ title: 'NAS: The Secret Sauce Behind ConvNets, Spicing Up Transformers'
 draft: true
 date: 2023-10-24T11:06:52+00:00
 slug: '202310241106-nas-convnets-transformers'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1716667551160426520'

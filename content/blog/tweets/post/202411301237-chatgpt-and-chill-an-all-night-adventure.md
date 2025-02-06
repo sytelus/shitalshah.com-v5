@@ -3,6 +3,8 @@ title: 'ChatGPT and Chill: An All-Night Adventure'
 draft: false
 date: 2024-11-30T12:37:49+00:00
 slug: '202411301237-chatgpt-and-chill-an-all-night-adventure'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1862717649786216863'

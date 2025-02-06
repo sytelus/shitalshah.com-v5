@@ -3,6 +3,8 @@ title: 'Terabytes & Tribulations: Building Massive Text Datasets'
 draft: true
 date: 2022-11-30T13:31:58+00:00
 slug: '202211301331-terabytes-tribulations-text-datasets'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1597825744583159809'

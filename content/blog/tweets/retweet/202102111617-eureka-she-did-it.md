@@ -3,6 +3,8 @@ title: 'Eureka, She Did It!'
 draft: true
 date: 2021-02-11T16:17:39+00:00
 slug: '202102111617-eureka-she-did-it'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1359778613999013889'

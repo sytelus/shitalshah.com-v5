@@ -3,6 +3,8 @@ title: 'DeepSpeed ZeRO-Infinity: Zeroing Out Interconnect Bottlenecks'
 draft: true
 date: 2023-04-16T02:55:02+00:00
 slug: '202304160255-deepspeed-zeroing-bottlenecks'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1647327691182428164'

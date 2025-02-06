@@ -3,6 +3,8 @@ title: 'CodeLlama Proves: The Bigger the Llama, the Better the Code'
 draft: true
 date: 2024-05-02T12:06:10+00:00
 slug: '202405021206-codellama-bigger-llama-better-code'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1785898553921179838'

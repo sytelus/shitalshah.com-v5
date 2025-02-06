@@ -3,6 +3,8 @@ title: 'Exploring the Fast-DeepNets Markdown Journal'
 draft: true
 date: 2018-09-05T19:39:33+00:00
 slug: '201809051939-fast-deepnets-markdown-journal'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1037319323381989378'

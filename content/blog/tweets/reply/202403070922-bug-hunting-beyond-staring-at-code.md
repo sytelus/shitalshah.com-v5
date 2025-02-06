@@ -3,6 +3,8 @@ title: 'Bug Hunting Beyond Staring at Code 😂'
 draft: true
 date: 2024-03-07T09:22:10+00:00
 slug: '202403070922-bug-hunting-beyond-staring-at-code'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1765548462551204000'

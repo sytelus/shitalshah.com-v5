@@ -3,6 +3,8 @@ title: 'Lost Like the Ark: A Creator''s Fear'
 draft: true
 date: 2010-02-05T09:59:13+00:00
 slug: '201002050959-lost-like-the-ark'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '8658170091'

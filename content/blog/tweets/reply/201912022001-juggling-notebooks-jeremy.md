@@ -3,6 +3,8 @@ title: 'Juggling Notebooks: How Does Jeremy Do It?'
 draft: true
 date: 2019-12-02T20:01:48+00:00
 slug: '201912022001-juggling-notebooks-jeremy'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1201471525028691968'

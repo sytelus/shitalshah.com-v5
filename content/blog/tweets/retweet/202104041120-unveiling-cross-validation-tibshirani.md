@@ -3,6 +3,8 @@ title: 'Unveiling Cross-Validation Mysteries with Tibshirani & Team'
 draft: true
 date: 2021-04-04T11:20:34+00:00
 slug: '202104041120-unveiling-cross-validation-tibshirani'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1378563118507298819'

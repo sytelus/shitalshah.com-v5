@@ -3,6 +3,8 @@ title: 'Whales and Waltzes on 92-inch Screen'
 draft: true
 date: 2009-01-13T14:50:23+00:00
 slug: '200901131450-whales_waltzes_92inch'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1115114160'

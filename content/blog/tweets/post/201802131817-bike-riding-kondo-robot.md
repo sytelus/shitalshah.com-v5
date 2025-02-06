@@ -3,6 +3,8 @@ title: 'Ride On! The $2000 Bike-Riding Kondo Robot'
 draft: false
 date: 2018-02-13T18:17:55+00:00
 slug: '201802131817-bike-riding-kondo-robot'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '963356554949832704'

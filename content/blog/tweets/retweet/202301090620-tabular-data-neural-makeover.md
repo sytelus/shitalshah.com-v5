@@ -3,6 +3,8 @@ title: 'Tabular Data''s Neural Makeover'
 draft: true
 date: 2023-01-09T06:20:25+00:00
 slug: '202301090620-tabular-data-neural-makeover'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1612212655191916545'

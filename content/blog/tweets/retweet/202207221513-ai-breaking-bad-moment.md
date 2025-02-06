@@ -3,6 +3,8 @@ title: 'AI''s Breaking Bad Moment: From Cures to Chemical Weapons'
 draft: true
 date: 2022-07-22T15:13:11+00:00
 slug: '202207221513-ai-breaking-bad-moment'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1550393504722853889'

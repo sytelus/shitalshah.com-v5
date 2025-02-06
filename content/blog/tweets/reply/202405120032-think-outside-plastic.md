@@ -3,6 +3,8 @@ title: 'Think Outside the Plastic: Foam Cups and Other Sneaky Hazards'
 draft: true
 date: 2024-05-12T00:32:26+00:00
 slug: '202405120032-think-outside-plastic'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1789347848611668359'

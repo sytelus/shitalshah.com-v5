@@ -3,6 +3,8 @@ title: 'Hubble 3D: Four Times and Counting'
 draft: true
 date: 2010-08-03T11:45:55+00:00
 slug: '201008031145-hubble-3d-four-times'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '20196461857'

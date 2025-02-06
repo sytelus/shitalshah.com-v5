@@ -3,6 +3,8 @@ title: 'GPTikTok: Summarizing Hour-Long Videos with GPT-3'
 draft: false
 date: 2022-09-29T03:05:23+00:00
 slug: '202209290305-gptiktok-summarizing-videos'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1575215112394526721'

@@ -3,6 +3,8 @@ title: 'Dreamtime Comes to Seattle'
 draft: true
 date: 2012-08-19T04:14:22+00:00
 slug: '201208190414-dreamtime-comes-to-seattle'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '236934086436995073'

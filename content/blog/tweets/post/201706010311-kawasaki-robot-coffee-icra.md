@@ -3,6 +3,8 @@ title: 'Perks of Robotics: Kawasaki''s Coffee-Making Bot at ICRA'
 draft: true
 date: 2017-06-01T03:11:17+00:00
 slug: '201706010311-kawasaki-robot-coffee-icra'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '870009809835356163'

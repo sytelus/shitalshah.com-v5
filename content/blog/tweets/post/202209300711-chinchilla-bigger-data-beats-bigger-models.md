@@ -3,6 +3,8 @@ title: 'Chinchilla''s Lesson: Bigger Data Beats Bigger Models'
 draft: false
 date: 2022-09-30T07:11:51+00:00
 slug: '202209300711-chinchilla-bigger-data-beats-bigger-models'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1575639525828997120'

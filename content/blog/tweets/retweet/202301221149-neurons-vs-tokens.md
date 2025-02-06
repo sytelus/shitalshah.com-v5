@@ -3,6 +3,8 @@ title: 'Neurons vs Tokens: Cognitive Science Tackles LLMs'
 draft: true
 date: 2023-01-22T11:49:42+00:00
 slug: '202301221149-neurons-vs-tokens'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1617006565034446848'

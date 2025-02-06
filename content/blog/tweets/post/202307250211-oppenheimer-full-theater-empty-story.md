@@ -3,6 +3,8 @@ title: 'Full Theater, Empty Story: Disappointed by Oppenheimer'
 draft: false
 date: 2023-07-25T02:11:44+00:00
 slug: '202307250211-oppenheimer-full-theater-empty-story'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1683555583243452416'

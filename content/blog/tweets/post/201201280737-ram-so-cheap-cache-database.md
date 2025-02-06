@@ -3,6 +3,8 @@ title: 'RAM So Cheap You Can Cache the Whole Database'
 draft: true
 date: 2012-01-28T07:37:17+00:00
 slug: '201201280737-ram-so-cheap-cache-database'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '163042927608725504'

@@ -3,6 +3,8 @@ title: 'Hot Food, Cold Reality: Unpacking the $20 Delivery Dilemma'
 draft: true
 date: 2021-03-08T15:41:09+00:00
 slug: '202103081541-hot-food-cold-reality'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1368829125146804224'

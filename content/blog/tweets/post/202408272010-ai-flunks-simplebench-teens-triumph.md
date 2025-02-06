@@ -3,6 +3,8 @@ title: 'AI Flunks SimpleBench, Teens Triumph'
 draft: false
 date: 2024-08-27T20:10:58+00:00
 slug: '202408272010-ai-flunks-simplebench-teens-triumph'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1828419940535410780'

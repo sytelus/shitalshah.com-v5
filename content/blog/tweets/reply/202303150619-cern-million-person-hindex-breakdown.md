@@ -3,6 +3,8 @@ title: 'CERN''s Million-Person Problem: When H-index Breaks Down'
 draft: true
 date: 2023-03-15T06:19:20+00:00
 slug: '202303150619-cern-million-person-hindex-breakdown'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1635782694427840513'

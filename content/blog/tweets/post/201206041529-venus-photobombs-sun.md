@@ -3,6 +3,8 @@ title: 'Venus Photobombs the Sun—Final Transit Until 2117'
 draft: true
 date: 2012-06-04T15:29:32+00:00
 slug: '201206041529-venus-photobombs-sun'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '209562517637300225'

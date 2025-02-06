@@ -3,6 +3,8 @@ title: 'Tau Takes a Bite Out of Pi'
 draft: true
 date: 2011-07-08T05:01:43+00:00
 slug: '201107080501-tau-takes-a-bite-out-of-pi'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '89091753541505025'

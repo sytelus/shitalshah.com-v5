@@ -3,6 +3,8 @@ title: 'Karpathy''s Matmul Mystery: When Bigger Runs Faster'
 draft: true
 date: 2023-02-28T16:27:24+00:00
 slug: '202302281627-karpathy-matmul-mystery'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1630484802670415872'

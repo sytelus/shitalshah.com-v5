@@ -3,6 +3,8 @@ title: 'Eviction Ban Evicts Workers from Jobs'
 draft: true
 date: 2021-10-14T11:00:25+00:00
 slug: '202110141100-eviction-ban-evicts-workers'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1448498903347650564'

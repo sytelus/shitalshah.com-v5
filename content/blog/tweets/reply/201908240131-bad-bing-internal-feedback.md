@@ -3,6 +3,8 @@ title: 'Bad Bing Brings Internal Feedback'
 draft: true
 date: 2019-08-24T01:31:22+00:00
 slug: '201908240131-bad-bing-internal-feedback'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1164968386700275713'

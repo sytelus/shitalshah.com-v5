@@ -3,6 +3,8 @@ title: 'Buffett''s Tax Paradox: Rich Pay Less Than Secretaries'
 draft: true
 date: 2018-12-17T11:58:29+00:00
 slug: '201812171158-buffetts-tax-paradox'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1074514140230692864'

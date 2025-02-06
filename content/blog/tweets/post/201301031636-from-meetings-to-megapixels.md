@@ -3,6 +3,8 @@ title: 'From Meetings to Megapixels: Awaiting the D600'
 draft: true
 date: 2013-01-03T16:36:59+00:00
 slug: '201301031636-from-meetings-to-megapixels'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '286753009915019264'

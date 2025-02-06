@@ -3,6 +3,8 @@ title: 'Shooting Outside the Distribution: The Essence of Intelligence'
 draft: false
 date: 2021-01-02T13:25:06+00:00
 slug: '202101021325-shooting-outside-distribution-intelligence'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1345239676513259521'

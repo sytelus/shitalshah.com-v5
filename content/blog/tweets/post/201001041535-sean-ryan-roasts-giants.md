@@ -3,6 +3,8 @@ title: 'Sean Ryan Roasts Giants with Homer Simpson Quote'
 draft: true
 date: 2010-01-04T15:35:52+00:00
 slug: '201001041535-sean-ryan-roasts-giants'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '7360194897'

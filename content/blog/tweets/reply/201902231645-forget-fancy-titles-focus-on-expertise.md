@@ -3,6 +3,8 @@ title: 'Forget the Fancy Titles: Focus on Your Expertise'
 draft: true
 date: 2019-02-23T16:45:50+00:00
 slug: '201902231645-forget-fancy-titles-focus-on-expertise'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1099228828302434304'

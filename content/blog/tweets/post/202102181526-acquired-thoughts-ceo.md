@@ -3,6 +3,8 @@ title: 'Acquired Thoughts: Insights from a Bought-Out CEO'
 draft: false
 date: 2021-02-18T15:26:55+00:00
 slug: '202102181526-acquired-thoughts-ceo'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1362302559109615617'

@@ -3,6 +3,8 @@ title: 'Lights, Camera, PyTorchVideo!'
 draft: true
 date: 2021-11-23T05:43:24+00:00
 slug: '202111230543-lights-camera-pytorchvideo'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1462899541120716803'

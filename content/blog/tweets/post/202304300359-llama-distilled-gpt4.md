@@ -3,6 +3,8 @@ title: 'LLaMA Distilled: How GPT-4 Fuels Fine-Tuning Ingenuity'
 draft: false
 date: 2023-04-30T03:59:19+00:00
 slug: '202304300359-llama-distilled-gpt4'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1652417301050949632'

@@ -3,6 +3,8 @@ title: 'ChatGPT''s GPU Bill: A Pricey Conversation'
 draft: true
 date: 2022-12-07T10:52:09+00:00
 slug: '202212071052-chatgpt-gpu-bill'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1600322240964624384'

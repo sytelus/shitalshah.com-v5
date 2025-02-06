@@ -3,6 +3,8 @@ title: 'Reinforcing Robots: 5+ Years of Learning'
 draft: true
 date: 2021-02-09T12:31:25+00:00
 slug: '202102091231-reinforcing-robots-5-years'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1358996904416219137'

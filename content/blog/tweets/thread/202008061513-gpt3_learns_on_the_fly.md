@@ -3,6 +3,8 @@ title: 'GPT-3 Learns New Tricks On The Fly'
 draft: false
 date: 2020-08-06T15:13:49+00:00
 slug: '202008061513-gpt3_learns_on_the_fly'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1291286340881899525'

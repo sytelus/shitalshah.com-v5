@@ -3,6 +3,8 @@ title: 'GNNs: Too Promising to Ignore'
 draft: false
 date: 2020-08-02T15:57:08+00:00
 slug: '202008021557-gnns-too-promising-to-ignore'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1289847691703275520'

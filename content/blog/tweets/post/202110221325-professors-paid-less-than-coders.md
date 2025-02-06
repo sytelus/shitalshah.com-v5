@@ -3,6 +3,8 @@ title: 'Professors Paid Less Than the Coders They Teach'
 draft: false
 date: 2021-10-22T13:25:46+00:00
 slug: '202110221325-professors-paid-less-than-coders'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1451434588857769988'

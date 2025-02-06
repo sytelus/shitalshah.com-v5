@@ -3,6 +3,8 @@ title: 'French Lessons: Superior Parenting Unveiled'
 draft: true
 date: 2012-02-19T15:58:14+00:00
 slug: '201202191558-french-parenting-unveiled'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '171141526683004929'

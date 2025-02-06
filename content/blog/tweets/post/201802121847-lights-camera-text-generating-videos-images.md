@@ -3,6 +3,8 @@ title: 'Lights, Camera, Text: Generating Videos and Images'
 draft: false
 date: 2018-02-12T18:47:30+00:00
 slug: '201802121847-lights-camera-text-generating-videos-images'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '963001611957055489'

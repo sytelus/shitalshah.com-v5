@@ -3,6 +3,8 @@ title: 'Open Science: The Legacy That Won''t Tie You Down'
 draft: true
 date: 2023-09-27T08:27:07+00:00
 slug: '202309270827-open-science-legacy'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1706842874401480757'

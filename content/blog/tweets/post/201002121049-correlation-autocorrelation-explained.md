@@ -3,6 +3,8 @@ title: 'Ah! Correlation and Autocorrelation Finally Explained'
 draft: true
 date: 2010-02-12T10:49:04+00:00
 slug: '201002121049-correlation-autocorrelation-explained'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '8990608798'

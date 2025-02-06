@@ -3,6 +3,8 @@ title: 'Ego Lessons from Scoble'
 draft: true
 date: 2023-03-14T13:46:11+00:00
 slug: '202303141346-ego-lessons-from-scoble'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1635532758536818688'

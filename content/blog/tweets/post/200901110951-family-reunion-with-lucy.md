@@ -3,6 +3,8 @@ title: 'Family Reunion with Lucy at Pac Sci Center'
 draft: true
 date: 2009-01-11T09:51:31+00:00
 slug: '200901110951-family-reunion-with-lucy'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1110143401'

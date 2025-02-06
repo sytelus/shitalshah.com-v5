@@ -3,6 +3,8 @@ title: 'Your Project''s Security Hinges on an Unpaid Stranger''s Laptop'
 draft: false
 date: 2021-03-27T08:21:25+00:00
 slug: '202103270821-project-security-unpaid-laptop'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1375618929297518594'

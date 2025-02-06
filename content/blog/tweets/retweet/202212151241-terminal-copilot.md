@@ -3,6 +3,8 @@ title: 'Command-Line Amnesia? Try Terminal Copilot!'
 draft: true
 date: 2022-12-15T12:41:32+00:00
 slug: '202212151241-terminal-copilot'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1603248872700411905'

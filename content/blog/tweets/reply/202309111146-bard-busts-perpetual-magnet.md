@@ -3,6 +3,8 @@ title: 'Bard Busts Perpetual Magnet Myth'
 draft: true
 date: 2023-09-11T11:46:17+00:00
 slug: '202309111146-bard-busts-perpetual-magnet'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1701094792095273381'

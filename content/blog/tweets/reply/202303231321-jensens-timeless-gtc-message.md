@@ -3,6 +3,8 @@ title: 'Jensen''s Timeless GTC Message'
 draft: true
 date: 2023-03-23T13:21:38+00:00
 slug: '202303231321-jensens-timeless-gtc-message'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1638788073822785536'

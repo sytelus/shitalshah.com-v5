@@ -3,6 +3,8 @@ title: 'Arm Day: Conquering Sahale'
 draft: true
 date: 2010-09-27T14:27:31+00:00
 slug: '201009271427-arm-day-conquering-sahale'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '25666303664'

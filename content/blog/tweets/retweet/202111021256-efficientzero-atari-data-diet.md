@@ -3,6 +3,8 @@ title: 'EfficientZero Beats Atari on a Data Diet'
 draft: true
 date: 2021-11-02T12:56:42+00:00
 slug: '202111021256-efficientzero-atari-data-diet'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1455413540194435082'

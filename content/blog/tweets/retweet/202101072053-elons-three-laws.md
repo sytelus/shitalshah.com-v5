@@ -3,6 +3,8 @@ title: 'Elon''s Three Laws: Can''t Win, Can''t Break Even, Can''t Quit'
 draft: true
 date: 2021-01-07T20:53:31+00:00
 slug: '202101072053-elons-three-laws'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1347164459945533441'

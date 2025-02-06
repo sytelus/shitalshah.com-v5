@@ -3,6 +3,8 @@ title: 'All Talk, No Body: Why LLMs Aren''t Human Yet'
 draft: true
 date: 2023-03-28T09:37:55+00:00
 slug: '202303280937-all-talk-no-body-llm'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1640543711477264385'

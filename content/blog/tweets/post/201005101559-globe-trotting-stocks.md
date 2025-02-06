@@ -3,6 +3,8 @@ title: 'Globe-trotting Stocks: Markets in 3D'
 draft: true
 date: 2010-05-10T15:59:34+00:00
 slug: '201005101559-globe-trotting-stocks'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '13716506634'

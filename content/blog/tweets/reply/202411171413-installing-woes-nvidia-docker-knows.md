@@ -3,6 +3,8 @@ title: 'Installing Woes? NVidia Docker Knows!'
 draft: true
 date: 2024-11-17T14:13:39+00:00
 slug: '202411171413-installing-woes-nvidia-docker-knows'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1858030722378015002'

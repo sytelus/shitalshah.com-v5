@@ -3,6 +3,8 @@ title: 'Today''s ''AI'' Lacks the ''I'
 draft: true
 date: 2018-10-16T16:04:56+00:00
 slug: '201810161604-todays-ai-lacks-the-i'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1052123216234217472'

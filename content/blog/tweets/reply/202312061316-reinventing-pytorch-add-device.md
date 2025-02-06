@@ -3,6 +3,8 @@ title: 'Reinventing the PyTorch Wheel? Just Add a Device!'
 draft: true
 date: 2023-12-06T13:16:29+00:00
 slug: '202312061316-reinventing-pytorch-add-device'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1732267746820514058'

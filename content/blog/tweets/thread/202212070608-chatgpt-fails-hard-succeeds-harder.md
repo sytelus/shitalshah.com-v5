@@ -3,6 +3,8 @@ title: 'ChatGPT: Fails Hard, Succeeds Harder'
 draft: false
 date: 2022-12-07T06:08:13+00:00
 slug: '202212070608-chatgpt-fails-hard-succeeds-harder'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1600250786025308162'

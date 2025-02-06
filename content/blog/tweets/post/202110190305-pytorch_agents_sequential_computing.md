@@ -3,6 +3,8 @@ title: 'PyTorch Agents Assemble for Sequential Computing'
 draft: false
 date: 2021-10-19T03:05:22+00:00
 slug: '202110190305-pytorch_agents_sequential_computing'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1450191294270099457'

@@ -3,6 +3,8 @@ title: 'Transformers: Bad Band-Aids and Missing Memory'
 draft: false
 date: 2023-01-23T16:11:49+00:00
 slug: '202301231611-transformers-bad-band-aids-missing-memory'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1617434916307992577'

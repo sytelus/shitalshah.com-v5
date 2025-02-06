@@ -3,6 +3,8 @@ title: 'Noise Wars: The Battle Against Adversarial Attacks'
 draft: false
 date: 2018-01-16T21:35:16+00:00
 slug: '201801162135-noise-wars-adversarial-attacks'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '953259356971180034'

@@ -3,6 +3,8 @@ title: 'Static Cling: The Secret Life of Linked Linux Binaries'
 draft: true
 date: 2012-08-24T14:04:46+00:00
 slug: '201208241404-static-cling-linux-binaries'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '238894603107983361'

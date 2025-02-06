@@ -3,6 +3,8 @@ title: 'AI ArXiv Gone Wild: In Praise of Peer Review'
 draft: true
 date: 2023-05-23T11:39:07+00:00
 slug: '202305231139-ai-arxiv-gone-wild'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1660867933789388803'

@@ -3,6 +3,8 @@ title: 'From Calculus to Code: Sussman''s Mathematical Revolution'
 draft: false
 date: 2019-01-09T14:54:14+00:00
 slug: '201901091454-sussman-calculus-code'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1082893291996176384'

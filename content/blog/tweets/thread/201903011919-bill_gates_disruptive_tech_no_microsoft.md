@@ -3,6 +3,8 @@ title: 'Bill Gates Picks Disruptive Tech; Microsoft Not Included'
 draft: false
 date: 2019-03-01T19:19:10+00:00
 slug: '201903011919-bill_gates_disruptive_tech_no_microsoft'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1101441744590106624'

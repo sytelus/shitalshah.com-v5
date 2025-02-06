@@ -3,6 +3,8 @@ title: 'When ''Likely Chance'' Points to Your Place'
 draft: true
 date: 2010-10-21T13:05:55+00:00
 slug: '201010211305-likely-chance-points-to-your-place'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '28001742740'

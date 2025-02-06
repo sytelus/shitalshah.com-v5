@@ -3,6 +3,8 @@ title: 'Triple the Smoothness: Holt-Winters Tames Time Series Trends'
 draft: false
 date: 2018-11-29T20:05:06+00:00
 slug: '201811292005-holt-winters-triple-exponential-smoothing'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1068113621983457280'

@@ -3,6 +3,8 @@ title: 'Wildfire Smoke? My HVAC Filters Say No'
 draft: false
 date: 2022-10-20T04:34:25+00:00
 slug: '202210200434-wildfire-smoke-hvac-filters'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1582847661736333313'

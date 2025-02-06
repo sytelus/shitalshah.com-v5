@@ -3,6 +3,8 @@ title: 'Wi-Fi-tapping: Detecting Hidden Gestures Through Walls'
 draft: false
 date: 2019-10-11T02:06:10+00:00
 slug: '201910110206-wifi-tapping-detecting-gestures'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1182371763046338560'

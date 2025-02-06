@@ -3,6 +3,8 @@ title: 'Inference: When Neural Nets Go on a Gradient-Free Diet'
 draft: false
 date: 2024-04-22T04:22:02+00:00
 slug: '202404220422-inference-gradient-free-diet'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1782157873365328134'

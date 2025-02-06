@@ -3,6 +3,8 @@ title: 'Goodbye 10 Blue Links, Hello AI Assistants'
 draft: true
 date: 2023-05-14T09:50:38+00:00
 slug: '202305140950-goodbye-10-blue-links-hello-ai-assistants'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1657579140630081537'

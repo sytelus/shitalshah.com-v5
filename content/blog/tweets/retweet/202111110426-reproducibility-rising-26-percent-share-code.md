@@ -3,6 +3,8 @@ title: 'Reproducibility Rising: 26% of AI Papers Share Code!'
 draft: true
 date: 2021-11-11T04:26:52+00:00
 slug: '202111110426-reproducibility-rising-26-percent-share-code'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1458531626204336130'

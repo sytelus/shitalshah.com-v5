@@ -3,6 +3,8 @@ title: 'Weight Averaging: Have Your Cake and Save Your Model'
 draft: false
 date: 2023-09-04T19:06:12+00:00
 slug: '202309041906-weight-averaging-save-your-model'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1698668784171839694'

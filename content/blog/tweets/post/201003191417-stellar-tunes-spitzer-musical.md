@@ -3,6 +3,8 @@ title: 'Stellar Tunes: Spitzer Telescope - The Musical'
 draft: true
 date: 2010-03-19T14:17:53+00:00
 slug: '201003191417-stellar-tunes-spitzer-musical'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '10711725582'

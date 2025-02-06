@@ -3,6 +3,8 @@ title: 'How to Build Robotics Labs and Influence Robots'
 draft: true
 date: 2020-01-08T17:33:38+00:00
 slug: '202001081733-how-to-build-robotics-labs-and-influence-robots'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1214842587808288768'

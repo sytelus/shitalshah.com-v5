@@ -3,6 +3,8 @@ title: 'Lenna Short Circuits the Competition'
 draft: true
 date: 2017-12-06T19:03:51+00:00
 slug: '201712061903-lenna-short-circuits-competition'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '938363350169161728'

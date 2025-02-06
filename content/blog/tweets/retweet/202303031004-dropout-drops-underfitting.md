@@ -3,6 +3,8 @@ title: 'Dropout Drops Underfitting'
 draft: true
 date: 2023-03-03T10:04:02+00:00
 slug: '202303031004-dropout-drops-underfitting'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1631475488668676101'

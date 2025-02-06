@@ -3,6 +3,8 @@ title: 'All the World''s a Graph: 5 Algorithms You Should Know'
 draft: true
 date: 2020-12-20T06:13:40+00:00
 slug: '202012200613-all-worlds-graph-5-algorithms'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1340420060108636160'

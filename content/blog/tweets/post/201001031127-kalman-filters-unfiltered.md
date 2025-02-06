@@ -3,6 +3,8 @@ title: 'Kalman Filters Unfiltered: Maybeck''s First Chapter Online!'
 draft: true
 date: 2010-01-03T11:27:19+00:00
 slug: '201001031127-kalman-filters-unfiltered'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '7319830668'

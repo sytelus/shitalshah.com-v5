@@ -3,6 +3,8 @@ title: 'Knuth: Not an Award Winner, an Award Namesake'
 draft: false
 date: 2020-05-13T11:05:19+00:00
 slug: '202005131105-knuth-award-namesake'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1260420835703009280'

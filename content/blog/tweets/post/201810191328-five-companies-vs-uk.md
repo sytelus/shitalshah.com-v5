@@ -3,6 +3,8 @@ title: 'When Five Companies Outweigh a Kingdom'
 draft: false
 date: 2018-10-19T13:28:09+00:00
 slug: '201810191328-five-companies-vs-uk'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1053170920553013248'

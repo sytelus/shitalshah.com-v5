@@ -3,6 +3,8 @@ title: 'Deep Learning''s Dirty Secret: Just Image Stats?'
 draft: false
 date: 2018-01-16T17:01:33+00:00
 slug: '201801161701-deep-learning-dirty-secret'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '953190477414596608'

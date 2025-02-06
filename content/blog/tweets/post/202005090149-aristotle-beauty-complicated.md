@@ -3,6 +3,8 @@ title: 'Aristotle on Beauty: It''s Complicated'
 draft: false
 date: 2020-05-09T01:49:00+00:00
 slug: '202005090149-aristotle-beauty-complicated'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1258831281862803456'

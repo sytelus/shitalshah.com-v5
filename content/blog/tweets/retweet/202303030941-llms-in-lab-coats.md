@@ -3,6 +3,8 @@ title: 'LLMs in Lab Coats: Prompting AI to Do Science'
 draft: true
 date: 2023-03-03T09:41:00+00:00
 slug: '202303030941-llms-in-lab-coats'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1631469691008057345'

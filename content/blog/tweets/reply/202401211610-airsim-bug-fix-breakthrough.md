@@ -3,6 +3,8 @@ title: 'The Bug Fix That Made AirSim Take Flight'
 draft: true
 date: 2024-01-21T16:10:53+00:00
 slug: '202401211610-airsim-bug-fix-breakthrough'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1748981476761522308'

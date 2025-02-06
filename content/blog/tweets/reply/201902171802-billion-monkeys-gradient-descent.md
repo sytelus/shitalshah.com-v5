@@ -3,6 +3,8 @@ title: 'Billion Monkeys with Gradient Descent'
 draft: true
 date: 2019-02-17T18:02:41+00:00
 slug: '201902171802-billion-monkeys-gradient-descent'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1097073844697759745'

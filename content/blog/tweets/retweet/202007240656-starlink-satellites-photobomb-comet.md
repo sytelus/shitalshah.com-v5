@@ -3,6 +3,8 @@ title: 'Starlink Satellites Photobomb Comet Images'
 draft: true
 date: 2020-07-24T06:56:02+00:00
 slug: '202007240656-starlink-satellites-photobomb-comet'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1286450030337908736'

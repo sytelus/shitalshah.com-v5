@@ -3,6 +3,8 @@ title: 'Gravity Sling Chaos: When Launching Objects Gets Messy'
 draft: true
 date: 2009-12-28T08:20:10+00:00
 slug: '200912280820-gravity-sling-chaos'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '7105113460'

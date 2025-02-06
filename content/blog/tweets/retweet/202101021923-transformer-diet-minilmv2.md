@@ -3,6 +3,8 @@ title: 'Transformer Diet: MiniLMv2 Edition'
 draft: true
 date: 2021-01-02T19:23:10+00:00
 slug: '202101021923-transformer-diet-minilmv2'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1345329783899529218'

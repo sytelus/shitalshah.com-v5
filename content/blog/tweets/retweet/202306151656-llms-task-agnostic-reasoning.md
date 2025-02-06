@@ -3,6 +3,8 @@ title: 'LLMs Learn Task-Agnostic Reasoning—Synthetically Speaking'
 draft: true
 date: 2023-06-15T16:56:30+00:00
 slug: '202306151656-llms-task-agnostic-reasoning'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1669282725633875968'

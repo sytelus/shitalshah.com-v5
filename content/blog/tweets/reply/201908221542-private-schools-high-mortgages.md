@@ -3,6 +3,8 @@ title: 'Private Schools: The Affordable Alternative to High Mortgages'
 draft: true
 date: 2019-08-22T15:42:10+00:00
 slug: '201908221542-private-schools-high-mortgages'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1164457723481583617'

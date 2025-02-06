@@ -3,6 +3,8 @@ title: 'LaTeX Magic: Beautiful Neural Network Visuals in a Click'
 draft: true
 date: 2021-01-09T04:52:26+00:00
 slug: '202101090452-latex-magic-neural-network-visuals'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1347647371547590657'

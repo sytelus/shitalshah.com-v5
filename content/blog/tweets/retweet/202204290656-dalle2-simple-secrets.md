@@ -3,6 +3,8 @@ title: 'DALL·E 2''s Simple Secrets Unveiled'
 draft: true
 date: 2022-04-29T06:56:06+00:00
 slug: '202204290656-dalle2-simple-secrets'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1519827831940804609'

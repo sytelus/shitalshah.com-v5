@@ -3,6 +3,8 @@ title: 'Quick Learners: How Humans Outpace AI with Few Examples'
 draft: false
 date: 2024-12-04T21:41:36+00:00
 slug: '202412042141-quick-learners-humans-outpace-ai'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1864304047282638863'

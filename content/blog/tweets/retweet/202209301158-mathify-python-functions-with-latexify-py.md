@@ -3,6 +3,8 @@ title: 'Mathify Your Python Functions with latexify_py'
 draft: true
 date: 2022-09-30T11:58:33+00:00
 slug: '202209301158-mathify-python-functions-with-latexify-py'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1575711677189738501'

@@ -3,6 +3,8 @@ title: 'From Kiddie Boulders to Buddhist Temples'
 draft: true
 date: 2011-03-28T09:01:50+00:00
 slug: '201103280901-from-kiddie-boulders-to-buddhist-temples'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '52188618361540608'

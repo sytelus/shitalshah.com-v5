@@ -3,6 +3,8 @@ title: 'AI: From Tabloid Taboo to Tech Trend'
 draft: true
 date: 2018-01-21T18:25:01+00:00
 slug: '201801211825-ai-from-tabloid-taboo-to-tech-trend'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '955023419866624000'

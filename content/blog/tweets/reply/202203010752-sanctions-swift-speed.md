@@ -3,6 +3,8 @@ title: 'Sanctions at SWIFT Speed: Blink and You''ll Miss Them'
 draft: true
 date: 2022-03-01T07:52:06+00:00
 slug: '202203010752-sanctions-swift-speed'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1498445939341545473'

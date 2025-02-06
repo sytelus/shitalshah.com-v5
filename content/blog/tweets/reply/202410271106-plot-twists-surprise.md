@@ -3,6 +3,8 @@ title: 'Plot Twists: Do These Surprise You?'
 draft: true
 date: 2024-10-27T11:06:12+00:00
 slug: '202410271106-plot-twists-surprise'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1850388502716051850'

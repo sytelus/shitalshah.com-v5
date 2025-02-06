@@ -3,6 +3,8 @@ title: 'Is GPT-4 Moonlighting as Nat Friedman''s Scriptwriter?'
 draft: true
 date: 2023-09-10T00:55:11+00:00
 slug: '202309100055-gpt4-nat-scriptwriter'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1700568549721600423'

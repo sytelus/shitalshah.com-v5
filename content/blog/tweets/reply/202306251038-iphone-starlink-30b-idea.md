@@ -3,6 +3,8 @@ title: 'Phone''s StarLink Up: A $30B Idea'
 draft: true
 date: 2023-06-25T10:38:58+00:00
 slug: '202306251038-iphone-starlink-30b-idea'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1672811595653844993'

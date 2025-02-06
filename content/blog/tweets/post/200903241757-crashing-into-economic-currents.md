@@ -3,6 +3,8 @@ title: 'Crashing into Economic Currents with Chris Martenson'
 draft: true
 date: 2009-03-24T17:57:01+00:00
 slug: '200903241757-crashing-into-economic-currents'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1381113420'

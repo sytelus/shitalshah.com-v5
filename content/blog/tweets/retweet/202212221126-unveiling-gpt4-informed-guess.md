@@ -3,6 +3,8 @@ title: 'Unveiling GPT-4: An Informed Guess'
 draft: true
 date: 2022-12-22T11:26:01+00:00
 slug: '202212221126-unveiling-gpt4-informed-guess'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1605766581702852608'

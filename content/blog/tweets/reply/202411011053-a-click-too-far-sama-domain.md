@@ -3,6 +3,8 @@ title: 'A Click Too Far: Dear [@sama](https://x.com/sama), Show Some Domain!'
 draft: true
 date: 2024-11-01T10:53:31+00:00
 slug: '202411011053-a-click-too-far-sama-domain'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1852197252254830882'

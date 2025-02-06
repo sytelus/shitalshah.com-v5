@@ -3,6 +3,8 @@ title: 'Deep Learning Goes Tabular: Cracking Structured Data'
 draft: true
 date: 2020-02-29T07:16:43+00:00
 slug: '202002290716-deep-learning-goes-tabular'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1233531506422738944'

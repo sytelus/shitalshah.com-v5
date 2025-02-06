@@ -3,6 +3,8 @@ title: 'Let''s Walk the Talk: Making Meetings Mobile'
 draft: false
 date: 2018-10-29T10:55:54+00:00
 slug: '201810291055-lets-walk-the-talk'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1056756485412319232'

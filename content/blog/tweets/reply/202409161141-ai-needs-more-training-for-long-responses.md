@@ -3,6 +3,8 @@ title: 'Long Story Short: AI Needs More Training to Go Long'
 draft: true
 date: 2024-09-16T11:41:59+00:00
 slug: '202409161141-ai-needs-more-training-for-long-responses'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1835539605132923367'

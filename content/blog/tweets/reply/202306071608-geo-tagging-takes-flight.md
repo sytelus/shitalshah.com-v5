@@ -3,6 +3,8 @@ title: 'Geo-Tagging Takes Flight'
 draft: true
 date: 2023-06-07T16:08:54+00:00
 slug: '202306071608-geo-tagging-takes-flight'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1666371645517500421'

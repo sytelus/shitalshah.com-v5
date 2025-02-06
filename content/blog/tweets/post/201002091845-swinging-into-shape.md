@@ -3,6 +3,8 @@ title: 'Swinging into Shape: Considering Flying Trapeze'
 draft: true
 date: 2010-02-09T18:45:36+00:00
 slug: '201002091845-swinging-into-shape'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '8849873266'

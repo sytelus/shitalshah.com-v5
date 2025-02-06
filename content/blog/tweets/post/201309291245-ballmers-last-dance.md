@@ -3,6 +3,8 @@ title: 'Ballmer''s Last Dance: I Saw It Live'
 draft: true
 date: 2013-09-29T12:45:23+00:00
 slug: '201309291245-ballmers-last-dance'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '384192158414012416'

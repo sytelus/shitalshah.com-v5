@@ -3,6 +3,8 @@ title: 'AI Musings: Microsoft''s [@sytelus](https://x.com/sytelus) Gets Philosop
 draft: true
 date: 2018-02-12T11:46:53+00:00
 slug: '201802121146-ai-musings-microsoft-sytelus-daisummit'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '962895760432906246'

@@ -3,6 +3,8 @@ title: 'LLMs Gone Rogue: Collecting Instructions Without Humans'
 draft: true
 date: 2022-12-22T11:46:44+00:00
 slug: '202212221146-llms-collect-instructions-no-humans'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1605771796669763587'

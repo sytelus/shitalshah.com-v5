@@ -3,6 +3,8 @@ title: 'Bard''s Magic: From Napkin to Website in One Prompt'
 draft: true
 date: 2023-07-16T13:31:15+00:00
 slug: '202307161331-bards-magic-napkin-to-website'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1680465099428077569'

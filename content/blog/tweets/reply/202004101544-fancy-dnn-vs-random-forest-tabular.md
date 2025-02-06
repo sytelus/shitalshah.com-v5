@@ -3,6 +3,8 @@ title: 'Can Your Fancy DNN Beat My Random Forest on Tabular Data?'
 draft: true
 date: 2020-04-10T15:44:36+00:00
 slug: '202004101544-fancy-dnn-vs-random-forest-tabular'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1248532321487040512'

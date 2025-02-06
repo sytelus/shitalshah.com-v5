@@ -3,6 +3,8 @@ title: 'DSLR Diet Success: Sony NEX-5 Packs a Punch!'
 draft: true
 date: 2010-07-16T02:26:40+00:00
 slug: '201007160226-dslr-diet-sony-nex-5'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '18625640655'

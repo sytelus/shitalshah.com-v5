@@ -3,6 +3,8 @@ title: 'Puppets on Dopamine Strings: Genes and the Illusion of Sex Appeal'
 draft: true
 date: 2021-12-06T06:29:57+00:00
 slug: '202112060629-puppets-on-dopamine-strings'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1467622299557777410'

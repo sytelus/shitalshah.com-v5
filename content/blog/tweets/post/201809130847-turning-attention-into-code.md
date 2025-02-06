@@ -3,6 +3,8 @@ title: 'Turning ''Attention'' into Code: The Transformer Unveiled'
 draft: false
 date: 2018-09-13T08:47:00+00:00
 slug: '201809130847-turning-attention-into-code'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1040054205656879104'

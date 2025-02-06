@@ -3,6 +3,8 @@ title: 'Apostrophes Don''t Matter When Facing ''Hand''s Up'
 draft: true
 date: 2019-04-17T17:48:31+00:00
 slug: '201904171748-apostrophes-dont-matter-hands-up'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1118466262550474759'

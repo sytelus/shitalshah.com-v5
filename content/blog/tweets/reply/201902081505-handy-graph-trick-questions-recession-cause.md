@@ -3,6 +3,8 @@ title: 'Handy Graph Trick Questions Recession''s Cause'
 draft: true
 date: 2019-02-08T15:05:47+00:00
 slug: '201902081505-handy-graph-trick-questions-recession-cause'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1093767835468189696'

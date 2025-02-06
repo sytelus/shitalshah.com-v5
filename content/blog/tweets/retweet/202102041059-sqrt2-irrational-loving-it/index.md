@@ -3,6 +3,8 @@ title: '√2: Irrational and Loving It'
 draft: true
 date: 2021-02-04T10:59:28+00:00
 slug: '202102041059-sqrt2-irrational-loving-it'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1357161824169332736'

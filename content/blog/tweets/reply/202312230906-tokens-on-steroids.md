@@ -3,6 +3,8 @@ title: 'Tokens on Steroids: 20% Faster than H100'
 draft: true
 date: 2023-12-23T09:06:38+00:00
 slug: '202312230906-tokens-on-steroids'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1738365464928293196'

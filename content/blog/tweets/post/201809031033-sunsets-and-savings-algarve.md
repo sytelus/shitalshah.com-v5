@@ -3,6 +3,8 @@ title: 'Sunsets and Savings: 10 Years in Algarve for $120k'
 draft: false
 date: 2018-09-03T10:33:12+00:00
 slug: '201809031033-sunsets-and-savings-algarve'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1036457051285643264'

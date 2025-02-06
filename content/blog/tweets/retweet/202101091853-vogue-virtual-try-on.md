@@ -3,6 +3,8 @@ title: 'Trying on VOGUE: When AI Becomes Your Fashion Stylist'
 draft: true
 date: 2021-01-09T18:53:05+00:00
 slug: '202101091853-vogue-virtual-try-on'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1347858929196273665'

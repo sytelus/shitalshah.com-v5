@@ -3,6 +3,8 @@ title: 'Lost in Neural Translation'
 draft: true
 date: 2018-05-11T10:00:49+00:00
 slug: '201805111000-lost-in-neural-translation'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '994774300375777285'

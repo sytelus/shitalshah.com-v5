@@ -3,6 +3,8 @@ title: 'Math, Meet Your PaL: Program-Aided LLMs Push Boundaries'
 draft: true
 date: 2022-11-30T12:57:48+00:00
 slug: '202211301257-math-meet-your-pal'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1597817147660832768'

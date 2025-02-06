@@ -3,6 +3,8 @@ title: 'Yeast Mode: Brewing a Genetic Revolution'
 draft: false
 date: 2022-09-01T11:25:30+00:00
 slug: '202209011125-yeast-mode-genetic-revolution'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1565194110172274688'

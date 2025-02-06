@@ -3,6 +3,8 @@ title: 'Startup Shenanigans: Jugglers and Ice Cream Beat Big Budgets'
 draft: false
 date: 2019-09-27T02:47:53+00:00
 slug: '201909270247-startup-shenanigans'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1177308832692867072'

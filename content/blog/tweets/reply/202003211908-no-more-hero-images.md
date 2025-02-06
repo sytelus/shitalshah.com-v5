@@ -3,6 +3,8 @@ title: 'No More Hero Images: Show Us the Worst!'
 draft: true
 date: 2020-03-21T19:08:30+00:00
 slug: '202003211908-no-more-hero-images'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1241335877193744385'

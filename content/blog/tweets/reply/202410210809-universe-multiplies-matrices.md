@@ -3,6 +3,8 @@ title: 'Forget Turing Machines—The Universe Multiplies Matrices'
 draft: true
 date: 2024-10-21T08:09:12+00:00
 slug: '202410210809-universe-multiplies-matrices'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1848169633922306493'

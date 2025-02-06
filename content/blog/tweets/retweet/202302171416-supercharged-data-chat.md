@@ -3,6 +3,8 @@ title: 'Supercharged Data Chat: GPT Meets Computation Engine'
 draft: true
 date: 2023-02-17T14:16:05+00:00
 slug: '202302171416-supercharged-data-chat'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1626465487759773696'

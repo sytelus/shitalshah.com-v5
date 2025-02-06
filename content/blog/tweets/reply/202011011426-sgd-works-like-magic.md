@@ -3,6 +3,8 @@ title: 'SGD Works Like Magic, But Why?'
 draft: true
 date: 2020-11-01T14:26:57+00:00
 slug: '202011011426-sgd-works-like-magic'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1322787190737264640'

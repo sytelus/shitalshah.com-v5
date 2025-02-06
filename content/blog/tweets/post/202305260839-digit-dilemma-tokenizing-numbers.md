@@ -3,6 +3,8 @@ title: 'Digit Dilemma: Tokenizing Numbers Boosts Model Math'
 draft: false
 date: 2023-05-26T08:39:46+00:00
 slug: '202305260839-digit-dilemma-tokenizing-numbers'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1661909963214815233'

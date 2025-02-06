@@ -3,6 +3,8 @@ title: 'Interns Assemble: Summer at MSFT Research Redmond!'
 draft: true
 date: 2021-11-11T04:20:06+00:00
 slug: '202111110420-interns-assemble-msft-research'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1458529921957916676'

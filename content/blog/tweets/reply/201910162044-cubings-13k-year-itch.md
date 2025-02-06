@@ -3,6 +3,8 @@ title: 'Cubing''s 13K-Year Itch: Ditching MCTS for Kociemba''s Algorithm'
 draft: true
 date: 2019-10-16T20:44:35+00:00
 slug: '201910162044-cubings-13k-year-itch'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1184465161081344000'

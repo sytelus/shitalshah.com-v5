@@ -3,6 +3,8 @@ title: 'AlphaGo''s Energy Binge and AlphaGo Zero''s Diet'
 draft: true
 date: 2023-01-22T10:50:22+00:00
 slug: '202301221050-alphago-energy-diet'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1616991635795247106'

@@ -3,6 +3,8 @@ title: 'Reproducibility: An Endangered Species in Research Papers'
 draft: true
 date: 2019-01-09T17:58:06+00:00
 slug: '201901091758-reproducibility-endangered-species'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1082939562769281024'

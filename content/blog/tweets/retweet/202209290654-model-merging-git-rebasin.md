@@ -3,6 +3,8 @@ title: 'Model Merging Magic: Let''s Git Re-Basin!'
 draft: true
 date: 2022-09-29T06:54:07+00:00
 slug: '202209290654-model-merging-git-rebasin'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1575272674808324096'

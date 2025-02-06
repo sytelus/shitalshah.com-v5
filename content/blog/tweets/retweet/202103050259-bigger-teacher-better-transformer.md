@@ -3,6 +3,8 @@ title: 'The Bigger the Teacher, the Better the Transformer'
 draft: true
 date: 2021-03-05T02:59:36+00:00
 slug: '202103050259-bigger-teacher-better-transformer'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1367550308663005184'

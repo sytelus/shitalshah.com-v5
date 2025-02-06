@@ -3,6 +3,8 @@ title: 'Grey Hair, Fresh Startups'
 draft: true
 date: 2011-09-02T05:22:39+00:00
 slug: '201109020522-grey-hair-fresh-startups'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '109390739036848128'

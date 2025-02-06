@@ -3,6 +3,8 @@ title: 'Be So Free It''s Rebellious'
 draft: true
 date: 2015-01-26T17:26:17+00:00
 slug: '201501261726-be-so-free-its-rebellious'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '559643477986643970'

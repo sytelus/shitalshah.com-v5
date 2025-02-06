@@ -3,6 +3,8 @@ title: 'Flipping Instructions Boost Zero-Shot LMs'
 draft: true
 date: 2023-01-23T17:53:00+00:00
 slug: '202301231753-flipping-instructions-zero-shot-lms'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1617460379617198082'

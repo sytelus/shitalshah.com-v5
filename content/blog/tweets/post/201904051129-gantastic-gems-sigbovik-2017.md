@@ -3,6 +3,8 @@ title: 'GAN-tastic Gems from SIGBOVIK 2017'
 draft: false
 date: 2019-04-05T11:29:25+00:00
 slug: '201904051129-gantastic-gems-sigbovik-2017'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1114022201676591104'

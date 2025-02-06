@@ -3,6 +3,8 @@ title: 'IMU Learning Curve: From Misinformation to Thesis Revelation'
 draft: true
 date: 2020-03-23T14:17:48+00:00
 slug: '202003231417-imu-learning-curve-misinformation-thesis'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1241987495895552000'

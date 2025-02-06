@@ -3,6 +3,8 @@ title: 'RT-X Marks the Bot: Robots'' ImageNet Moment'
 draft: true
 date: 2023-10-04T10:21:18+00:00
 slug: '202310041021-rt-x-marks-the-bot'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1709408322636673340'

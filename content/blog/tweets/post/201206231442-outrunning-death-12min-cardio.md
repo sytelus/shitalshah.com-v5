@@ -3,6 +3,8 @@ title: 'Outrunning Death: 12 Minutes of Cardio a Day'
 draft: true
 date: 2012-06-23T14:42:05+00:00
 slug: '201206231442-outrunning-death-12min-cardio'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '216435947489853440'

@@ -3,6 +3,8 @@ title: 'LIGO May Have Caught the Wave'
 draft: true
 date: 2014-07-18T12:11:24+00:00
 slug: '201407181211-ligo-may-have-caught-wave'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '490000862949826560'

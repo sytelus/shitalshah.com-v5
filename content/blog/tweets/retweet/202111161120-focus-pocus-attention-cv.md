@@ -3,6 +3,8 @@ title: 'Focus Pocus: Attention Mechanisms Survey in Computer Vision'
 draft: true
 date: 2021-11-16T11:20:08+00:00
 slug: '202111161120-focus-pocus-attention-cv'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1460447566491914246'

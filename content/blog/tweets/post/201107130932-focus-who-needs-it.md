@@ -3,6 +3,8 @@ title: 'Focus? Who Needs It! Light Field Photography Explained'
 draft: true
 date: 2011-07-13T09:32:04+00:00
 slug: '201107130932-focus-who-needs-it'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '90971725453471745'

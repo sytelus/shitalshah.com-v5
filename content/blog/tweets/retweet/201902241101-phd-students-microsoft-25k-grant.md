@@ -3,6 +3,8 @@ title: 'PhD Students, Need $25K? Microsoft''s Got You Covered!'
 draft: true
 date: 2019-02-24T11:01:44+00:00
 slug: '201902241101-phd-students-microsoft-25k-grant'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1099504621146361856'

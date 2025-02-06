@@ -3,6 +3,8 @@ title: 'Mailbox Peak II: Return of the Quad Burn'
 draft: true
 date: 2011-06-06T12:36:16+00:00
 slug: '201106061236-mailbox-peak-ii-return-quad-burn'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '77609731895734272'

@@ -3,6 +3,8 @@ title: 'Confounded by Causality: A Correlation Conundrum'
 draft: true
 date: 2024-10-29T12:37:56+00:00
 slug: '202410291237-confounded-by-causality'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1851136363351191947'

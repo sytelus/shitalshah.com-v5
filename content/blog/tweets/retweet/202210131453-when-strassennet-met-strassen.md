@@ -3,6 +3,8 @@ title: 'When StrassenNet Met Strassen''s Algorithm'
 draft: true
 date: 2022-10-13T14:53:11+00:00
 slug: '202210131453-when-strassennet-met-strassen'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1580466667712573440'

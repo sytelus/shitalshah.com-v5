@@ -3,6 +3,8 @@ title: 'Counting Sheep with Metric Tensors'
 draft: true
 date: 2008-12-13T18:09:29+00:00
 slug: '200812131809-counting-sheep-metric-tensors'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1055091212'

@@ -3,6 +3,8 @@ title: 'Deep RL Gets Schooled: Automatic Curriculum Survey'
 draft: true
 date: 2021-01-11T20:36:44+00:00
 slug: '202101112036-deep-rl-gets-schooled'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1348609791879479296'

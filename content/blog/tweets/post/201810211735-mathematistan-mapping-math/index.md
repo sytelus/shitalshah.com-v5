@@ -3,6 +3,8 @@ title: 'Mathematistan: Mapping the Land of Mathematics'
 draft: false
 date: 2018-10-21T17:35:20+00:00
 slug: '201810211735-mathematistan-mapping-math'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1053957905420939265'

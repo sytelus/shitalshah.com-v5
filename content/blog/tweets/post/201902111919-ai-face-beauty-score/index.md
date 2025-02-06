@@ -3,6 +3,8 @@ title: 'Mirror, Mirror: AI Adjusts Faces to Beauty Scores'
 draft: false
 date: 2019-02-11T19:19:07+00:00
 slug: '201902111919-ai-face-beauty-score'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1094918751487545344'

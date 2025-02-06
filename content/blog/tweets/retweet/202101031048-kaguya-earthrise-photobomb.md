@@ -3,6 +3,8 @@ title: 'Kaguya''s Earthrise: When Earth Photobombs the Moon'
 draft: true
 date: 2021-01-03T10:48:39+00:00
 slug: '202101031048-kaguya-earthrise-photobomb'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1345562690572353537'

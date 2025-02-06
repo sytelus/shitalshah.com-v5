@@ -3,6 +3,8 @@ title: 'Quick Defragmentor: The Trojan That Cried Disk Failure'
 draft: true
 date: 2010-11-09T10:55:02+00:00
 slug: '201011091055-trojan-quick-defragmentor'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1830091315220480'

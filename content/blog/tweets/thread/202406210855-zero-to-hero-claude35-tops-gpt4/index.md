@@ -3,6 +3,8 @@ title: 'From Zero to Hero: Claude-3.5 Tops GPT-4'
 draft: false
 date: 2024-06-21T08:55:58+00:00
 slug: '202406210855-zero-to-hero-claude35-tops-gpt4'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1803970083871686809'

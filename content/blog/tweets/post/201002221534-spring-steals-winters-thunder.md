@@ -3,6 +3,8 @@ title: 'When Spring Steals Winter''s Thunder'
 draft: true
 date: 2010-02-22T15:34:37+00:00
 slug: '201002221534-spring-steals-winters-thunder'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '9466902897'

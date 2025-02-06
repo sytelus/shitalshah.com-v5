@@ -3,6 +3,8 @@ title: 'Economy''s Chart-Topper of the Century'
 draft: true
 date: 2019-08-17T14:49:52+00:00
 slug: '201908171449-economys-chart-topper'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1162632623199416320'

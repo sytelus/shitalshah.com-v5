@@ -3,6 +3,8 @@ title: 'When Robots SayCan: Grounding AI Dreams to Reality'
 draft: true
 date: 2022-12-17T17:15:39+00:00
 slug: '202212171715-saycan-grounding-ai-robots'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1604042631419658240'

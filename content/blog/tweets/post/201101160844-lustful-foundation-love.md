@@ -3,6 +3,8 @@ title: 'The Lustful Foundation of Love'
 draft: true
 date: 2011-01-16T08:44:54+00:00
 slug: '201101160844-lustful-foundation-love'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '26439716064727040'

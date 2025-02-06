@@ -3,6 +3,8 @@ title: 'Teddy''s Bear Truth: Resources Aren''t Infinite'
 draft: true
 date: 2017-08-24T15:08:44+00:00
 slug: '201708241508-teddys-bear-truth'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '900630942364172292'

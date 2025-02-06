@@ -3,6 +3,8 @@ title: 'Ubuntu Freeze? Try Turning the Display Off and On Again'
 draft: false
 date: 2020-03-05T12:35:13+00:00
 slug: '202003051235-ubuntu-freeze-display-toggle'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1235423596098375687'

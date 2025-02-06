@@ -3,6 +3,8 @@ title: 'TikTok Over Terraforming: Our Priorities'
 draft: false
 date: 2020-09-15T00:42:54+00:00
 slug: '202009150042-tiktok-over-terraforming'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1305562684780244992'

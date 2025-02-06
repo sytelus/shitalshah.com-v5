@@ -3,6 +3,8 @@ title: 'De-dupe Dude! Too Many Forks in Code Search'
 draft: true
 date: 2021-01-31T11:20:17+00:00
 slug: '202101311120-de-dupe-dude-too-many-forks'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1355717511057002498'

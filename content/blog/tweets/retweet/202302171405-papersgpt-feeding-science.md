@@ -3,6 +3,8 @@ title: 'PapersGPT: Feeding Science to GPT'
 draft: true
 date: 2023-02-17T14:05:02+00:00
 slug: '202302171405-papersgpt-feeding-science'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1626462707783471105'

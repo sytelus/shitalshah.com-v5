@@ -3,6 +3,8 @@ title: 'Passengers Added, Dashboard Alerted, Patience Tested'
 draft: true
 date: 2008-12-25T09:25:13+00:00
 slug: '200812250925-passengers-dashboard-patience'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1077258339'

@@ -3,6 +3,8 @@ title: 'Byte-Level Tokenizers: Four Times the Tokens, Four Times the Trouble'
 draft: true
 date: 2023-12-01T13:45:03+00:00
 slug: '202312011345-byte-level-tokenizers-4x-trouble'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1730462998257639563'

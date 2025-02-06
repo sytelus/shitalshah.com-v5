@@ -3,6 +3,8 @@ title: 'YAML: Ditching JSON''s Braces and Quotes'
 draft: false
 date: 2019-11-21T09:49:01+00:00
 slug: '201911210949-yaml-ditching-json'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1197331048180248577'

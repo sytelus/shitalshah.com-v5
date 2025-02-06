@@ -3,6 +3,8 @@ title: 'Eigenvalues in Asymmetric Matrices: Not So Norm-al'
 draft: true
 date: 2010-01-25T10:32:02+00:00
 slug: '201001251032-eigenvalues-not-norm-al'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '8174550075'

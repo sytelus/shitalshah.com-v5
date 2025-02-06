@@ -3,6 +3,8 @@ title: 'Code Couture: Taylor Swift''s Programming Book Style'
 draft: false
 date: 2021-02-04T12:21:34+00:00
 slug: '202102041221-code-couture-taylor-swift'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1357182487307321344'

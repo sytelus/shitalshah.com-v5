@@ -3,6 +3,8 @@ title: 'Robots Read Between the Lines: A Survey on Semantic Mapping'
 draft: true
 date: 2021-01-05T19:39:40+00:00
 slug: '202101051939-robots-read-between-lines'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1346421100465385474'

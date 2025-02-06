@@ -3,6 +3,8 @@ title: 'Fully Open Source, Minus the Source!'
 draft: true
 date: 2023-05-05T16:57:21+00:00
 slug: '202305051657-fully-open-source-minus-the-source'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1654425037192167424'

@@ -3,6 +3,8 @@ title: 'When AI is Just Logistic Regression in Disguise'
 draft: false
 date: 2019-03-24T12:33:40+00:00
 slug: '201903241233-ai-is-logistic-regression'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1109689716826390528'

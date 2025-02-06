@@ -3,6 +3,8 @@ title: '"Entropy Achieved: Universe Hits Max Randomness"'
 draft: true
 date: 2023-03-05T08:02:42+00:00
 slug: '202303050802-entropy-achieved-universe'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1632169731502534662'

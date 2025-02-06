@@ -3,6 +3,8 @@ title: 'Unpacking My Container Store Rejection'
 draft: true
 date: 2014-11-14T14:17:33+00:00
 slug: '201411141417-unpacking-container-store-rejection'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '533141666022948864'

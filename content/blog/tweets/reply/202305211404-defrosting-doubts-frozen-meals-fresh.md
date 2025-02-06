@@ -3,6 +3,8 @@ title: 'Defrosting Doubts: Keeping Frozen Meals Fresh'
 draft: true
 date: 2023-05-21T14:04:58+00:00
 slug: '202305211404-defrosting-doubts-frozen-meals-fresh'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1660179861728817152'

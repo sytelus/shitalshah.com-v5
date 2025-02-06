@@ -3,6 +3,8 @@ title: 'Nancy Pelosi: My Go-To for Stock Advice'
 draft: true
 date: 2025-01-27T23:55:15+00:00
 slug: '202501272355-nancy-pelosi-stock-advice'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1883906626606022740'

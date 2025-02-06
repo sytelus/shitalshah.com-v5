@@ -3,6 +3,8 @@ title: 'Speedy Text: Pre-trained Models Break the Auto Loop'
 draft: true
 date: 2021-02-17T13:02:13+00:00
 slug: '202102171302-speedy-text-pretrained-models-break-auto-loop'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1361903760017035265'

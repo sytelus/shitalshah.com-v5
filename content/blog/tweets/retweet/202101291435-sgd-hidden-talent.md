@@ -3,6 +3,8 @@ title: 'SGD''s Hidden Talent: Implicit Regularization'
 draft: true
 date: 2021-01-29T14:35:31+00:00
 slug: '202101291435-sgd-hidden-talent'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1355041867100897282'

@@ -3,6 +3,8 @@ title: 'Working Memory: Our Anti-Hallucination Superpower'
 draft: true
 date: 2023-11-22T12:25:54+00:00
 slug: '202311221225-working-memory-anti-hallucination'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1727181586410688745'

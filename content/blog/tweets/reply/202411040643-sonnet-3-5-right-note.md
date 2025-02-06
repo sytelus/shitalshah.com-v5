@@ -3,6 +3,8 @@ title: 'Sonnet 3.5 Hits the Right Note, o1-mini Occasionally Chimes In'
 draft: true
 date: 2024-11-04T06:43:55+00:00
 slug: '202411040643-sonnet-3-5-right-note'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1853206501965635961'

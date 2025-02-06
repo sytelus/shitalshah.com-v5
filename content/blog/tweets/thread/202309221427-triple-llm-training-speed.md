@@ -3,6 +3,8 @@ title: 'No Excuses: Triple Your LLM Training Speed with SwiGLU, ALiBi & μP'
 draft: false
 date: 2023-09-22T14:27:43+00:00
 slug: '202309221427-triple-llm-training-speed'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1705121681390674356'

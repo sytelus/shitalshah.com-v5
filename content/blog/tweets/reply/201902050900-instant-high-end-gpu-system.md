@@ -3,6 +3,8 @@ title: 'Instant High-End GPU System: Just Add GPU and Stir'
 draft: true
 date: 2019-02-05T09:00:26+00:00
 slug: '201902050900-instant-high-end-gpu-system'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1092588729015795713'

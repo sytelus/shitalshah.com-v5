@@ -3,6 +3,8 @@ title: 'Mighty Mice: Cancer Vaccine Hits 100% Success'
 draft: true
 date: 2018-09-12T15:33:46+00:00
 slug: '201809121533-mighty-mice-cancer-vaccine-success'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1039794184264118272'

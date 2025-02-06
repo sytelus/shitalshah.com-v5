@@ -3,6 +3,8 @@ title: 'To Grad or Not to Grad? CS Undergrads Wonder'
 draft: true
 date: 2019-11-24T16:09:47+00:00
 slug: '201911241609-to-grad-or-not-to-grad'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1198514032602271744'

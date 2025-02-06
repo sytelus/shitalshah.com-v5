@@ -3,6 +3,8 @@ title: 'When Science Skips Class and Religion Skips Mass'
 draft: false
 date: 2018-04-25T14:57:57+00:00
 slug: '201804251457-science-skips-class-religion-skips-mass'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '989050867935563776'

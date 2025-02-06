@@ -3,6 +3,8 @@ title: 'Super Secret Aleph-Null: When Kids Outsmart Teachers'
 draft: true
 date: 2021-11-28T02:38:58+00:00
 slug: '202111280238-super-secret-aleph-null'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1464665063818620929'

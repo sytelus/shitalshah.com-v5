@@ -3,6 +3,8 @@ title: 'Bewildered by Polls? Blame Evolution!'
 draft: false
 date: 2023-02-26T17:03:10+00:00
 slug: '202302261703-bewildered-by-polls-blame-evolution'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1629769029165658112'

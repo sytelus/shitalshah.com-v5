@@ -3,6 +3,8 @@ title: 'Burned by Contracts: When Suggestion Beats Obligation'
 draft: true
 date: 2019-08-11T12:54:07+00:00
 slug: '201908111254-burned-by-contracts'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1160429165591445504'

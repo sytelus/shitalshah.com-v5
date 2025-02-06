@@ -3,6 +3,8 @@ title: 'Algorithmic Fairness Bingo: What''s on Your Card?'
 draft: true
 date: 2021-10-06T10:48:40+00:00
 slug: '202110061048-algorithmic-fairness-bingo'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1445596844982091784'

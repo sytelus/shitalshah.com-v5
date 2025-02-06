@@ -3,6 +3,8 @@ title: 'Fast and Curious: Speeding Up at Google Research'
 draft: true
 date: 2023-06-14T11:39:06+00:00
 slug: '202306141139-fast-and-curious'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1668840464169172992'

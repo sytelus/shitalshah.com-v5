@@ -3,6 +3,8 @@ title: 'Trimming the Uninteresting: My 5% Unfollow Plan'
 draft: true
 date: 2010-10-14T06:18:24+00:00
 slug: '201010140618-5-percent-unfollow-plan'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '27285972208'

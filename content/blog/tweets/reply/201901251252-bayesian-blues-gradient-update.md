@@ -3,6 +3,8 @@ title: 'Bayesian Blues? Maybe It''s Time for a Gradient Update'
 draft: true
 date: 2019-01-25T12:52:18+00:00
 slug: '201901251252-bayesian-blues-gradient-update'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1088660811050958849'

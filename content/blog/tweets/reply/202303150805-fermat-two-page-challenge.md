@@ -3,6 +3,8 @@ title: 'Fermat''s Last Theorem: The Two-Page Challenge'
 draft: true
 date: 2023-03-15T08:05:47+00:00
 slug: '202303150805-fermat-two-page-challenge'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1635809485204889600'

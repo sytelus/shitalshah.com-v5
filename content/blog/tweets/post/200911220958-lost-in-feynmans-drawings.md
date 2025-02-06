@@ -3,6 +3,8 @@ title: 'Lost in Feynman''s Sketches: Seeking the Unseen Drawings'
 draft: true
 date: 2009-11-22T09:58:17+00:00
 slug: '200911220958-lost-in-feynmans-drawings'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '5934494347'

@@ -3,6 +3,8 @@ title: 'From Buddy Favors to Future Flops'
 draft: true
 date: 2022-11-30T12:32:20+00:00
 slug: '202211301232-buddy-favors-future-flops'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1597810736193208320'

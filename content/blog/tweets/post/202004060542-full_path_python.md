@@ -3,6 +3,8 @@ title: 'Full Path Ahead: Streamline Your Python Paths'
 draft: false
 date: 2020-04-06T05:42:00+00:00
 slug: '202004060542-full_path_python'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1246931118823112705'

@@ -3,6 +3,8 @@ title: 'DIME Time: Robots Master In-Hand Manipulation'
 draft: true
 date: 2022-03-26T03:53:40+00:00
 slug: '202203260353-dime-robot-manipulation'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1507460734124388352'

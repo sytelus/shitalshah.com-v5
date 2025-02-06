@@ -3,6 +3,8 @@ title: 'DeepSparse Hugs HuggingFace: 43x CPU Speedup, 97% Cost Cut'
 draft: true
 date: 2022-12-25T05:15:59+00:00
 slug: '202212250515-deepsparse-hugs-huggingface'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1606760623622488064'

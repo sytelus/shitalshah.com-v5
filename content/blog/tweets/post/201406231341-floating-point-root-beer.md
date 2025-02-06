@@ -3,6 +3,8 @@ title: 'Floating Point Root Beer'
 draft: true
 date: 2014-06-23T13:41:10+00:00
 slug: '201406231341-floating-point-root-beer'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '480963759351951360'

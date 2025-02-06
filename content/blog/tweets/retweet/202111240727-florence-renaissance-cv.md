@@ -3,6 +3,8 @@ title: 'Florence Unveiled: A Renaissance in Computer Vision'
 draft: true
 date: 2021-11-24T07:27:50+00:00
 slug: '202111240727-florence-renaissance-cv'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1463288209266262017'

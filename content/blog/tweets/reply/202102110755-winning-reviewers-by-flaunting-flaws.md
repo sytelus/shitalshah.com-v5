@@ -3,6 +3,8 @@ title: 'Winning Reviewers by Flaunting Flaws'
 draft: true
 date: 2021-02-11T07:55:48+00:00
 slug: '202102110755-winning-reviewers-by-flaunting-flaws'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1359652317620969472'

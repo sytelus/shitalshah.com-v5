@@ -3,6 +3,8 @@ title: 'Making DateTime Speak XmlSerializer''s Language'
 draft: true
 date: 2011-01-30T17:43:39+00:00
 slug: '201101301743-datetime-xmlserializer-format'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '31648730377625600'

@@ -3,6 +3,8 @@ title: 'Pay Me to Unplug: The Price of Ditching These Services for a Year'
 draft: false
 date: 2018-04-26T15:12:05+00:00
 slug: '201804261512-pay-me-to-unplug'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '989416812856074240'

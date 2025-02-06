@@ -3,6 +3,8 @@ title: 'Piled High: Gratitude and the Missing 13B Model'
 draft: true
 date: 2023-04-07T03:36:11+00:00
 slug: '202304070336-piled-high-gratitude-missing-13b-model'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1644076557051502594'

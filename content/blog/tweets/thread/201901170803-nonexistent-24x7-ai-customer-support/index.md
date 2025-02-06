@@ -3,6 +3,8 @@ title: 'Nonexistent 24x7 AI Customer Support'
 draft: false
 date: 2019-01-17T08:03:46+00:00
 slug: '201901170803-nonexistent-24x7-ai-customer-support'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1085689098516389888'

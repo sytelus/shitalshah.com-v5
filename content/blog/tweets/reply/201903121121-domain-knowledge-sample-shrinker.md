@@ -3,6 +3,8 @@ title: 'Domain Knowledge: Sample Shrinker or Correctness Crasher?'
 draft: true
 date: 2019-03-12T11:21:17+00:00
 slug: '201903121121-domain-knowledge-sample-shrinker'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1105322849584087040'

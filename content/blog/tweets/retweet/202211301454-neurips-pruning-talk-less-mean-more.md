@@ -3,6 +3,8 @@ title: 'NeurIPS Pruning Talk: Does Less Mean More?'
 draft: true
 date: 2022-11-30T14:54:59+00:00
 slug: '202211301454-neurips-pruning-talk-less-mean-more'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1597846636344270853'

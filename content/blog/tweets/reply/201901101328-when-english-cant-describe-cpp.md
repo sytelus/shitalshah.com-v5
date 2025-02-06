@@ -3,6 +3,8 @@ title: 'When English Can''t Describe C++'
 draft: true
 date: 2019-01-10T13:28:29+00:00
 slug: '201901101328-when-english-cant-describe-cpp'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1083234099207127040'

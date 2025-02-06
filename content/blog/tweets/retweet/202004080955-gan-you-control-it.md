@@ -3,6 +3,8 @@ title: 'GAN You Control It? Unsupervised Control in Image Generation'
 draft: true
 date: 2020-04-08T09:55:36+00:00
 slug: '202004080955-gan-you-control-it'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1247719717785071616'

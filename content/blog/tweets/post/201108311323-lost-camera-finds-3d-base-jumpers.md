@@ -3,6 +3,8 @@ title: 'Lost Camera Finds 3D Base Jumpers'
 draft: true
 date: 2011-08-31T13:23:17+00:00
 slug: '201108311323-lost-camera-finds-3d-base-jumpers'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '108786918472433664'

@@ -3,6 +3,8 @@ title: 'The Doctor Will See Your AI Now: MedMNIST v2'
 draft: true
 date: 2021-10-29T19:56:51+00:00
 slug: '202110291956-medmnist-v2-doctor-ai'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1454069721536491522'

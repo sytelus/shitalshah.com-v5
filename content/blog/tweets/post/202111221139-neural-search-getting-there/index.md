@@ -3,6 +3,8 @@ title: 'Neural Search Engine: We''re Getting There!'
 draft: false
 date: 2021-11-22T11:39:37+00:00
 slug: '202111221139-neural-search-getting-there'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1462626797728632834'

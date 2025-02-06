@@ -3,6 +3,8 @@ title: 'Click-less in Bremerton: Lost Nikon D600 at Fountain Park'
 draft: true
 date: 2016-08-21T12:22:31+00:00
 slug: '201608211222-clickless-in-bremerton'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '767230380755738624'

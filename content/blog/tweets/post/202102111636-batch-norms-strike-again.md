@@ -3,6 +3,8 @@ title: 'Batch Norms Strike Again: Fine-Tuning CNNs by Training Only Batch Norms'
 draft: false
 date: 2021-02-11T16:36:09+00:00
 slug: '202102111636-batch-norms-strike-again'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1359783269009526784'

@@ -3,6 +3,8 @@ title: 'Apple''s Spaceship HQ Lands on Former HP Labs'
 draft: true
 date: 2011-08-20T17:28:36+00:00
 slug: '201108201728-apple-spaceship-hq-on-hp-labs'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '104862389786251264'

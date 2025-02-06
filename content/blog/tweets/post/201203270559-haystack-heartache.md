@@ -3,6 +3,8 @@ title: 'Haystack Heartache: Missing the Winter Traverse'
 draft: true
 date: 2012-03-27T05:59:31+00:00
 slug: '201203270559-haystack-heartache'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '184414308233527296'

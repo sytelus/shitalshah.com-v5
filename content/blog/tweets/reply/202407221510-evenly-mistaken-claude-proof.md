@@ -3,6 +3,8 @@ title: 'Evenly Mistaken: Claude''s Confident but Flawed Proof'
 draft: true
 date: 2024-07-22T15:10:42+00:00
 slug: '202407221510-evenly-mistaken-claude-proof'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1815298412746805290'

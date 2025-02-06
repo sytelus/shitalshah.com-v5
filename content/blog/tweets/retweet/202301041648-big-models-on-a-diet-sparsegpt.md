@@ -3,6 +3,8 @@ title: 'Big Models on a Diet: SparseGPT Prunes Language Giants'
 draft: true
 date: 2023-01-04T16:48:45+00:00
 slug: '202301041648-big-models-on-a-diet-sparsegpt'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1610558841804165126'

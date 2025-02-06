@@ -3,6 +3,8 @@ title: 'Bleeding-edge Science on Outdated Sites, Cats Get Top Tech'
 draft: true
 date: 2020-08-07T10:00:44+00:00
 slug: '202008071000-bleeding-edge-science-outdated-sites-cats-top-tech'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1291569938298101760'

@@ -3,6 +3,8 @@ title: 'AI Secrets? Let''s Not Go Medieval'
 draft: true
 date: 2019-02-15T15:27:16+00:00
 slug: '201902151527-ai_secrets_lets_not_go_medieval'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1096309956742078464'

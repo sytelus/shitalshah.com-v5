@@ -3,6 +3,8 @@ title: 'Paper Chaser: Auto-Jump from PDFs to HTML Pages'
 draft: false
 date: 2021-03-07T21:13:57+00:00
 slug: '202103072113-paper-chaser-auto-jump-from-pdfs-to-html-pages'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1368550489181220864'

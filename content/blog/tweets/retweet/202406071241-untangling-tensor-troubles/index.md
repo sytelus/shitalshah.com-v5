@@ -3,6 +3,8 @@ title: 'Untangling Tensor Troubles'
 draft: true
 date: 2024-06-07T12:41:04+00:00
 slug: '202406071241-untangling-tensor-troubles'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1798953299174928388'

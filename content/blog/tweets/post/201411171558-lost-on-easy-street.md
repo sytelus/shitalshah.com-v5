@@ -3,6 +3,8 @@ title: 'Lost on Easy Street'
 draft: true
 date: 2014-11-17T15:58:38+00:00
 slug: '201411171558-lost-on-easy-street'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '534254268832706560'

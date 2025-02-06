@@ -3,6 +3,8 @@ title: 'Frozen Dash: Solo Record to the North Pole'
 draft: true
 date: 2011-03-22T01:26:46+00:00
 slug: '201103220126-frozen-dash-north-pole'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '49899767098114048'

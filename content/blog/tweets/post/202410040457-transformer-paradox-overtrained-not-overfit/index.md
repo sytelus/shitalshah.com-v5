@@ -3,6 +3,8 @@ title: 'The Transformer Paradox: Overtrained but Not Overfit'
 draft: false
 date: 2024-10-04T04:57:26+00:00
 slug: '202410040457-transformer-paradox-overtrained-not-overfit'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1841960777588379656'

@@ -3,6 +3,8 @@ title: 'Sun''s Out, Avalanches About: Stay Below 6000ft'
 draft: true
 date: 2010-06-12T08:47:19+00:00
 slug: '201006120847-suns-out-avalanches-6000ft'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '15970196170'

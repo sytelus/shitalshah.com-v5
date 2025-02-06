@@ -3,6 +3,8 @@ title: 'The Fortune Cover Curse Strikes Again'
 draft: true
 date: 2022-11-09T13:18:54+00:00
 slug: '202211091318-fortune-cover-curse'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1590212310349803520'

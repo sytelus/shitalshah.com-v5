@@ -3,6 +3,8 @@ title: 'Deals on Wheels: Bing Mobile Rolls Out Savings!'
 draft: true
 date: 2011-03-04T02:59:45+00:00
 slug: '201103040259-bing-mobile-deals'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '43385088888680448'

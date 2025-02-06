@@ -3,6 +3,8 @@ title: 'RNNs vs Recursion: The Loop That Fails'
 draft: true
 date: 2023-12-12T18:23:13+00:00
 slug: '202312121823-rnns-vs-recursion'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1734519267641659415'

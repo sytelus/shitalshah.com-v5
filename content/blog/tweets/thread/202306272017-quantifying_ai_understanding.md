@@ -3,6 +3,8 @@ title: 'Understanding "Understanding": Quantifying AI Comprehension'
 draft: false
 date: 2023-06-27T20:17:35+00:00
 slug: '202306272017-quantifying_ai_understanding'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1673681985276088320'

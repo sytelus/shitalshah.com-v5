@@ -3,6 +3,8 @@ title: 'Just Print It: When Publishing Wasn''t a Big Deal'
 draft: true
 date: 2019-02-08T15:48:18+00:00
 slug: '201902081548-just-print-it-publishing-past'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1093778534894424064'

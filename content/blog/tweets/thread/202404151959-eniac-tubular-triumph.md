@@ -3,6 +3,8 @@ title: 'ENIAC''s Tubular Triumph: From 200 to 10,000 Vacuum Tubes'
 draft: false
 date: 2024-04-15T19:59:24+00:00
 slug: '202404151959-eniac-tubular-triumph'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1779857054498521278'

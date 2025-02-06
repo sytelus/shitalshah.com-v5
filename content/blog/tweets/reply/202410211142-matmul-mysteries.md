@@ -3,6 +3,8 @@ title: 'Matmul Mysteries: More Than Just Parallel Fun'
 draft: true
 date: 2024-10-21T11:42:13+00:00
 slug: '202410211142-matmul-mysteries'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1848223239933460861'

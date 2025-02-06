@@ -3,6 +3,8 @@ title: 'Zeroing In on Cloud Storage Performance with dd'
 draft: false
 date: 2020-03-20T11:45:35+00:00
 slug: '202003201145-zeroing-in-on-cloud-storage-performance-with-dd'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1240862023031771136'

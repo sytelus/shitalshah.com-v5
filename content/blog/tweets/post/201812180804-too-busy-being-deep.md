@@ -3,6 +3,8 @@ title: 'Too Busy Being Deep: Why Email Isn''t for Me'
 draft: false
 date: 2018-12-18T08:04:26+00:00
 slug: '201812180804-too-busy-being-deep'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1074817627204202496'

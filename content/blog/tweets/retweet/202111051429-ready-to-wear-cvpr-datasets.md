@@ -3,6 +3,8 @@ title: 'Ready-to-Wear Datasets: Dressing Your CVPR Submission'
 draft: true
 date: 2021-11-05T14:29:18+00:00
 slug: '202111051429-ready-to-wear-cvpr-datasets'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1456524006723502082'

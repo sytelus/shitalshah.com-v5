@@ -3,6 +3,8 @@ title: 'Mixing It Up in Latent Space: Smoothing with Mixup Magic'
 draft: true
 date: 2021-11-25T12:49:30+00:00
 slug: '202111251249-mixup-latent-space-smoothing'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1463731546544762885'

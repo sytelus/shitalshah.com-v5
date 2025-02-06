@@ -3,6 +3,8 @@ title: 'Sheet Happens: Running GPT-3 Prompts in Google Sheets'
 draft: true
 date: 2022-11-03T06:39:06+00:00
 slug: '202211030639-sheet-happens-gpt3-google-sheets'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1587952469585596416'

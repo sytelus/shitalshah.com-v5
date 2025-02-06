@@ -3,6 +3,8 @@ title: 'Robots: Just Tools in AI''s Toolbox?'
 draft: false
 date: 2024-10-20T19:59:42+00:00
 slug: '202410201959-robots-just-tools-in-ais-toolbox'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1847986049475387454'

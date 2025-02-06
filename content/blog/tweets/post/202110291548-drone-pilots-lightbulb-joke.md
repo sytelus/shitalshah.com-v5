@@ -3,6 +3,8 @@ title: 'How Many Drone Pilots Does It Take to Screw a Light Bulb?'
 draft: false
 date: 2021-10-29T15:48:58+00:00
 slug: '202110291548-drone-pilots-lightbulb-joke'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1454007340521250819'

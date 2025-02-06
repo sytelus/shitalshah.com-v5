@@ -3,6 +3,8 @@ title: 'Just Get a Twinkie—You''re Set for a Decade or Two!'
 draft: true
 date: 2020-03-09T09:35:34+00:00
 slug: '202003090935-just-get-twinkie-set-decade'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1236843040712491014'

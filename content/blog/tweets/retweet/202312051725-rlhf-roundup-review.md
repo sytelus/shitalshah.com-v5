@@ -3,6 +3,8 @@ title: 'RLHF Roundup: Brief Review of New Instruction Tuning Papers'
 draft: true
 date: 2023-12-05T17:25:54+00:00
 slug: '202312051725-rlhf-roundup-review'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1731968126886003042'

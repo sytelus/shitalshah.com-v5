@@ -3,6 +3,8 @@ title: 'Scraping Tunes: Extracting 2000+ Yahoo Music Ratings'
 draft: true
 date: 2008-12-29T09:06:04+00:00
 slug: '200812290906-scraping-tunes'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1083121166'

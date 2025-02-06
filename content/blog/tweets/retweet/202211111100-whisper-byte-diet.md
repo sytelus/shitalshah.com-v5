@@ -3,6 +3,8 @@ title: 'Whisper Goes on a Byte Diet: Loading in 8-Bit'
 draft: true
 date: 2022-11-11T11:00:36+00:00
 slug: '202211111100-whisper-byte-diet'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1590902281868054529'

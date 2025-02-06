@@ -3,6 +3,8 @@ title: 'Making History, Breaking Homes'
 draft: true
 date: 2020-12-29T12:12:31+00:00
 slug: '202012291212-making-history-breaking-homes'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1343771857154056192'

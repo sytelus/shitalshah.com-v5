@@ -3,6 +3,8 @@ title: 'Deep Learning Diet: Slimming Down CNNs with Low Precision and Sparsity'
 draft: true
 date: 2016-10-05T02:07:27+00:00
 slug: '201610050207-deep-learning-diet-slimming-cnns'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '783383046426796032'

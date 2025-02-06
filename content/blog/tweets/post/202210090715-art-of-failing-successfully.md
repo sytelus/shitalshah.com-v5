@@ -3,6 +3,8 @@ title: 'The Art of Failing Successfully'
 draft: false
 date: 2022-10-09T07:15:00+00:00
 slug: '202210090715-art-of-failing-successfully'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1578901807979323392'

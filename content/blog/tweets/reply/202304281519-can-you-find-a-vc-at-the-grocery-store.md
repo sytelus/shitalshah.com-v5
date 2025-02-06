@@ -3,6 +3,8 @@ title: 'Can You Find a VC at the Grocery Store?'
 draft: true
 date: 2023-04-28T15:19:03+00:00
 slug: '202304281519-can-you-find-a-vc-at-the-grocery-store'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1651863583578554370'

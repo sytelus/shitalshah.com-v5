@@ -3,6 +3,8 @@ title: 'Science: Random Walks Told as Shortest Paths'
 draft: false
 date: 2019-01-18T08:00:07+00:00
 slug: '201901180800-science-random-walks-shortest-paths'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1086050565954490368'

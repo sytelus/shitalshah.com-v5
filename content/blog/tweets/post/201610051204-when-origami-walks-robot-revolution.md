@@ -3,6 +3,8 @@ title: 'When Origami Walks: The Self-Folding Robot Revolution'
 draft: true
 date: 2016-10-05T12:04:42+00:00
 slug: '201610051204-when-origami-walks-robot-revolution'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '783533348610277382'

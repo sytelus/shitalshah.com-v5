@@ -3,6 +3,8 @@ title: 'Basement Rocket Science: DIY Apollo Guidance Computer'
 draft: true
 date: 2013-07-22T15:15:12+00:00
 slug: '201307221515-basement-rocket-science-diy-agc'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '359225100987412483'

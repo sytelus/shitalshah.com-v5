@@ -3,6 +3,8 @@ title: 'Cutting Down to Size: One-Shot Pruning of Massive Language Models'
 draft: true
 date: 2023-01-03T16:56:34+00:00
 slug: '202301031656-cutting-down-one-shot-pruning'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1610198422233174017'

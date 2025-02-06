@@ -3,6 +3,8 @@ title: 'Unlocking μP: Optimal Scaling in Infinite Neural Networks'
 draft: true
 date: 2023-11-18T11:21:37+00:00
 slug: '202311181121-unlocking-muP-optimal-scaling'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1725715859266752652'

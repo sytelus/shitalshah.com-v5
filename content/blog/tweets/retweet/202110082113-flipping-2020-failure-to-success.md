@@ -3,6 +3,8 @@ title: 'Flipping 2020: How Failures Fueled My Success'
 draft: true
 date: 2021-10-08T21:13:56+00:00
 slug: '202110082113-flipping-2020-failure-to-success'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1446478973555277827'

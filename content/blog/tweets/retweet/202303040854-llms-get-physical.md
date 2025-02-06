@@ -3,6 +3,8 @@ title: 'LLMs Get Physical: Enhancing Robot Control with Grounded Models'
 draft: true
 date: 2023-03-04T08:54:32+00:00
 slug: '202303040854-llms-get-physical'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1631820384898285568'

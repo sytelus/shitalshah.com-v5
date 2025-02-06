@@ -3,6 +3,8 @@ title: 'O₂ and Chill: Vegas Oxygen Bars Reviewed'
 draft: true
 date: 2010-12-17T11:54:49+00:00
 slug: '201012171154-o2-and-chill-vegas'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '15615876959043584'

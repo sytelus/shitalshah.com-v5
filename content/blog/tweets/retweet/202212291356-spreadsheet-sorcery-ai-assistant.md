@@ -3,6 +3,8 @@ title: 'Spreadsheet Sorcery: Unleashing the Ultimate AI Assistant'
 draft: true
 date: 2022-12-29T13:56:08+00:00
 slug: '202212291356-spreadsheet-sorcery-ai-assistant'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1608341074518609920'

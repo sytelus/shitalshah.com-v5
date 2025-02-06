@@ -3,6 +3,8 @@ title: 'DABS: Self-Supervised Learning Without Borders'
 draft: true
 date: 2021-11-25T08:35:48+00:00
 slug: '202111250835-dabs-self-supervised-without-borders'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1463667702023610371'

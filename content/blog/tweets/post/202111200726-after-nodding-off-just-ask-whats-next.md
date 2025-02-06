@@ -3,6 +3,8 @@ title: 'After Nodding Off, Just Ask "What''s Next?"'
 draft: false
 date: 2021-11-20T07:26:07+00:00
 slug: '202111200726-after-nodding-off-just-ask-whats-next'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1461838226541330432'

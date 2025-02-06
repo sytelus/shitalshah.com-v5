@@ -3,6 +3,8 @@ title: 'Modula Modulates Neural Net Scaling'
 draft: true
 date: 2024-07-31T02:42:43+00:00
 slug: '202407310242-modula-neural-net-scaling'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1818371664914026800'

@@ -3,6 +3,8 @@ title: 'AI''s True Test: Solving Centuries-Old Math Mysteries'
 draft: true
 date: 2023-07-15T21:38:46+00:00
 slug: '202307152138-ais-true-test-solving-math'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1680225396036632582'

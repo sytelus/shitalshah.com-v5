@@ -3,6 +3,8 @@ title: 'Surya OCR Outshines Tesseract in 93 Languages'
 draft: true
 date: 2024-02-13T08:07:53+00:00
 slug: '202402130807-surya-ocr-outshines-tesseract'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1757194846350323790'

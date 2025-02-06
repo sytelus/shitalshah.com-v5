@@ -3,6 +3,8 @@ title: 'When JPEGs Go Undercover as PNGs: ImageNet''s Covert Ops'
 draft: false
 date: 2019-01-04T07:48:23+00:00
 slug: '201901040748-imagenet-jpeg-png'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1080974183578820609'

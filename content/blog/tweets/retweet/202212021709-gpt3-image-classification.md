@@ -3,6 +3,8 @@ title: 'GPT-3''s New Trick: Image Classification Unleashed'
 draft: true
 date: 2022-12-02T17:09:17+00:00
 slug: '202212021709-gpt3-image-classification'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1598605212289466368'

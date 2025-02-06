@@ -3,6 +3,8 @@ title: 'Not Apples to Apples: Uber vs Lyft Miscomparisons'
 draft: true
 date: 2024-12-09T13:54:40+00:00
 slug: '202412091354-uber-vs-lyft-miscomparisons'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1865998478335512920'

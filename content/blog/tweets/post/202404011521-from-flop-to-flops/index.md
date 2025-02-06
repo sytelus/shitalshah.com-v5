@@ -3,6 +3,8 @@ title: 'From Flop to FLOPS: Supercharging Matmul on i9'
 draft: false
 date: 2024-04-01T15:21:13+00:00
 slug: '202404011521-from-flop-to-flops'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1774713616090202537'

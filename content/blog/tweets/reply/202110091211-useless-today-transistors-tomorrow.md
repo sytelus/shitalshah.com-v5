@@ -3,6 +3,8 @@ title: 'Useless Today, Transistors Tomorrow'
 draft: true
 date: 2021-10-09T12:11:32+00:00
 slug: '202110091211-useless-today-transistors-tomorrow'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1446704862599606276'

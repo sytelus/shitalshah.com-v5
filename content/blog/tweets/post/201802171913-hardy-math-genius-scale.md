@@ -3,6 +3,8 @@ title: 'Hardy''s Math Genius Scale: He Scores 25, Ramanujan 100'
 draft: false
 date: 2018-02-17T19:13:44+00:00
 slug: '201802171913-hardy-math-genius-scale'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '964820154294059008'

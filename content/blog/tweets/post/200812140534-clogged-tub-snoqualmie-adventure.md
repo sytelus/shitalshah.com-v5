@@ -3,6 +3,8 @@ title: 'Clogged Tub Leads to Snoqualmie Adventure'
 draft: true
 date: 2008-12-14T05:34:49+00:00
 slug: '200812140534-clogged-tub-snoqualmie-adventure'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1055839118'

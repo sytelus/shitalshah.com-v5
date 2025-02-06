@@ -3,6 +3,8 @@ title: 'Boldly Start Elsewhere: Skipping Early Star Trek Episodes'
 draft: true
 date: 2019-01-17T18:03:12+00:00
 slug: '201901171803-boldly-start-elsewhere'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1085839950539456514'

@@ -3,6 +3,8 @@ title: 'Slow Carbs, Fast Results: [@Sytelus](https://x.com/Sytelus) on Tim Ferri
 draft: true
 date: 2014-10-08T14:49:39+00:00
 slug: '201410081449-slow-carbs-fast-results'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '519756493034250240'

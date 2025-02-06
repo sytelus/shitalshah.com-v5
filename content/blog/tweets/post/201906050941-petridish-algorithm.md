@@ -3,6 +3,8 @@ title: 'Petri Dishing Out Efficient Networks'
 draft: false
 date: 2019-06-05T09:41:55+00:00
 slug: '201906050941-petridish-algorithm'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1136100810654330880'

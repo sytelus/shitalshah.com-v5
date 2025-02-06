@@ -3,6 +3,8 @@ title: 'Three Monitors, One Desk: The 70x30in Solution'
 draft: false
 date: 2020-03-19T06:14:01+00:00
 slug: '202003190614-triple-monitor-desk-dimensions'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1240416197520158720'

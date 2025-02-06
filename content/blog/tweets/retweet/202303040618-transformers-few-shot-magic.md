@@ -3,6 +3,8 @@ title: 'Transformers Pull Off Few-Shot Learning Magic'
 draft: true
 date: 2023-03-04T06:18:50+00:00
 slug: '202303040618-transformers-few-shot-magic'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1631781204075909120'

@@ -3,6 +3,8 @@ title: 'Occam''s Razor Can''t Cut OOD Learning'
 draft: true
 date: 2019-12-30T15:18:30+00:00
 slug: '201912301518-occams-razor-cant-cut-ood-learning'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1211547091354308608'

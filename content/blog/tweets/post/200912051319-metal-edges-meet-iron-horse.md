@@ -3,6 +3,8 @@ title: 'Metal Edges Meet Iron Horse'
 draft: true
 date: 2009-12-05T13:19:01+00:00
 slug: '200912051319-metal-edges-meet-iron-horse'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '6361540621'

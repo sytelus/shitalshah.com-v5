@@ -3,6 +3,8 @@ title: 'Quantum ML''s Advantage: A Quantum Leap? Not Quite'
 draft: true
 date: 2021-01-08T11:33:40+00:00
 slug: '202101081133-quantum-ml-advantage-not-quite'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1347385960254812160'

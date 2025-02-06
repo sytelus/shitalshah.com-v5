@@ -3,6 +3,8 @@ title: 'Greedy Planners Give AI Bad Trips'
 draft: true
 date: 2023-07-04T16:13:05+00:00
 slug: '202307041613-greedy-planners-give-ai-bad-trips'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1676157170692546560'

@@ -3,6 +3,8 @@ title: 'Stephen Fry''s Goal: No Goals at 18'
 draft: true
 date: 2010-06-15T04:30:33+00:00
 slug: '201006150430-stephen-fry-no-goals-at-18'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '16177413694'

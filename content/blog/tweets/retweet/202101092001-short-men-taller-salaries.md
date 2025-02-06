@@ -3,6 +3,8 @@ title: 'Short Men Need Taller Salaries'
 draft: true
 date: 2021-01-09T20:01:30+00:00
 slug: '202101092001-short-men-taller-salaries'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1347876148064047110'

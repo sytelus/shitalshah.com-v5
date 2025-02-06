@@ -3,6 +3,8 @@ title: 'I Regret Nothing: Open Call for Amusing Additions'
 draft: true
 date: 2021-02-07T16:35:43+00:00
 slug: '202102071635-i-regret-nothing'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1358333608650448898'

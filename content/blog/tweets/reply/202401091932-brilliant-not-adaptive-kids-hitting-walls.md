@@ -3,6 +3,8 @@ title: 'Brilliant''s Not-So-Adaptive Lessons: Kids Hitting Walls'
 draft: true
 date: 2024-01-09T19:32:03+00:00
 slug: '202401091932-brilliant-not-adaptive-kids-hitting-walls'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1744683449624174624'

@@ -3,6 +3,8 @@ title: 'Counting Snowflakes: Distributed 64-Bit Sequential IDs'
 draft: true
 date: 2010-10-19T08:57:56+00:00
 slug: '201010190857-counting-snowflakes'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '27792454042'

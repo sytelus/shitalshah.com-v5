@@ -3,6 +3,8 @@ title: 'Seb''s Bandit Bonanza: A Decade of Optimization Favorites'
 draft: false
 date: 2019-12-30T15:44:10+00:00
 slug: '201912301544-sebs-bandit-bonanza'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1211553551131897857'

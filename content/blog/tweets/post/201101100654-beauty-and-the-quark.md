@@ -3,6 +3,8 @@ title: 'Beauty and the Quark: Gell-Mann''s Take on Physics'
 draft: true
 date: 2011-01-10T06:54:43+00:00
 slug: '201101100654-beauty-and-the-quark'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '24237663162728448'

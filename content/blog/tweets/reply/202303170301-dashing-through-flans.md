@@ -3,6 +3,8 @@ title: 'Dashing Through FLANs: Questions for Francis'
 draft: true
 date: 2023-03-17T03:01:23+00:00
 slug: '202303170301-dashing-through-flans'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1636457656339820544'

@@ -3,6 +3,8 @@ title: 'Irish Pub''s Fish Wrap Breaks the Burger Monotony'
 draft: true
 date: 2008-12-14T13:24:36+00:00
 slug: '200812141324-irish-pub-fish-wrap'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1056398825'

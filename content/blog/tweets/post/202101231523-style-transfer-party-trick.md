@@ -3,6 +3,8 @@ title: 'Style Transfer: Deep Learning''s Coolest Party Trick'
 draft: false
 date: 2021-01-23T15:23:48+00:00
 slug: '202101231523-style-transfer-party-trick'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1352879689962987520'

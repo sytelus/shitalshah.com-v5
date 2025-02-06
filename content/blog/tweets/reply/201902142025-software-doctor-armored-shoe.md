@@ -3,6 +3,8 @@ title: 'Software Doctor''s Armored Shoe Solution'
 draft: true
 date: 2019-02-14T20:25:46+00:00
 slug: '201902142025-software-doctor-armored-shoe'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1096022689569894400'

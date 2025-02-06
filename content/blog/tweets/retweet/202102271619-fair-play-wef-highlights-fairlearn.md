@@ -3,6 +3,8 @@ title: 'Fair Play: WEF Highlights AI''s FairLearn and Friends'
 draft: true
 date: 2021-02-27T16:19:02+00:00
 slug: '202102271619-fair-play-wef-highlights-fairlearn'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1365577169162838022'

@@ -3,6 +3,8 @@ title: 'Erle Robotics, Your Website Needs a Reboot!'
 draft: true
 date: 2016-04-02T04:31:32+00:00
 slug: '201604020431-erle-robotics-website-down'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '716015162805727232'

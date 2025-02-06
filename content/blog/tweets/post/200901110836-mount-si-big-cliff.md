@@ -3,6 +3,8 @@ title: 'Mount Si Hike: Big Cliff, Small Hype'
 draft: true
 date: 2009-01-11T08:36:07+00:00
 slug: '200901110836-mount-si-big-cliff'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1110024918'

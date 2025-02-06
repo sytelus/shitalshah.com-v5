@@ -3,6 +3,8 @@ title: 'Babies and Breakups: How Big Life Events Affect Happiness'
 draft: true
 date: 2019-12-02T20:19:45+00:00
 slug: '201912022019-babies-breakups-happiness'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1201476044252827650'

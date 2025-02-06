@@ -3,6 +3,8 @@ title: 'AI Miners Strike Gold: MineRL Competition Round 1 Ends at NeurIPS'
 draft: true
 date: 2021-01-08T04:56:45+00:00
 slug: '202101080456-ai-miners-strike-gold'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1347286070195458048'

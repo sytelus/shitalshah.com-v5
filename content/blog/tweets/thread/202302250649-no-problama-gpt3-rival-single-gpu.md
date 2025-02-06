@@ -3,6 +3,8 @@ title: 'No ProbLLaMA: GPT-3 Rival Runs on Single GPU'
 draft: false
 date: 2023-02-25T06:49:04+00:00
 slug: '202302250649-no-problama-gpt3-rival-single-gpu'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1629252096947023872'

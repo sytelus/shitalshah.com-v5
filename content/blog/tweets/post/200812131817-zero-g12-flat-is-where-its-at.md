@@ -3,6 +3,8 @@ title: 'Zero G12: Flat Is Where It''s At'
 draft: true
 date: 2008-12-13T18:17:36+00:00
 slug: '200812131817-zero-g12-flat-is-where-its-at'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1055096032'

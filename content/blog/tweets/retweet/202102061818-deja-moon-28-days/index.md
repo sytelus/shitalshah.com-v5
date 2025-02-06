@@ -3,6 +3,8 @@ title: 'Déjà Moon: 28 Days, Same Time, Same Place'
 draft: true
 date: 2021-02-06T18:18:21+00:00
 slug: '202102061818-deja-moon-28-days'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1357997049430511616'

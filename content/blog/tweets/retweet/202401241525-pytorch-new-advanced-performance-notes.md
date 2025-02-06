@@ -3,6 +3,8 @@ title: 'PyTorch''s New Doc on the Block: Advanced Performance Notes'
 draft: true
 date: 2024-01-24T15:25:36+00:00
 slug: '202401241525-pytorch-new-advanced-performance-notes'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1750057244006457511'

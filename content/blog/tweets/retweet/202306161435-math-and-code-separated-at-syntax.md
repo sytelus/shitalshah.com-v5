@@ -3,6 +3,8 @@ title: 'Math and Code: Separated at Syntax'
 draft: true
 date: 2023-06-16T14:35:04+00:00
 slug: '202306161435-math-and-code-separated-at-syntax'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1669609521080340481'

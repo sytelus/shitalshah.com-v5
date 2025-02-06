@@ -3,6 +3,8 @@ title: 'Science Impostors: Fields That Aren''t Science'
 draft: true
 date: 2024-11-27T02:36:24+00:00
 slug: '202411270236-science-impostors'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1861479133412499855'

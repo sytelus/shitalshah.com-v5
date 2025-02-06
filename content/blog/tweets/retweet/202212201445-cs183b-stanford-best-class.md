@@ -3,6 +3,8 @@ title: 'CS183B: The Class That Might Be Stanford''s All-Time Best'
 draft: true
 date: 2022-12-20T14:45:34+00:00
 slug: '202212201445-cs183b-stanford-best-class'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1605092023870296064'

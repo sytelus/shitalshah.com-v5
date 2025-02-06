@@ -3,6 +3,8 @@ title: 'Hold Your Shorts: Reasons Not to Short 30-Year T-Bills'
 draft: true
 date: 2008-12-19T17:44:01+00:00
 slug: '200812191744-hold-your-shorts-30-year-tbills'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1066782218'

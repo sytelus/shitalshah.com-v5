@@ -3,6 +3,8 @@ title: 'Neural Architecture Search: Slimming Down AI Models Efficiently'
 draft: true
 date: 2022-10-14T10:23:01+00:00
 slug: '202210141023-neural-architecture-search-slimming-ai'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1580761064635265024'

@@ -3,6 +3,8 @@ title: 'Byte-sized Transformers: No Token Required'
 draft: true
 date: 2023-06-02T13:09:03+00:00
 slug: '202306021309-byte-sized-transformers-no-token-required'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1664514444435808262'

@@ -3,6 +3,8 @@ title: 'Band-Aids vs Proofs: Industry vs Academia'
 draft: true
 date: 2019-02-05T07:24:14+00:00
 slug: '201902050724-bandaids-vs-proofs-industry-vs-academia'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1092564519065276416'

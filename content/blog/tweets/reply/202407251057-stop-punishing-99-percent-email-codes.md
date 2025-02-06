@@ -3,6 +3,8 @@ title: 'Stop Punishing the 99% with Endless Email Codes'
 draft: true
 date: 2024-07-25T10:57:06+00:00
 slug: '202407251057-stop-punishing-99-percent-email-codes'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1816321756342456448'

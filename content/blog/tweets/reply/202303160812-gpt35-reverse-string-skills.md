@@ -3,6 +3,8 @@ title: 'Surprise! GPT-3.5 Already Had Reverse String Skills'
 draft: true
 date: 2023-03-16T08:12:19+00:00
 slug: '202303160812-gpt35-reverse-string-skills'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1636173515757096967'

@@ -3,6 +3,8 @@ title: 'The Night Shift: Scientists'' Creative Thinking Tools'
 draft: true
 date: 2023-02-28T17:24:39+00:00
 slug: '202302281724-the-night-shift-scientists-creative-thinking-tools'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1630499210092244993'

@@ -3,6 +3,8 @@ title: 'Going GPU at GTC: My Epic Panel Debut'
 draft: false
 date: 2018-03-24T16:43:17+00:00
 slug: '201803241643-going-gpu-gtc-epic-panel'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '977480965885849600'

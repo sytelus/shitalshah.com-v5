@@ -3,6 +3,8 @@ title: 'Long-Lived Proteins: Unlocking the Secrets of Aging Cells'
 draft: true
 date: 2012-02-09T02:40:12+00:00
 slug: '201202090240-long-lived-proteins-aging'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '167316817289809921'

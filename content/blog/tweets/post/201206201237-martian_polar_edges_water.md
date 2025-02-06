@@ -3,6 +3,8 @@ title: 'Martian Polar Edges: The Untapped Water Frontier'
 draft: true
 date: 2012-06-20T12:37:33+00:00
 slug: '201206201237-martian_polar_edges_water'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '215317442770112512'

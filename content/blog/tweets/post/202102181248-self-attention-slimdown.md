@@ -3,6 +3,8 @@ title: 'Self-Attention Slimdown: From O(N²) to O(N·M), But Is It Worth It?'
 draft: false
 date: 2021-02-18T12:48:27+00:00
 slug: '202102181248-self-attention-slimdown'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1362262679457464322'

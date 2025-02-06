@@ -3,6 +3,8 @@ title: 'Roping in Savings: 25% Off Mammut Rope at REI'
 draft: true
 date: 2010-05-31T15:48:22+00:00
 slug: '201005311548-mammut-rope-deal'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '15095562514'

@@ -3,6 +3,8 @@ title: 'EpochAI''s Secret Data for Big Claims?'
 draft: true
 date: 2024-11-09T05:48:14+00:00
 slug: '202411090548-epochai-secret-data-big-claims'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1855004428191088976'

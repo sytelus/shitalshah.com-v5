@@ -3,6 +3,8 @@ title: 'All Hustle, No Research: Why Frontier AI Orgs Fail'
 draft: true
 date: 2024-12-29T19:20:16+00:00
 slug: '202412291920-all-hustle-no-research'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1873328173930496084'

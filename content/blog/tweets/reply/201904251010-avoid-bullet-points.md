@@ -3,6 +3,8 @@ title: 'Avoid Bullet Points (In Bullet Points)'
 draft: true
 date: 2019-04-25T10:10:41+00:00
 slug: '201904251010-avoid-bullet-points'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1121250145033605121'

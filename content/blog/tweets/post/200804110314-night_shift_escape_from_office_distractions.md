@@ -3,6 +3,8 @@ title: 'Night Shift Escape from Office Distractions'
 draft: true
 date: 2008-04-11T03:14:00+00:00
 slug: '200804110314-night_shift_escape_from_office_distractions'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '786701801'

@@ -3,6 +3,8 @@ title: 'Meta''s MultiRay Shines Light on Efficient AI'
 draft: true
 date: 2022-11-19T09:24:09+00:00
 slug: '202211190924-meta-multiray-efficient-ai'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1593777113630642176'

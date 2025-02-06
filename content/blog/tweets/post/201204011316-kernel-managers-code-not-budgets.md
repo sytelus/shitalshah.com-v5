@@ -3,6 +3,8 @@ title: 'Kernel Managers: Code, Not Budgets'
 draft: true
 date: 2012-04-01T13:16:11+00:00
 slug: '201204011316-kernel-managers-code-not-budgets'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '186336137500037121'

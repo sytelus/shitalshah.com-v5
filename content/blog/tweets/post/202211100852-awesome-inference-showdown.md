@@ -3,6 +3,8 @@ title: 'Who''s the Fastest? The Awesome-Inference Showdown Begins'
 draft: false
 date: 2022-11-10T08:52:52+00:00
 slug: '202211100852-awesome-inference-showdown'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1590507752161710081'

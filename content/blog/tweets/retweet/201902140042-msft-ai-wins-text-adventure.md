@@ -3,6 +3,8 @@ title: 'Go North to Victory: Microsoft AI Wins Text Adventure Competition'
 draft: true
 date: 2019-02-14T00:42:57+00:00
 slug: '201902140042-msft-ai-wins-text-adventure'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1095725021618626560'

@@ -3,6 +3,8 @@ title: 'Hollywood''s Math Moments: Lights, Camera, Algebra!'
 draft: true
 date: 2013-10-14T05:09:17+00:00
 slug: '201310140509-hollywoods-math-moments'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '389513195661950977'

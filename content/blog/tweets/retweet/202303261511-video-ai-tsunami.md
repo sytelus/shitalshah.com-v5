@@ -3,6 +3,8 @@ title: 'Video AI Tsunami: 5 New Models Released This Week'
 draft: true
 date: 2023-03-26T15:11:27+00:00
 slug: '202303261511-video-ai-tsunami'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1639902873193709569'

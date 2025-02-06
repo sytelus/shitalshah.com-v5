@@ -3,6 +3,8 @@ title: 'data2vec 2.0: Vision Pre-training at Warp Speed'
 draft: true
 date: 2022-12-14T15:03:43+00:00
 slug: '202212141503-data2vec-2-0-warp-speed'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1602922265687228416'

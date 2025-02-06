@@ -3,6 +3,8 @@ title: 'AI Explains Humans to Themselves'
 draft: true
 date: 2024-11-29T10:27:48+00:00
 slug: '202411291027-ai-explains-humans'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1862322541739876758'

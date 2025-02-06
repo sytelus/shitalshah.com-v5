@@ -3,6 +3,8 @@ title: 'A Byte-Sized Guide to Mind-Blowing Data Scales'
 draft: false
 date: 2023-01-24T19:46:37+00:00
 slug: '202301241946-byte-sized-data-scales'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1617851359663124480'

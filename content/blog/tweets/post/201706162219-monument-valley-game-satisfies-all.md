@@ -3,6 +3,8 @@ title: 'Monument Valley: The Game That Satisfies All'
 draft: true
 date: 2017-06-16T22:19:38+00:00
 slug: '201706162219-monument-valley-game-satisfies-all'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '875734621719113729'

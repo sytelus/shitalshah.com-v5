@@ -3,6 +3,8 @@ title: 'Code Speaks Louder Than Slides: My Live Jupyter Talk'
 draft: false
 date: 2019-03-08T06:55:23+00:00
 slug: '201903080655-code-speaks-louder-than-slides'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1103791281828818945'

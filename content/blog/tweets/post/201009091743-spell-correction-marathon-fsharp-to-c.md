@@ -3,6 +3,8 @@ title: 'Spell Correction Marathon: From F# Sprint to C Crawl'
 draft: true
 date: 2010-09-09T17:43:17+00:00
 slug: '201009091743-spell-correction-marathon-fsharp-to-c'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '23998372120'

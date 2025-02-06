@@ -3,6 +3,8 @@ title: 'Guess Who? GPT-3 Takes on 20 Questions'
 draft: true
 date: 2022-12-01T04:59:00+00:00
 slug: '202212010459-gpt3-takes-on-20-questions'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1598059040659353600'

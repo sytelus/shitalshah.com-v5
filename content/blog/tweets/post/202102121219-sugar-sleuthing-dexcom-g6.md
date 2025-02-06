@@ -3,6 +3,8 @@ title: 'Sugar Sleuthing: Dexcom G6 Busts Diet Myths'
 draft: false
 date: 2021-02-12T12:19:34+00:00
 slug: '202102121219-sugar-sleuthing-dexcom-g6'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1360081083455336448'

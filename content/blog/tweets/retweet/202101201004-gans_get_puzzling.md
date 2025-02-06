@@ -3,6 +3,8 @@ title: 'GANs Get Puzzling: JigsawGAN Solves Jigsaws'
 draft: true
 date: 2021-01-20T10:04:46+00:00
 slug: '202101201004-gans_get_puzzling'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1351712241834291200'

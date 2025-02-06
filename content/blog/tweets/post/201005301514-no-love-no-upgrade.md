@@ -3,6 +3,8 @@ title: 'No Love, No Upgrade: Crossing the Passion Boundary'
 draft: true
 date: 2010-05-30T15:14:23+00:00
 slug: '201005301514-no-love-no-upgrade'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '15028948636'

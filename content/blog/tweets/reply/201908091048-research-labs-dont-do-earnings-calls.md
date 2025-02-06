@@ -3,6 +3,8 @@ title: 'Research Labs Don''t Do Earnings Calls'
 draft: true
 date: 2019-08-09T10:48:43+00:00
 slug: '201908091048-research-labs-dont-do-earnings-calls'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1159672832747458560'

@@ -3,6 +3,8 @@ title: 'Paradoxical ICCV Review: Not New but Never Done'
 draft: true
 date: 2022-01-08T05:08:45+00:00
 slug: '202201080508-paradoxical_iccv_review'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1479560660849623041'

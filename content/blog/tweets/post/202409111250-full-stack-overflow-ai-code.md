@@ -3,6 +3,8 @@ title: 'Full Stack Overflow: Why AI Code Generators Aren''t There Yet'
 draft: false
 date: 2024-09-11T12:50:34+00:00
 slug: '202409111250-full-stack-overflow-ai-code'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1833744924912878029'

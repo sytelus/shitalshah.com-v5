@@ -3,6 +3,8 @@ title: 'Prove Anything with Inconsistency: Gödel vs Graham'
 draft: false
 date: 2021-02-08T19:07:36+00:00
 slug: '202102081907-godel-vs-graham'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1358734217190932483'

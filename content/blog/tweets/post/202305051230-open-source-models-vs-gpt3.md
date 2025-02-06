@@ -3,6 +3,8 @@ title: 'When Open Source Models Think They''re GPT-3'
 draft: false
 date: 2023-05-05T12:30:14+00:00
 slug: '202305051230-open-source-models-vs-gpt3'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1654357815060992003'

@@ -3,6 +3,8 @@ title: 'Robust Opportunities: Internships in Vision and Language'
 draft: true
 date: 2021-10-28T06:22:05+00:00
 slug: '202110280622-vision-language-internships-asi'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1453502291122683905'

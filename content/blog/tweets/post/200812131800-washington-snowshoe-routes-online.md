@@ -3,6 +3,8 @@ title: 'Snow way! Washington''s Snowshoe Routes Rated Online'
 draft: true
 date: 2008-12-13T18:00:37+00:00
 slug: '200812131800-washington-snowshoe-routes-online'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1055085396'

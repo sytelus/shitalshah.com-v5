@@ -3,6 +3,8 @@ title: 'Training GPT-2 124M: Four Epochs and 33 Billion Tokens Walk Into a Bar'
 draft: true
 date: 2024-05-29T15:59:40+00:00
 slug: '202405291559-training-gpt2-124m-four-epochs-33b-tokens'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1795741788839477377'

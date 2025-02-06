@@ -3,6 +3,8 @@ title: 'Learning Rates Without Fortune Telling'
 draft: false
 date: 2023-08-06T16:27:44+00:00
 slug: '202308061627-learning-rates-without-fortune-telling'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1688119658266890240'

@@ -3,6 +3,8 @@ title: 'Blame the Extensions: VSCode''s Cursor Magic Unleashed'
 draft: true
 date: 2024-11-24T07:32:02+00:00
 slug: '202411240732-blame-the-extensions-vscode-cursor-magic'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1860466367264428482'

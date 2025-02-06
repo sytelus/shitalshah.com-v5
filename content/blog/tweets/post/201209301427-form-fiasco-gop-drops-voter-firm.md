@@ -3,6 +3,8 @@ title: 'Form Fiasco: GOP Drops Voter Firm'
 draft: true
 date: 2012-09-30T14:27:48+00:00
 slug: '201209301427-form-fiasco-gop-drops-voter-firm'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '252308749409210368'

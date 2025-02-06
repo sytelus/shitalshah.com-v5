@@ -3,6 +3,8 @@ title: 'Abra-Code-Dabra: Spell Checker in 21 Lines'
 draft: true
 date: 2010-08-25T14:13:09+00:00
 slug: '201008251413-abra-code-dabra-spell-checker-21-lines'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '22069257757'

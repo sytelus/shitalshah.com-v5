@@ -3,6 +3,8 @@ title: 'Bottling India''s Spiritual Wealth: 100ml for $2'
 draft: true
 date: 2014-03-13T10:39:46+00:00
 slug: '201403131039-bottling-indias-spiritual-wealth'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '443954543085096960'

@@ -3,6 +3,8 @@ title: 'Diffusing Confusion: ImageNet''s Compression Conundrum'
 draft: true
 date: 2023-08-30T04:21:12+00:00
 slug: '202308300421-diffusing-imagenet-compression'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1696634125803982963'

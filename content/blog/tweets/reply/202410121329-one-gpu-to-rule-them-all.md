@@ -3,6 +3,8 @@ title: 'One GPU to Rule Them All: Budget Builds for Enterprise Devs'
 draft: true
 date: 2024-10-12T13:29:17+00:00
 slug: '202410121329-one-gpu-to-rule-them-all'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1844988692710162631'

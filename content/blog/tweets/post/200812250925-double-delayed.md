@@ -3,6 +3,8 @@ title: 'Double Delayed: Maintenance Fixes and Tardy Travelers'
 draft: true
 date: 2008-12-25T09:25:53+00:00
 slug: '200812250925-double-delayed'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1077259080'

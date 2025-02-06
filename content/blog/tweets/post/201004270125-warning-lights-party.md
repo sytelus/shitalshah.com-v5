@@ -3,6 +3,8 @@ title: 'When Warning Lights Throw a Party'
 draft: true
 date: 2010-04-27T01:25:05+00:00
 slug: '201004270125-warning-lights-party'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '12897416528'

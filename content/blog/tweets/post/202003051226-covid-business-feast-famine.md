@@ -3,6 +3,8 @@ title: 'Empty Tables, Full Carts: COVID''s Business Feast and Famine'
 draft: false
 date: 2020-03-05T12:26:08+00:00
 slug: '202003051226-covid-business-feast-famine'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1235421312094363648'

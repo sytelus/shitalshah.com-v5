@@ -3,6 +3,8 @@ title: 'Convolutions Out, Self-Attention In: Vision''s New Focus'
 draft: true
 date: 2021-03-18T16:57:26+00:00
 slug: '202103181657-self-attention-replaces-convolutions'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1372487301046042625'

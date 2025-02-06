@@ -3,6 +3,8 @@ title: 'Forward Thinking: MeZO''s Backprop-Free LLM Tuning'
 draft: true
 date: 2023-06-08T08:17:21+00:00
 slug: '202306080817-mezo-backprop-free-llm-tuning'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1666615363243737088'

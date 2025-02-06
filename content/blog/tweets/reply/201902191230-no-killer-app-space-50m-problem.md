@@ -3,6 +3,8 @@ title: 'No Killer App, No Investment: Space''s $50M Problem'
 draft: true
 date: 2019-02-19T12:30:01+00:00
 slug: '201902191230-no-killer-app-space-50m-problem'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1097714899269050368'

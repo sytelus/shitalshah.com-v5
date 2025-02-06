@@ -3,6 +3,8 @@ title: 'Very Very Very Very Very Cool AI Paper!'
 draft: true
 date: 2022-07-17T22:40:35+00:00
 slug: '202207172240-very-cool-ai-paper'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1548694160948858885'

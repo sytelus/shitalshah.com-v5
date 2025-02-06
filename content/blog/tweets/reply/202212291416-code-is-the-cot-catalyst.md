@@ -3,6 +3,8 @@ title: 'Code is the CoT Catalyst'
 draft: true
 date: 2022-12-29T14:16:48+00:00
 slug: '202212291416-code-is-the-cot-catalyst'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1608346275669479424'

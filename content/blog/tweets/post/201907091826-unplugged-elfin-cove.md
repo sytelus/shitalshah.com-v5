@@ -3,6 +3,8 @@ title: 'Elfin Cove: Unplug and Play'
 draft: false
 date: 2019-07-09T18:26:22+00:00
 slug: '201907091826-unplugged-elfin-cove'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1148553979267309568'

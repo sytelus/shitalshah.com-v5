@@ -3,6 +3,8 @@ title: 'Quantize Me This: Intel Neural Compressor Queries'
 draft: true
 date: 2023-03-18T12:33:43+00:00
 slug: '202303181233-quantize-me-this'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1636964073777819649'

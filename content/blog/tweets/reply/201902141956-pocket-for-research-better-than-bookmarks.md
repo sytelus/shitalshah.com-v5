@@ -3,6 +3,8 @@ title: 'Pocket for Research: Better Than Bookmarks (But Buggy on iPads)'
 draft: true
 date: 2019-02-14T19:56:33+00:00
 slug: '201902141956-pocket-for-research-better-than-bookmarks'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1096015336908849155'

@@ -3,6 +3,8 @@ title: 'PhD Interviews: Where Dreams Meet Data Entry'
 draft: true
 date: 2023-01-17T16:34:29+00:00
 slug: '202301171634-phd-dreams-vs-reality'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1615266295762808833'

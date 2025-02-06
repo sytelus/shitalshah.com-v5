@@ -3,6 +3,8 @@ title: 'Breaking Down Transformers: SVD Knows Best'
 draft: true
 date: 2022-11-30T17:57:25+00:00
 slug: '202211301757-transformer-svd-insights'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1597892548252794881'

@@ -3,6 +3,8 @@ title: 'Chill Out Your LLM: Quick Temperature Tuning for Calibration'
 draft: false
 date: 2023-04-12T06:00:03+00:00
 slug: '202304120600-chill-out-llm-temperature-tuning'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1645924700395126785'

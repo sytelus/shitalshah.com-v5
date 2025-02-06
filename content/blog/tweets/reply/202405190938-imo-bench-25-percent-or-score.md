@@ -3,6 +3,8 @@ title: 'IMO-bench Mystery: Is ''25'' a Percent or a Score?'
 draft: true
 date: 2024-05-19T09:38:09+00:00
 slug: '202405190938-imo-bench-25-percent-or-score'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1792021900010598473'

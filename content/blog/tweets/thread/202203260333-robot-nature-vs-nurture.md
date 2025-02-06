@@ -3,6 +3,8 @@ title: 'A Robot Walks into Nature vs. Nurture Debate'
 draft: false
 date: 2022-03-26T03:33:18+00:00
 slug: '202203260333-robot-nature-vs-nurture'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1507455605211947011'

@@ -3,6 +3,8 @@ title: 'Morley''s Miracle: An Equilateral Hidden in Every Triangle'
 draft: true
 date: 2021-05-23T08:33:06+00:00
 slug: '202105230833-morleys-miracle-equilateral'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1396277979781554176'

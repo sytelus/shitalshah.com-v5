@@ -3,6 +3,8 @@ title: 'Confucius Goes to Harvard'
 draft: true
 date: 2014-01-18T04:36:04+00:00
 slug: '201401180436-confucius-goes-to-harvard'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '424278970775789569'

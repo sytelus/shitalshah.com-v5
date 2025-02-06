@@ -3,6 +3,8 @@ title: 'Mini Transformer Masters Mega Multiplications'
 draft: true
 date: 2023-11-30T15:35:35+00:00
 slug: '202311301535-mini-transformer-mega-multiplications'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1730128427469177332'

@@ -3,6 +3,8 @@ title: 'Transformers: More Than Meets the BLEU Score'
 draft: false
 date: 2023-03-25T11:31:50+00:00
 slug: '202303251131-transformers-more-than-meets-the-bleu-score'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1639485217516957698'

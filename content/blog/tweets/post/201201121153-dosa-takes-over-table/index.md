@@ -3,6 +3,8 @@ title: 'When Your Dosa Takes Over the Table'
 draft: true
 date: 2012-01-12T11:53:49+00:00
 slug: '201201121153-dosa-takes-over-table'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '157309270747123715'

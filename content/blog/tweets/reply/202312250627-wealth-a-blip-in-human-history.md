@@ -3,6 +3,8 @@ title: 'Wealth: A Blip in Human History'
 draft: true
 date: 2023-12-25T06:27:30+00:00
 slug: '202312250627-wealth-a-blip-in-human-history'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1739050190966079913'

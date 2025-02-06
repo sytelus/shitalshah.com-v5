@@ -3,6 +3,8 @@ title: 'Money: Your Labor IOU'
 draft: true
 date: 2009-03-24T15:28:06+00:00
 slug: '200903241528-money-your-labor-iou'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1380744819'

@@ -3,6 +3,8 @@ title: 'Open to All: Public ML Seminars'
 draft: true
 date: 2020-11-24T10:25:44+00:00
 slug: '202011241025-open-to-all-public-ml-seminars'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1331061410713927683'

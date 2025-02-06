@@ -3,6 +3,8 @@ title: 'Square Dance: Mental Gymnastics for Squaring 2-Digits'
 draft: true
 date: 2022-06-07T04:55:20+00:00
 slug: '202206070455-square-dance-squaring-2-digits'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1533930564197068800'

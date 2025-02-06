@@ -3,6 +3,8 @@ title: 'String Theory Unraveled: How Two Books Killed My Interest'
 draft: true
 date: 2023-07-11T16:43:33+00:00
 slug: '202307111643-string-theory-unraveled'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1678701554159980544'

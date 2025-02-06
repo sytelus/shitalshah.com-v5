@@ -3,6 +3,8 @@ title: 'Rocking with Riffusion: Real-Time AI Music'
 draft: true
 date: 2022-12-16T00:19:37+00:00
 slug: '202212160019-riffusion-ai-music'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1603424549684805632'

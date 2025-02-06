@@ -3,6 +3,8 @@ title: 'Robots Get Schooled: Keerthan''s Talk on Foundation Models'
 draft: true
 date: 2023-03-04T10:15:33+00:00
 slug: '202303041015-robots-get-schooled'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1631840773418397696'

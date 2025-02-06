@@ -3,6 +3,8 @@ title: 'Magic is Just Hard Work in Disguise'
 draft: true
 date: 2013-04-09T09:05:57+00:00
 slug: '201304090905-magic-hard-work-disguise'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '321443837753061377'

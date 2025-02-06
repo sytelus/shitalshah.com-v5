@@ -3,6 +3,8 @@ title: 'Neural Nets'' Secret Sauce: How They Digest Training Data'
 draft: true
 date: 2023-01-06T12:47:47+00:00
 slug: '202301061247-neural-nets-secret-sauce'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1611222978905387009'

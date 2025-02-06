@@ -3,6 +3,8 @@ title: 'Movies, Memes, and Navratri Dreams'
 draft: true
 date: 2010-10-10T06:57:50+00:00
 slug: '201010100657-movies-memes-navratri-dreams'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '26887343145'

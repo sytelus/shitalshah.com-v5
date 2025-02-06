@@ -3,6 +3,8 @@ title: 'When Face Recognition Fails, Gait Prevails'
 draft: true
 date: 2021-03-07T15:45:56+00:00
 slug: '202103071545-gait-hard-to-fake'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1368467940069154827'

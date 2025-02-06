@@ -3,6 +3,8 @@ title: 'One Batch Wonders and Learning Rate Mysteries'
 draft: true
 date: 2021-02-13T19:32:01+00:00
 slug: '202102131932-batch-lr-questions'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1360552302529048576'

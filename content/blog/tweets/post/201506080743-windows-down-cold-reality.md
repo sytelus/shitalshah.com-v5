@@ -3,6 +3,8 @@ title: 'Windows Down, Cold Reality'
 draft: true
 date: 2015-06-08T07:43:21+00:00
 slug: '201506080743-windows-down-cold-reality'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '607709461961187329'

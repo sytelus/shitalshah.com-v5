@@ -3,6 +3,8 @@ title: 'Rich Buys Things; Wealth Buys Time'
 draft: false
 date: 2021-02-11T09:18:05+00:00
 slug: '202102110918-rich-buys-things-wealth-buys-time'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1359673026963333124'

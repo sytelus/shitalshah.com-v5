@@ -3,6 +3,8 @@ title: 'Dopamine Overdrive: Welcome to Virtual La La Land'
 draft: false
 date: 2020-12-19T08:27:29+00:00
 slug: '202012190827-dopamine-overdrive-la-la-land'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1340091345751326720'

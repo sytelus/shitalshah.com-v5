@@ -3,6 +3,8 @@ title: 'Emigrants'' Spidey Sense Tingling'
 draft: true
 date: 2021-03-04T11:44:35+00:00
 slug: '202103041144-emigrants-spidey-sense'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1367320038529589248'

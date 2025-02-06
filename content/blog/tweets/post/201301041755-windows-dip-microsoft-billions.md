@@ -3,6 +3,8 @@ title: 'Windows Takes a Dive While Microsoft''s Billions Thrive'
 draft: true
 date: 2013-01-04T17:55:01+00:00
 slug: '201301041755-windows-dip-microsoft-billions'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '287135033825837056'

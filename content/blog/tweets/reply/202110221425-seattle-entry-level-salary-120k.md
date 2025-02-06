@@ -3,6 +3,8 @@ title: 'Rainy with a Chance of $120k: Seattle''s Entry-Level Salaries'
 draft: true
 date: 2021-10-22T14:25:45+00:00
 slug: '202110221425-seattle-entry-level-salary-120k'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1451449681519599623'

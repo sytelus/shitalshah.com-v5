@@ -3,6 +3,8 @@ title: 'Museum-Quality Code: Beautiful but Slow'
 draft: true
 date: 2009-09-29T03:24:30+00:00
 slug: '200909290324-museum-quality-code'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '4451714142'

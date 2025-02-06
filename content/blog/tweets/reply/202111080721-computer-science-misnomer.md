@@ -3,6 +3,8 @@ title: 'Computer Science: Not About Computers or Science?'
 draft: true
 date: 2021-11-08T07:21:51+00:00
 slug: '202111080721-computer-science-misnomer'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1457488498995318787'

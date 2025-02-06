@@ -3,6 +3,8 @@ title: 'Entrepreneurs vs. Startup Founders: Spot the Difference'
 draft: true
 date: 2021-01-18T11:21:22+00:00
 slug: '202101181121-entrepreneurs-vs-startup-founders'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1351006740343648264'

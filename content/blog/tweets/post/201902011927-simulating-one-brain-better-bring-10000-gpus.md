@@ -3,6 +3,8 @@ title: 'Simulating One Brain? Better Bring 10,000 GPUs'
 draft: false
 date: 2019-02-01T19:27:16+00:00
 slug: '201902011927-simulating-one-brain-better-bring-10000-gpus'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1091296922025906176'

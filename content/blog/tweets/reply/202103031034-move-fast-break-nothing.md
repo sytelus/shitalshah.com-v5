@@ -3,6 +3,8 @@ title: 'Move Fast and Break Nothing'
 draft: true
 date: 2021-03-03T10:34:55+00:00
 slug: '202103031034-move-fast-break-nothing'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1366940117319880704'

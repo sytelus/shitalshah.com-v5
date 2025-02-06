@@ -3,6 +3,8 @@ title: 'When Bots Need Bots: My Comcast Chatbot Saga'
 draft: false
 date: 2019-11-14T11:33:28+00:00
 slug: '201911141133-when-bots-need-bots'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1194820617729523712'

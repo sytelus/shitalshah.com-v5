@@ -3,6 +3,8 @@ title: 'Microsoft''s X-Shaped Quest for More Windows'
 draft: true
 date: 2010-01-23T21:12:32+00:00
 slug: '201001232112-x-shaped-microsoft-buildings'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '8110163776'

@@ -3,6 +3,8 @@ title: 'GPT-4 Passes Hinton''s Paint Puzzle; Bard Falls Short'
 draft: false
 date: 2023-05-12T12:01:45+00:00
 slug: '202305121201-gpt4-passes-hinton-paint-puzzle'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1656887361756860416'

@@ -3,6 +3,8 @@ title: 'Reliably Unrobust: The State of Computer Code'
 draft: false
 date: 2020-09-02T03:33:33+00:00
 slug: '202009020333-reliably_unrobust_code'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1300894586395455488'

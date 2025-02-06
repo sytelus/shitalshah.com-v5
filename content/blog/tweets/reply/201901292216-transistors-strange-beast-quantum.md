@@ -3,6 +3,8 @@ title: 'Transistors: A Strange Beast Tamed by Quantum Mechanics'
 draft: true
 date: 2019-01-29T22:16:47+00:00
 slug: '201901292216-transistors-strange-beast-quantum'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1090252421333344261'

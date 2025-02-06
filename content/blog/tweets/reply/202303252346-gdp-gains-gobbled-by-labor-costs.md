@@ -3,6 +3,8 @@ title: 'GDP Gains Gobbled by Labor Costs'
 draft: true
 date: 2023-03-25T23:46:15+00:00
 slug: '202303252346-gdp-gains-gobbled-by-labor-costs'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1639670040093167616'

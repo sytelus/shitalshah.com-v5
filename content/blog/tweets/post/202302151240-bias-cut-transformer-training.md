@@ -3,6 +3,8 @@ title: 'Bias Cut: Tailoring Transformers for Faster Training'
 draft: false
 date: 2023-02-15T12:40:41+00:00
 slug: '202302151240-bias-cut-transformer-training'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1625716705115906049'

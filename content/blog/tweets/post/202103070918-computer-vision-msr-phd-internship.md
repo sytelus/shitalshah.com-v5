@@ -3,6 +3,8 @@ title: 'Computer Visionaries Wanted: MSR Internship for PhDs'
 draft: false
 date: 2021-03-07T09:18:06+00:00
 slug: '202103070918-computer-vision-msr-phd-internship'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1368370339705548800'

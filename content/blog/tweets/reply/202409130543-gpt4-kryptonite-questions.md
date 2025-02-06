@@ -3,6 +3,8 @@ title: 'GPT-4''s Kryptonite: The Zero-Score Questions'
 draft: true
 date: 2024-09-13T05:43:00+00:00
 slug: '202409130543-gpt4-kryptonite-questions'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1834362101038727279'

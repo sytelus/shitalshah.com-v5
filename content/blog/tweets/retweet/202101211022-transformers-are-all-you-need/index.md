@@ -3,6 +3,8 @@ title: 'Transformers Are All You Need'
 draft: true
 date: 2021-01-21T10:22:34+00:00
 slug: '202101211022-transformers-are-all-you-need'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1352079109761888258'

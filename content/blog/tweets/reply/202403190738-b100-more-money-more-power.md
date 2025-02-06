@@ -3,6 +3,8 @@ title: 'B100: More Money, More Power?'
 draft: true
 date: 2024-03-19T07:38:32+00:00
 slug: '202403190738-b100-more-money-more-power'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1769886134757405040'

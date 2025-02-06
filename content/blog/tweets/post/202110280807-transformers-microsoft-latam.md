@@ -3,6 +3,8 @@ title: 'Transformers Assemble: Research Engineers Needed at Microsoft LATAM'
 draft: false
 date: 2021-10-28T08:07:23+00:00
 slug: '202110280807-transformers-microsoft-latam'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1453528789003034625'

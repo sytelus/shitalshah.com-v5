@@ -3,6 +3,8 @@ title: 'Llama3 Leaps Ahead with Data Alone'
 draft: false
 date: 2024-04-19T14:25:10+00:00
 slug: '202404191425-llama3-leaps-ahead'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1781222492910346479'

@@ -3,6 +3,8 @@ title: 'Probing the Progress: How Researchers Measure Language Models'
 draft: true
 date: 2022-09-29T10:19:40+00:00
 slug: '202209291019-probing-language-models-progress'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1575324401792208899'

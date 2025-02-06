@@ -3,6 +3,8 @@ title: 'Give Your RL Models a Boost with ResNeSt'
 draft: false
 date: 2020-12-18T17:27:09+00:00
 slug: '202012181727-boost-rl-with-resnest'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1339864772720783361'

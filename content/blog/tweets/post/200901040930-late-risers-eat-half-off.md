@@ -3,6 +3,8 @@ title: 'The Early Bird Gets Full Price, Late Risers Eat Half-Off'
 draft: true
 date: 2009-01-04T09:30:29+00:00
 slug: '200901040930-late-risers-eat-half-off'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1094370499'

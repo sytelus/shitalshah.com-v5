@@ -3,6 +3,8 @@ title: 'Free Lunch? You''re on the Menu'
 draft: true
 date: 2012-02-29T10:04:04+00:00
 slug: '201202291004-free-lunch-youre-on-the-menu'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '174676276039262208'

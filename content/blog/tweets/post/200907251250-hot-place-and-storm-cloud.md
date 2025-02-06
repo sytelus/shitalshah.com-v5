@@ -3,6 +3,8 @@ title: 'Between a Hot Place and a Storm Cloud'
 draft: true
 date: 2009-07-25T12:50:55+00:00
 slug: '200907251250-hot-place-and-storm-cloud'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '2833460739'

@@ -3,6 +3,8 @@ title: 'Old Dogs, New Tech: The Innovator''s Dilemma'
 draft: false
 date: 2022-12-14T14:37:24+00:00
 slug: '202212141437-old-dogs-new-tech'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1602915640834420736'

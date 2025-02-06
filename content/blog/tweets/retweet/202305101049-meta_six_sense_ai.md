@@ -3,6 +3,8 @@ title: 'Meta''s Six-Sense AI: A Multimodal Marvel'
 draft: true
 date: 2023-05-10T10:49:36+00:00
 slug: '202305101049-meta_six_sense_ai'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1656144429860913152'

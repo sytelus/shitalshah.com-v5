@@ -3,6 +3,8 @@ title: 'Embeddings Unveiled: No More Struggles with OpenAI'
 draft: true
 date: 2022-12-17T17:56:17+00:00
 slug: '202212171756-embeddings-unveiled-openai'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1604052855140552704'

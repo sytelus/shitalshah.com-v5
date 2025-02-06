@@ -3,6 +3,8 @@ title: 'Push Button, Get Drone: Amazon''s Prime Air Takes Off'
 draft: false
 date: 2019-06-08T18:04:00+00:00
 slug: '201906081804-push-button-get-drone'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1137314328351105025'

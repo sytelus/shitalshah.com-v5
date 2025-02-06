@@ -3,6 +3,8 @@ title: 'Help Wanted: The Great Post-COVID Hide-and-Seek of Workers'
 draft: false
 date: 2021-09-11T08:09:32+00:00
 slug: '202109110809-help-wanted-great-post-covid-hide-and-seek'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1436497101425315841'

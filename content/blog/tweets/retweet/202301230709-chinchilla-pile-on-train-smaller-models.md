@@ -3,6 +3,8 @@ title: 'Chinchilla Pile-On: Debating ''Train Smaller Models Longer'
 draft: true
 date: 2023-01-23T07:09:03+00:00
 slug: '202301230709-chinchilla-pile-on-train-smaller-models'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1617298325392482308'

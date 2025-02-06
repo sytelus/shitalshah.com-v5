@@ -3,6 +3,8 @@ title: 'How to Tweet It: Polya Style'
 draft: true
 date: 2022-12-12T08:54:04+00:00
 slug: '202212120854-how-to-tweet-it-polya-style'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1602104463090933762'

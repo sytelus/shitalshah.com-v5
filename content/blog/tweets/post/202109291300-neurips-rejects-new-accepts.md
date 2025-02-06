@@ -3,6 +3,8 @@ title: 'NeurIPS Rejects Are the New Accepts'
 draft: false
 date: 2021-09-29T13:00:50+00:00
 slug: '202109291300-neurips-rejects-new-accepts'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1443093392833925120'

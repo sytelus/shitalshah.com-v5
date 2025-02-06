@@ -3,6 +3,8 @@ title: 'Humans: The Budget-Friendly Supercomputer'
 draft: false
 date: 2019-03-09T12:11:52+00:00
 slug: '201903091211-humans-budget-supercomputer'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1104233313345130496'

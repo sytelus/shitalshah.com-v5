@@ -3,6 +3,8 @@ title: 'Chasing an AI Recursive Tail'
 draft: true
 date: 2022-07-22T03:10:06+00:00
 slug: '202207220310-chasing-ai-recursion'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1550211538048258048'

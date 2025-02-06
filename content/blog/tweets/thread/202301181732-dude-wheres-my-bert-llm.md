@@ -3,6 +3,8 @@ title: 'Dude, Where''s My BERT LLM? Answering Your LLM FAQs'
 draft: false
 date: 2023-01-18T17:32:47+00:00
 slug: '202301181732-dude-wheres-my-bert-llm'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1615643354829840385'

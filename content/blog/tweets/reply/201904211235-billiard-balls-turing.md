@@ -3,6 +3,8 @@ title: 'Cue the Computation: Billiard Balls Go Turing Complete'
 draft: true
 date: 2019-04-21T12:35:39+00:00
 slug: '201904211235-billiard-balls-turing'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1119837076931743744'

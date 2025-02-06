@@ -3,6 +3,8 @@ title: 'Training Troubles: When AI Needs Constant Reboots'
 draft: true
 date: 2023-03-19T16:06:48+00:00
 slug: '202303191606-ai-training-troubles'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1637380088705740800'

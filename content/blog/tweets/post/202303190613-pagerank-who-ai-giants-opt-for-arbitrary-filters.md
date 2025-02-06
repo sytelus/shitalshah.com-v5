@@ -3,6 +3,8 @@ title: 'PageRank Who? AI Giants Opt for Arbitrary Filters'
 draft: false
 date: 2023-03-19T06:13:37+00:00
 slug: '202303190613-pagerank-who-ai-giants-opt-for-arbitrary-filters'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1637230806858096645'

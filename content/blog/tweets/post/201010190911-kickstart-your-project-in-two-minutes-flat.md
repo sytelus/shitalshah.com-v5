@@ -3,6 +3,8 @@ title: 'Kickstart Your Project in Two Minutes Flat'
 draft: true
 date: 2010-10-19T09:11:49+00:00
 slug: '201010190911-kickstart-your-project-in-two-minutes-flat'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '27793550674'

@@ -3,6 +3,8 @@ title: 'The Constant Elephant in Computer Science'
 draft: true
 date: 2022-11-24T13:29:57+00:00
 slug: '202211241329-constant-elephant-in-computer-science'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1595650910302003201'

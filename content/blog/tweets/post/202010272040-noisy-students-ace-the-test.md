@@ -3,6 +3,8 @@ title: 'Noisy Students Ace the Semi-Supervised Test'
 draft: false
 date: 2020-10-27T20:40:00+00:00
 slug: '202010272040-noisy-students-ace-the-test'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1321084232580632577'

@@ -3,6 +3,8 @@ title: 'Spin Me Right Round: A Relativistic Quirk'
 draft: true
 date: 2022-01-24T14:59:14+00:00
 slug: '202201241459-spin-relativistic-quirk'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1485507469262548994'

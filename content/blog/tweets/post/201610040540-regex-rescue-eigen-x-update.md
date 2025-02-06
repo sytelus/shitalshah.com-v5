@@ -3,6 +3,8 @@ title: 'Regex Rescue: Updating Eigen''s .x to .x()'
 draft: true
 date: 2016-10-04T05:40:44+00:00
 slug: '201610040540-regex-rescue-eigen-x-update'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '783074334470320128'

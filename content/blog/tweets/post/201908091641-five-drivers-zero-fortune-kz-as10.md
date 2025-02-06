@@ -3,6 +3,8 @@ title: 'Five Drivers, Zero Fortune: My KZ AS10 Experience'
 draft: false
 date: 2019-08-09T16:41:01+00:00
 slug: '201908091641-five-drivers-zero-fortune-kz-as10'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1159761492310417408'

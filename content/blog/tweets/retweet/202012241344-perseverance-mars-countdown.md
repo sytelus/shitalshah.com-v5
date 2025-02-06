@@ -3,6 +3,8 @@ title: 'Perseverance Can''t Wait: Mars Landing in Two Months!'
 draft: true
 date: 2020-12-24T13:44:45+00:00
 slug: '202012241344-perseverance-mars-countdown'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1341983129548988417'

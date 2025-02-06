@@ -3,6 +3,8 @@ title: 'O Fortuna! Secured Carmina Burana Tickets at Seattle Symphony'
 draft: true
 date: 2014-03-20T11:58:28+00:00
 slug: '201403201158-o-fortuna-carmina-burana-seattle'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '446511063807176704'

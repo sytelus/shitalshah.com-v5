@@ -3,6 +3,8 @@ title: 'From Right to Unwrong'
 draft: true
 date: 2016-11-06T11:38:56+00:00
 slug: '201611061138-from-right-to-unwrong'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '795108176148373504'

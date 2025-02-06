@@ -3,6 +3,8 @@ title: 'StableDiffusion Speeds Up, LLaMA Follows Suit'
 draft: true
 date: 2023-03-11T14:48:39+00:00
 slug: '202303111448-stablediffusion-llama-speeds-up'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1634446218754662401'

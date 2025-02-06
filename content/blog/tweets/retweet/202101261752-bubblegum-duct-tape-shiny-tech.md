@@ -3,6 +3,8 @@ title: 'Bubblegum and Duct Tape: The Secret Behind Shiny Tech'
 draft: true
 date: 2021-01-26T17:52:32+00:00
 slug: '202101261752-bubblegum-duct-tape-shiny-tech'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1354004284472348674'

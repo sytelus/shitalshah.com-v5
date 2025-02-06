@@ -3,6 +3,8 @@ title: 'Hold Your Pitchforks: Let''s Talk Peer Review'
 draft: true
 date: 2018-09-21T17:21:02+00:00
 slug: '201809211721-hold-your-pitchforks'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1043082669653774336'

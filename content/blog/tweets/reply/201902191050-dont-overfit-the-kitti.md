@@ -3,6 +3,8 @@ title: 'Don''t Overfit the KITTI: Time for a New ImageNet'
 draft: true
 date: 2019-02-19T10:50:26+00:00
 slug: '201902191050-dont-overfit-the-kitti'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1097689839560843264'

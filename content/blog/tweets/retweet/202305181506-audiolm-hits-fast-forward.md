@@ -3,6 +3,8 @@ title: 'AudioLM Hits Fast Forward: 100x Speed, Same Quality'
 draft: true
 date: 2023-05-18T15:06:51+00:00
 slug: '202305181506-audiolm-hits-fast-forward'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1659108273209982977'

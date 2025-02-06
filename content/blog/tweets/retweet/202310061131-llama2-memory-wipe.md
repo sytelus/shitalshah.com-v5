@@ -3,6 +3,8 @@ title: 'Llama2''s Memory Wipe: Can LLMs Unlearn?'
 draft: true
 date: 2023-10-06T11:31:23+00:00
 slug: '202310061131-llama2-memory-wipe'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1710150735600730179'

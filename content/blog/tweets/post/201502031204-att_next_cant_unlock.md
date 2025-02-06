@@ -3,6 +3,8 @@ title: 'Can''t Roam if You Don''t Own: AT&T Next Woes'
 draft: true
 date: 2015-02-03T12:04:40+00:00
 slug: '201502031204-att_next_cant_unlock'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '562461643494260737'

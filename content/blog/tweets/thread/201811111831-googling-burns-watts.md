@@ -3,6 +3,8 @@ title: 'Burning Watts: The Hidden Cost of Googling'
 draft: false
 date: 2018-11-11T18:31:10+00:00
 slug: '201811111831-googling-burns-watts'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1061567002026766341'

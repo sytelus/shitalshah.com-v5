@@ -3,6 +3,8 @@ title: 'BigCode''s Big Plan: Open-Sourcing Code Generation and More'
 draft: true
 date: 2022-10-13T15:15:26+00:00
 slug: '202210131515-bigcode-open-source-code-generation'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1580472266617679872'

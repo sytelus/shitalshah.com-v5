@@ -3,6 +3,8 @@ title: 'No Papers, No Problems: Sharing Ideas Without Academic Vanity'
 draft: false
 date: 2019-03-22T15:04:09+00:00
 slug: '201903221504-no-papers-no-problems'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1109002811885260802'

@@ -3,6 +3,8 @@ title: 'Tweet Sentiments: From Ho Ho Ho to Oh No!'
 draft: false
 date: 2018-10-29T11:43:56+00:00
 slug: '201810291143-tweet-sentiments-ho-ho-ho-oh-no'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1056768575761920000'

@@ -3,6 +3,8 @@ title: 'Insider Tips from an MIT PhD Gatekeeper'
 draft: true
 date: 2021-01-24T10:54:49+00:00
 slug: '202101241054-mit-phd-insider-tips'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1353174389399769088'

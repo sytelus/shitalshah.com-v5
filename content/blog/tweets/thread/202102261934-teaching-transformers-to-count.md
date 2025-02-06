@@ -3,6 +3,8 @@ title: 'When ''52'' Becomes ''5 10e1 2'': Teaching Transformers to Count'
 draft: false
 date: 2021-02-26T19:34:10+00:00
 slug: '202102261934-teaching-transformers-to-count'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1365263884634886154'

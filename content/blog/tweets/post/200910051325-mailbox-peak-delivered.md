@@ -3,6 +3,8 @@ title: 'Special Delivery: Mailbox Peak''s Treacherous Trail'
 draft: true
 date: 2009-10-05T13:25:42+00:00
 slug: '200910051325-mailbox-peak-delivered'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '4622574011'

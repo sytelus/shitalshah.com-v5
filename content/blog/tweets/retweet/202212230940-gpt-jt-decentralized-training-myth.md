@@ -3,6 +3,8 @@ title: 'GPT-JT''s Decentralized Training? Not So Much!'
 draft: true
 date: 2022-12-23T09:40:31+00:00
 slug: '202212230940-gpt-jt-decentralized-training-myth'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1606102420949696513'

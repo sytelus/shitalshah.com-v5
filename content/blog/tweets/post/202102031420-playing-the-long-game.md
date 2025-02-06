@@ -3,6 +3,8 @@ title: 'Playing the Long Game: Experience Deepens Strategic Planning'
 draft: false
 date: 2021-02-03T14:20:06+00:00
 slug: '202102031420-playing-the-long-game'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1356849926576111617'

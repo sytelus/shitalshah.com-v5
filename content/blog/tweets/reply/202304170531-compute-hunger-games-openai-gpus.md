@@ -3,6 +3,8 @@ title: 'Compute Hunger Games: OpenAI''s Quest for 25k GPUs'
 draft: true
 date: 2023-04-17T05:31:23+00:00
 slug: '202304170531-compute-hunger-games-openai-gpus'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1647729426010972161'

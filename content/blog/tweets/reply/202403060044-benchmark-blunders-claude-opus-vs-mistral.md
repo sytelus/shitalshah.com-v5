@@ -3,6 +3,8 @@ title: 'Benchmark Blunders: Claude Opus Leaves Mistral Medium in the Dust'
 draft: true
 date: 2024-03-06T00:44:08+00:00
 slug: '202403060044-benchmark-blunders-claude-opus-vs-mistral'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1765055706468868532'

@@ -3,6 +3,8 @@ title: 'Triple the Fun: Hauschka''s Night at the Triple Door'
 draft: true
 date: 2011-04-22T06:08:34+00:00
 slug: '201104220608-triple-the-fun-hauschka'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '61204709024874496'

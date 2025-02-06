@@ -3,6 +3,8 @@ title: 'Robots with 600 Muscles: 12 Ways to Fail Daily'
 draft: true
 date: 2023-04-06T14:07:06+00:00
 slug: '202304061407-robots-600-muscles-12-fails'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1643872945314623490'

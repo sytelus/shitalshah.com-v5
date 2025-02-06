@@ -3,6 +3,8 @@ title: 'Turning CPU Pain into YOLOX Gain: 10x Faster Object Detection'
 draft: true
 date: 2022-07-03T14:21:27+00:00
 slug: '202207031421-turning-cpu-pain-into-yolox-gain'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1543495119034142721'

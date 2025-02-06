@@ -3,6 +3,8 @@ title: 'Bit by Bit: Scaling Laws and Quantization Band-Aids'
 draft: false
 date: 2023-04-03T15:02:16+00:00
 slug: '202304031502-bit-by-bit-scaling-laws'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1642799664641740800'

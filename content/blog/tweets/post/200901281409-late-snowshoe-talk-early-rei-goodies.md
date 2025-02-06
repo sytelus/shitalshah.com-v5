@@ -3,6 +3,8 @@ title: 'Late Snowshoe Talk, Early REI Goodies'
 draft: true
 date: 2009-01-28T14:09:33+00:00
 slug: '200901281409-late-snowshoe-talk-early-rei-goodies'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1154515239'

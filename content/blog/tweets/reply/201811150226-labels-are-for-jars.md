@@ -3,6 +3,8 @@ title: 'Labels Are for Jars, Not Developers'
 draft: true
 date: 2018-11-15T02:26:09+00:00
 slug: '201811150226-labels-are-for-jars'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1062773697558196224'

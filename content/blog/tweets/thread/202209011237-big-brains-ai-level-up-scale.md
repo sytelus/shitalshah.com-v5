@@ -3,6 +3,8 @@ title: 'Big Brains: When AI Levels Up with Scale'
 draft: false
 date: 2022-09-01T12:37:53+00:00
 slug: '202209011237-big-brains-ai-level-up-scale'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1565212326718238724'

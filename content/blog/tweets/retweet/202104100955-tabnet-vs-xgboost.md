@@ -3,6 +3,8 @@ title: 'TabNet vs. XGBoost: The TensorFlow Showdown'
 draft: true
 date: 2021-04-10T09:55:45+00:00
 slug: '202104100955-tabnet-vs-xgboost'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1380716101248552961'

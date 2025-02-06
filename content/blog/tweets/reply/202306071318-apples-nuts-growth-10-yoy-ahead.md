@@ -3,6 +3,8 @@ title: 'Apple''s Nuts Growth: 10% YoY Ahead'
 draft: true
 date: 2023-06-07T13:18:36+00:00
 slug: '202306071318-apples-nuts-growth-10-yoy-ahead'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1666328787485880320'

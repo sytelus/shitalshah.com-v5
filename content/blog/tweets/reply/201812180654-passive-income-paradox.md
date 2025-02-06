@@ -3,6 +3,8 @@ title: 'The Passive Income Paradox: Who''s Left to Work?'
 draft: true
 date: 2018-12-18T06:54:22+00:00
 slug: '201812180654-passive-income-paradox'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1074799996296253440'

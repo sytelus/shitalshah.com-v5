@@ -3,6 +3,8 @@ title: 'Practice Makes Perfectly Timed Exams'
 draft: true
 date: 2023-11-24T04:40:00+00:00
 slug: '202311240440-practice-makes-perfectly-timed-exams'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1727789115415093739'

@@ -3,6 +3,8 @@ title: 'Your Random Neural Network Has a 1 in 50,000 Chance of Being the Best'
 draft: false
 date: 2020-05-25T20:22:00+00:00
 slug: '202005252022-random-neural-net-1-in-50000-chance'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1264909583342088194'

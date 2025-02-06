@@ -3,6 +3,8 @@ title: 'Sparse All-MLP: Less Weights, More Speed'
 draft: true
 date: 2022-03-17T06:06:07+00:00
 slug: '202203170606-sparse-all-mlp-more-speed'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1504232572326359042'

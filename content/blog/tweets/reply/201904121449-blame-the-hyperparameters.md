@@ -3,6 +3,8 @@ title: 'Blame the Hyperparameters, Not Keras or PyTorch!'
 draft: true
 date: 2019-04-12T14:49:15+00:00
 slug: '201904121449-blame-the-hyperparameters'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1116609207694815234'

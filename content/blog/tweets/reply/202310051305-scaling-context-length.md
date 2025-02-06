@@ -3,6 +3,8 @@ title: 'Scaling Context Length: The Long and Short of It'
 draft: true
 date: 2023-10-05T13:05:10+00:00
 slug: '202310051305-scaling-context-length'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1709811949599707612'

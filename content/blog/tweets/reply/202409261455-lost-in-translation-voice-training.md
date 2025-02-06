@@ -3,6 +3,8 @@ title: 'Lost in Translation: When Voice Training Hits a Flat Note'
 draft: true
 date: 2024-09-26T14:55:56+00:00
 slug: '202409261455-lost-in-translation-voice-training'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1839212292367593734'

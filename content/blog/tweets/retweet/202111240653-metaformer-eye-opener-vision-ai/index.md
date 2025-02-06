@@ -3,6 +3,8 @@ title: 'MetaFormer: The Eye-Opener in Vision AI'
 draft: true
 date: 2021-11-24T06:53:15+00:00
 slug: '202111240653-metaformer-eye-opener-vision-ai'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1463279506190331904'

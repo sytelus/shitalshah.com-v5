@@ -3,6 +3,8 @@ title: 'Quack Your Code: GPTDuck Answers Your GitHub Questions'
 draft: true
 date: 2023-01-06T14:56:09+00:00
 slug: '202301061456-quack-your-code'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1611255279727042565'

@@ -3,6 +3,8 @@ title: 'Irrational Markets and Greedy Wallets: Betting Against Sanity'
 draft: true
 date: 2021-01-19T13:30:32+00:00
 slug: '202101191330-irrational-markets-greedy-wallets'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1351401637600903169'

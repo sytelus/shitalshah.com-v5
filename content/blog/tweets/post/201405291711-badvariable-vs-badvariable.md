@@ -3,6 +3,8 @@ title: 'Bad_Variable vs. badVariable: Embrace CamelCase!'
 draft: true
 date: 2014-05-29T17:11:06+00:00
 slug: '201405291711-badvariable-vs-badvariable'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '471956891375894529'

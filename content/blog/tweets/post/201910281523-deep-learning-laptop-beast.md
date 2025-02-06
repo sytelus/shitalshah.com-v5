@@ -3,6 +3,8 @@ title: 'Unleashing the Deep Learning Laptop Beast'
 draft: false
 date: 2019-10-28T15:23:13+00:00
 slug: '201910281523-deep-learning-laptop-beast'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1188732941100179458'

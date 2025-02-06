@@ -3,6 +3,8 @@ title: 'Eavesdropping on Neural Network Pioneers: ''Talking Nets'' Review'
 draft: true
 date: 2022-12-25T13:22:42+00:00
 slug: '202212251322-eavesdropping-neural-network-pioneers'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1606883111056605184'

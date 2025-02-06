@@ -3,6 +3,8 @@ title: 'ZeRO-Offload: CPU-GPU Memory Magic for Large-Scale Training'
 draft: true
 date: 2021-03-08T15:33:25+00:00
 slug: '202103081533-zero-offload-cpu-gpu'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1368827176758308864'

@@ -3,6 +3,8 @@ title: 'Scaling Laws at Play: Board Games Meet Compute'
 draft: true
 date: 2023-11-24T18:26:30+00:00
 slug: '202311241826-scaling-laws-board-games'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1727997109830631604'

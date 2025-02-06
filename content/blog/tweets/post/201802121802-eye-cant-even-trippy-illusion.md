@@ -3,6 +3,8 @@ title: 'Eye Can''t Even: The Trippy Illusion That Beats All'
 draft: false
 date: 2018-02-12T18:02:38+00:00
 slug: '201802121802-eye-cant-even-trippy-illusion'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '962990321628889088'

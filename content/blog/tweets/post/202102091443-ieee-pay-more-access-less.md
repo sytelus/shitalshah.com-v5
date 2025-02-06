@@ -3,6 +3,8 @@ title: 'IEEE: Pay More, Access Less'
 draft: false
 date: 2021-02-09T14:43:47+00:00
 slug: '202102091443-ieee-pay-more-access-less'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1359030215368843264'

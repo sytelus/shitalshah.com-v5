@@ -3,6 +3,8 @@ title: 'When Venus Played Peekaboo with the Sun'
 draft: true
 date: 2012-06-05T16:25:03+00:00
 slug: '201206051625-venus-peekaboo-sun'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '209938875588677632'

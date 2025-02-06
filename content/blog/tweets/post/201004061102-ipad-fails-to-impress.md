@@ -3,6 +3,8 @@ title: 'Pad ''Fails'' to Impress in Crowded Apple Store'
 draft: true
 date: 2010-04-06T11:02:48+00:00
 slug: '201004061102-ipad-fails-to-impress'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '11680086482'

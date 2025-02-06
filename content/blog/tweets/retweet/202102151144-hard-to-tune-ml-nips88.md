@@ -3,6 +3,8 @@ title: '"Hard-to-Tune ML? NIPS''88 to the Rescue"'
 draft: true
 date: 2021-02-15T11:44:29+00:00
 slug: '202102151144-hard-to-tune-ml-nips88'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1361159418109337601'

@@ -3,6 +3,8 @@ title: 'TensorWatch: X-Ray Vision for Neural Networks'
 draft: true
 date: 2019-05-28T20:26:54+00:00
 slug: '201905282026-tensorwatch-xray-neural-networks'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1133364024102363136'

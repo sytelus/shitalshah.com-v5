@@ -3,6 +3,8 @@ title: 'Cosmic Double Feature: Hubble 3D and Roving Mars at IMAX'
 draft: true
 date: 2010-04-19T13:46:38+00:00
 slug: '201004191346-hubble-roving-mars-imax'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '12442540073'

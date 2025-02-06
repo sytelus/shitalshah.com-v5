@@ -3,6 +3,8 @@ title: 'NeRFs vs Photogrammetry: Matt Tancik Clears the Confusion'
 draft: true
 date: 2022-11-13T06:15:46+00:00
 slug: '202211130615-nerfs-vs-photogrammetry-matt-tancik'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1591555377518489601'

@@ -3,6 +3,8 @@ title: 'Matmul Antics: Powers of Two and Strassen''s Exile'
 draft: false
 date: 2023-11-26T18:31:28+00:00
 slug: '202311261831-matmul-powers-two-strassen'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1728723138379153778'

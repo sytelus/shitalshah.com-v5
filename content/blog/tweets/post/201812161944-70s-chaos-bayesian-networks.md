@@ -3,6 +3,8 @@ title: 'Diving into the 70s Chaos with Pearl''s Bayesian Networks'
 draft: false
 date: 2018-12-16T19:44:14+00:00
 slug: '201812161944-70s-chaos-bayesian-networks'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1074268963800895489'

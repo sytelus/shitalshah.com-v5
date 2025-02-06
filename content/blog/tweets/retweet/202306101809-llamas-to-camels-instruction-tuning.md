@@ -3,6 +3,8 @@ title: 'From Llamas to Camels: The Value of Instruction Tuning'
 draft: true
 date: 2023-06-10T18:09:06+00:00
 slug: '202306101809-llamas-to-camels-instruction-tuning'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1667489056945762304'

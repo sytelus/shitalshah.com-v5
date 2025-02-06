@@ -3,6 +3,8 @@ title: 'From Ill-Posed to Well-Composed: 3D from One Shot'
 draft: false
 date: 2021-10-22T13:36:59+00:00
 slug: '202110221336-ill-posed-to-well-composed'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1451437409778868225'

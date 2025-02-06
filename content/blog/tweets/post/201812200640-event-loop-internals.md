@@ -3,6 +3,8 @@ title: 'Caught in the Loop: Understanding Event Loop Internals'
 draft: false
 date: 2018-12-20T06:40:30+00:00
 slug: '201812200640-event-loop-internals'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1075521280680423424'

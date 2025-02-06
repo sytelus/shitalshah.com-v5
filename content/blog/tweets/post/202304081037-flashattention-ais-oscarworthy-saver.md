@@ -3,6 +3,8 @@ title: 'FlashAttention: AI''s Oscar-Worthy Money Saver'
 draft: false
 date: 2023-04-08T10:37:15+00:00
 slug: '202304081037-flashattention-ais-oscarworthy-saver'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1644544911549640704'

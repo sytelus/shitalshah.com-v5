@@ -3,6 +3,8 @@ title: 'Productize All The AI Things! Free Models Await'
 draft: true
 date: 2022-11-29T10:55:22+00:00
 slug: '202211291055-productize-all-the-ai-things'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1597423948446466049'

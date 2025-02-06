@@ -3,6 +3,8 @@ title: 'Fed Up with Garmin? Lowrance Endura to the Rescue!'
 draft: true
 date: 2010-10-26T11:45:42+00:00
 slug: '201010261145-lowrance-endura-to-the-rescue'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '28760597393'

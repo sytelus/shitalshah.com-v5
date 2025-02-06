@@ -3,6 +3,8 @@ title: 'Watch Out! Microsoft''s TensorWatch is Now Open Source'
 draft: true
 date: 2020-01-12T00:02:49+00:00
 slug: '202001120002-microsoft-tensorwatch-open-source'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1216027694946648064'

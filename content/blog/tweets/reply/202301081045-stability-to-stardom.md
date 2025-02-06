@@ -3,6 +3,8 @@ title: 'From Stability to Stardom: A Startup''s Risky Road to Googlehood'
 draft: true
 date: 2023-01-08T10:45:05+00:00
 slug: '202301081045-stability-to-stardom'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1611916876120219648'

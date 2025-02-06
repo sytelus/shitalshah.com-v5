@@ -3,6 +3,8 @@ title: 'When AI Redecorates: A Whimsical Tour'
 draft: true
 date: 2023-01-06T15:00:07+00:00
 slug: '202301061500-when-ai-redecorates'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1611256281100333057'

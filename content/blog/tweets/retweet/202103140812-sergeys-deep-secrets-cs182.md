@@ -3,6 +3,8 @@ title: 'Sergey''s Deep Secrets: CS182 Lectures Released'
 draft: true
 date: 2021-03-14T08:12:54+00:00
 slug: '202103140812-sergeys-deep-secrets-cs182'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1370890647016669185'

@@ -3,6 +3,8 @@ title: 'Kindness Strikes Again on Stack Overflow'
 draft: false
 date: 2021-09-16T02:36:52+00:00
 slug: '202109160236-kindness-strikes-again-on-stack-overflow'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1438225321858191362'

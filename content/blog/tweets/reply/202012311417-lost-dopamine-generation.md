@@ -3,6 +3,8 @@ title: 'Lost in the Web: Our Dopamine-Fueled Generation'
 draft: true
 date: 2020-12-31T14:17:08+00:00
 slug: '202012311417-lost-dopamine-generation'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1344527993734008832'

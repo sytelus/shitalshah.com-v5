@@ -3,6 +3,8 @@ title: 'Labor Day Exodus: Vacationer''s Delight'
 draft: true
 date: 2011-09-04T01:37:50+00:00
 slug: '201109040137-labor-day-exodus-vacationers-delight'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '110058938577326080'

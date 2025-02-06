@@ -3,6 +3,8 @@ title: 'Clean Data, Dirty Math: California Students Missing Out on Calculus'
 draft: false
 date: 2021-12-05T09:36:36+00:00
 slug: '202112050936-clean-data-dirty-math'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1467306882926735362'

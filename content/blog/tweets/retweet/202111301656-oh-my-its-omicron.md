@@ -3,6 +3,8 @@ title: 'Oh My, It''s Omicron!'
 draft: true
 date: 2021-11-30T16:56:10+00:00
 slug: '202111301656-oh-my-its-omicron'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1465605561240621057'

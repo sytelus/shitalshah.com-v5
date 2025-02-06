@@ -3,6 +3,8 @@ title: 'CrossClimate 2: Snow Problem!'
 draft: false
 date: 2022-12-24T11:37:09+00:00
 slug: '202212241137-crossclimate2-snow-problem'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1606494160131067905'

@@ -3,6 +3,8 @@ title: 'Jim Corbett Flashbacks: Tigers, Tales, and TinyURLs'
 draft: true
 date: 2008-12-30T18:15:27+00:00
 slug: '200812301815-jim-corbett-flashbacks'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1085667274'

@@ -3,6 +3,8 @@ title: 'ChatGPT''s Secret Menu: Unleashing Creativity'
 draft: true
 date: 2023-01-04T16:06:12+00:00
 slug: '202301041606-chatgpt-secret-menu-unleashing-creativity'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1610548135633489920'

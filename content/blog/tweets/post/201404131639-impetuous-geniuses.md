@@ -3,6 +3,8 @@ title: 'Impetuous Geniuses: Leaving Marks and Taking Names'
 draft: true
 date: 2014-04-13T16:39:21+00:00
 slug: '201404131639-impetuous-geniuses'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '455279059501469696'

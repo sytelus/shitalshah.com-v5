@@ -3,6 +3,8 @@ title: 'Robocar Roulette: Who Should Autonomous Vehicles Sacrifice?'
 draft: true
 date: 2018-10-26T16:35:20+00:00
 slug: '201810261635-robocar-roulette'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1055754742717009921'

@@ -3,6 +3,8 @@ title: 'No Drama LLAMA: OpenLLAMA Now Open-Source for Commercial Use'
 draft: true
 date: 2023-05-04T13:39:00+00:00
 slug: '202305041339-no-drama-llama-openllama'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1654012733845803009'

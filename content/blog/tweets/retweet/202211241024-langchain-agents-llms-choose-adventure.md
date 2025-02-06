@@ -3,6 +3,8 @@ title: 'LangChain Agents: When LLMs Choose Their Own Adventure'
 draft: true
 date: 2022-11-24T10:24:03+00:00
 slug: '202211241024-langchain-agents-llms-choose-adventure'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1595604125970202624'

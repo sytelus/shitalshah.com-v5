@@ -3,6 +3,8 @@ title: 'Poor Man''s Time, Rich Man''s Dime'
 draft: true
 date: 2011-01-30T12:59:15+00:00
 slug: '201101301259-poor-time-rich-dime'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '31577156777680896'

@@ -3,6 +3,8 @@ title: 'Semaglutide: The Skinny on Obesity''s New Foe'
 draft: false
 date: 2022-10-16T15:08:46+00:00
 slug: '202210161508-semaglutide-obesity-foe'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1581557752110845952'

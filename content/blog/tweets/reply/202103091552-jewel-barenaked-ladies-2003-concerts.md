@@ -3,6 +3,8 @@ title: 'Roaming Fee Feets Away: Jewel and Barenaked Ladies'' Intimate 2003 Conce
 draft: true
 date: 2021-03-09T15:52:23+00:00
 slug: '202103091552-jewel-barenaked-ladies-2003-concerts'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1369194338077483011'

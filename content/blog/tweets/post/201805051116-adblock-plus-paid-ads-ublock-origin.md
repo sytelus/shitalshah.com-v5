@@ -3,6 +3,8 @@ title: 'AdBlock Plus Now Shows Paid Ads – Switch to uBlock Origin'
 draft: false
 date: 2018-05-05T11:16:52+00:00
 slug: '201805051116-adblock-plus-paid-ads-ublock-origin'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '992619109673193472'

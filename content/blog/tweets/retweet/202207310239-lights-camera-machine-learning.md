@@ -3,6 +3,8 @@ title: 'Lights, Camera, Machine Learning! Sir Bayes Announces New Book'
 draft: true
 date: 2022-07-31T02:39:54+00:00
 slug: '202207310239-lights-camera-machine-learning'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1553465428130689024'

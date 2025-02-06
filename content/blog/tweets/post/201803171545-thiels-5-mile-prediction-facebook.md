@@ -3,6 +3,8 @@ title: 'Thiel''s 5-Mile Prediction: Facebook Was Closer Than He Knew'
 draft: false
 date: 2018-03-17T15:45:52+00:00
 slug: '201803171545-thiels-5-mile-prediction-facebook'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '974929802422509568'

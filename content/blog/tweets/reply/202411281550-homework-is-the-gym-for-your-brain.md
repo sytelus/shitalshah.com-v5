@@ -3,6 +3,8 @@ title: 'Get Schooled: Homework is the Gym for Your Brain'
 draft: true
 date: 2024-11-28T15:50:54+00:00
 slug: '202411281550-homework-is-the-gym-for-your-brain'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1862041463091274226'

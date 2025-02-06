@@ -3,6 +3,8 @@ title: 'When JavaScript Is Low-Level, We Have a Problem'
 draft: true
 date: 2019-01-06T16:54:12+00:00
 slug: '201901061654-when-javascript-is-low-level'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1081836320287125504'

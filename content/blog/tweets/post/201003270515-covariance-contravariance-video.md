@@ -3,6 +3,8 @@ title: 'Covariance & Contravariance Walk into a Video at 12:48'
 draft: true
 date: 2010-03-27T05:15:42+00:00
 slug: '201003270515-covariance-contravariance-video'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '11112582088'

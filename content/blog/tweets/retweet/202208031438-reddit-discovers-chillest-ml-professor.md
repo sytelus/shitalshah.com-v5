@@ -3,6 +3,8 @@ title: 'Reddit Discovers the Chillest ML Professor'
 draft: true
 date: 2022-08-03T14:38:55+00:00
 slug: '202208031438-reddit-discovers-chillest-ml-professor'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1554733538305384448'

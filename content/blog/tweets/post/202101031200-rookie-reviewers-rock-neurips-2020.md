@@ -3,6 +3,8 @@ title: 'Rookie Reviewers Rock NeurIPS 2020'
 draft: false
 date: 2021-01-03T12:00:19+00:00
 slug: '202101031200-rookie-reviewers-rock-neurips-2020'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1345580728365375491'

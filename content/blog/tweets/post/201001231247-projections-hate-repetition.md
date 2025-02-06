@@ -3,6 +3,8 @@ title: 'Projections Hate Repetition: P Squared Equals P'
 draft: true
 date: 2010-01-23T12:47:04+00:00
 slug: '201001231247-projections-hate-repetition'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '8099768956'

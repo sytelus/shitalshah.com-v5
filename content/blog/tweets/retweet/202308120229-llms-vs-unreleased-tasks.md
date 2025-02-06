@@ -3,6 +3,8 @@ title: 'LLMs vs. Unreleased Tasks: The Ultimate Test'
 draft: true
 date: 2023-08-12T02:29:23+00:00
 slug: '202308120229-llms-vs-unreleased-tasks'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1690083006709714944'

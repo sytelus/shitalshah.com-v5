@@ -3,6 +3,8 @@ title: 'Mastering the Master Theorem on Wikipedia'
 draft: true
 date: 2009-12-13T09:46:13+00:00
 slug: '200912130946-mastering-master-theorem'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '6615842053'

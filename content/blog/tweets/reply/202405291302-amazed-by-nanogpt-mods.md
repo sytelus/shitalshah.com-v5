@@ -3,6 +3,8 @@ title: 'Amazed by NanoGPT Mods—Where to Find?'
 draft: true
 date: 2024-05-29T13:02:04+00:00
 slug: '202405291302-amazed-by-nanogpt-mods'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1795697096840171577'

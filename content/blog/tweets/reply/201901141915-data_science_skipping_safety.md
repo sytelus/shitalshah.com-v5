@@ -3,6 +3,8 @@ title: 'Data Science Shortcuts: Skipping Safety for Speed'
 draft: true
 date: 2019-01-14T19:15:13+00:00
 slug: '201901141915-data_science_skipping_safety'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1084770907359404033'

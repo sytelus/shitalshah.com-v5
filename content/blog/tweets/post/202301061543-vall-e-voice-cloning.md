@@ -3,6 +3,8 @@ title: 'VALL-E Wows with 3-Second Voice Cloning'
 draft: false
 date: 2023-01-06T15:43:21+00:00
 slug: '202301061543-vall-e-voice-cloning'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1611267158641881088'

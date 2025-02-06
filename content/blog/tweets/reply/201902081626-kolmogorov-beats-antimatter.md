@@ -3,6 +3,8 @@ title: 'Kolmogorov Complexity Beats Antimatter in Nature’s Game'
 draft: true
 date: 2019-02-08T16:26:25+00:00
 slug: '201902081626-kolmogorov-beats-antimatter'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1093788127108296704'

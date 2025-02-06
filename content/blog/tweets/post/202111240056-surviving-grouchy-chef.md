@@ -3,6 +3,8 @@ title: 'Surviving the Grouchy Chef'
 draft: false
 date: 2021-11-24T00:56:00+00:00
 slug: '202111240056-surviving-grouchy-chef'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1463189600776581121'

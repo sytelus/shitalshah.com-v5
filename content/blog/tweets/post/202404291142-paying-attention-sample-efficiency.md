@@ -3,6 +3,8 @@ title: 'Paying Attention to Sample Efficiency'
 draft: false
 date: 2024-04-29T11:42:20+00:00
 slug: '202404291142-paying-attention-sample-efficiency'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1784805391614009745'

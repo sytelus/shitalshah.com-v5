@@ -3,6 +3,8 @@ title: 'Pinker''s ''Blank Slate'' on Epstein: Unanswered Questions'
 draft: true
 date: 2019-08-21T14:54:42+00:00
 slug: '201908211454-pinkers-blank-slate-on-epstein'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1164083389000908800'

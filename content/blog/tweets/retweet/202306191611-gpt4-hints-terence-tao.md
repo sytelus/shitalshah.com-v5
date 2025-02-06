@@ -3,6 +3,8 @@ title: 'When GPT-4 Gives a Hint: Terence Tao''s AI Adventure'
 draft: true
 date: 2023-06-19T16:11:37+00:00
 slug: '202306191611-gpt4-hints-terence-tao'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1670720983924371457'

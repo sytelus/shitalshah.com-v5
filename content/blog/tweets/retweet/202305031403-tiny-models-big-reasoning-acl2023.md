@@ -3,6 +3,8 @@ title: 'Tiny Models, Big Reasoning: Paper Accepted to ACL2023!'
 draft: true
 date: 2023-05-03T14:03:08+00:00
 slug: '202305031403-tiny-models-big-reasoning-acl2023'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1653656420951429124'

@@ -3,6 +3,8 @@ title: 'Darwin''s Guide to Optimizers: An Evolutionary Map'
 draft: false
 date: 2018-11-25T17:25:34+00:00
 slug: '201811251725-darwins-guide-to-optimizers'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1066623921011576832'

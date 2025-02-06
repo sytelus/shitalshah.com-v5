@@ -3,6 +3,8 @@ title: 'Walk a Mile, Keep the Shoes'
 draft: true
 date: 2010-04-04T13:20:35+00:00
 slug: '201004041320-walk-a-mile-keep-the-shoes'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '11574970374'

@@ -3,6 +3,8 @@ title: 'Charlotte Builds a Case Against LEGO'
 draft: true
 date: 2014-02-05T13:34:25+00:00
 slug: '201402051334-charlotte-builds-case-against-lego'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '430937433518002176'

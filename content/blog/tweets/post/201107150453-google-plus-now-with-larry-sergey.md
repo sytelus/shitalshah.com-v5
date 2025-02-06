@@ -3,6 +3,8 @@ title: 'Google+: Now with Extra Larry and Sergey'
 draft: true
 date: 2011-07-15T04:53:31+00:00
 slug: '201107150453-google-plus-now-with-larry-sergey'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '91626402415247361'

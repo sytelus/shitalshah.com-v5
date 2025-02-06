@@ -3,6 +3,8 @@ title: 'Counting the Cost: AI''s Million-Dollar Computations'
 draft: false
 date: 2020-05-23T22:18:00+00:00
 slug: '202005232218-ais-million-dollar-computations'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1264214000046231553'

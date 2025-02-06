@@ -3,6 +3,8 @@ title: 'Toolformer: The Transformer That Tools Itself'
 draft: true
 date: 2023-02-13T07:14:34+00:00
 slug: '202302130714-toolformer-transformer-tools-itself'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1624909861053153281'

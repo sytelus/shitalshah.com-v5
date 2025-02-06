@@ -3,6 +3,8 @@ title: 'Math-ine Learning: Minerva''s Calculated Caveats'
 draft: true
 date: 2022-12-20T23:17:18+00:00
 slug: '202212202317-mathine_learning_minerva'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1605220807613218817'

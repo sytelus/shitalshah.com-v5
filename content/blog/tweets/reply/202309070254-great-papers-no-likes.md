@@ -3,6 +3,8 @@ title: 'Great Papers, No Likes: Twitter''s Attention Inequality'
 draft: true
 date: 2023-09-07T02:54:49+00:00
 slug: '202309070254-great-papers-no-likes'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1699511492452991041'

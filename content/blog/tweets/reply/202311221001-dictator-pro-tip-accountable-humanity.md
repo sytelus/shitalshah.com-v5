@@ -3,6 +3,8 @@ title: 'Dictator Pro Tip: Be Accountable Only to Humanity'
 draft: true
 date: 2023-11-22T10:01:23+00:00
 slug: '202311221001-dictator-pro-tip-accountable-humanity'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1727145218867413456'

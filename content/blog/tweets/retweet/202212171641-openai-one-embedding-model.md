@@ -3,6 +3,8 @@ title: 'OpenAI''s One Embedding Model to Replace Them All'
 draft: true
 date: 2022-12-17T16:41:07+00:00
 slug: '202212171641-openai-one-embedding-model'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1604033939202789376'

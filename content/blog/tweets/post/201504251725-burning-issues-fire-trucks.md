@@ -3,6 +3,8 @@ title: 'Burning Issues: Fire Trucks Fail to Stop Office Front Blaze'
 draft: true
 date: 2015-04-25T17:25:08+00:00
 slug: '201504251725-burning-issues-fire-trucks'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '591910810013708288'

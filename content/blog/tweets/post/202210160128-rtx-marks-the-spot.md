@@ -3,6 +3,8 @@ title: 'RTX Marks the Spot: Real-Time Ray Tracing Hits Reality'
 draft: false
 date: 2022-10-16T01:28:29+00:00
 slug: '202210160128-rtx-marks-the-spot'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1581351321202208773'

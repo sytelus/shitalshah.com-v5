@@ -3,6 +3,8 @@ title: 'Reka Core: Between GPT-3.5 and a Hard Place'
 draft: true
 date: 2024-05-09T12:06:52+00:00
 slug: '202405091206-reka-core-between-gpt3_5-and-hard-place'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1788435446424547769'

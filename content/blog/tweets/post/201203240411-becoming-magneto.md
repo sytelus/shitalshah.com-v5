@@ -3,6 +3,8 @@ title: 'Becoming Magneto: My Magnetic Implant Adventure'
 draft: true
 date: 2012-03-24T04:11:37+00:00
 slug: '201203240411-becoming-magneto'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '183299987919224832'

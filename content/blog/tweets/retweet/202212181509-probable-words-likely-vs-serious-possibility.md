@@ -3,6 +3,8 @@ title: 'Probable Words: Does ''Likely'' Beat ''Serious Possibility''?'
 draft: true
 date: 2022-12-18T15:09:57+00:00
 slug: '202212181509-probable-words-likely-vs-serious-possibility'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1604373386876321792'

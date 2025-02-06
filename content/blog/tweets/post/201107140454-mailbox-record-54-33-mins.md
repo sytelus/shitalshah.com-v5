@@ -3,6 +3,8 @@ title: 'Signed, Sealed, Delivered: Mailbox Record at 54:33 Mins'
 draft: true
 date: 2011-07-14T04:54:33+00:00
 slug: '201107140454-mailbox-record-54-33-mins'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '91264277301821440'

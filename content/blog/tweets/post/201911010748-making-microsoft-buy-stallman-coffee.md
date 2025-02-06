@@ -3,6 +3,8 @@ title: 'Making Microsoft Buy Stallman Coffee'
 draft: false
 date: 2019-11-01T07:48:41+00:00
 slug: '201911010748-making-microsoft-buy-stallman-coffee'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1190068106992979969'

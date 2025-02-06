@@ -3,6 +3,8 @@ title: 'Star Light, City Blight'
 draft: true
 date: 2010-07-27T16:15:25+00:00
 slug: '201007271615-star-light-city-blight'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '19643394178'

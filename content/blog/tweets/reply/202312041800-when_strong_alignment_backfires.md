@@ -3,6 +3,8 @@ title: 'When Strong Alignment Backfires'
 draft: true
 date: 2023-12-04T18:00:39+00:00
 slug: '202312041800-when_strong_alignment_backfires'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1731614485323071783'

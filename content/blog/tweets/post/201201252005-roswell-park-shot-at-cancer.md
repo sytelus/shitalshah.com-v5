@@ -3,6 +3,8 @@ title: 'Roswell Park Takes a Shot at Cancer'
 draft: true
 date: 2012-01-25T20:05:15+00:00
 slug: '201201252005-roswell-park-shot-at-cancer'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '162143994011324416'

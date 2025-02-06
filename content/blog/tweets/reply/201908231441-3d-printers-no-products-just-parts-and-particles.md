@@ -3,6 +3,8 @@ title: '3D Printers: No Products, Just Parts and Particles'
 draft: true
 date: 2019-08-23T14:41:15+00:00
 slug: '201908231441-3d-printers-no-products-just-parts-and-particles'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1164804782625701888'

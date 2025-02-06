@@ -3,6 +3,8 @@ title: 'Dark Mode for Writing, Light Mode for Righting'
 draft: false
 date: 2023-01-23T07:38:47+00:00
 slug: '202301230738-dark-mode-writing-light-mode-righting'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1617305806600560640'

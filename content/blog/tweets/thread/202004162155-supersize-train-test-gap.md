@@ -3,6 +3,8 @@ title: 'Supersize Me: Bridging the Train-Test Augmentation Gap'
 draft: false
 date: 2020-04-16T21:55:08+00:00
 slug: '202004162155-supersize-train-test-gap'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1250799896069730305'

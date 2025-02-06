@@ -3,6 +3,8 @@ title: 'Armchair Speculations: Seeking Corrections'
 draft: true
 date: 2020-12-31T14:12:45+00:00
 slug: '202012311412-armchair-speculations'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1344526891764445184'

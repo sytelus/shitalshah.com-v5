@@ -3,6 +3,8 @@ title: 'India Trip Ate My Gains, Time to ELEV8'
 draft: true
 date: 2010-07-30T07:58:11+00:00
 slug: '201007300758-india-trip-ate-my-gains'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '19869424304'

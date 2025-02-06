@@ -3,6 +3,8 @@ title: 'When Chatbots Judge Chatbots: Trusting the RoboJury'
 draft: true
 date: 2023-06-17T14:04:23+00:00
 slug: '202306171404-when-chatbots-judge-chatbots'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1669964188679278592'

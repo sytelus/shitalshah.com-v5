@@ -3,6 +3,8 @@ title: 'Red Bull: The Billion-Dollar Brand That Makes Nothing'
 draft: true
 date: 2021-04-11T10:11:31+00:00
 slug: '202104111011-red-bull-makes-nothing'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1381082457395523584'

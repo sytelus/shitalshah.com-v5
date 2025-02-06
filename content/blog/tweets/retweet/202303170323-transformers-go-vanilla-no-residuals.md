@@ -3,6 +3,8 @@ title: 'Transformers Go Vanilla: Bye Bye Residual Layers!'
 draft: true
 date: 2023-03-17T03:23:45+00:00
 slug: '202303170323-transformers-go-vanilla-no-residuals'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1636463284533747714'

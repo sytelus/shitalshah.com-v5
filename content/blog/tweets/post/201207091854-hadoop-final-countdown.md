@@ -3,6 +3,8 @@ title: 'Hadoop''s Final Countdown'
 draft: true
 date: 2012-07-09T18:54:22+00:00
 slug: '201207091854-hadoop-final-countdown'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '222297641034334208'

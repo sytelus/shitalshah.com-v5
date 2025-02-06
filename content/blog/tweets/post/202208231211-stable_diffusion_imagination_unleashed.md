@@ -3,6 +3,8 @@ title: 'Stable Diffusion: Billions of Images in 5GB—Imagination Unleashed!'
 draft: false
 date: 2022-08-23T12:11:40+00:00
 slug: '202208231211-stable_diffusion_imagination_unleashed'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1561944238262079488'

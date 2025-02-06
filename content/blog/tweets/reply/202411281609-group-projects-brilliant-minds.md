@@ -3,6 +3,8 @@ title: 'Group Projects: Where Brilliant Minds Meet (Sorry, Party Schools)'
 draft: true
 date: 2024-11-28T16:09:39+00:00
 slug: '202411281609-group-projects-brilliant-minds'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1862046181045739554'

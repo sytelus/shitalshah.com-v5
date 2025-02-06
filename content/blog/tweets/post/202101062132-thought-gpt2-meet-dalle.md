@@ -3,6 +3,8 @@ title: 'Thought GPT-2 Was Wild? Meet DALL·E'
 draft: false
 date: 2021-01-06T21:32:50+00:00
 slug: '202101062132-thought-gpt2-meet-dalle'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1346811968150069248'

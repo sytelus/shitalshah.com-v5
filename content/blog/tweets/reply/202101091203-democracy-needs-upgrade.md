@@ -3,6 +3,8 @@ title: 'Democracy Needs an Upgrade'
 draft: true
 date: 2021-01-09T12:03:39+00:00
 slug: '202101091203-democracy-needs-upgrade'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1347755891768979458'

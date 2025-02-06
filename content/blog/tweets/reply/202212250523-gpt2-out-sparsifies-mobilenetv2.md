@@ -3,6 +3,8 @@ title: 'Disparity in Sparsity: GPT-2 Out-Sparsifies MobileNetV2 in SparseZoo'
 draft: true
 date: 2022-12-25T05:23:27+00:00
 slug: '202212250523-gpt2-out-sparsifies-mobilenetv2'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1606762501102002177'

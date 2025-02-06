@@ -3,6 +3,8 @@ title: 'Phi-nomenal Code Gen: Phi-1-Base Beats August Models'
 draft: false
 date: 2023-09-03T10:19:32+00:00
 slug: '202309031019-phi-nomenal-code-gen'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1698173854315897141'

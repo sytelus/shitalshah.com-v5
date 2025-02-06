@@ -3,6 +3,8 @@ title: 'Meta Pseudo Lab Boosts ImageNet to Picture-Perfect 90%'
 draft: true
 date: 2021-01-14T11:59:42+00:00
 slug: '202101141159-meta-pseudo-lab-imagenet-90'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1349566837659353088'

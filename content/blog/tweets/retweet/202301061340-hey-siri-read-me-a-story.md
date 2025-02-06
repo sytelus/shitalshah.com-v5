@@ -3,6 +3,8 @@ title: 'Hey Siri, Read Me a Story: Apple''s AI Audiobooks'
 draft: true
 date: 2023-01-06T13:40:36+00:00
 slug: '202301061340-hey-siri-read-me-a-story'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1611236269543280643'

@@ -3,6 +3,8 @@ title: 'Chain-of-Thought Goes Multimodal: LLMs Now See and Think'
 draft: true
 date: 2023-03-21T12:31:34+00:00
 slug: '202303211231-cot-goes-multimodal-llms'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1638050698452692992'

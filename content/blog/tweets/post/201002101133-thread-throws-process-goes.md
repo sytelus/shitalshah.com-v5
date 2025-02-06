@@ -3,6 +3,8 @@ title: 'Thread Throws? The Process Goes'
 draft: true
 date: 2010-02-10T11:33:25+00:00
 slug: '201002101133-thread-throws-process-goes'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '8885598286'

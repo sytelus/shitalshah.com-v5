@@ -3,6 +3,8 @@ title: 'Blast from the Past: Rediscovered Four Old Astronomy Logs'
 draft: true
 date: 2014-04-08T05:43:12+00:00
 slug: '201404080543-rediscovered-four-astronomy-logs'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '453301994636054528'

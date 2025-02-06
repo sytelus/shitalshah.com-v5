@@ -3,6 +3,8 @@ title: 'Teleporting Robots or Autonomy? A Query to [@DrJimFan](https://x.com/DrJ
 draft: true
 date: 2024-01-06T02:27:45+00:00
 slug: '202401060227-teleporting-robots-or-autonomy'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1743338511548498224'

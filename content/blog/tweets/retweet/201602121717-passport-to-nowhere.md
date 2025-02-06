@@ -3,6 +3,8 @@ title: 'Passport to Nowhere: Visiting Unrecognized "Countries"'
 draft: true
 date: 2016-02-12T17:17:07+00:00
 slug: '201602121717-passport-to-nowhere'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '698073334689337344'

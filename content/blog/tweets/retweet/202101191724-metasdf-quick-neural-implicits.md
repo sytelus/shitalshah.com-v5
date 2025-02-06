@@ -3,6 +3,8 @@ title: 'MetaSDF: Teaching Neural Implicits to Be Quick Studies'
 draft: true
 date: 2021-01-19T17:24:25+00:00
 slug: '202101191724-metasdf-quick-neural-implicits'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1351460492842188801'

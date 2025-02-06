@@ -3,6 +3,8 @@ title: 'Coin Flip Deadlines: Will Random Extensions Improve Submissions?'
 draft: false
 date: 2020-04-19T10:36:49+00:00
 slug: '202004191036-coin-flip-deadlines'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1251716354815569920'

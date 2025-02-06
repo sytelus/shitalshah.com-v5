@@ -3,6 +3,8 @@ title: 'Phi-3 14B: Small Model, Big MMLU—Rivaling Llama3 70B!'
 draft: false
 date: 2024-05-22T10:45:21+00:00
 slug: '202405221045-phi3-14b-challenges-llama3-70b'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1793125973090832765'

@@ -3,6 +3,8 @@ title: 'Connecting the Dots: Drosophila Larval Brain Fully Mapped'
 draft: true
 date: 2022-11-30T14:07:29+00:00
 slug: '202211301407-connecting-drosophila-larval-brain'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1597834683513200640'

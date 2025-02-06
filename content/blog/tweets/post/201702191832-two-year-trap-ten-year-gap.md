@@ -3,6 +3,8 @@ title: 'The Two-Year Trap and the Ten-Year Gap'
 draft: true
 date: 2017-02-19T18:32:13+00:00
 slug: '201702191832-two-year-trap-ten-year-gap'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '833262910671446017'

@@ -3,6 +3,8 @@ title: 'Electrode to Joy: AI and Electrodes Enable Blind to See'
 draft: false
 date: 2021-10-24T17:15:03+00:00
 slug: '202110241715-electrode-to-joy'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1452217063406293000'

@@ -3,6 +3,8 @@ title: 'Wrong Turns Ahead: How Useless Theories Leapfrogged Science'
 draft: true
 date: 2019-01-29T22:26:30+00:00
 slug: '201901292226-wrong-turns-ahead'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1090254865568227329'

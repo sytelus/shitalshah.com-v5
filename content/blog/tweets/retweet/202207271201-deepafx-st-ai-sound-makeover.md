@@ -3,6 +3,8 @@ title: 'DeepAFx-ST: AI Gives Your Sound a Makeover'
 draft: true
 date: 2022-07-27T12:01:20+00:00
 slug: '202207271201-deepafx-st-ai-sound-makeover'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1552157165313335297'

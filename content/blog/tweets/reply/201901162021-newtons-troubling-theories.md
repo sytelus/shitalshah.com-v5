@@ -3,6 +3,8 @@ title: 'Newton''s Troubling Theories: Critics Push for Resolution'
 draft: true
 date: 2019-01-16T20:21:24+00:00
 slug: '201901162021-newtons-troubling-theories'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1085512342308249601'

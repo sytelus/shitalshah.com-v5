@@ -3,6 +3,8 @@ title: 'Digesting Galactica: Meta''s LLM Ideas Out of This World'
 draft: true
 date: 2022-11-26T12:17:17+00:00
 slug: '202211261217-digesting-galactica-meta-llm'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1596357398326755334'

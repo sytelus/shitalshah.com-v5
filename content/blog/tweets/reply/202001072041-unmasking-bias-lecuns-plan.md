@@ -3,6 +3,8 @@ title: 'Unmasking Bias: The Flaws in LeCun''s Plan'
 draft: true
 date: 2020-01-07T20:41:34+00:00
 slug: '202001072041-unmasking-bias-lecuns-plan'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1214527496332275712'

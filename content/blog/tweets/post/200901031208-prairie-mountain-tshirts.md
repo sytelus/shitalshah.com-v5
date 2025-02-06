@@ -3,6 +3,8 @@ title: 'Offline Treasures: Prairie Mountain''s Cool T-Shirts'
 draft: true
 date: 2009-01-03T12:08:37+00:00
 slug: '200901031208-prairie-mountain-tshirts'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1092857320'

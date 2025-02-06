@@ -3,6 +3,8 @@ title: 'Pixel Power: AI Masters DMControl in 100K Timesteps'
 draft: true
 date: 2020-04-09T11:23:13+00:00
 slug: '202004091123-pixel-power-dmcontrol-100k'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1248104152514756608'

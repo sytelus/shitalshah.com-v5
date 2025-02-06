@@ -3,6 +3,8 @@ title: 'Mining Value: Pondering Bitcoin vs. Gold'
 draft: true
 date: 2021-01-11T08:25:51+00:00
 slug: '202101110825-mining-bitcoin-vs-gold'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1348425857992331265'

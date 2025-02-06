@@ -3,6 +3,8 @@ title: 'Graph-mode Mania: PyTorch 2.0''s Eager Switcheroo'
 draft: false
 date: 2022-12-11T09:02:39+00:00
 slug: '202212110902-graph-mode-mania-pytorch-2'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1601744234666942464'

@@ -3,6 +3,8 @@ title: 'Google''s Sweet Solution: Needle-Free Glucose Monitoring'
 draft: true
 date: 2016-02-17T16:37:35+00:00
 slug: '201602171637-googles-sweet-solution'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '699875325690322944'

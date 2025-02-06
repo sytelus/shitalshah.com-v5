@@ -3,6 +3,8 @@ title: 'Depth, Width, and a Pinch of Attention: What''s New in Your Model?'
 draft: true
 date: 2024-11-05T07:24:00+00:00
 slug: '202411050724-depth-width-attention-model'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1853578975890804992'

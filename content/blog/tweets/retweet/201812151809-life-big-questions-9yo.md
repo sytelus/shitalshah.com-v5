@@ -3,6 +3,8 @@ title: 'Life''s Big Questions from a 9-Year-Old'
 draft: true
 date: 2018-12-15T18:09:40+00:00
 slug: '201812151809-life-big-questions-9yo'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1073882778423287809'

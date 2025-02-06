@@ -3,6 +3,8 @@ title: 'Time Stands Still, Knowledge Grows'
 draft: false
 date: 2019-02-27T14:16:10+00:00
 slug: '201902271416-time-stands-still-knowledge-grows'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1100640718152916992'

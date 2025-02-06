@@ -3,6 +3,8 @@ title: 'From Facts to Self-Discovery: The Teaching Spectrum'
 draft: true
 date: 2019-11-28T11:35:07+00:00
 slug: '201911281135-facts-to-self-discovery'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1199894462547128320'

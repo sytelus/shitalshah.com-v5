@@ -3,6 +3,8 @@ title: 'Speck-tacular Innovations You Never Knew'
 draft: false
 date: 2021-02-09T13:57:18+00:00
 slug: '202102091357-speck-tacular-innovations'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1359018516049915904'

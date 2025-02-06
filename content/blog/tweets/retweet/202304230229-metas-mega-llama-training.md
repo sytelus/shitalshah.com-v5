@@ -3,6 +3,8 @@ title: 'Meta''s Mega LLaMa Training: 2,048 GPUs over 5 Months'
 draft: true
 date: 2023-04-23T02:29:38+00:00
 slug: '202304230229-metas-mega-llama-training'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1649858014202175488'

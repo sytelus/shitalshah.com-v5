@@ -3,6 +3,8 @@ title: 'Certified in Dynamics CRM: Back to the Multiple Choice Era'
 draft: true
 date: 2009-08-20T09:31:52+00:00
 slug: '200908200931-certified-dynamics-crm-multiple-choice-era'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '3419065500'

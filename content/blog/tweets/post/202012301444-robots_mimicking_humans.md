@@ -3,6 +3,8 @@ title: 'Robots Mimicking Humans? Boston Dynamics'' Motion Capture'
 draft: false
 date: 2020-12-30T14:44:33+00:00
 slug: '202012301444-robots_mimicking_humans'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1344172504714076161'

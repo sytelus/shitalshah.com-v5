@@ -3,6 +3,8 @@ title: 'Slow and Steady: 1TB Format over eSATA at 17 MBps'
 draft: true
 date: 2010-01-06T15:49:38+00:00
 slug: '201001061549-slow-and-steady-1tb-esata-format'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '7434072000'

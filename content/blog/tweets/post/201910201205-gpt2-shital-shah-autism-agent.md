@@ -3,6 +3,8 @@ title: 'GPT-2 Predicts Shital Shah as Top Autism Agent'
 draft: false
 date: 2019-10-20T12:05:36+00:00
 slug: '201910201205-gpt2-shital-shah-autism-agent'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1185784108321886208'

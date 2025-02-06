@@ -3,6 +3,8 @@ title: 'Patently Official: My Invention Gets the Green Light'
 draft: true
 date: 2013-09-19T04:24:40+00:00
 slug: '201309190424-patently-official'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '380442272866631680'

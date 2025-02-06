@@ -3,6 +3,8 @@ title: 'AI''s Strange Symphony: Crafting Weird Sounds with MusicLM and AudioLDM'
 draft: true
 date: 2023-05-17T12:49:25+00:00
 slug: '202305171249-ais-strange-symphony'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1658711298794991616'

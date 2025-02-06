@@ -3,6 +3,8 @@ title: 'NOAA Where Else: The Source of All Forecasts'
 draft: true
 date: 2010-10-21T13:06:47+00:00
 slug: '201010211306-noaa-where-else'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '28001784595'

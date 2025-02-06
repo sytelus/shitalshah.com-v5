@@ -3,6 +3,8 @@ title: 'Million in a Month, Billion in 30 Years: Big Numbers Blown Up'
 draft: false
 date: 2020-01-28T23:23:51+00:00
 slug: '202001282323-million-in-a-month-billion-in-30-years'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1222178480965599233'

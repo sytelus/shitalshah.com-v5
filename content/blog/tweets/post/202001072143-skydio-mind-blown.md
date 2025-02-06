@@ -3,6 +3,8 @@ title: 'Skydio: Magic That Blows a Time Traveler''s Mind'
 draft: false
 date: 2020-01-07T21:43:14+00:00
 slug: '202001072143-skydio-mind-blown'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1214543014816731136'

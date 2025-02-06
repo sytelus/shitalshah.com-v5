@@ -3,6 +3,8 @@ title: 'AI Teaches Algorithms New Tricks'
 draft: true
 date: 2023-05-25T10:51:04+00:00
 slug: '202305251051-ai-teaches-algorithms'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1661580618235539456'

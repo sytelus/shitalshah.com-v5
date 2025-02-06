@@ -3,6 +3,8 @@ title: 'Trust Me, It''s AI: The Chain of Certification'
 draft: true
 date: 2020-12-07T22:39:11+00:00
 slug: '202012072239-trust-me-its-ai-chain-of-certification'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1335957031862202368'

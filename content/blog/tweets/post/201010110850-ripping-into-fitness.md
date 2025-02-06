@@ -3,6 +3,8 @@ title: 'Ripping into Fitness: Netflix at the Gym'
 draft: true
 date: 2010-10-11T08:50:51+00:00
 slug: '201010110850-ripping-into-fitness'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '26991056619'

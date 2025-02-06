@@ -3,6 +3,8 @@ title: 'ChatGPT''s ''Wait, what?'' Moment'
 draft: true
 date: 2023-12-17T11:23:59+00:00
 slug: '202312171123-chatgpts-wait-what-moment'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1736225701798584531'

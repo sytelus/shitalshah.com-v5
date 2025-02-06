@@ -3,6 +3,8 @@ title: 'OpenWebMath: 14B Tokens That Add Up'
 draft: false
 date: 2023-10-11T10:04:22+00:00
 slug: '202310111004-openwebmath-14b-tokens-that-add-up'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1711940776555634971'

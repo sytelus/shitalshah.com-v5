@@ -3,6 +3,8 @@ title: 'Lost in the Blog: Missing Results?'
 draft: true
 date: 2021-10-15T02:13:03+00:00
 slug: '202110150213-lost-in-the-blog-missing-results'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1448728577319456783'

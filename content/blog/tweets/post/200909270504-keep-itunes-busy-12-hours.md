@@ -3,6 +3,8 @@ title: 'How to Keep iTunes Busy for 12 Hours'
 draft: true
 date: 2009-09-27T05:04:24+00:00
 slug: '200909270504-keep-itunes-busy-12-hours'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '4403017230'

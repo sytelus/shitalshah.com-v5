@@ -3,6 +3,8 @@ title: 'Leaving Big Tech''s Cash Cushion for Startup Shares'
 draft: true
 date: 2023-01-16T12:26:47+00:00
 slug: '202301161226-big-tech-cash-to-startup-shares'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1614841572906135553'

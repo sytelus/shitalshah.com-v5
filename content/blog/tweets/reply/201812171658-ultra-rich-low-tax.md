@@ -3,6 +3,8 @@ title: 'Taxed and Confused: Why the Ultra-Rich Pay Less'
 draft: true
 date: 2018-12-17T16:58:04+00:00
 slug: '201812171658-ultra-rich-low-tax'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1074589533436489728'

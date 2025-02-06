@@ -3,6 +3,8 @@ title: 'Perish the "Publish or Perish," says Elon'
 draft: true
 date: 2018-11-23T18:47:21+00:00
 slug: '201811231847-perish-publish-or-perish'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1065919726327541761'

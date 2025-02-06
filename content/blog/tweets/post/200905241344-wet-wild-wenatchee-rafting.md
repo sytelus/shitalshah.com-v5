@@ -3,6 +3,8 @@ title: 'Wet ''n'' Wild Wenatchee: A Microsoft Rafting Adventure'
 draft: true
 date: 2009-05-24T13:44:09+00:00
 slug: '200905241344-wet-wild-wenatchee-rafting'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1900741154'

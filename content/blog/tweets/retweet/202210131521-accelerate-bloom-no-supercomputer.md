@@ -3,6 +3,8 @@ title: 'Accelerate Your Transformers: Run BLOOM Without a Supercomputer'
 draft: true
 date: 2022-10-13T15:21:07+00:00
 slug: '202210131521-accelerate-bloom-no-supercomputer'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1580473697340575744'

@@ -3,6 +3,8 @@ title: 'Resistance is Useful: Ferranti Mark I''s Random Bits at Turing''s Behest
 draft: true
 date: 2010-09-08T14:30:43+00:00
 slug: '201009081430-ferranti-mark-i-random-bits'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '23894316108'

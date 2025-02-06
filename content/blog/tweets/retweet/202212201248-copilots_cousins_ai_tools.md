@@ -3,6 +3,8 @@ title: 'Copilot''s Cousins: More AI Tools to Code Faster'
 draft: true
 date: 2022-12-20T12:48:48+00:00
 slug: '202212201248-copilots_cousins_ai_tools'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1605062637653409792'

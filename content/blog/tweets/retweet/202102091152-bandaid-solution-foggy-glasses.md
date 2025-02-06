@@ -3,6 +3,8 @@ title: 'A Bandaid Solution for Foggy Glasses'
 draft: true
 date: 2021-02-09T11:52:48+00:00
 slug: '202102091152-bandaid-solution-foggy-glasses'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1358987183751790593'

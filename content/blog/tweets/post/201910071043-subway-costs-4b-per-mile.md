@@ -3,6 +3,8 @@ title: 'Digging for Gold: Subway Miles Now Cost $4B'
 draft: false
 date: 2019-10-07T10:43:25+00:00
 slug: '201910071043-subway-costs-4b-per-mile'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1181052383024930817'

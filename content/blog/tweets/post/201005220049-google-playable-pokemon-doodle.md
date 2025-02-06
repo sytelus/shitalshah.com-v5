@@ -3,6 +3,8 @@ title: 'Google''s Playable Pokémon Doodle: Gotta Play ''Em All!'
 draft: true
 date: 2010-05-22T00:49:25+00:00
 slug: '201005220049-google-playable-pokemon-doodle'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '14443274727'

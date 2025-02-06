@@ -3,6 +3,8 @@ title: 'Token Troubles and Beam Blunders: LLMs Need a Plan'
 draft: false
 date: 2023-07-03T15:38:30+00:00
 slug: '202307031538-token-troubles-beam-blunders'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1675786077108572161'

@@ -3,6 +3,8 @@ title: 'PaperBrain: Your Research Decoder Ring'
 draft: true
 date: 2023-01-31T09:14:50+00:00
 slug: '202301310914-paperbrain-research-decoder'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1620229081559355396'

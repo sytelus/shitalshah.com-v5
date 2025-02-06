@@ -3,6 +3,8 @@ title: 'No Soldiers, No Problem: The Rise of Autonomous Warfare'
 draft: true
 date: 2019-10-20T21:45:02+00:00
 slug: '201910202145-rise-of-autonomous-warfare'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1185929925129195520'

@@ -3,6 +3,8 @@ title: 'AI Soars in Go, Crashes in Drone Racing'
 draft: false
 date: 2019-12-11T08:07:59+00:00
 slug: '201912110807-ai-soars-in-go-crashes-in-drone'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1204553377310330880'

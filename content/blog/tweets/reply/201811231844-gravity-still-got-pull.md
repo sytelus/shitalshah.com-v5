@@ -3,6 +3,8 @@ title: 'Gravity''s Still Got Pull: Newton, Einstein, and the Power of Numbers'
 draft: true
 date: 2018-11-23T18:44:40+00:00
 slug: '201811231844-gravity-still-got-pull'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1065919050587369472'

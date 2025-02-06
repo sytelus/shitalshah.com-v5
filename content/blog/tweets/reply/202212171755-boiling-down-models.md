@@ -3,6 +3,8 @@ title: 'Boiling Down Models: The Gains from Distillation'
 draft: true
 date: 2022-12-17T17:55:03+00:00
 slug: '202212171755-boiling-down-models'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1604052547031142402'

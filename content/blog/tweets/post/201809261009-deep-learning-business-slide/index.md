@@ -3,6 +3,8 @@ title: 'Deep Learning for Business: The Slide to End All Slides'
 draft: false
 date: 2018-09-26T10:09:42+00:00
 slug: '201809261009-deep-learning-business-slide'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1044786058414612480'

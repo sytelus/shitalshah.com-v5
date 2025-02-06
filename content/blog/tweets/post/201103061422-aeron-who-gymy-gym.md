@@ -3,6 +3,8 @@ title: 'Aeron Who? GymyGym Lets You Exercise While You Work'
 draft: true
 date: 2011-03-06T14:22:09+00:00
 slug: '201103061422-aeron-who-gymy-gym'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '44281592587354112'

@@ -3,6 +3,8 @@ title: 'Juneau''s Fireworks on Layaway for Statehood''s 50th'
 draft: true
 date: 2009-01-01T18:22:37+00:00
 slug: '200901011822-juneau-fireworks-50th'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1089786919'

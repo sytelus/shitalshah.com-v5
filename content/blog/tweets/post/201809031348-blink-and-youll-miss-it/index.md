@@ -3,6 +3,8 @@ title: 'Blink and You''ll Miss It: Visual Cortex Pipeline Timings'
 draft: false
 date: 2018-09-03T13:48:34+00:00
 slug: '201809031348-blink-and-youll-miss-it'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1036506218947170304'

@@ -3,6 +3,8 @@ title: 'Attention Please: How Encoder-Decoders Focus'
 draft: true
 date: 2021-10-31T15:43:32+00:00
 slug: '202110311543-attention-please-how-encoder-decoders-focus'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1454730745805561858'

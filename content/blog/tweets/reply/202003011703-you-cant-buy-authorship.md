@@ -3,6 +3,8 @@ title: 'You Can''t Buy Authorship, Says ICMJE'
 draft: true
 date: 2020-03-01T17:03:59+00:00
 slug: '202003011703-you-cant-buy-authorship'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1234041683827818496'

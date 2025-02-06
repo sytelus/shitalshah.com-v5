@@ -3,6 +3,8 @@ title: 'Approximate Your Functions: Let AI Write Your Prompts'
 draft: false
 date: 2021-01-08T09:24:48+00:00
 slug: '202101080924-approximate-your-functions'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1347353527895552001'

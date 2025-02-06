@@ -3,6 +3,8 @@ title: 'Human Training Costs: Defying Moore''s Law'
 draft: true
 date: 2020-02-03T12:17:45+00:00
 slug: '202002031217-human-training-costs-defying-moores-law'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1224185176546144256'

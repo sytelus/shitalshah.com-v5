@@ -3,6 +3,8 @@ title: 'Waiting for Self-Driving Cars: Progress Stuck in Traffic'
 draft: true
 date: 2024-02-25T18:03:16+00:00
 slug: '202402251803-waiting-for-self-driving-cars'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1761693337034096970'

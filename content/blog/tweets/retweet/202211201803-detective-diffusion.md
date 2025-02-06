@@ -3,6 +3,8 @@ title: 'Detective Diffusion: Object Detection Gets Diffused'
 draft: true
 date: 2022-11-20T18:03:28+00:00
 slug: '202211201803-detective-diffusion'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1594270190812147714'

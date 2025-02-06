@@ -3,6 +3,8 @@ title: 'Dubai Déjà View: Our Journey Replayed'
 draft: true
 date: 2015-04-04T10:31:08+00:00
 slug: '201504041031-dubai-deja-view'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '584196476647018499'

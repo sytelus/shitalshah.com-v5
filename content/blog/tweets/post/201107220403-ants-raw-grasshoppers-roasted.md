@@ -3,6 +3,8 @@ title: 'Survival Cuisine: Raw Ants, Roasted Grasshoppers'
 draft: true
 date: 2011-07-22T04:03:35+00:00
 slug: '201107220403-ants-raw-grasshoppers-roasted'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '94150550827966464'

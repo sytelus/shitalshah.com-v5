@@ -3,6 +3,8 @@ title: 'Copernicus Redux: Not the Center of Creativity'
 draft: false
 date: 2023-01-10T19:33:26+00:00
 slug: '202301101933-copernicus-redux-not-center'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1612774613767041025'

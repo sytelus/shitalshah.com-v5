@@ -3,6 +3,8 @@ title: 'Algorithms Need Social Skills'
 draft: true
 date: 2020-06-28T14:49:29+00:00
 slug: '202006281449-algorithms-need-social-skills'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1277147089495982080'

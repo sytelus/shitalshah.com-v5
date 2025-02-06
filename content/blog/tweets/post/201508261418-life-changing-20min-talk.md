@@ -3,6 +3,8 @@ title: 'Warning: This 20-Minute Talk May Change Your Life!'
 draft: true
 date: 2015-08-26T14:18:18+00:00
 slug: '201508261418-life-changing-20min-talk'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '636437498034548736'

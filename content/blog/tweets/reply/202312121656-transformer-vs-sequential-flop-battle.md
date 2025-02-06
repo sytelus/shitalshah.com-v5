@@ -3,6 +3,8 @@ title: 'Transformer vs Sequential: The FLOP Battle'
 draft: true
 date: 2023-12-12T16:56:02+00:00
 slug: '202312121656-transformer-vs-sequential-flop-battle'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1734497324951621925'

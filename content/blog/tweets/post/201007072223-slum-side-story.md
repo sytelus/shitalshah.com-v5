@@ -3,6 +3,8 @@ title: 'Slum Side Story: Hiking to Helipads'
 draft: true
 date: 2010-07-07T22:23:35+00:00
 slug: '201007072223-slum-side-story'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '17956744486'

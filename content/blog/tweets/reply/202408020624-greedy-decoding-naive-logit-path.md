@@ -3,6 +3,8 @@ title: 'Greedy Decoding: Naively Picking One Logit Path'
 draft: true
 date: 2024-08-02T06:24:13+00:00
 slug: '202408020624-greedy-decoding-naive-logit-path'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1819152183138701585'

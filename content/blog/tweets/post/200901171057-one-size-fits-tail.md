@@ -3,6 +3,8 @@ title: 'One Size Fits Tail: Snowshoe Rentals and Detachable Tails'
 draft: true
 date: 2009-01-17T10:57:04+00:00
 slug: '200901171057-one-size-fits-tail'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1125380189'

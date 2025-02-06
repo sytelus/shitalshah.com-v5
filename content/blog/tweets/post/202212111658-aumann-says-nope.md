@@ -3,6 +3,8 @@ title: 'Agree to Disagree? Aumann Says Nope!'
 draft: false
 date: 2022-12-11T16:58:00+00:00
 slug: '202212111658-aumann-says-nope'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1601863859975118848'

@@ -3,6 +3,8 @@ title: 'No Visionaries Needed: Hire Dreamers, Reflect Wisdom'
 draft: true
 date: 2021-02-13T13:14:46+00:00
 slug: '202102131314-hire-dreamers-reflect-wisdom'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1360457364323721221'

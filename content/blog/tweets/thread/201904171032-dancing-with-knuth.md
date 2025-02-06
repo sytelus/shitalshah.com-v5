@@ -3,6 +3,8 @@ title: 'Dancing with Knuth: Linked Lists and the NP-Complete Two-Step'
 draft: false
 date: 2019-04-17T10:32:21+00:00
 slug: '201904171032-dancing-with-knuth'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1118356498147446784'

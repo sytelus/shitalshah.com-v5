@@ -3,6 +3,8 @@ title: 'Aligning ChatGPT: Be Careful What You Wish For'
 draft: true
 date: 2022-12-17T17:06:21+00:00
 slug: '202212171706-aligning-chatgpt-careful-wish'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1604040291308417024'

@@ -3,6 +3,8 @@ title: 'Neighborly Python: KNN in 30 Lines'
 draft: true
 date: 2021-10-09T15:27:32+00:00
 slug: '202110091527-neighborly-python-knn-30-lines'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1446754187501453320'

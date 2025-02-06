@@ -3,6 +3,8 @@ title: 'Brewing Better Stochastic Automata'
 draft: true
 date: 2024-10-21T12:16:49+00:00
 slug: '202410211216-brewing-better-stochastic-automata'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1848231946658414825'

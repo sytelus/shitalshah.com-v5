@@ -3,6 +3,8 @@ title: 'Hotter Than Ever: Mumbai''s Endless Summer'
 draft: false
 date: 2018-09-01T15:44:10+00:00
 slug: '201809011544-hotter-than-ever-mumbai'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1035810533331546112'

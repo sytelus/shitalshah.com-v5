@@ -3,6 +3,8 @@ title: 'When ChatGPT Went Boom!'
 draft: false
 date: 2022-12-02T11:43:09+00:00
 slug: '202212021143-when-chatgpt-went-boom'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1598523136177508356'

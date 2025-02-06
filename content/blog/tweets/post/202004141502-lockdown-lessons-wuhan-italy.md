@@ -3,6 +3,8 @@ title: 'Are We There Yet? Lockdown Lessons from Wuhan and Italy'
 draft: false
 date: 2020-04-14T15:02:49+00:00
 slug: '202004141502-lockdown-lessons-wuhan-italy'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1249971355249860609'

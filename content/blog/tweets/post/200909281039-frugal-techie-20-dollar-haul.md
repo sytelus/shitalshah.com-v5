@@ -3,6 +3,8 @@ title: 'Frugal Techie: Scored All This Gear for $20!'
 draft: true
 date: 2009-09-28T10:39:48+00:00
 slug: '200909281039-frugal-techie-20-dollar-haul'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '4434183235'

@@ -3,6 +3,8 @@ title: '$120K: Funding Your 90% Chance of Failure'
 draft: true
 date: 2018-05-16T15:48:24+00:00
 slug: '201805161548-120k-funding-your-90-percent-chance-of-failure'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '996673712249188352'

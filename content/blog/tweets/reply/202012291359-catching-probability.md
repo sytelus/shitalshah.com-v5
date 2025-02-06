@@ -3,6 +3,8 @@ title: 'Catching Probability: From Dumb Luck to Estimation'
 draft: true
 date: 2020-12-29T13:59:29+00:00
 slug: '202012291359-catching-probability'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1343798775412736002'

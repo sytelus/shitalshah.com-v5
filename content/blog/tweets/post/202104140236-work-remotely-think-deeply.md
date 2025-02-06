@@ -3,6 +3,8 @@ title: 'Work Remotely, Think Deeply: Microsoft Hiring LATAM Engineers'
 draft: false
 date: 2021-04-14T02:36:30+00:00
 slug: '202104140236-work-remotely-think-deeply'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1382055109463461892'

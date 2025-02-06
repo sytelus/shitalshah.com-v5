@@ -3,6 +3,8 @@ title: 'Law & Disorder: Autocrats Edition'
 draft: true
 date: 2021-01-09T18:41:01+00:00
 slug: '202101091841-law-disorder-autocrats'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1347855894353047552'

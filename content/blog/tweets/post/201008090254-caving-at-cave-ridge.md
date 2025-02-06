@@ -3,6 +3,8 @@ title: 'Caving at Cave Ridge: When 2000'' Hike is Just the Warm-Up!'
 draft: true
 date: 2010-08-09T02:54:56+00:00
 slug: '201008090254-caving-at-cave-ridge'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '20650958628'

@@ -3,6 +3,8 @@ title: 'Even Penn and Teller Can''t Deal with This Card Trick'
 draft: true
 date: 2017-04-28T15:06:00+00:00
 slug: '201704281506-even-penn-and-teller-cant-deal-with-this-card-trick'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '857868486407708673'

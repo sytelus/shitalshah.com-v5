@@ -3,6 +3,8 @@ title: 'Phone 6 Camera Pixels: Same Old Size'
 draft: true
 date: 2014-09-29T18:06:16+00:00
 slug: '201409291806-iphone6-camera-same-pixel-size'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '516544484218138624'

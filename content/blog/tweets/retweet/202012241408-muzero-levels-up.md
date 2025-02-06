@@ -3,6 +3,8 @@ title: 'MuZero Levels Up: Published in Nature'
 draft: true
 date: 2020-12-24T14:08:45+00:00
 slug: '202012241408-muzero-levels-up'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1341989170370113536'

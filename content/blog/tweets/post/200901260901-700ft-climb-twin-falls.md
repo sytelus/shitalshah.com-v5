@@ -3,6 +3,8 @@ title: '700ft Climb to Twin Falls Delight'
 draft: true
 date: 2009-01-26T09:01:14+00:00
 slug: '200901260901-700ft-climb-twin-falls'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1147877743'

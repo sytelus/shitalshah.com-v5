@@ -3,6 +3,8 @@ title: 'Dialing Dollar at MDW: The Direct Line'
 draft: true
 date: 2010-12-13T07:58:50+00:00
 slug: '201012130758-dollar-mdw-direct-line'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '14106935842312192'

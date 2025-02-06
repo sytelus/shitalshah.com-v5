@@ -3,6 +3,8 @@ title: 'Flappy Bird Fatigue: AI Needs AIME and Codeforces'
 draft: true
 date: 2025-01-27T23:46:25+00:00
 slug: '202501272346-flappy-bird-fatigue-ai-needs-aime-codeforces'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1883904403478036882'

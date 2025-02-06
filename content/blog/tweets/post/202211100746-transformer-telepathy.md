@@ -3,6 +3,8 @@ title: 'Transformer Telepathy: Estimating Flops with Just a Glance'
 draft: false
 date: 2022-11-10T07:46:40+00:00
 slug: '202211100746-transformer-telepathy'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1590491090159046656'

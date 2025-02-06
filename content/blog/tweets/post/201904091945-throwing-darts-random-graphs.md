@@ -3,6 +3,8 @@ title: 'Throwing Darts at Neural Nets: Random Graphs Keep Up'
 draft: false
 date: 2019-04-09T19:45:34+00:00
 slug: '201904091945-throwing-darts-random-graphs'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1115596614674964480'

@@ -3,6 +3,8 @@ title: 'Prune to Perfection: Magic Pyramid''s Shortcut to Faster AI'
 draft: true
 date: 2021-11-02T12:52:49+00:00
 slug: '202111021252-prune-to-perfection-magic-pyramid'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1455412562946785280'

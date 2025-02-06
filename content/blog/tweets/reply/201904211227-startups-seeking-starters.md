@@ -3,6 +3,8 @@ title: 'Startups Seeking Starters'
 draft: true
 date: 2019-04-21T12:27:27+00:00
 slug: '201904211227-startups-seeking-starters'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1119835013371981824'

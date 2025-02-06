@@ -3,6 +3,8 @@ title: 'Epic Man Weekend: Guns, Potatoes, and Pumpkins'
 draft: true
 date: 2010-10-23T12:05:27+00:00
 slug: '201010231205-epic-man-weekend-guns-potatoes-pumpkins'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '28473578838'

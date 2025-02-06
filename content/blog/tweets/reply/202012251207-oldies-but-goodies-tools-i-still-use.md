@@ -3,6 +3,8 @@ title: 'Oldies but Goodies: Tools I Still Use'
 draft: true
 date: 2020-12-25T12:07:23+00:00
 slug: '202012251207-oldies-but-goodies-tools-i-still-use'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1342321012101193729'

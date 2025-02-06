@@ -3,6 +3,8 @@ title: 'Neural Magic Makes BERT Fly with Quantized Sparsity'
 draft: true
 date: 2022-04-22T21:20:11+00:00
 slug: '202204222120-neural-magic-makes-bert-fly'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1517508568152346625'

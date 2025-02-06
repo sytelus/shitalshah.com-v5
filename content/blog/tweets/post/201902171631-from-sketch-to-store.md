@@ -3,6 +3,8 @@ title: 'From Sketch to Store: Seeking Real-World Product Design Guides'
 draft: false
 date: 2019-02-17T16:31:35+00:00
 slug: '201902171631-from-sketch-to-store'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1097050917990391808'

@@ -3,6 +3,8 @@ title: 'When Algorithms See Green: Context Matters'
 draft: true
 date: 2020-12-23T13:47:38+00:00
 slug: '202012231347-when-algorithms-see-green'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1341621467906117634'

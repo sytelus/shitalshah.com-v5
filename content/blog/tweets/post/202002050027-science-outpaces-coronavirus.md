@@ -3,6 +3,8 @@ title: 'Science Outpaces Coronavirus: 30 Papers in 12 Days'
 draft: false
 date: 2020-02-05T00:27:00+00:00
 slug: '202002050027-science-outpaces-coronavirus'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1224731087189921792'

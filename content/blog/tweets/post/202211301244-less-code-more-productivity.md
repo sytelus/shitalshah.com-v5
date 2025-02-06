@@ -3,6 +3,8 @@ title: 'Less Code, More Productivity: My -2000 LOC Day'
 draft: false
 date: 2022-11-30T12:44:33+00:00
 slug: '202211301244-less-code-more-productivity'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1597813811838582784'

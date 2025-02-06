@@ -3,6 +3,8 @@ title: 'Rock Stars: Paleontology''s Biggest Discovery Yet'
 draft: false
 date: 2019-04-03T13:01:22+00:00
 slug: '201904031301-rock-stars-paleontologys-biggest-discovery'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1113320567057321984'

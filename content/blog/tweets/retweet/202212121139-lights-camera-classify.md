@@ -3,6 +3,8 @@ title: 'Lights, Camera, Classify! Try Video Models with Gradio'
 draft: true
 date: 2022-12-12T11:39:40+00:00
 slug: '202212121139-lights-camera-classify'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1602146140497268738'

@@ -3,6 +3,8 @@ title: 'Quantum''s Crooked RCS Benchmark: A Drop Too Far'
 draft: false
 date: 2024-12-10T10:13:48+00:00
 slug: '202412101013-quantum-crooked-rcs-benchmark'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1866305283783561593'

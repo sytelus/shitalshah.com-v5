@@ -3,6 +3,8 @@ title: 'FP8: The Byte-Sized Secret to Faster Training'
 draft: true
 date: 2024-10-23T07:59:22+00:00
 slug: '202410230759-fp8-faster-training'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1848891932375957842'

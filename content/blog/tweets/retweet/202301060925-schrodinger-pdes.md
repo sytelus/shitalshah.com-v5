@@ -3,6 +3,8 @@ title: 'Schrödinger''s Makeover: Rewriting PDEs for Quantum Solutions'
 draft: true
 date: 2023-01-06T09:25:34+00:00
 slug: '202301060925-schrodinger-pdes'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1611172087150030848'

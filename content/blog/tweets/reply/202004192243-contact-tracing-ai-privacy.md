@@ -3,6 +3,8 @@ title: 'Contact Tracing 2.0: AI, Privacy, and Phones Unite!'
 draft: true
 date: 2020-04-19T22:43:55+00:00
 slug: '202004192243-contact-tracing-ai-privacy'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1251899334683004930'

@@ -3,6 +3,8 @@ title: 'Dijkstra''s Weekly Wisdom: The EWD Chronicles'
 draft: false
 date: 2020-11-02T00:16:00+00:00
 slug: '202011020016-dijkstras-weekly-wisdom'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1322935430556356610'

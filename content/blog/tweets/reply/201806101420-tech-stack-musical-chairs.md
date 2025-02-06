@@ -3,6 +3,8 @@ title: 'Tech Stack Musical Chairs: Where''s the Progress?'
 draft: true
 date: 2018-06-10T14:20:54+00:00
 slug: '201806101420-tech-stack-musical-chairs'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1005711387950133253'

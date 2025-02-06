@@ -3,6 +3,8 @@ title: 'Elevate Your Math: The Double-and-Divide Hike Grade Formula'
 draft: true
 date: 2010-10-21T06:39:35+00:00
 slug: '201010210639-elevate-your-math-hike-grade'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '27975687509'

@@ -3,6 +3,8 @@ title: 'Fuse It or Lose It: Efficient Benchmarking of 100B+ Models'
 draft: true
 date: 2023-04-16T02:59:45+00:00
 slug: '202304160259-fuse-it-or-lose-it'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1647328879751700481'

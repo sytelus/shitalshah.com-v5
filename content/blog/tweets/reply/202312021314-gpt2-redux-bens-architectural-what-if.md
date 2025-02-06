@@ -3,6 +3,8 @@ title: 'Dreaming of GPT-2 Redux: Ben''s Architectural What-If'
 draft: true
 date: 2023-12-02T13:14:19+00:00
 slug: '202312021314-gpt2-redux-bens-architectural-what-if'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1730817650010513696'

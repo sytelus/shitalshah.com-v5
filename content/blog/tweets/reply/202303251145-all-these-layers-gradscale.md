@@ -3,6 +3,8 @@ title: 'All These Layers? Can''t We Just GradScale It?'
 draft: true
 date: 2023-03-25T11:45:20+00:00
 slug: '202303251145-all-these-layers-gradscale'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1639488615553306627'

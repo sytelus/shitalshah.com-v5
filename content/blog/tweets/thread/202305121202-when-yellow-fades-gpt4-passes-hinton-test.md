@@ -3,6 +3,8 @@ title: 'When Yellow Fades: GPT-4 Passes Hinton''s Paint Test While Bard Falls Sh
 draft: false
 date: 2023-05-12T12:02:24+00:00
 slug: '202305121202-when-yellow-fades-gpt4-passes-hinton-test'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1656887527851294720'

@@ -3,6 +3,8 @@ title: 'Flying Cars Denied, Tweets Supplied'
 draft: true
 date: 2020-12-31T14:14:47+00:00
 slug: '202012311414-flying_cars_vs_tweets'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1344527402697859072'

@@ -3,6 +3,8 @@ title: 'From Simulations to Sidewalks: PPO''s Real-World Run'
 draft: true
 date: 2018-09-04T13:57:33+00:00
 slug: '201809041357-ppo-simulations-to-sidewalks'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1036870869165924352'

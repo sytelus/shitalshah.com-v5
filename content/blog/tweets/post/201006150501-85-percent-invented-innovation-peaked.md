@@ -3,6 +3,8 @@ title: '85% Invented: Has Innovation Peaked?'
 draft: true
 date: 2010-06-15T05:01:45+00:00
 slug: '201006150501-85-percent-invented-innovation-peaked'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '16179057410'

@@ -3,6 +3,8 @@ title: 'AI Revolution: A PhD a Day'
 draft: true
 date: 2024-06-07T12:45:30+00:00
 slug: '202406071245-ai-revolution-phd-a-day'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1798954416642601357'

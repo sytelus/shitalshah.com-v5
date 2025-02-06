@@ -3,6 +3,8 @@ title: 'Mind Reading for “It Doesn''t Work” Issues'
 draft: true
 date: 2018-11-29T19:20:21+00:00
 slug: '201811291920-mind-reading-for-it-doesnt-work-issues'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1068102359509692416'

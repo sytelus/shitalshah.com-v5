@@ -3,6 +3,8 @@ title: 'Caplan''s Unbeaten Betting Streak Ends'
 draft: true
 date: 2023-03-22T12:59:34+00:00
 slug: '202303221259-caplan-unbeaten-streak-ends'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1638420133390741504'

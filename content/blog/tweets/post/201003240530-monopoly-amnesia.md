@@ -3,6 +3,8 @@ title: 'Monopoly Amnesia'
 draft: true
 date: 2010-03-24T05:30:12+00:00
 slug: '201003240530-monopoly-amnesia'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '10947243241'

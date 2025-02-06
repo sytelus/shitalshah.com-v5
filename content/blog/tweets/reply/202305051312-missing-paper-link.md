@@ -3,6 +3,8 @@ title: 'The Mysterious Missing Paper Link'
 draft: true
 date: 2023-05-05T13:12:17+00:00
 slug: '202305051312-missing-paper-link'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1654368399445889024'

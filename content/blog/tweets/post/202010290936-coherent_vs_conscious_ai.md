@@ -3,6 +3,8 @@ title: 'Being Coherent Isn’t Being Conscious: AI’s Missing Desires'
 draft: false
 date: 2020-10-29T09:36:26+00:00
 slug: '202010290936-coherent_vs_conscious_ai'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1321642016531312641'

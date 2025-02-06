@@ -3,6 +3,8 @@ title: 'Tick-Tock, Look Who''s Laughing: Apple Watch Hits $6B'
 draft: false
 date: 2018-09-14T10:53:43+00:00
 slug: '201809141053-tick-tock-apple-watch-6b'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1040448482807406592'

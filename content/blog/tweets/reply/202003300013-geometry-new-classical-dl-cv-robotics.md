@@ -3,6 +3,8 @@ title: 'Geometry is the New "Classical" in DL-Flooded CV and Robotics'
 draft: true
 date: 2020-03-30T00:13:46+00:00
 slug: '202003300013-geometry-new-classical-dl-cv-robotics'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1244311802449555458'

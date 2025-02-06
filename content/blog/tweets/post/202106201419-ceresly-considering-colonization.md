@@ -3,6 +3,8 @@ title: 'Ceres-ly Considering Colonization: Earth''s Gravity Problem'
 draft: false
 date: 2021-06-20T14:19:03+00:00
 slug: '202106201419-ceresly-considering-colonization'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1406511899060051968'

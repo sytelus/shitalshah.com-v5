@@ -3,6 +3,8 @@ title: 'Humans: 16 Years of Training Data Required'
 draft: true
 date: 2020-12-20T12:34:37+00:00
 slug: '202012201234-humans-16-years-of-training-data-required'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1340515929734610944'

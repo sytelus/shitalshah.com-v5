@@ -3,6 +3,8 @@ title: 'Less is More: Generating Images with Sparse Representations'
 draft: true
 date: 2021-03-09T19:11:04+00:00
 slug: '202103091911-less-is-more-images-sparse'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1369244338170044421'

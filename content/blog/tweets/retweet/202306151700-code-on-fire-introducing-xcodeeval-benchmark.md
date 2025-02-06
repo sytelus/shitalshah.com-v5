@@ -3,6 +3,8 @@ title: 'Code on Fire: Introducing xCodeEval Benchmark'
 draft: true
 date: 2023-06-15T17:00:03+00:00
 slug: '202306151700-code-on-fire-introducing-xcodeeval-benchmark'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1669283620044038145'

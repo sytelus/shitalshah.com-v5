@@ -3,6 +3,8 @@ title: 'Flan-UL2 20B: The Sweetest Open-Source Treat!'
 draft: true
 date: 2023-03-03T09:39:55+00:00
 slug: '202303030939-flan-ul2-20b-open-source'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1631469420655837184'

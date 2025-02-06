@@ -3,6 +3,8 @@ title: 'When Grad-CAM Flunks Chest X-rays'
 draft: false
 date: 2021-03-05T14:50:48+00:00
 slug: '202103051450-grad-cam-chest-xray'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1367729287999070209'

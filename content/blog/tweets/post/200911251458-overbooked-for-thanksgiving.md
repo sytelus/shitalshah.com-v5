@@ -3,6 +3,8 @@ title: 'Overbooked for Thanksgiving'
 draft: true
 date: 2009-11-25T14:58:00+00:00
 slug: '200911251458-overbooked-for-thanksgiving'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '6043383550'

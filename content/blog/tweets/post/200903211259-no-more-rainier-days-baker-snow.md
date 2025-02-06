@@ -3,6 +3,8 @@ title: 'No More Rainier Days: Off to Mt Baker''s New Snow'
 draft: true
 date: 2009-03-21T12:59:53+00:00
 slug: '200903211259-no-more-rainier-days-baker-snow'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1364823747'

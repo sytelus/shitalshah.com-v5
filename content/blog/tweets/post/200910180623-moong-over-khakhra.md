@@ -3,6 +3,8 @@ title: 'Moong Over Khakhra: Diwali Breakfast Delight'
 draft: true
 date: 2009-10-18T06:23:07+00:00
 slug: '200910180623-moong-over-khakhra'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '4953730866'

@@ -3,6 +3,8 @@ title: 'King County''s Quake Quicksand'
 draft: true
 date: 2015-07-15T04:33:48+00:00
 slug: '201507150433-king-county-quake-quicksand'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '621070114037698560'

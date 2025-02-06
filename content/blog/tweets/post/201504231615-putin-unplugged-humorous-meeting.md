@@ -3,6 +3,8 @@ title: 'Putin Unplugged: A Surprisingly Humorous Meeting'
 draft: true
 date: 2015-04-23T16:15:08+00:00
 slug: '201504231615-putin-unplugged-humorous-meeting'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '591168415634694144'

@@ -3,6 +3,8 @@ title: '20k vs 50k: The Great Cool Down Debate'
 draft: true
 date: 2023-08-07T04:22:30+00:00
 slug: '202308070422-20k-vs-50k-cool-down'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1688299533103697920'

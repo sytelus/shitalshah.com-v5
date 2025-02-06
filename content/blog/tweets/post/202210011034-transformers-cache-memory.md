@@ -3,6 +3,8 @@ title: 'Cache Me If You Can: Giving Transformers a Memory'
 draft: false
 date: 2022-10-01T10:34:01+00:00
 slug: '202210011034-transformers-cache-memory'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1576052788814979072'

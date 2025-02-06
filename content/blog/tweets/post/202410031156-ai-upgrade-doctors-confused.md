@@ -3,6 +3,8 @@ title: 'AI Upgrade: 97% Accurate, Doctors 100% Confused'
 draft: false
 date: 2024-10-03T11:56:19+00:00
 slug: '202410031156-ai-upgrade-doctors-confused'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1841703809078460758'

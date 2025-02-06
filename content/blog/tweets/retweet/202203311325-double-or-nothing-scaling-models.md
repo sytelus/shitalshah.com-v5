@@ -3,6 +3,8 @@ title: 'Double or Nothing: Scaling Models and Tokens Equally'
 draft: true
 date: 2022-03-31T13:25:17+00:00
 slug: '202203311325-double-or-nothing-scaling-models'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1509416524418732036'

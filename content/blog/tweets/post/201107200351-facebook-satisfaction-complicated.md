@@ -3,6 +3,8 @@ title: 'Facebook''s Customer Satisfaction: It''s Complicated'
 draft: true
 date: 2011-07-20T03:51:25+00:00
 slug: '201107200351-facebook-satisfaction-complicated'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '93422714454425601'

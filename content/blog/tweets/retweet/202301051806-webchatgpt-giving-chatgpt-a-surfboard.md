@@ -3,6 +3,8 @@ title: 'WebChatGPT: Giving ChatGPT a Surfboard'
 draft: true
 date: 2023-01-05T18:06:25+00:00
 slug: '202301051806-webchatgpt-giving-chatgpt-a-surfboard'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1610940775189344256'

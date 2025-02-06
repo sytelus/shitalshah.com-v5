@@ -3,6 +3,8 @@ title: 'Frosty Breaths: Wim Hof Would Approve'
 draft: false
 date: 2018-12-28T10:43:47+00:00
 slug: '201812281043-frosty-breaths-wim-hof'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1078481608884117504'

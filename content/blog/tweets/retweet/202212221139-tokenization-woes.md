@@ -3,6 +3,8 @@ title: 'Tokenization Woes: Don''t Let Tokens Hold You Back!'
 draft: true
 date: 2022-12-22T11:39:55+00:00
 slug: '202212221139-tokenization-woes'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1605770079777742849'

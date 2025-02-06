@@ -3,6 +3,8 @@ title: 'Make-A-Scene Makes a Scene in Text-to-Image Generation'
 draft: true
 date: 2022-03-26T03:54:37+00:00
 slug: '202203260354-make-a-scene-sota'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1507460971429711872'

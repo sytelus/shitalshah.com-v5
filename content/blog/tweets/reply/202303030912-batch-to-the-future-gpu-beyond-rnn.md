@@ -3,6 +3,8 @@ title: 'Batch to the Future: Unlocking GPU Power Beyond RNN Iteration'
 draft: true
 date: 2023-03-03T09:12:15+00:00
 slug: '202303030912-batch-to-the-future-gpu-beyond-rnn'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1631462457024864256'

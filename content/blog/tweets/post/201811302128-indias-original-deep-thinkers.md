@@ -3,6 +3,8 @@ title: 'India''s Original Deep Thinkers'
 draft: false
 date: 2018-11-30T21:28:26+00:00
 slug: '201811302128-indias-original-deep-thinkers'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1068496980265988096'

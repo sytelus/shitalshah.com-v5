@@ -3,6 +3,8 @@ title: 'Booked Solid: Climbing, Sailing, and Ice Axes'
 draft: true
 date: 2012-03-09T09:18:09+00:00
 slug: '201203090918-booked-solid-climbing-sailing'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '177926212650414080'

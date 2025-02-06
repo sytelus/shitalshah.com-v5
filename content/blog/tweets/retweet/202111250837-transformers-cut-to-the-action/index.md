@@ -3,6 +3,8 @@ title: 'Transformers That Cut to the Action'
 draft: true
 date: 2021-11-25T08:37:31+00:00
 slug: '202111250837-transformers-cut-to-the-action'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1463668135676968968'

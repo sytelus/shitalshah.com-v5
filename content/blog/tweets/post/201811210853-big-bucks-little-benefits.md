@@ -3,6 +3,8 @@ title: 'Big Bucks, Little Benefits: The 36K Corporate Giants'
 draft: false
 date: 2018-11-21T08:53:02+00:00
 slug: '201811210853-big-bucks-little-benefits'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1065045385062703104'

@@ -3,6 +3,8 @@ title: 'Self-Playing AI: The Data Generation Loop'
 draft: true
 date: 2024-10-21T15:36:29+00:00
 slug: '202410211536-self-playing-ai-data-loop'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1848282195309604879'

@@ -3,6 +3,8 @@ title: 'Feeding M3U Files to Hungry iTunes'
 draft: true
 date: 2010-03-29T09:48:11+00:00
 slug: '201003290948-feeding-m3u-to-itunes'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '11227534583'

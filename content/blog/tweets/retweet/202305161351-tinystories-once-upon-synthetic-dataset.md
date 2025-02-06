@@ -3,6 +3,8 @@ title: 'TinyStories: Once Upon a Synthetic Dataset'
 draft: true
 date: 2023-05-16T13:51:45+00:00
 slug: '202305161351-tinystories-once-upon-synthetic-dataset'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1658364595449511942'

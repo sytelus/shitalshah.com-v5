@@ -3,6 +3,8 @@ title: 'From Dhokla to Diaspora: Gujarati Migrations'
 draft: true
 date: 2012-09-06T17:26:27+00:00
 slug: '201209061726-dhokla-to-diaspora'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '243656399631024128'

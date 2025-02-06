@@ -3,6 +3,8 @@ title: 'Attention Wars: Human Brains vs. Progress'
 draft: true
 date: 2020-12-31T15:35:26+00:00
 slug: '202012311535-attention-wars'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1344547696829288450'

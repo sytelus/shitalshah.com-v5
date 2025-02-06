@@ -3,6 +3,8 @@ title: 'Chain-of-Thought: Taking the MMLU Express'
 draft: true
 date: 2022-12-29T14:34:17+00:00
 slug: '202212291434-chain-of-thought-mmlu-express'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1608350675351764993'

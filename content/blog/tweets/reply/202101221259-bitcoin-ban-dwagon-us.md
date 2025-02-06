@@ -3,6 +3,8 @@ title: 'Bitcoin Ban-dwagon Rolling Towards the US?'
 draft: true
 date: 2021-01-22T12:59:19+00:00
 slug: '202101221259-bitcoin-ban-dwagon-us'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1352480942988791808'

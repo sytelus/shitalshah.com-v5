@@ -3,6 +3,8 @@ title: 'Donate Your Data—MIT Style!'
 draft: true
 date: 2023-04-04T14:54:27+00:00
 slug: '202304041454-donate-your-data-mit-style'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1643160085961801731'

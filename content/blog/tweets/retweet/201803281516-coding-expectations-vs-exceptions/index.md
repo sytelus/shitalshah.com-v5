@@ -3,6 +3,8 @@ title: 'Coding: Expectations vs. Exceptions'
 draft: true
 date: 2018-03-28T15:16:03+00:00
 slug: '201803281516-coding-expectations-vs-exceptions'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '978908565716037632'

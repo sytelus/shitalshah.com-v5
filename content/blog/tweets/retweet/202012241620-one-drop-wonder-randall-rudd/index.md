@@ -3,6 +3,8 @@ title: 'One Drop Wonder: Randall Rudd''s Water Drawing Tips'
 draft: true
 date: 2020-12-24T16:20:44+00:00
 slug: '202012241620-one-drop-wonder-randall-rudd'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1342022382144274433'

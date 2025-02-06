@@ -3,6 +3,8 @@ title: 'FAIR Enough? Examining PhD Requirements at Facebook AI Research'
 draft: true
 date: 2022-12-22T12:50:53+00:00
 slug: '202212221250-fair-phd-requirements-facebook-ai'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1605787940566667265'

@@ -3,6 +3,8 @@ title: 'When Google Interviews Feel Like Microsoft Ones'
 draft: true
 date: 2008-03-24T12:09:26+00:00
 slug: '200803241209-google-ms-interviews'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '776071189'

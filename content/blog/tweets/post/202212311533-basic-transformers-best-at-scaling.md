@@ -3,6 +3,8 @@ title: 'Old but Gold: Basic Transformers Still Best at Scaling'
 draft: false
 date: 2022-12-31T15:33:28+00:00
 slug: '202212311533-basic-transformers-best-at-scaling'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1609090347631808513'

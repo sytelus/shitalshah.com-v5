@@ -3,6 +3,8 @@ title: 'Huberman AI: Because Podcasts Don''t Come with a Ctrl+F'
 draft: true
 date: 2022-12-18T01:19:10+00:00
 slug: '202212180119-huberman-ai-podcast-search'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1604164312503037952'

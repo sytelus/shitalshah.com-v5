@@ -3,6 +3,8 @@ title: 'You Can''t Just Throw GPUs at DeepRL'
 draft: true
 date: 2018-09-23T03:34:19+00:00
 slug: '201809230334-deep-rl-needs-more-than-gpus'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1043599393184608256'

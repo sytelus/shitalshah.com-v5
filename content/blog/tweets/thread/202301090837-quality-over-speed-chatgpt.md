@@ -3,6 +3,8 @@ title: 'Quality Over Speed: My ChatGPT Insight'
 draft: false
 date: 2023-01-09T08:37:50+00:00
 slug: '202301090837-quality-over-speed-chatgpt'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1612247237983367168'

@@ -3,6 +3,8 @@ title: 'From Tone-Deaf to Tune-Maker: My ''Visual Music'' Adventure'
 draft: false
 date: 2018-05-08T02:40:08+00:00
 slug: '201805080240-tone-deaf-to-tune-maker'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '993576232632627200'

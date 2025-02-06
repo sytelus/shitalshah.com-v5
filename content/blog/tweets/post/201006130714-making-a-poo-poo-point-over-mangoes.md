@@ -3,6 +3,8 @@ title: 'Making a Poo Poo Point Over Mangoes'
 draft: true
 date: 2010-06-13T07:14:04+00:00
 slug: '201006130714-making-a-poo-poo-point-over-mangoes'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '16038063937'

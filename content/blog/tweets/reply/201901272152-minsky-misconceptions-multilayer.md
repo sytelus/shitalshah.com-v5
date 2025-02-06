@@ -3,6 +3,8 @@ title: 'Minsky, Misconceptions, and the Multilayer Mystery'
 draft: true
 date: 2019-01-27T21:52:28+00:00
 slug: '201901272152-minsky-misconceptions-multilayer'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1089521524908875776'

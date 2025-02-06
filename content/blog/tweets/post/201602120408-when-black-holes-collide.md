@@ -3,6 +3,8 @@ title: 'When Black Holes Collide: The Gravity of the Situation'
 draft: true
 date: 2016-02-12T04:08:34+00:00
 slug: '201602120408-when-black-holes-collide'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '697874889496256512'

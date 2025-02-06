@@ -3,6 +3,8 @@ title: 'Shut the Front Door! Decoding Visuals from Brain Waves'
 draft: true
 date: 2022-11-17T16:10:45+00:00
 slug: '202211171610-decoding-visuals-from-brain-waves'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1593154663846903809'

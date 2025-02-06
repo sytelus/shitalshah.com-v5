@@ -3,6 +3,8 @@ title: 'PyTorch Puzzles: Ready to Take Off the StackOverflow?'
 draft: true
 date: 2022-04-19T00:47:44+00:00
 slug: '202204190047-pytorch-puzzles'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1516111250849075202'

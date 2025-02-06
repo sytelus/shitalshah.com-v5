@@ -3,6 +3,8 @@ title: 'GPT and the Secret Life of CFGs'
 draft: true
 date: 2023-05-24T10:43:56+00:00
 slug: '202305241043-gpt-secret-life-of-cfgs'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1661216435383988225'

@@ -3,6 +3,8 @@ title: 'Taleb''s Currency Conundrum: Is Fiat Money Our Necessary Evil?'
 draft: false
 date: 2021-02-13T12:15:58+00:00
 slug: '202102131215-taleb-fiat-necessary-evil'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1360442567729377284'

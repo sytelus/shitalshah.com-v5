@@ -3,6 +3,8 @@ title: 'Sun Exploding? Our New Home Awaits 20 Light Years Away'
 draft: true
 date: 2010-09-30T14:18:13+00:00
 slug: '201009301418-sun-exploding-new-home-20-light-years'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '25958439844'

@@ -3,6 +3,8 @@ title: 'QckTwit Now Downloadable—Updates in Progress!'
 draft: true
 date: 2008-12-13T15:31:35+00:00
 slug: '200812131531-qcktwit-download-updates'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1054979848'

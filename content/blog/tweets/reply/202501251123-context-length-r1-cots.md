@@ -3,6 +3,8 @@ title: 'Context Length Conundrum: The R1 CoTs Challenge'
 draft: true
 date: 2025-01-25T11:23:59+00:00
 slug: '202501251123-context-length-r1-cots'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1882992789136556500'

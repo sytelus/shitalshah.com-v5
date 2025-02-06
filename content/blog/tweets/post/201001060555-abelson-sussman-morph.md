@@ -3,6 +3,8 @@ title: 'Two Authors, One Face: Abelson and Sussman Morph'
 draft: true
 date: 2010-01-06T05:55:19+00:00
 slug: '201001060555-abelson-sussman-morph'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '7416753266'

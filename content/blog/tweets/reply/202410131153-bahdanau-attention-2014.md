@@ -3,6 +3,8 @@ title: 'Attention Unnoticed: Bahdanau''s Overlooked 2014 Paper'
 draft: true
 date: 2024-10-13T11:53:52+00:00
 slug: '202410131153-bahdanau-attention-2014'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1845327069703737792'

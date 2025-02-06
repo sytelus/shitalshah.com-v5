@@ -3,6 +3,8 @@ title: 'Academic Love Language: Minor Revisions'
 draft: true
 date: 2021-10-05T02:22:55+00:00
 slug: '202110050222-academic-love-language-minor-revisions'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1445107180227624967'

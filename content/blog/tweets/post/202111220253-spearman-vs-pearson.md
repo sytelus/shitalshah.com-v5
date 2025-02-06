@@ -3,6 +3,8 @@ title: 'Ranking Rumble: Spearman vs. Pearson'
 draft: false
 date: 2021-11-22T02:53:16+00:00
 slug: '202111220253-spearman-vs-pearson'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1462494339385364482'

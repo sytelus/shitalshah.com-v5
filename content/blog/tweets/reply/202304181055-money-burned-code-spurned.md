@@ -3,6 +3,8 @@ title: 'Money Burned, Code Spurned: LLaMA''s Training Flaw'
 draft: true
 date: 2023-04-18T10:55:48+00:00
 slug: '202304181055-money-burned-code-spurned'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1648173457149153282'

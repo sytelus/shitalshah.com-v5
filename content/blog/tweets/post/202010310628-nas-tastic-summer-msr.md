@@ -3,6 +3,8 @@ title: 'NAS-tastic Summer at Microsoft Research'
 draft: false
 date: 2020-10-31T06:28:44+00:00
 slug: '202010310628-nas-tastic-summer-msr'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1322319555771822081'

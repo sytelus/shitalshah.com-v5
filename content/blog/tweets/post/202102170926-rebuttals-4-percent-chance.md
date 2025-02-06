@@ -3,6 +3,8 @@ title: 'Rebuttals: A 4% Chance of Success'
 draft: false
 date: 2021-02-17T09:26:11+00:00
 slug: '202102170926-rebuttals-4-percent-chance'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1361849390822907905'

@@ -3,6 +3,8 @@ title: 'Bill Gates’s Voice: From MRFs to Marvels in Text-to-Speech'
 draft: false
 date: 2019-06-06T11:44:03+00:00
 slug: '201906061144-bill-gates-voice-mrfs-to-marvels'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1136493932651507712'

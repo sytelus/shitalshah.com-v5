@@ -3,6 +3,8 @@ title: 'Curiosity''s Atomic Appetite: Inside Its Nuclear Battery'
 draft: true
 date: 2012-08-07T16:59:51+00:00
 slug: '201208071659-curiositys-atomic-appetite'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '232778071869124609'

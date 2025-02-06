@@ -3,6 +3,8 @@ title: 'Mind the Gap Between Theory and Practice'
 draft: true
 date: 2013-07-26T10:59:06+00:00
 slug: '201307261059-mind-the-gap-between-theory-and-practice'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '360610203189776385'

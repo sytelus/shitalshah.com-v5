@@ -3,6 +3,8 @@ title: 'The Cottage Industry of Not-Really-AI Predictions'
 draft: true
 date: 2018-07-03T18:08:34+00:00
 slug: '201807031808-not-really-ai-predictions'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1014103602460147712'

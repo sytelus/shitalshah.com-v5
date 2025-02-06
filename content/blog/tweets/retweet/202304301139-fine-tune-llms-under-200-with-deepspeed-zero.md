@@ -3,6 +3,8 @@ title: 'Fine-Tune Enormous LLMs for Under $200 with DeepSpeed ZeRO'
 draft: true
 date: 2023-04-30T11:39:16+00:00
 slug: '202304301139-fine-tune-llms-under-200-with-deepspeed-zero'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1652533049656213505'

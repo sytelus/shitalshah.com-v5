@@ -3,6 +3,8 @@ title: 'AGI''s Final Exam: Peace in the Middle East'
 draft: false
 date: 2023-01-23T13:10:39+00:00
 slug: '202301231310-agi-final-exam-middle-east'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1617389324043182083'

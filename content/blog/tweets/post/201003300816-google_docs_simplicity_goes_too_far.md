@@ -3,6 +3,8 @@ title: 'Google Docs: When Simplicity Goes Too Far'
 draft: true
 date: 2010-03-30T08:16:13+00:00
 slug: '201003300816-google_docs_simplicity_goes_too_far'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '11281870768'

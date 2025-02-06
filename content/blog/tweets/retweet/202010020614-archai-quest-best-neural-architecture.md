@@ -3,6 +3,8 @@ title: 'Archai Unveiled: Quest for the Best Neural Architecture'
 draft: true
 date: 2020-10-02T06:14:08+00:00
 slug: '202010020614-archai-quest-best-neural-architecture'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1311806632465068032'

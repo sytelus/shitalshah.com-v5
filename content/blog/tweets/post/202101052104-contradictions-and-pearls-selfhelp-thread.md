@@ -3,6 +3,8 @@ title: 'Contradictions and Pearls: A Self-Help Thread'
 draft: false
 date: 2021-01-05T21:04:59+00:00
 slug: '202101052104-contradictions-and-pearls-selfhelp-thread'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1346442570201612288'

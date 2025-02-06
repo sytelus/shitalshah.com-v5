@@ -3,6 +3,8 @@ title: 'Touching on Colors: Can the Blind Be Grounded?'
 draft: true
 date: 2022-12-31T16:44:37+00:00
 slug: '202212311644-touching-on-colors-blind-grounding'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1609108250930335746'

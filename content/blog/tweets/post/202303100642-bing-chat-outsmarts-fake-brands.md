@@ -3,6 +3,8 @@ title: 'Bing Chat Outsmarts Fake Brands'
 draft: false
 date: 2023-03-10T06:42:08+00:00
 slug: '202303100642-bing-chat-outsmarts-fake-brands'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1633961391907545088'

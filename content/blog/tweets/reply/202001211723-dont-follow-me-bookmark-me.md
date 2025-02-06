@@ -3,6 +3,8 @@ title: 'Don''t Follow Me, Bookmark Me!'
 draft: true
 date: 2020-01-21T17:23:54+00:00
 slug: '202001211723-dont-follow-me-bookmark-me'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1219551183611691008'

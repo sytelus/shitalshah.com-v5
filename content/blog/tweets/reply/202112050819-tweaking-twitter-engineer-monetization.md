@@ -3,6 +3,8 @@ title: 'Tweaking Twitter: An Engineer''s Monetization Plan'
 draft: true
 date: 2021-12-05T08:19:33+00:00
 slug: '202112050819-tweaking-twitter-engineer-monetization'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1467287489710727170'

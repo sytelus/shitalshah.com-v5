@@ -3,6 +3,8 @@ title: 'Option Prices Take Flight: Predicting Future Stocks'
 draft: true
 date: 2023-06-30T14:43:17+00:00
 slug: '202306301443-option-prices-predict-stocks'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1674685019712032774'

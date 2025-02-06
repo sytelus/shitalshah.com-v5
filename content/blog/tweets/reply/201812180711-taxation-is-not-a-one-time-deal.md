@@ -3,6 +3,8 @@ title: 'Taxation Isn''t a One-Time Deal'
 draft: true
 date: 2018-12-18T07:11:45+00:00
 slug: '201812180711-taxation-is-not-a-one-time-deal'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1074804372251455488'

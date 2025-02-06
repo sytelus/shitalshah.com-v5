@@ -3,6 +3,8 @@ title: 'ShuttleExpress: $200 Van Rides—Why Not Carpool?'
 draft: true
 date: 2009-01-02T17:35:56+00:00
 slug: '200901021735-shuttlexpress-van-carpool'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1091329566'

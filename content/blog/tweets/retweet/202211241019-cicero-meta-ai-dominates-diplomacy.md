@@ -3,6 +3,8 @@ title: 'CICERO Talks the Talk: Meta''s AI Masters Diplomacy'
 draft: true
 date: 2022-11-24T10:19:14+00:00
 slug: '202211241019-cicero-meta-ai-dominates-diplomacy'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1595602914617491457'

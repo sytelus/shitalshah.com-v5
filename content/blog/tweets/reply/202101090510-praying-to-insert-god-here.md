@@ -3,6 +3,8 @@ title: 'Praying to ''Insert God Here'
 draft: true
 date: 2021-01-09T05:10:48+00:00
 slug: '202101090510-praying-to-insert-god-here'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1347651995419639808'

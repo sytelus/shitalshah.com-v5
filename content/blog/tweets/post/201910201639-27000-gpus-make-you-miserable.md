@@ -3,6 +3,8 @@ title: 'When 27,000 GPUs Make You Miserable'
 draft: false
 date: 2019-10-20T16:39:08+00:00
 slug: '201910201639-27000-gpus-make-you-miserable'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1185852943720828929'

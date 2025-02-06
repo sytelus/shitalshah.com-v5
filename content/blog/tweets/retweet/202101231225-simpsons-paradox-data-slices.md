@@ -3,6 +3,8 @@ title: 'Simpson''s Paradox: Watch Your Data Slices!'
 draft: true
 date: 2021-01-23T12:25:52+00:00
 slug: '202101231225-simpsons-paradox-data-slices'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1352834913087614977'

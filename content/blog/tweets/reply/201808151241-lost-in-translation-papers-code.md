@@ -3,6 +3,8 @@ title: 'Lost in Translation: When Papers Don''t Match Code'
 draft: true
 date: 2018-08-15T12:41:56+00:00
 slug: '201808151241-lost-in-translation-papers-code'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1029604080203616256'

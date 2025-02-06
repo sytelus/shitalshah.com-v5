@@ -3,6 +3,8 @@ title: 'Tiny Chinchilla Outsmarts GPT-3 and the Giants'
 draft: true
 date: 2022-03-31T02:53:30+00:00
 slug: '202203310253-chinchilla-outsmarts-giants'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1509257528978276352'

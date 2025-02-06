@@ -3,6 +3,8 @@ title: 'Oyster Shooter Race: Get Your Shell On!'
 draft: true
 date: 2011-05-11T01:41:49+00:00
 slug: '201105110141-oyster-shooter-race'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '68022947276787712'

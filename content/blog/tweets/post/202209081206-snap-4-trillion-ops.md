@@ -3,6 +3,8 @@ title: 'Snap! 4 Trillion Ops in an Instant'
 draft: false
 date: 2022-09-08T12:06:36+00:00
 slug: '202209081206-snap-4-trillion-ops'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1567741168531959808'

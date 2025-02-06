@@ -3,6 +3,8 @@ title: 'GPT-3: Mind Blown and Second Thoughts'
 draft: true
 date: 2022-11-25T18:41:17+00:00
 slug: '202211251841-gpt3-mind-blown-second-thoughts'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1596091648894971905'

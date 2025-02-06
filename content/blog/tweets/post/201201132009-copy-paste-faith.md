@@ -3,6 +3,8 @@ title: 'Copy-Paste Faith: Sweden''s Church of Kopimism'
 draft: true
 date: 2012-01-13T20:09:51+00:00
 slug: '201201132009-copy-paste-faith'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '157796497889562625'

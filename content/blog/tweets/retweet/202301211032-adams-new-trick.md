@@ -3,6 +3,8 @@ title: 'Adam''s New Trick: Ditching the Learning Rate'
 draft: true
 date: 2023-01-21T10:32:22+00:00
 slug: '202301211032-adams-new-trick'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1616624716969824258'

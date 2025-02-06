@@ -3,6 +3,8 @@ title: 'Windows Live Gallery: Cool Photos, No Text'
 draft: true
 date: 2009-01-08T15:57:00+00:00
 slug: '200901081557-windows_live_gallery_no_text'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1103935911'

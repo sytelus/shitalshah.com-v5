@@ -3,6 +3,8 @@ title: 'Serving Gordon Ramsey a Taste of His Own Medicine'
 draft: false
 date: 2018-07-18T04:14:38+00:00
 slug: '201807180414-serving-gordon-ramsey'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1019329555675295744'

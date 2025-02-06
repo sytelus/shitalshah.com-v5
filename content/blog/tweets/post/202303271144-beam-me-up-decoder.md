@@ -3,6 +3,8 @@ title: 'Beam Me Up, Decoder!'
 draft: false
 date: 2023-03-27T11:44:19+00:00
 slug: '202303271144-beam-me-up-decoder'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1640213135419375617'

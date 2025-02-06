@@ -3,6 +3,8 @@ title: 'PrimaLoft''s Clo King: ONE Tops the Charts'
 draft: true
 date: 2010-10-16T16:34:12+00:00
 slug: '201010161634-primaloft-clo-king'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '27526940623'

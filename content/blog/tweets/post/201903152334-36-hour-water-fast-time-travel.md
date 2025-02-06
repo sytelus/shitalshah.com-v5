@@ -3,6 +3,8 @@ title: '36-Hour Water Fast: Time Travel Included'
 draft: false
 date: 2019-03-15T23:34:54+00:00
 slug: '201903152334-36-hour-water-fast-time-travel'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1106594634006822912'

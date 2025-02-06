@@ -3,6 +3,8 @@ title: 'Powderworld: Stirring Up AI Insights in a Modular Sandbox'
 draft: true
 date: 2022-11-27T15:59:29+00:00
 slug: '202211271559-powderworld-ai-sandbox'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1596775705445994496'

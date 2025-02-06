@@ -3,6 +3,8 @@ title: 'SayCan Do Attitude: Exciting Updates Released'
 draft: true
 date: 2022-08-17T08:23:19+00:00
 slug: '202208170823-saycan-updates'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1559712443022000128'

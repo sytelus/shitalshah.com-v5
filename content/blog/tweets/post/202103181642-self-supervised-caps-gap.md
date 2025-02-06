@@ -3,6 +3,8 @@ title: 'Self-Supervised Learning Caps the Unbounded Gap'
 draft: false
 date: 2021-03-18T16:42:24+00:00
 slug: '202103181642-self-supervised-caps-gap'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1372483514499694598'

@@ -3,6 +3,8 @@ title: 'Skip the Middlemen: See How Your Work Impacts the World'
 draft: true
 date: 2019-08-04T13:34:47+00:00
 slug: '201908041334-skip-the-middlemen'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1157902684558483456'

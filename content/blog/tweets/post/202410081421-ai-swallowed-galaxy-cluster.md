@@ -3,6 +3,8 @@ title: 'The AI That Swallowed a Galaxy Cluster to Absorb Entropy'
 draft: false
 date: 2024-10-08T14:21:30+00:00
 slug: '202410081421-ai-swallowed-galaxy-cluster'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1843552281159184734'

@@ -3,6 +3,8 @@ title: 'Attention: Vanishingly Small FLOPS'
 draft: true
 date: 2023-05-17T13:11:07+00:00
 slug: '202305171311-attention-vanishing-flops'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1658716759883669504'

@@ -3,6 +3,8 @@ title: 'LoRA the Explorer: Fast Text-to-Image Fine-Tuning with Low-Rank Adaptati
 draft: true
 date: 2022-12-11T10:47:12+00:00
 slug: '202212111047-lora-fast-text-image-fine-tuning'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1601770546857144320'

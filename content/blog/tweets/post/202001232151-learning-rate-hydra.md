@@ -3,6 +3,8 @@ title: 'Learning Rate Hydra: Eliminating One Hyperparameter Breeds More'
 draft: false
 date: 2020-01-23T21:51:00+00:00
 slug: '202001232151-learning-rate-hydra'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1220343174138220550'

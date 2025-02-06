@@ -3,6 +3,8 @@ title: 'At 0.4% a Year, Cancer Cured by 2078—Prepare for 100+ Years'
 draft: false
 date: 2019-02-21T19:04:12+00:00
 slug: '201902211904-cancer-cured-2078'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1098538875318747137'

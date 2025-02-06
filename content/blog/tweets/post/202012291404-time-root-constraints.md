@@ -3,6 +3,8 @@ title: 'Time: The Root of All Constraints'
 draft: false
 date: 2020-12-29T14:04:35+00:00
 slug: '202012291404-time-root-constraints'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1343800060593594369'

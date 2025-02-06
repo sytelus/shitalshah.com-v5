@@ -3,6 +3,8 @@ title: 'AI Showdown: Generative Models Compared'
 draft: true
 date: 2021-04-09T09:27:26+00:00
 slug: '202104090927-generative-models-showdown'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1380346586140569602'

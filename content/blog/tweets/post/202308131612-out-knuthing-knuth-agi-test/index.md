@@ -3,6 +3,8 @@ title: 'Out-Knuthing Knuth: The AGI Test'
 draft: false
 date: 2023-08-13T16:12:49+00:00
 slug: '202308131612-out-knuthing-knuth-agi-test'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1690652618421673984'

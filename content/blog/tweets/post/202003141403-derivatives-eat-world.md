@@ -3,6 +3,8 @@ title: 'When Derivatives Eat the World: 705T Euros of Speculation'
 draft: false
 date: 2020-03-14T14:03:40+00:00
 slug: '202003141403-derivatives-eat-world'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1238722447530020865'

@@ -3,6 +3,8 @@ title: 'Conference Roulette: Random Papers and Attendee Votes'
 draft: false
 date: 2020-03-02T10:32:24+00:00
 slug: '202003021032-conference-roulette'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1234305525002555392'

@@ -3,6 +3,8 @@ title: 'Keeping P ~ NP on the Down Low'
 draft: true
 date: 2024-10-21T07:55:38+00:00
 slug: '202410210755-keeping-p-np-on-the-down-low'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1848166218949402718'

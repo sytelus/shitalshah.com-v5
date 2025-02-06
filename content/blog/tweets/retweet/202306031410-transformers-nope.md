@@ -3,6 +3,8 @@ title: 'Transformers Say NoPE to Positional Encoding'
 draft: true
 date: 2023-06-03T14:10:26+00:00
 slug: '202306031410-transformers-nope'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1664892282128982017'

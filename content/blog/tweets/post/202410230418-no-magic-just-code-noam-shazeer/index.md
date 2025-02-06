@@ -3,6 +3,8 @@ title: 'No Magic, Just Code: Noam Shazeer''s Papers'
 draft: false
 date: 2024-10-23T04:18:12+00:00
 slug: '202410230418-no-magic-just-code-noam-shazeer'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1848836276725944586'

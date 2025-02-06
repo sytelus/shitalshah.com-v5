@@ -3,6 +3,8 @@ title: 'Lost in Space: Decoding Latent and Feature Spaces'
 draft: true
 date: 2021-11-15T12:13:32+00:00
 slug: '202111151213-lost-in-space-decoding'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1460098616945627140'

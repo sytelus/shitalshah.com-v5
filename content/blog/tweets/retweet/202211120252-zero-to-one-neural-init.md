@@ -3,6 +3,8 @@ title: 'ZerO to One: Simplifying Neural Network Initialization'
 draft: true
 date: 2022-11-12T02:52:31+00:00
 slug: '202211120252-zero-to-one-neural-init'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1591141840044331008'

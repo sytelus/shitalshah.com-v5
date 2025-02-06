@@ -3,6 +3,8 @@ title: 'Cooling Down: Time to Chill Your Learning Rate with WSD Schedule'
 draft: false
 date: 2024-11-06T16:56:20+00:00
 slug: '202411061656-cooling-down-learning-rate-wsd-schedule'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1854085397124718892'

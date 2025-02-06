@@ -3,6 +3,8 @@ title: 'Milky Way vs Andromeda: The Ultimate Collision Course'
 draft: true
 date: 2019-01-17T17:58:22+00:00
 slug: '201901171758-milky-way-vs-andromeda'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1085838732165435393'

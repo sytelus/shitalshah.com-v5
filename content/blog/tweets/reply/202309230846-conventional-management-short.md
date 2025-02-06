@@ -3,6 +3,8 @@ title: 'Conventional Management Wisdom: The Short Edition'
 draft: true
 date: 2023-09-23T08:46:57+00:00
 slug: '202309230846-conventional-management-short'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1705398313565233192'

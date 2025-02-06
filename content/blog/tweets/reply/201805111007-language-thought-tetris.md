@@ -3,6 +3,8 @@ title: 'Language: The Tetris of Thought Representation'
 draft: true
 date: 2018-05-11T10:07:10+00:00
 slug: '201805111007-language-thought-tetris'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '994775896463691780'

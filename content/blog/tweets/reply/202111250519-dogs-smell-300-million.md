@@ -3,6 +3,8 @@ title: '300 Million Reasons Dogs Smell Better Than Us'
 draft: true
 date: 2021-11-25T05:19:16+00:00
 slug: '202111250519-dogs-smell-300-million'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1463618241205395460'

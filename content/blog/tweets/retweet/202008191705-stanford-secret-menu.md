@@ -3,6 +3,8 @@ title: 'Stanford''s Secret Menu: More than CS231n'
 draft: true
 date: 2020-08-19T17:05:56+00:00
 slug: '202008191705-stanford-secret-menu'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1296025597668294657'

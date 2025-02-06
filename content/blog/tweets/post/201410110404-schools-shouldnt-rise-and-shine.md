@@ -3,6 +3,8 @@ title: 'Schools Shouldn''t Rise and Shine Before 9'
 draft: true
 date: 2014-10-11T04:04:07+00:00
 slug: '201410110404-schools-shouldnt-rise-and-shine'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '520681202684944385'

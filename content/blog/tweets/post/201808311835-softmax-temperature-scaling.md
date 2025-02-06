@@ -3,6 +3,8 @@ title: 'Softmax Not So Hot? Try Temperature Scaling!'
 draft: false
 date: 2018-08-31T18:35:42+00:00
 slug: '201808311835-softmax-temperature-scaling'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1035491316249939969'

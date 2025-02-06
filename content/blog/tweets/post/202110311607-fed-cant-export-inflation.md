@@ -3,6 +3,8 @@ title: 'When the Fed Can''t Export Inflation Anymore'
 draft: false
 date: 2021-10-31T16:07:15+00:00
 slug: '202110311607-fed-cant-export-inflation'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1454736716258967552'

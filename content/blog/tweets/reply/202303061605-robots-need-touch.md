@@ -3,6 +3,8 @@ title: 'Feeling Their Way: Why Robots Need to Get in Touch'
 draft: true
 date: 2023-03-06T16:05:13+00:00
 slug: '202303061605-robots-need-touch'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1632653547409145856'

@@ -3,6 +3,8 @@ title: 'When Gödel Crashes the AI Alignment Party'
 draft: false
 date: 2023-05-14T06:59:36+00:00
 slug: '202305140659-godel-crashes-ai-alignment'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1657536101794598912'

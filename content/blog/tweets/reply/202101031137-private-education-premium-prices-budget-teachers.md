@@ -3,6 +3,8 @@ title: 'Private Education: Premium Prices, Budget Teachers'
 draft: true
 date: 2021-01-03T11:37:33+00:00
 slug: '202101031137-private-education-premium-prices-budget-teachers'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1345574996320501761'

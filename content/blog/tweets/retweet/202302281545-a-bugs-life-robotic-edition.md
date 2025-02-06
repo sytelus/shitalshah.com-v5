@@ -3,6 +3,8 @@ title: 'A Bug''s Life: Robotic Edition'
 draft: true
 date: 2023-02-28T15:45:43+00:00
 slug: '202302281545-a-bugs-life-robotic-edition'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1630474312028389380'

@@ -3,6 +3,8 @@ title: 'CodeGeeX Marks the Spot: 13 Billion Parameters of Code Generation on Gra
 draft: true
 date: 2022-10-01T14:38:29+00:00
 slug: '202210011438-codegeex-13b-gradio-demo'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1576114310673494016'

@@ -3,6 +3,8 @@ title: 'Phi-1: The Tiny Model Outsmarting Giants'
 draft: false
 date: 2023-09-12T15:12:58+00:00
 slug: '202309121512-phi-1-tiny-model-outsmarting-giants'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1701509192279117932'

@@ -3,6 +3,8 @@ title: 'Static Sparks: Evaluating LLM Code Completion'
 draft: true
 date: 2023-06-07T14:54:22+00:00
 slug: '202306071454-static-sparks-llm-code-completion'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1666352888355106817'

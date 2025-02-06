@@ -3,6 +3,8 @@ title: 'Taming Transformer Tantrums with Tiny Proxies'
 draft: true
 date: 2023-09-29T07:18:32+00:00
 slug: '202309290718-taming-transformer-tantrums'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1707550391444062489'

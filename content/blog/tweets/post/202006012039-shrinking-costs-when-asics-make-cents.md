@@ -3,6 +3,8 @@ title: 'Shrinking Costs: When ASICs Make Cents'
 draft: false
 date: 2020-06-01T20:39:04+00:00
 slug: '202006012039-shrinking-costs-when-asics-make-cents'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1267450594270212097'

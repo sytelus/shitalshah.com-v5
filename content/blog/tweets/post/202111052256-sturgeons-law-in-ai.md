@@ -3,6 +3,8 @@ title: 'When 90% Less is More: Sturgeon''s Law in AI'
 draft: false
 date: 2021-11-05T22:56:00+00:00
 slug: '202111052256-sturgeons-law-in-ai'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1456651519764271108'

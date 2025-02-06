@@ -3,6 +3,8 @@ title: 'Google''s Sudden Siesta: Internet Explained'
 draft: true
 date: 2012-11-14T17:39:33+00:00
 slug: '201211141739-googles-sudden-siesta'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '268649361691508736'

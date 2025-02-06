@@ -3,6 +3,8 @@ title: 'Automating Pairwise Reviews from Star Ratings'
 draft: true
 date: 2024-08-06T17:07:36+00:00
 slug: '202408061707-automating-pairwise-reviews'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1820763650032083160'

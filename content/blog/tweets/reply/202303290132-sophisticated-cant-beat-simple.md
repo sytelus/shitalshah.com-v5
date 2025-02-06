@@ -3,6 +3,8 @@ title: 'When Sophisticated Can''t Beat Simple, Blame the Test Bench!'
 draft: true
 date: 2023-03-29T01:32:42+00:00
 slug: '202303290132-sophisticated-cant-beat-simple'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1640783990075555840'

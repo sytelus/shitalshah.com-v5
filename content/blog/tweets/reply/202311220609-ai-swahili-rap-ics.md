@@ -3,6 +3,8 @@ title: 'When AI Drops a Swahili Rap on Integrated Circuits'
 draft: true
 date: 2023-11-22T06:09:31+00:00
 slug: '202311220609-ai-swahili-rap-ics'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1727086867466891728'

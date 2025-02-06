@@ -3,6 +3,8 @@ title: 'Cosmic Code: The Joy of CelestialTests'
 draft: false
 date: 2018-02-23T15:12:34+00:00
 slug: '201802231512-cosmic-code-celestialtests'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '966933788340228096'

@@ -3,6 +3,8 @@ title: 'Fine-Tuning is Out; Continual Learning is In'
 draft: true
 date: 2023-09-20T10:59:08+00:00
 slug: '202309201059-fine-tuning-out-continual-learning-in'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1704344414158729259'

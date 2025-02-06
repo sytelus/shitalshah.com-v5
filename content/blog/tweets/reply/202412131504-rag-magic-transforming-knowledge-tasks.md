@@ -3,6 +3,8 @@ title: 'RAG Magic: Transforming Knowledge-Based Tasks'
 draft: true
 date: 2024-12-13T15:04:49+00:00
 slug: '202412131504-rag-magic-transforming-knowledge-tasks'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1867465684487483418'

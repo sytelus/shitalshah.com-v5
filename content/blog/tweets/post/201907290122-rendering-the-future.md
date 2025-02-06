@@ -3,6 +3,8 @@ title: 'Rendering the Future: Self-Driving Cars at SIGGRAPH'
 draft: false
 date: 2019-07-29T01:22:11+00:00
 slug: '201907290122-rendering-the-future'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1155543993943502848'

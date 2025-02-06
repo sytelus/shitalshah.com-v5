@@ -3,6 +3,8 @@ title: 'Embedding Magic: ArXiv Search Outsmarts Google'
 draft: false
 date: 2023-01-09T06:19:47+00:00
 slug: '202301090619-embedding-magic-arxiv-search'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1612212495367962625'

@@ -3,6 +3,8 @@ title: 'Missed ''Kinect''ing with the Airplane Tour at Boeing Family Day'
 draft: true
 date: 2011-08-16T08:54:19+00:00
 slug: '201108160854-missed-kinect-boeing-tour'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '103283415104765952'

@@ -3,6 +3,8 @@ title: 'Guaranteed Returns: The Free Lunch That Isn''t'
 draft: true
 date: 2022-11-12T11:54:34+00:00
 slug: '202211121154-guaranteed-returns-no-free-lunch'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1591278251582058496'

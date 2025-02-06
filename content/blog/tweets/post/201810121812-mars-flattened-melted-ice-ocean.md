@@ -3,6 +3,8 @@ title: 'Mars: Just Add Heat and Flattening for a 100m-Deep Ocean'
 draft: false
 date: 2018-10-12T18:12:22+00:00
 slug: '201810121812-mars-flattened-melted-ice-ocean'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1050705731828076545'

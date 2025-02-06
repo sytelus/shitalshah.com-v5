@@ -3,6 +3,8 @@ title: 'Chatting Up Robots: Real-Time Conversations in Interactive Language'
 draft: true
 date: 2022-10-13T14:27:09+00:00
 slug: '202210131427-chatting-up-robots-real-time'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1580460113877667841'

@@ -3,6 +3,8 @@ title: 'A Lifetime in 1T Tokens: AI''s Human Experience'
 draft: false
 date: 2024-02-22T12:35:39+00:00
 slug: '202402221235-lifetime-in-1t-tokens'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1760523724426531189'

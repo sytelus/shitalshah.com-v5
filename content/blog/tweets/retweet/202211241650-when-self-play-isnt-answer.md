@@ -3,6 +3,8 @@ title: 'When Self-Play Isn''t the Answer: AI''s Next Hurdle'
 draft: true
 date: 2022-11-24T16:50:03+00:00
 slug: '202211241650-when-self-play-isnt-answer'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1595701269343064064'

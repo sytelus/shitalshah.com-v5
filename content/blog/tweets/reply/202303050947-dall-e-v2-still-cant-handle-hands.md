@@ -3,6 +3,8 @@ title: 'DALL-E V2 Still Can''t Hand-le Hands'
 draft: true
 date: 2023-03-05T09:47:08+00:00
 slug: '202303050947-dall-e-v2-still-cant-handle-hands'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1632196011279130624'

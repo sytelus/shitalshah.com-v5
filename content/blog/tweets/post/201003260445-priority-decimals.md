@@ -3,6 +3,8 @@ title: 'Priority Decimals: Because Whole Numbers Aren''t Enough'
 draft: true
 date: 2010-03-26T04:45:27+00:00
 slug: '201003260445-priority-decimals'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '11054891756'

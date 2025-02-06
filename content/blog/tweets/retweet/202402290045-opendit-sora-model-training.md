@@ -3,6 +3,8 @@ title: 'OpenDiT Unveiled: The Sora of Model Training'
 draft: true
 date: 2024-02-29T00:45:15+00:00
 slug: '202402290045-opendit-sora-model-training'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1762881663200079886'

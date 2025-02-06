@@ -3,6 +3,8 @@ title: 'Axe-identally Exhausted: Snowfield Lessons'
 draft: true
 date: 2011-05-08T08:42:50+00:00
 slug: '201105080842-axe-identally-exhausted'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '67041738472177664'

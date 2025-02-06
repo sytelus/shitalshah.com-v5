@@ -3,6 +3,8 @@ title: 'GPT-4''s Code Regression: From Prodigy to Buggy'
 draft: false
 date: 2023-07-19T10:19:19+00:00
 slug: '202307191019-gpt4-code-regression'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1681503958563717121'

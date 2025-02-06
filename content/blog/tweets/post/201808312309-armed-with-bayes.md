@@ -3,6 +3,8 @@ title: 'Armed with Bayes: Conjugate Bandits in Reinforcement Learning'
 draft: false
 date: 2018-08-31T23:09:30+00:00
 slug: '201808312309-armed-with-bayes'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1035560217075798017'

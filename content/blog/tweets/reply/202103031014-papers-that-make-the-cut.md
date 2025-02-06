@@ -3,6 +3,8 @@ title: 'Good, Better, Inspiring: Papers that Make the Cut'
 draft: true
 date: 2021-03-03T10:14:56+00:00
 slug: '202103031014-papers-that-make-the-cut'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1366935090622722053'

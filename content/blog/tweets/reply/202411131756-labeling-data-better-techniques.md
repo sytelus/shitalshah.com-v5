@@ -3,6 +3,8 @@ title: 'Labeling Data Is a Cope: Better Techniques Exist'
 draft: true
 date: 2024-11-13T17:56:41+00:00
 slug: '202411131756-labeling-data-better-techniques'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1856637300962451855'

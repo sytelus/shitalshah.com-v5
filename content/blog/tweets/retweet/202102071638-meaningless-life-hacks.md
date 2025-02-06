@@ -3,6 +3,8 @@ title: 'Meaningless Life Hacks: Science and Art Edition'
 draft: true
 date: 2021-02-07T16:38:10+00:00
 slug: '202102071638-meaningless-life-hacks'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1358334226936958977'

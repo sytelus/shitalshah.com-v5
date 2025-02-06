@@ -3,6 +3,8 @@ title: 'Mind the Peaks: Different Cognitive Highs at Different Ages'
 draft: false
 date: 2019-03-02T12:30:51+00:00
 slug: '201903021230-brain-peaks-by-age'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1101701378664161280'

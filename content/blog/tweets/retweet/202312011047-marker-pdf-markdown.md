@@ -3,6 +3,8 @@ title: 'Marker Makes Its Mark: 10x Faster PDF to Markdown Converter'
 draft: true
 date: 2023-12-01T10:47:12+00:00
 slug: '202312011047-marker-pdf-markdown'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1730418240067924037'

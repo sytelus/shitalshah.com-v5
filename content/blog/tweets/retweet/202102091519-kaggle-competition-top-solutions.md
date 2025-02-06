@@ -3,6 +3,8 @@ title: 'Exploring Top Solutions in the Latest Kaggle Competition'
 draft: true
 date: 2021-02-09T15:19:20+00:00
 slug: '202102091519-kaggle-competition-top-solutions'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1359039160942686209'

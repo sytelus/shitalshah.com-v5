@@ -3,6 +3,8 @@ title: 'Paper Cuts: Trim Down and Stand Out'
 draft: false
 date: 2020-08-19T10:18:00+00:00
 slug: '202008191018-paper-cuts-trim-down'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1295922938340728833'

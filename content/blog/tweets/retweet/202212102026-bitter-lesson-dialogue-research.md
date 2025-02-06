@@ -3,6 +3,8 @@ title: 'The Bitter Lesson Strikes Again: Two Decades of Dialogue Research Obsole
 draft: true
 date: 2022-12-10T20:26:39+00:00
 slug: '202212102026-bitter-lesson-dialogue-research'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1601553981603737601'

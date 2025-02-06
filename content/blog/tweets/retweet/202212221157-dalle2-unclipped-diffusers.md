@@ -3,6 +3,8 @@ title: 'DALL-E 2 UnCLIPPED: Open Source Hits Diffusers!'
 draft: true
 date: 2022-12-22T11:57:01+00:00
 slug: '202212221157-dalle2-unclipped-diffusers'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1605774383699570688'

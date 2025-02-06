@@ -3,6 +3,8 @@ title: 'Four-Legged Faceoff: Model vs Machine Learning in Robot Locomotion'
 draft: true
 date: 2021-02-18T15:43:04+00:00
 slug: '202102181543-four-legged-faceoff-robot-locomotion'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1362306625390800903'

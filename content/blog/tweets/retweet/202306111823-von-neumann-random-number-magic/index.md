@@ -3,6 +3,8 @@ title: 'Von Neumann''s Random Number Magic Trick'
 draft: true
 date: 2023-06-11T18:23:08+00:00
 slug: '202306111823-von-neumann-random-number-magic'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1667854977379999747'

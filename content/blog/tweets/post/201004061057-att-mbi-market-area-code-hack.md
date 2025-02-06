@@ -3,6 +3,8 @@ title: 'Get Any Area Code: The AT&T ''MBI Market'' Hack'
 draft: true
 date: 2010-04-06T10:57:33+00:00
 slug: '201004061057-att-mbi-market-area-code-hack'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '11679843059'

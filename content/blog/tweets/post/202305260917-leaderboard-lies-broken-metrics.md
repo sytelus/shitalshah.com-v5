@@ -3,6 +3,8 @@ title: 'Leaderboard Lies: Broken Metrics from For-Hire Raters'
 draft: false
 date: 2023-05-26T09:17:31+00:00
 slug: '202305260917-leaderboard-lies-broken-metrics'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1661919463003013122'

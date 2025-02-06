@@ -3,6 +3,8 @@ title: 'Tech: Burnout or Breakthrough?'
 draft: true
 date: 2022-12-31T12:09:40+00:00
 slug: '202212311209-tech-burnout-breakthrough'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1609039057857974272'

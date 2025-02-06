@@ -3,6 +3,8 @@ title: 'LeetCode Interviews Lack Creativity, Researchers Lack Coding'
 draft: true
 date: 2024-11-28T16:18:13+00:00
 slug: '202411281618-leetcode-interviews-researchers-cant-code'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1862048339090694252'

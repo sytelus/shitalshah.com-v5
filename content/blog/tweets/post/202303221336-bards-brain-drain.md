@@ -3,6 +3,8 @@ title: 'Bard''s Brain Drain: Tiny Model, Can''t Code, Needs Search'
 draft: false
 date: 2023-03-22T13:36:03+00:00
 slug: '202303221336-bards-brain-drain'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1638429313229021184'

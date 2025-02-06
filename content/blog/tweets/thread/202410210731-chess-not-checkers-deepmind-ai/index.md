@@ -3,6 +3,8 @@ title: 'Chess Not Checkers: DeepMind''s AI Stirs Debate'
 draft: false
 date: 2024-10-21T07:31:29+00:00
 slug: '202410210731-chess-not-checkers-deepmind-ai'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1848160140278555049'

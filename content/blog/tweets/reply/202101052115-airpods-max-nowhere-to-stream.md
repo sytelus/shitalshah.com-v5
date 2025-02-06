@@ -3,6 +3,8 @@ title: 'AirPods Max: All Dressed Up With Nowhere to Stream'
 draft: true
 date: 2021-01-05T21:15:25+00:00
 slug: '202101052115-airpods-max-nowhere-to-stream'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1346445196720963584'

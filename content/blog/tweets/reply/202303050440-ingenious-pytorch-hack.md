@@ -3,6 +3,8 @@ title: 'Ingenious PyTorch Hack: Does Version Matter?'
 draft: true
 date: 2023-03-05T04:40:22+00:00
 slug: '202303050440-ingenious-pytorch-hack'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1632118812463222784'

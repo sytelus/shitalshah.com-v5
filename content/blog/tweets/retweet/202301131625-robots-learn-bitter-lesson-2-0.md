@@ -3,6 +3,8 @@ title: 'Robots Learn the Bitter Lesson 2.0'
 draft: true
 date: 2023-01-13T16:25:28+00:00
 slug: '202301131625-robots-learn-bitter-lesson-2-0'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1613814474993201152'

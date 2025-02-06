@@ -3,6 +3,8 @@ title: 'Omniparser Gives Vision Models a Run for Their Pixels'
 draft: true
 date: 2024-11-01T22:56:23+00:00
 slug: '202411012256-omniparser-gives-vision-models-run-pixels'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1852379165195935846'

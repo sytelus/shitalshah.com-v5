@@ -3,6 +3,8 @@ title: 'Inverse Square Root LR: Fairseq''s Shortcut Without Cool Down'
 draft: true
 date: 2023-08-07T03:54:22+00:00
 slug: '202308070354-fairseq-inverse-sqrt-lr'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1688292451935784960'

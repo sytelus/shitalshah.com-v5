@@ -3,6 +3,8 @@ title: 'Fool''s Gold: Bitcoin''s Proof-of-Centralization'
 draft: true
 date: 2019-11-25T17:00:09+00:00
 slug: '201911251700-fools-gold-bitcoin-centralization'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1198889097126797313'

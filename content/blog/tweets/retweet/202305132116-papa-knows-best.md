@@ -3,6 +3,8 @@ title: 'PAPA Knows Best: New ImageNet Results Hit 78.36%'
 draft: true
 date: 2023-05-13T21:16:22+00:00
 slug: '202305132116-papa-knows-best'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1657389324143566848'

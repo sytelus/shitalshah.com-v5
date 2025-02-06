@@ -3,6 +3,8 @@ title: 'Why Start a Small Business When You Can Buy Apple Stock?'
 draft: false
 date: 2021-01-08T07:46:51+00:00
 slug: '202101080746-why-start-small-business-buy-apple-stock'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1347328880244191234'

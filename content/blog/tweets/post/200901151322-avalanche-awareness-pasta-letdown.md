@@ -3,6 +3,8 @@ title: 'Avalanche Awareness and a Pasta Letdown'
 draft: true
 date: 2009-01-15T13:22:26+00:00
 slug: '200901151322-avalanche-awareness-pasta-letdown'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1120310216'

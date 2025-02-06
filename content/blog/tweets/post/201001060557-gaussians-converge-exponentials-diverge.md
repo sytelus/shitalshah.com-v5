@@ -3,6 +3,8 @@ title: 'Gaussians Converge, Exponentials Diverge—Funny Math!'
 draft: true
 date: 2010-01-06T05:57:20+00:00
 slug: '201001060557-gaussians-converge-exponentials-diverge'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '7416810900'

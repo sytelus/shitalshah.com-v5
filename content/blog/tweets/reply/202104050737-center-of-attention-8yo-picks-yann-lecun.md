@@ -3,6 +3,8 @@ title: 'Center of Attention: My 8yo Picks Yann LeCun'
 draft: true
 date: 2021-04-05T07:37:42+00:00
 slug: '202104050737-center-of-attention-8yo-picks-yann-lecun'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1378869420185899015'

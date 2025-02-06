@@ -3,6 +3,8 @@ title: 'Macro Solutions Need Micro Insights'
 draft: false
 date: 2018-12-04T11:57:57+00:00
 slug: '201812041157-macro-solutions-micro-insights'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1069802964649295872'

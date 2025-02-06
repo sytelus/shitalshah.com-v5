@@ -3,6 +3,8 @@ title: 'Dynamic Range Rover: Can Cameras Match Human Vision for Self-Driving?'
 draft: true
 date: 2023-01-08T11:40:37+00:00
 slug: '202301081140-dynamic-range-cameras-self-driving'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1611930849435586560'

@@ -3,6 +3,8 @@ title: 'Startup Math According to Patzer: Engineers Add Value, MBAs Subtract'
 draft: true
 date: 2012-05-20T13:27:50+00:00
 slug: '201205201327-patzer-startup-math'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '204096072652558336'

@@ -3,6 +3,8 @@ title: 'Kaiyu''s Proof Positive: ML Meets Theorem Proving at Stanford'
 draft: true
 date: 2023-10-06T15:13:00+00:00
 slug: '202310061513-kaiyu-ml-theorem-proving-stanford'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1710206507734958472'

@@ -3,6 +3,8 @@ title: 'Breaking Gradients: x += 1 vs x = x + 1 in PyTorch'
 draft: false
 date: 2019-12-20T07:25:17+00:00
 slug: '201912200725-pytorch-x-plus-equals-1'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1207804123392827392'

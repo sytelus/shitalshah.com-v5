@@ -3,6 +3,8 @@ title: 'Rankings, Not Rejections: Rethinking Conferences'
 draft: true
 date: 2021-01-13T12:59:27+00:00
 slug: '202101131259-rankings-not-rejections'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1349219486121873409'

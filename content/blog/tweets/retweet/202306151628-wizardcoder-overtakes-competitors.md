@@ -3,6 +3,8 @@ title: 'WizardCoder Casts New Spells, Overtakes Claude-Plus and Bard'
 draft: true
 date: 2023-06-15T16:28:16+00:00
 slug: '202306151628-wizardcoder-overtakes-competitors'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1669275621170761732'

@@ -3,6 +3,8 @@ title: 'Did Code Teach AI to Think Out Loud?'
 draft: true
 date: 2022-12-25T05:54:45+00:00
 slug: '202212250554-did-code-teach-ai-to-think-out-loud'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1606770380202741760'

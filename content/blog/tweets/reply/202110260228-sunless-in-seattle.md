@@ -3,6 +3,8 @@ title: 'Sunless in Seattle: Tips for Cloudy Living'
 draft: true
 date: 2021-10-26T02:28:21+00:00
 slug: '202110260228-sunless-in-seattle'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1452718694266667009'

@@ -3,6 +3,8 @@ title: 'The OPT Disasterpiece: LLM Training Gone Wrong'
 draft: false
 date: 2023-03-19T06:55:29+00:00
 slug: '202303190655-opt-disasterpiece'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1637241343620833280'

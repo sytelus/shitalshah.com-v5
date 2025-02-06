@@ -3,6 +3,8 @@ title: 'Helicopter Pilot? There''s An App For That!'
 draft: true
 date: 2010-10-14T03:44:52+00:00
 slug: '201010140344-helicopter-pilot-app'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '27274922204'

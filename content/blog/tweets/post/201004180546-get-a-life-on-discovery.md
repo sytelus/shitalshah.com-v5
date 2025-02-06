@@ -3,6 +3,8 @@ title: 'Get a Life on Discovery!'
 draft: true
 date: 2010-04-18T05:46:57+00:00
 slug: '201004180546-get-a-life-on-discovery'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '12364963747'

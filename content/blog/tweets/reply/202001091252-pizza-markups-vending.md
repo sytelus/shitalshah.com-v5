@@ -3,6 +3,8 @@ title: 'Slicing Profits: Pizza Markups and Vending Machine Opportunities'
 draft: true
 date: 2020-01-09T12:52:38+00:00
 slug: '202001091252-pizza-markups-vending'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1215134260337577985'

@@ -3,6 +3,8 @@ title: 'Fermat''s Last Theorem: The Amateur Dissection'
 draft: true
 date: 2009-12-31T09:38:38+00:00
 slug: '200912310938-fermat-amateur-dissection'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '7216534728'

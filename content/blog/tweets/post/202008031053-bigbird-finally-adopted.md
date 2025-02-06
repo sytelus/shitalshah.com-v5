@@ -3,6 +3,8 @@ title: 'BigBird Finally Gets Adopted in Transformer Land'
 draft: false
 date: 2020-08-03T10:53:20+00:00
 slug: '202008031053-bigbird-finally-adopted'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1290133623450959873'

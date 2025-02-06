@@ -3,6 +3,8 @@ title: 'Did They Just Boost Adversarial ImageNet SOTA to 74.2%? You Bet They Did
 draft: false
 date: 2019-11-13T12:33:13+00:00
 slug: '201911131233-adversarial-imagenet-sota-boost'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1194473267672670208'

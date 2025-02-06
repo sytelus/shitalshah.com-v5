@@ -3,6 +3,8 @@ title: 'Adjectives in Job Ads: Risky Business or Confident Choices?'
 draft: true
 date: 2021-12-06T06:02:28+00:00
 slug: '202112060602-adjectives-in-job-ads-risky-business'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1467615379220434944'

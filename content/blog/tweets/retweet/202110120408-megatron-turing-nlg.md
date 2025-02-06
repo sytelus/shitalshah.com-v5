@@ -3,6 +3,8 @@ title: 'Meet Megatron-Turing NLG: The 530B-Parameter Titan'
 draft: true
 date: 2021-10-12T04:08:28+00:00
 slug: '202110120408-megatron-turing-nlg'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1447670457981825026'

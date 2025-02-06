@@ -3,6 +3,8 @@ title: 'Tesla, Where Are You?'
 draft: true
 date: 2021-04-21T22:19:31+00:00
 slug: '202104212219-tesla-where-are-you'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1384889542340190211'

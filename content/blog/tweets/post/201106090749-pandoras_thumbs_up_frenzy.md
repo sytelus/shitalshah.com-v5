@@ -3,6 +3,8 @@ title: 'Pandora''s Thumbs Up Frenzy'
 draft: true
 date: 2011-06-09T07:49:10+00:00
 slug: '201106090749-pandoras_thumbs_up_frenzy'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '78624642587295744'

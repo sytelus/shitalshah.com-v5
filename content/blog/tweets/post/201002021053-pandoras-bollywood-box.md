@@ -3,6 +3,8 @@ title: 'Pandora''s Bollywood Box: Rediscovering Indian Beats'
 draft: true
 date: 2010-02-02T10:53:28+00:00
 slug: '201002021053-pandoras-bollywood-box'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '8525806027'

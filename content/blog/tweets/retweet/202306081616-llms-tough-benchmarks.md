@@ -3,6 +3,8 @@ title: 'LLMs vs. Tough Tests: Why Hard Benchmarks Matter'
 draft: true
 date: 2023-06-08T16:16:59+00:00
 slug: '202306081616-llms-tough-benchmarks'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1666736068773974021'

@@ -3,6 +3,8 @@ title: 'Writing Down the Road: OR-CA-BRC-YELL Adventures'
 draft: true
 date: 2009-11-22T15:20:18+00:00
 slug: '200911221520-writing-down-the-road'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '5940807614'

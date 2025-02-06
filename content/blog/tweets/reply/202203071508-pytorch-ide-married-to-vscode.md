@@ -3,6 +3,8 @@ title: 'PyTorch IDE? But I''m Married to VSCode'
 draft: true
 date: 2022-03-07T15:08:56+00:00
 slug: '202203071508-pytorch-ide-married-to-vscode'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1500730199779934208'

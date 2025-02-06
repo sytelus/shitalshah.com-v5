@@ -3,6 +3,8 @@ title: 'PyTorch 2.0 Tackles Overhead Head-On'
 draft: true
 date: 2023-01-22T08:08:16+00:00
 slug: '202301220808-pytorch-2-overhead'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1616950840358735873'

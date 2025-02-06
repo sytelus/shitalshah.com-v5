@@ -3,6 +3,8 @@ title: 'GPT-4 Crushes Easy Leetcode, Stumbles on Hard Ones'
 draft: true
 date: 2023-03-26T09:05:45+00:00
 slug: '202303260905-gpt4-crushes-easy-stumbles-hard'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1639810843532738560'

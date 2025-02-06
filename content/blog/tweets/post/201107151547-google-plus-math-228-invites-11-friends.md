@@ -3,6 +3,8 @@ title: 'Google+ Math: 228 Invites + 12 Hours = 11 Friends'
 draft: true
 date: 2011-07-15T15:47:07+00:00
 slug: '201107151547-google-plus-math-228-invites-11-friends'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '91790888400982016'

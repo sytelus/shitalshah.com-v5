@@ -3,6 +3,8 @@ title: 'Trace Me If You Can: Adventures with eBPF and More'
 draft: true
 date: 2023-12-06T11:36:05+00:00
 slug: '202312061136-trace-me-if-you-can-ebpf-adventures'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1732242480203260227'

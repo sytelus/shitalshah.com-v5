@@ -3,6 +3,8 @@ title: 'Bored Geniuses: The Case Against Watered-Down Curriculums'
 draft: true
 date: 2023-10-13T10:40:08+00:00
 slug: '202310131040-bored-geniuses'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1712674555452592209'

@@ -3,6 +3,8 @@ title: 'Blizzard FOMO: Seattle''s Wind Storm Instead'
 draft: true
 date: 2008-12-21T07:59:29+00:00
 slug: '200812210759-blizzard-fomo-seattle-wind-storm'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1069725854'

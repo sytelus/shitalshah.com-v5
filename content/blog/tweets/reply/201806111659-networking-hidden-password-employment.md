@@ -3,6 +3,8 @@ title: 'Networking: The Hidden Password to Employment'
 draft: true
 date: 2018-06-11T16:59:21+00:00
 slug: '201806111659-networking-hidden-password-employment'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1006113648505335808'

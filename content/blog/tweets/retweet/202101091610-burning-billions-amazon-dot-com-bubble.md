@@ -3,6 +3,8 @@ title: 'Burning Billions: Amazon’s Dot-Com Bubble Tale'
 draft: true
 date: 2021-01-09T16:10:09+00:00
 slug: '202101091610-burning-billions-amazon-dot-com-bubble'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1347817926884171778'

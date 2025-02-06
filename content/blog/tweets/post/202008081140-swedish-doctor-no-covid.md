@@ -3,6 +3,8 @@ title: 'Swedish Doctor Can''t Find COVID—Did It Vanish?'
 draft: false
 date: 2020-08-08T11:40:45+00:00
 slug: '202008081140-swedish-doctor-no-covid'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1291957496165175298'

@@ -3,6 +3,8 @@ title: 'Chipping Away at Patents: Why Others Can''t Replicate'
 draft: true
 date: 2024-11-23T14:28:05+00:00
 slug: '202411231428-chipping-away-at-patents'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1860208680266006753'

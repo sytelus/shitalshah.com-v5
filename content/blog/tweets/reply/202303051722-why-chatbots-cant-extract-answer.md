@@ -3,6 +3,8 @@ title: 'Why Chatbots Can''t Extract the Answer'
 draft: true
 date: 2023-03-05T17:22:45+00:00
 slug: '202303051722-why-chatbots-cant-extract-answer'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1632310671915503617'

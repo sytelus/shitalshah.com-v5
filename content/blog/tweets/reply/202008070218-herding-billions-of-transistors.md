@@ -3,6 +3,8 @@ title: 'Software: Herding Billions of Transistors'
 draft: true
 date: 2020-08-07T02:18:08+00:00
 slug: '202008070218-herding-billions-of-transistors'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1291453521523429376'

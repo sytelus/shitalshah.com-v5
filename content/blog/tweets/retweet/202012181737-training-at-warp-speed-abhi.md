@@ -3,6 +3,8 @@ title: 'Training at Warp Speed: Abhi''s 20+ Models in 24 Hours'
 draft: true
 date: 2020-12-18T17:37:23+00:00
 slug: '202012181737-training-at-warp-speed-abhi'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1339867345615908864'

@@ -3,6 +3,8 @@ title: 'Mathematica''s 140-Character Wonders'
 draft: true
 date: 2010-12-18T14:26:51+00:00
 slug: '201012181426-mathematica-140-character-wonders'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '16016524154245121'

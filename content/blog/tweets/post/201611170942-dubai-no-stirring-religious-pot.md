@@ -3,6 +3,8 @@ title: 'Dubai''s New Rule: No Stirring the Religious Pot'
 draft: true
 date: 2016-11-17T09:42:34+00:00
 slug: '201611170942-dubai-no-stirring-religious-pot'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '799065160241528840'

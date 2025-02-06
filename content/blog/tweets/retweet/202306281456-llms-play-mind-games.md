@@ -3,6 +3,8 @@ title: 'LLMs Play Mind Games: Testing Theory-of-Mind with AI'
 draft: true
 date: 2023-06-28T14:56:59+00:00
 slug: '202306281456-llms-play-mind-games'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1673963692659200002'

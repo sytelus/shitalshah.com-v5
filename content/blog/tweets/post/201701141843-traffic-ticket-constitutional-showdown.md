@@ -3,6 +3,8 @@ title: 'From Traffic Ticket to Constitutional Showdown'
 draft: true
 date: 2017-01-14T18:43:55+00:00
 slug: '201701141843-traffic-ticket-constitutional-showdown'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '820219890816557056'

@@ -3,6 +3,8 @@ title: 'Don''t Bug Out! AI Debugging with TensorWatch at Strata'
 draft: false
 date: 2019-09-26T13:14:55+00:00
 slug: '201909261314-dont-bug-out-ai-debugging-tensorwatch-strata'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1177104240625500162'

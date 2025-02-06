@@ -3,6 +3,8 @@ title: 'ChatGPT-4 is Statistically Human'
 draft: false
 date: 2024-01-11T09:04:03+00:00
 slug: '202401110904-chatgpt4-statistically-human'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1745250184668614846'

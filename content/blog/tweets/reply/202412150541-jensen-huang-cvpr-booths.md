@@ -3,6 +3,8 @@ title: 'From CVPR Booths to GPU King: Jensen Huang''s Scruffy Roots'
 draft: true
 date: 2024-12-15T05:41:00+00:00
 slug: '202412150541-jensen-huang-cvpr-booths'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1868048570781413709'

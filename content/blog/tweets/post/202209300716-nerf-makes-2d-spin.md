@@ -3,6 +3,8 @@ title: 'No 3D Dataset? No Problem! NeRF Makes 2D Spin'
 draft: false
 date: 2022-09-30T07:16:44+00:00
 slug: '202209300716-nerf-makes-2d-spin'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1575640752335753216'

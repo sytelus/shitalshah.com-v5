@@ -3,6 +3,8 @@ title: 'Recursive Drills and Board Thrills'
 draft: true
 date: 2018-12-28T12:22:24+00:00
 slug: '201812281222-recursive-drills-and-board-thrills'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1078506425037447169'

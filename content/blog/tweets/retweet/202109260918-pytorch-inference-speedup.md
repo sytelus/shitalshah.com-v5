@@ -3,6 +3,8 @@ title: 'PyTorch Inference Goes Brrr: Speeding Up Your Code'
 draft: true
 date: 2021-09-26T09:18:46+00:00
 slug: '202109260918-pytorch-inference-speedup'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1441950344410324999'

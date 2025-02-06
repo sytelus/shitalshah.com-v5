@@ -3,6 +3,8 @@ title: 'Bit by Bit: 10,000 Hours with Claude Shannon'
 draft: true
 date: 2017-07-26T15:05:15+00:00
 slug: '201707261505-bit-by-bit-claude-shannon'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '890120820613419009'

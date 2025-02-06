@@ -3,6 +3,8 @@ title: 'Extremely Political, Extremely Awkward'
 draft: true
 date: 2020-12-27T16:54:49+00:00
 slug: '202012271654-extremely-political-extremely-awkward'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1343118126263590913'

@@ -3,6 +3,8 @@ title: 'No Mass Magic: Price Stays Above $5k'
 draft: true
 date: 2024-01-05T09:19:39+00:00
 slug: '202401050919-no-mass-magic-price-5k'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1743079783704264932'

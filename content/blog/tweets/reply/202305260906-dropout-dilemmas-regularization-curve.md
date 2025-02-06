@@ -3,6 +3,8 @@ title: 'Dropout Dilemmas: How Regularization Shapes the Curve'
 draft: true
 date: 2023-05-26T09:06:06+00:00
 slug: '202305260906-dropout-dilemmas-regularization-curve'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1661916590466797568'

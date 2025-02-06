@@ -3,6 +3,8 @@ title: 'Big Brain, Small Code: GPT-2 in 150 Lines'
 draft: false
 date: 2021-10-25T12:20:38+00:00
 slug: '202110251220-big-brain-small-code-gpt2-in-150-lines'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1452505360846057475'

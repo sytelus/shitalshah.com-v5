@@ -3,6 +3,8 @@ title: 'The One-Sentence Scientific Survival Guide'
 draft: false
 date: 2019-07-26T01:46:35+00:00
 slug: '201907260146-one-sentence-science'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1154462968576270336'

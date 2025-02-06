@@ -3,6 +3,8 @@ title: 'VR and AI: Great Minds Tech Alike'
 draft: false
 date: 2024-09-26T13:09:44+00:00
 slug: '202409261309-vr-and-ai-great-minds'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1839185567592190235'

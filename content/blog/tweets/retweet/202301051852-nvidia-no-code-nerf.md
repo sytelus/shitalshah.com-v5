@@ -3,6 +3,8 @@ title: 'NeRF in a Stocking: NVIDIA''s No-Code Holiday Gift'
 draft: true
 date: 2023-01-05T18:52:29+00:00
 slug: '202301051852-nvidia-no-code-nerf'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1610952369990438912'

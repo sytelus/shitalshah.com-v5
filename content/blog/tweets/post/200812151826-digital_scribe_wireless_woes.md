@@ -3,6 +3,8 @@ title: 'Wired Scribe Shines, Wireless Version Whines'
 draft: true
 date: 2008-12-15T18:26:44+00:00
 slug: '200812151826-digital_scribe_wireless_woes'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1058260434'

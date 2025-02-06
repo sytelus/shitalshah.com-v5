@@ -3,6 +3,8 @@ title: 'Just in Time at the Louvre'
 draft: true
 date: 2021-03-03T11:17:54+00:00
 slug: '202103031117-just-in-time-louvre'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1366950937357479940'

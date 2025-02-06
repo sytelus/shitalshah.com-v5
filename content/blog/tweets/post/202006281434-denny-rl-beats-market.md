@@ -3,6 +3,8 @@ title: 'Denny''s RL Beats the Market: Efficiently Inefficient!'
 draft: false
 date: 2020-06-28T14:34:53+00:00
 slug: '202006281434-denny-rl-beats-market'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1277143418129592323'

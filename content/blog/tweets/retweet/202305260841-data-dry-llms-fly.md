@@ -3,6 +3,8 @@ title: 'Data''s Dry, but LLMs Fly: 400 Models Trained'
 draft: true
 date: 2023-05-26T08:41:09+00:00
 slug: '202305260841-data-dry-llms-fly'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1661910311346245632'

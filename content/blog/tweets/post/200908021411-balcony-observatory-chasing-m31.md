@@ -3,6 +3,8 @@ title: 'Balcony Observatory: Chasing M31'
 draft: true
 date: 2009-08-02T14:11:20+00:00
 slug: '200908021411-balcony-observatory-chasing-m31'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '3083470688'

@@ -3,6 +3,8 @@ title: 'Bob Farrell''s 10 Rules: Old Wisdom, New Relevance'
 draft: true
 date: 2021-01-11T11:29:20+00:00
 slug: '202101111129-bob-farrells-10-rules'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1348472033479299072'

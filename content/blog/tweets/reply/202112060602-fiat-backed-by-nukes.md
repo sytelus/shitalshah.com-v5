@@ -3,6 +3,8 @@ title: 'Fiat Currency Backed by 20,000 Nukes'
 draft: true
 date: 2021-12-06T06:02:16+00:00
 slug: '202112060602-fiat-backed-by-nukes'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1467615332244156416'

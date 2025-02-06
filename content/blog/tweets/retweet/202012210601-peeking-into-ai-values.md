@@ -3,6 +3,8 @@ title: 'Peeking into AI''s Soul: What Top Papers Value Most'
 draft: true
 date: 2020-12-21T06:01:39+00:00
 slug: '202012210601-peeking-into-ai-values'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1340779422282964993'

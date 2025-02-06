@@ -3,6 +3,8 @@ title: 'Byte-sized Reinforcement Learning'
 draft: true
 date: 2021-03-09T15:57:31+00:00
 slug: '202103091557-byte-sized-reinforcement-learning'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1369195629151350786'

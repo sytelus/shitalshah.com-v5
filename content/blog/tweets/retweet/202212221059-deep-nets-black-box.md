@@ -3,6 +3,8 @@ title: 'When Deep Neural Nets are Deeply Wrong: A Black Box Dilemma'
 draft: true
 date: 2022-12-22T10:59:53+00:00
 slug: '202212221059-deep-nets-black-box'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1605760006296850432'

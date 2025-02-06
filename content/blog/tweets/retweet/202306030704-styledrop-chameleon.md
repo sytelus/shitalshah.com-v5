@@ -3,6 +3,8 @@ title: 'StyleDrop: The Chameleon of Text-to-Image'
 draft: true
 date: 2023-06-03T07:04:32+00:00
 slug: '202306030704-styledrop-chameleon'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1664785099290804224'

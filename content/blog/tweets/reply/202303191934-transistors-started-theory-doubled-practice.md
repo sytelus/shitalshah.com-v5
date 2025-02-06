@@ -3,6 +3,8 @@ title: 'Transistors: Started in Theory, Doubled by Practice'
 draft: true
 date: 2023-03-19T19:34:43+00:00
 slug: '202303191934-transistors-started-theory-doubled-practice'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1637432410781650944'

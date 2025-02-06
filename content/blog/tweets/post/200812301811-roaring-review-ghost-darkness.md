@@ -3,6 +3,8 @@ title: 'Roaring Review: The Ghost and the Darkness'
 draft: true
 date: 2008-12-30T18:11:46+00:00
 slug: '200812301811-roaring-review-ghost-darkness'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1085664353'

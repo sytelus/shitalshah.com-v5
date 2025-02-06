@@ -3,6 +3,8 @@ title: 'Cherry-Picking Audiobooks: 349 and Counting'
 draft: true
 date: 2010-02-23T19:48:46+00:00
 slug: '201002231948-cherry-picking-349-audiobooks'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '9522314143'

@@ -3,6 +3,8 @@ title: 'Zooming into Miss Switzerland'
 draft: true
 date: 2010-09-27T16:24:31+00:00
 slug: '201009271624-zooming-into-miss-switzerland'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '25671410474'

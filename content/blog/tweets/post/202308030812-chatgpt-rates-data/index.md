@@ -3,6 +3,8 @@ title: 'ChatGPT Rates Your Data: 4.5 Stars or You''re Out'
 draft: false
 date: 2023-08-03T08:12:14+00:00
 slug: '202308030812-chatgpt-rates-data'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1686907796326154242'

@@ -3,6 +3,8 @@ title: 'Wobble Trouble: Earth''s 26,000-Year Cycle and Climate Change'
 draft: true
 date: 2019-02-17T16:06:38+00:00
 slug: '201902171606-wobble-trouble-earth-cycle'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1097044639788351489'

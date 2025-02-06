@@ -3,6 +3,8 @@ title: 'Cracking the Zillow Code: Kaggle Winners Share Their Journey'
 draft: true
 date: 2019-02-01T22:04:38+00:00
 slug: '201902012204-cracking-zillow-code-kaggle-journey'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1091336525013409793'

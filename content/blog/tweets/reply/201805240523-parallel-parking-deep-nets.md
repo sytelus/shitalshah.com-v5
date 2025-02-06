@@ -3,6 +3,8 @@ title: 'Parallel Parking Deep Nets: Navigating the Generalization Gap'
 draft: true
 date: 2018-05-24T05:23:17+00:00
 slug: '201805240523-parallel-parking-deep-nets'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '999415496679112704'

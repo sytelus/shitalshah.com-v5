@@ -3,6 +3,8 @@ title: 'Matrix Norms: Symmetric Eigenvalues, Asymmetric AᵗA'
 draft: true
 date: 2010-01-25T10:36:49+00:00
 slug: '201001251036-matrix-norms-symmetric-asymmetric'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '8174750225'

@@ -3,6 +3,8 @@ title: 'Interpreting AI? We Can''t Even Understand FLT!'
 draft: true
 date: 2023-07-14T08:50:35+00:00
 slug: '202307140850-interpreting-ai-flt'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1679669689163857920'

@@ -3,6 +3,8 @@ title: 'Transforming Without Transformers: DALLE and Stable Diffusion''s Secret'
 draft: true
 date: 2022-12-23T04:48:10+00:00
 slug: '202212230448-transforming-without-transformers'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1606028849690583061'

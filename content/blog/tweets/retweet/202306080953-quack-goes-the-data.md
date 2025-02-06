@@ -3,6 +3,8 @@ title: 'Quack Goes the Data: SQL Queries on Hugging Face Datasets via DuckDB'
 draft: true
 date: 2023-06-08T09:53:43+00:00
 slug: '202306080953-quack-goes-the-data'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1666639613853863936'

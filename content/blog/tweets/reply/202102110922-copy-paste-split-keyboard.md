@@ -3,6 +3,8 @@ title: 'Copy, Paste, and Split: The Keyboard of Convenience'
 draft: true
 date: 2021-02-11T09:22:25+00:00
 slug: '202102110922-copy-paste-split-keyboard'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1359674117385981953'

@@ -3,6 +3,8 @@ title: 'Who Stole My CPU? Diagnosing Resource Thieves'
 draft: true
 date: 2023-06-15T16:52:27+00:00
 slug: '202306151652-who-stole-my-cpu'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1669281707516887040'

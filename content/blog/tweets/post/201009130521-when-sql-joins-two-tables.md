@@ -3,6 +3,8 @@ title: 'When SQL Joins Two Tables'
 draft: true
 date: 2010-09-13T05:21:39+00:00
 slug: '201009130521-when-sql-joins-two-tables'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '24321173163'

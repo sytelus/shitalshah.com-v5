@@ -3,6 +3,8 @@ title: 'Beauty''s Secret? It''s Complicated'
 draft: false
 date: 2020-05-31T10:13:25+00:00
 slug: '202005311013-beautys-secret-its-complicated'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1266930756380528647'

@@ -3,6 +3,8 @@ title: 'Skip the Random Slices: Boost NanoGPT with Whole Document Context'
 draft: true
 date: 2024-11-05T14:34:13+00:00
 slug: '202411051434-nanogpt-whole-document-context'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1853687242583380342'

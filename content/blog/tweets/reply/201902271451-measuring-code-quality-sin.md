@@ -3,6 +3,8 @@ title: 'Measuring Code Quality: In a State of Sin'
 draft: true
 date: 2019-02-27T14:51:57+00:00
 slug: '201902271451-measuring-code-quality-sin'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1100649722820276224'

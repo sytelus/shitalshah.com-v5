@@ -3,6 +3,8 @@ title: 'Scaling the Knowledge Pyramid: A Climb Too High?'
 draft: true
 date: 2024-12-29T19:21:43+00:00
 slug: '202412291921-scaling-knowledge-pyramid'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1873328542467108976'

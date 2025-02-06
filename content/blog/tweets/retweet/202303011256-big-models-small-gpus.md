@@ -3,6 +3,8 @@ title: 'Stuffing Huge Models into Tiny GPUs: HuggingFace Magic'
 draft: true
 date: 2023-03-01T12:56:20+00:00
 slug: '202303011256-big-models-small-gpus'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1630794074356871168'

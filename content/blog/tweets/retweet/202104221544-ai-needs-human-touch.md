@@ -3,6 +3,8 @@ title: 'Help Wanted: AI Needs a Human Touch'
 draft: true
 date: 2021-04-22T15:44:30+00:00
 slug: '202104221544-ai-needs-human-touch'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1385152521384071171'

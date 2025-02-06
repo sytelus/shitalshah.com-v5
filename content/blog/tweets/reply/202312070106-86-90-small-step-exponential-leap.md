@@ -3,6 +3,8 @@ title: '86 to 90: A Small Step or Exponential Leap?'
 draft: true
 date: 2023-12-07T01:06:32+00:00
 slug: '202312070106-86-90-small-step-exponential-leap'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1732446436200247418'

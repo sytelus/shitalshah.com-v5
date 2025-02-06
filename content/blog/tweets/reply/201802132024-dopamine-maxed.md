@@ -3,6 +3,8 @@ title: 'Dopamine Maxed: Human Optimization Complete'
 draft: true
 date: 2018-02-13T20:24:54+00:00
 slug: '201802132024-dopamine-maxed'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '963388511498809345'

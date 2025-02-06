@@ -3,6 +3,8 @@ title: 'Model Fails Hinton Test: GPT-4 Still Undefeated'
 draft: false
 date: 2023-05-25T16:36:57+00:00
 slug: '202305251636-model-fails-hinton-test'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1661667663675027456'

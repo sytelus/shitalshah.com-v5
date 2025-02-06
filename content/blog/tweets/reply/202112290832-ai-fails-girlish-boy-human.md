@@ -3,6 +3,8 @@ title: 'AI Masters All But ''Girlish Boy'' and ''Human'
 draft: true
 date: 2021-12-29T08:32:10+00:00
 slug: '202112290832-ai-fails-girlish-boy-human'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1475987976878387202'

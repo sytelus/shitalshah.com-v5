@@ -3,6 +3,8 @@ title: 'Maxwell''s Relations: Named After, Not By'
 draft: true
 date: 2023-08-29T13:53:10+00:00
 slug: '202308291353-maxwells-relations-named-after'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1696415680394822033'

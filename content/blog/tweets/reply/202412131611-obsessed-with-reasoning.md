@@ -3,6 +3,8 @@ title: 'Obsessed with Reasoning? Guilty as Charged'
 draft: true
 date: 2024-12-13T16:11:37+00:00
 slug: '202412131611-obsessed-with-reasoning'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1867482495119503474'

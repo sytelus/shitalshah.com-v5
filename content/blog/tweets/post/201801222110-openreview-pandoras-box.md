@@ -3,6 +3,8 @@ title: 'OpenReview Opens Pandora''s Reviewer Box'
 draft: false
 date: 2018-01-22T21:10:43+00:00
 slug: '201801222110-openreview-pandoras-box'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '955427506978369536'

@@ -3,6 +3,8 @@ title: 'Torcheval: Setting PyTorch Metrics Ablaze'
 draft: true
 date: 2023-01-10T19:37:38+00:00
 slug: '202301101937-torcheval-pytorch-metrics'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1612775670748418049'

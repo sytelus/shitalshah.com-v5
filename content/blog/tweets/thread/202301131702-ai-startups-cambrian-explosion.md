@@ -3,6 +3,8 @@ title: 'AI Startups Evolve: The New Cambrian Explosion'
 draft: false
 date: 2023-01-13T17:02:55+00:00
 slug: '202301131702-ai-startups-cambrian-explosion'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1613823897929146370'

@@ -3,6 +3,8 @@ title: 'Transforming RNNs: Solving N Problems with K Solutions'
 draft: true
 date: 2023-03-05T11:30:09+00:00
 slug: '202303051130-transforming-rnns-n-problems-k-solutions'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1632221938423832578'

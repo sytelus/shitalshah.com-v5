@@ -3,6 +3,8 @@ title: 'LLM Training Hits Hyperdrive: 10x Faster in a Year!'
 draft: false
 date: 2024-04-17T10:19:14+00:00
 slug: '202404171019-llm-training-10x-faster'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1780435825941160212'

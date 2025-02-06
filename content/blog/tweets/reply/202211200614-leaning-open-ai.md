@@ -3,6 +3,8 @@ title: 'Fence-Sitting in AI Debate: Leaning Open'
 draft: true
 date: 2022-11-20T06:14:46+00:00
 slug: '202211200614-leaning-open-ai'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1594091842492305409'

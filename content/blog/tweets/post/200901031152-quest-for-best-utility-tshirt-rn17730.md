@@ -3,6 +3,8 @@ title: 'Quest for the Best: Utility T-Shirt RN#17730'
 draft: true
 date: 2009-01-03T11:52:20+00:00
 slug: '200901031152-quest-for-best-utility-tshirt-rn17730'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1092833401'

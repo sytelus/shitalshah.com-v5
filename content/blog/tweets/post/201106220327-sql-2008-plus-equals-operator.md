@@ -3,6 +3,8 @@ title: 'Surprise Addition: SQL 2008 Supports ''+='
 draft: true
 date: 2011-06-22T03:27:43+00:00
 slug: '201106220327-sql-2008-plus-equals-operator'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '83269891293069312'

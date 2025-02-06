@@ -3,6 +3,8 @@ title: 'No Free Lunch: The Out-of-Distribution Dilemma'
 draft: false
 date: 2023-06-16T14:14:22+00:00
 slug: '202306161414-no-free-lunch-out-of-distribution'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1669604313948393473'

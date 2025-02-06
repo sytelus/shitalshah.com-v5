@@ -3,6 +3,8 @@ title: 'Brick by Brick: SpaCy''s Curated-Transformers for PyTorch'
 draft: true
 date: 2023-07-16T01:17:52+00:00
 slug: '202307160117-brick-by-brick-spacy-curated-transformers'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1680280537121054721'

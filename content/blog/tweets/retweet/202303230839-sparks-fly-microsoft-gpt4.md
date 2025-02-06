@@ -3,6 +3,8 @@ title: 'Sparks Fly: Microsoft Research''s Early GPT-4 Experiments'
 draft: true
 date: 2023-03-23T08:39:32+00:00
 slug: '202303230839-sparks-fly-microsoft-gpt4'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1638717079242289153'

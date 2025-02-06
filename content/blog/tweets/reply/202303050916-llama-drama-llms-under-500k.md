@@ -3,6 +3,8 @@ title: 'LLaMA Drama: Building LLMs Under $500k'
 draft: true
 date: 2023-03-05T09:16:53+00:00
 slug: '202303050916-llama-drama-llms-under-500k'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1632188397166137344'

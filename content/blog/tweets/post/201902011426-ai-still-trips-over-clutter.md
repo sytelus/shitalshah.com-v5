@@ -3,6 +3,8 @@ title: 'Learning to Navigate? AI Still Trips Over the Clutter'
 draft: false
 date: 2019-02-01T14:26:59+00:00
 slug: '201902011426-ai-still-trips-over-clutter'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1091221353540145153'

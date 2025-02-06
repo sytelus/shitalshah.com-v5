@@ -3,6 +3,8 @@ title: 'Set DVR to Stun: Planet Earth in HD'
 draft: true
 date: 2009-01-05T14:23:53+00:00
 slug: '200901051423-set-dvr-to-stun-planet-earth'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1096604170'

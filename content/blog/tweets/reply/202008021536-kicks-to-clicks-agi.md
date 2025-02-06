@@ -3,6 +3,8 @@ title: 'Kicks to Clicks: How Thai Sneakers Fuel AGI'
 draft: true
 date: 2020-08-02T15:36:51+00:00
 slug: '202008021536-kicks-to-clicks-agi'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1289842586052489217'

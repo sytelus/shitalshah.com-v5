@@ -3,6 +3,8 @@ title: 'Scott Aaronson''s Secret Seed: Watermarking GPT Text'
 draft: true
 date: 2023-01-05T18:33:01+00:00
 slug: '202301051833-scott-aaronsons-secret-seed'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1610947469982208000'

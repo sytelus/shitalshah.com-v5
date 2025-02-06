@@ -3,6 +3,8 @@ title: 'Tweet on 2024-04-17T11:43:21+00:00'
 draft: true
 date: 2024-04-17T11:43:21+00:00
 slug: '202404171143'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1780456994790428895'

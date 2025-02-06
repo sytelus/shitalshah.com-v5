@@ -3,6 +3,8 @@ title: 'Sketchy Business: MSR AI''s Drawing Bot Creates Original Scenes'
 draft: true
 date: 2020-03-16T14:00:20+00:00
 slug: '202003161400-msr-ai-drawing-bot'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1239446385025404928'

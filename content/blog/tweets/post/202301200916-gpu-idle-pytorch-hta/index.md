@@ -3,6 +3,8 @@ title: 'GPU Idle? PyTorch''s Holistic Trace Analysis Knows Why'
 draft: false
 date: 2023-01-20T09:16:54+00:00
 slug: '202301200916-gpu-idle-pytorch-hta'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1616243338247823360'

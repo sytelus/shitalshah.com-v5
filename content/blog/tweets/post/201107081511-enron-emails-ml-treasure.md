@@ -3,6 +3,8 @@ title: 'Enron Emails: Machine Learning''s Treasure Trove'
 draft: true
 date: 2011-07-08T15:11:56+00:00
 slug: '201107081511-enron-emails-ml-treasure'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '89245316775292929'

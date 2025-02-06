@@ -3,6 +3,8 @@ title: 'MathVista Unveils GPT-4V''s Visual Weaknesses'
 draft: false
 date: 2023-10-18T15:23:21+00:00
 slug: '202310181523-mathvista-gpt4v-visual-weaknesses'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1714557767250489783'

@@ -3,6 +3,8 @@ title: 'Languages We Love to Hate—and Defend'
 draft: false
 date: 2019-08-09T07:48:43+00:00
 slug: '201908090748-languages-we-love-to-hate-and-defend'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1159627532666200064'

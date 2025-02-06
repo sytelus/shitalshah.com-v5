@@ -3,6 +3,8 @@ title: 'Snow Kidding: August Hikes on Mt Baker Still Blocked'
 draft: true
 date: 2010-08-16T17:15:18+00:00
 slug: '201008161715-snow-kidding-august-hikes-mt-baker'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '21303707561'

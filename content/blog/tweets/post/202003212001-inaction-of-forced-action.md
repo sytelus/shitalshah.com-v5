@@ -3,6 +3,8 @@ title: 'The Inaction of Forced Action'
 draft: false
 date: 2020-03-21T20:01:36+00:00
 slug: '202003212001-inaction-of-forced-action'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1241349241303207942'

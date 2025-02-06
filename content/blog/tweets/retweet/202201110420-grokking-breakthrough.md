@@ -3,6 +3,8 @@ title: 'Grokking the Breakthrough: The Spiritual Successor'
 draft: true
 date: 2022-01-11T04:20:48+00:00
 slug: '202201110420-grokking-breakthrough'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1480635759300206592'

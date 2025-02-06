@@ -3,6 +3,8 @@ title: 'SQL Server''s 2-Minute Hiccups? Tame TempDB and Log Growths!'
 draft: true
 date: 2010-07-30T06:20:50+00:00
 slug: '201007300620-sql-server-2min-hiccup'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '19863221260'

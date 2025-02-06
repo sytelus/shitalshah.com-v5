@@ -3,6 +3,8 @@ title: 'If the Universe is Optimizing, What''s the Objective Function?'
 draft: false
 date: 2020-09-08T22:18:00+00:00
 slug: '202009082218-universe-optimizing-objective-function'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1303351889682214915'

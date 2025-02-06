@@ -3,6 +3,8 @@ title: 'Weight(s) for It: ConvNeXt Atto Joins TIMM'
 draft: true
 date: 2022-08-17T11:29:12+00:00
 slug: '202208171129-convnext-atto-in-timm'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1559759225282109442'

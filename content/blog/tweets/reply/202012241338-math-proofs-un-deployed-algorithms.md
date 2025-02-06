@@ -3,6 +3,8 @@ title: 'Math Proofs: The Un-deployed Algorithms'
 draft: true
 date: 2020-12-24T13:38:20+00:00
 slug: '202012241338-math-proofs-un-deployed-algorithms'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1341981513160671234'

@@ -3,6 +3,8 @@ title: 'Breaking the Colour Resolution Barrier'
 draft: true
 date: 2012-08-24T14:47:18+00:00
 slug: '201208241447-breaking-the-colour-resolution-barrier'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '238905308183941120'

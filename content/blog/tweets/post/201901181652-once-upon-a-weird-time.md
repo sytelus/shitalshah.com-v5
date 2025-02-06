@@ -3,6 +3,8 @@ title: 'Once Upon a Time... Things Got Weird'
 draft: false
 date: 2019-01-18T16:52:31+00:00
 slug: '201901181652-once-upon-a-weird-time'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1086184549900378113'

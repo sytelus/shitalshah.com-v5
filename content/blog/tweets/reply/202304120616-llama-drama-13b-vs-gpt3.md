@@ -3,6 +3,8 @@ title: 'LLaMA Drama: Is 13B Really Comparable to GPT-3?'
 draft: true
 date: 2023-04-12T06:16:19+00:00
 slug: '202304120616-llama-drama-13b-vs-gpt3'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1645928797110255622'

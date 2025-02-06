@@ -3,6 +3,8 @@ title: 'Outlier Overload: When Least Squares Goes Awry'
 draft: true
 date: 2010-01-22T10:44:01+00:00
 slug: '201001221044-least_squares_outlier_overload'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '8053170942'

@@ -3,6 +3,8 @@ title: 'Black Friday Hype Train: All Glitter, No Gold'
 draft: false
 date: 2019-11-29T17:20:19+00:00
 slug: '201911291720-black-friday-all-glitter-no-gold'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1200343723411853312'

@@ -3,6 +3,8 @@ title: 'Text Generation Gets a Hug from Hugging Face!'
 draft: true
 date: 2022-11-10T09:00:22+00:00
 slug: '202211100900-text-generation-hugging-face'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1590509639648817152'

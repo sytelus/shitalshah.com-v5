@@ -3,6 +3,8 @@ title: 'Informer: Transformers With Insider Info'
 draft: true
 date: 2020-12-23T14:21:37+00:00
 slug: '202012231421-informer-transformer'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1341630017713831936'

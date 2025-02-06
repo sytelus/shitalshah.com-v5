@@ -3,6 +3,8 @@ title: 'DeiT''s a Miracle: Facebook AI Open-Sources Efficient Image Transformers
 draft: true
 date: 2020-12-24T13:47:00+00:00
 slug: '202012241347-deits-a-miracle-facebook-ai'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1341983695738007553'

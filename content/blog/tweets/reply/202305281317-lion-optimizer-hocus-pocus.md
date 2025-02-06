@@ -3,6 +3,8 @@ title: 'Lion Optimizer: Hocus Pocus or Real Benefits?'
 draft: true
 date: 2023-05-28T13:17:37+00:00
 slug: '202305281317-lion-optimizer-hocus-pocus'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1662704662217371648'

@@ -3,6 +3,8 @@ title: 'PIE-Fueled Code: CODEX & CODEGEN Speed Boosts'
 draft: true
 date: 2023-02-16T20:11:33+00:00
 slug: '202302162011-pie-codex-codegen-speed-boosts'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1626192558278975489'

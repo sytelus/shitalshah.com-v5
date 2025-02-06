@@ -3,6 +3,8 @@ title: 'Graphormers Astonish in Molecular Predictions'
 draft: true
 date: 2023-07-08T10:07:31+00:00
 slug: '202307081007-graphormers-astonish-molecular-predictions'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1677514721636016141'

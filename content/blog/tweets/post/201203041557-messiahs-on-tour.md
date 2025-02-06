@@ -3,6 +3,8 @@ title: 'Messiahs on Tour: The Jerusalem Syndrome'
 draft: true
 date: 2012-03-04T15:57:51+00:00
 slug: '201203041557-messiahs-on-tour'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '176214860030423040'

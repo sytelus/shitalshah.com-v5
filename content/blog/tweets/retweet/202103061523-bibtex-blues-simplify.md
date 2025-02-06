@@ -3,6 +3,8 @@ title: 'BibTex Blues? Simplify with a Script!'
 draft: true
 date: 2021-03-06T15:23:23+00:00
 slug: '202103061523-bibtex-blues-simplify'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1368099878501371905'

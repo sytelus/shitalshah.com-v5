@@ -3,6 +3,8 @@ title: 'Mentoring 30 Researchers: Mission Impossible?'
 draft: true
 date: 2020-03-03T02:09:34+00:00
 slug: '202003030209-mentoring-30-researchers'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1234541372931072001'

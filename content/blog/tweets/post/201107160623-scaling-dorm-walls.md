@@ -3,6 +3,8 @@ title: 'Scaling New Heights in Dorm Life'
 draft: true
 date: 2011-07-16T06:23:18+00:00
 slug: '201107160623-scaling-dorm-walls'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '92011385134911488'

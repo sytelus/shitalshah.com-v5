@@ -3,6 +3,8 @@ title: 'Math Dreams: Midjourney Visualizes Famous Theorems'
 draft: true
 date: 2023-04-23T01:06:38+00:00
 slug: '202304230106-midjourney-math-theorems'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1649837129093234689'

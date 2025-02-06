@@ -3,6 +3,8 @@ title: 'Whistler Wonders: Sun, Snow, and Skis'
 draft: true
 date: 2009-03-31T16:00:52+00:00
 slug: '200903311600-whistler-wonders-sun-snow-skis'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1423342822'

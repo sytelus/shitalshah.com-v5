@@ -3,6 +3,8 @@ title: 'Oldies but Goodies: Let''s Not Forget K and M Series GPUs!'
 draft: true
 date: 2019-04-24T16:41:55+00:00
 slug: '201904241641-include-k-m-series-gpus'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1120986216344592385'

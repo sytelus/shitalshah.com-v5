@@ -3,6 +3,8 @@ title: 'Don''t Spring into Springer: Avoid Exploitative Paywalls'
 draft: true
 date: 2022-01-08T02:53:58+00:00
 slug: '202201080253-dont-spring-into-springer'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1479526745208328193'

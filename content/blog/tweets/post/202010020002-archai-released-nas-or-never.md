@@ -3,6 +3,8 @@ title: 'Archai Released: It''s NAS or Never for Neural Networks'
 draft: false
 date: 2020-10-02T00:02:51+00:00
 slug: '202010020002-archai-released-nas-or-never'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1311713199369060352'

@@ -3,6 +3,8 @@ title: 'All Errors, No Transactions: Opus Bank''s Web Glitch'
 draft: true
 date: 2016-04-19T14:31:29+00:00
 slug: '201604191431-opus-bank-all-transactions-error'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '722326740740100096'

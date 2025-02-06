@@ -3,6 +3,8 @@ title: 'Least Squares, Least Fun'
 draft: true
 date: 2010-02-13T03:52:26+00:00
 slug: '201002130352-least-squares-least-fun'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '9023133237'

@@ -3,6 +3,8 @@ title: 'TRLX – The Secret Sauce Behind ChatGPT Now in Python'
 draft: true
 date: 2023-01-06T13:24:48+00:00
 slug: '202301061324-trlx-secret-sauce-behind-chatgpt'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1611232293699620869'

@@ -3,6 +3,8 @@ title: 'From Toys to Titans: How Steel Fueled the Industrial Revolution'
 draft: true
 date: 2023-09-18T02:43:32+00:00
 slug: '202309180243-steel-industrial-revolution'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1703494918747095359'

@@ -3,6 +3,8 @@ title: 'The Fine Art of Barely Standing Bridges'
 draft: true
 date: 2009-01-05T05:25:40+00:00
 slug: '200901050525-fine-art-barely-standing-bridges'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1095777730'

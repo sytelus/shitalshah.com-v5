@@ -3,6 +3,8 @@ title: 'From LSTM to Highways: Schmidhuber''s Neural Network Journey'
 draft: true
 date: 2018-05-16T15:17:34+00:00
 slug: '201805161517-schmidhuber-lstm-highway'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '996665950840635394'

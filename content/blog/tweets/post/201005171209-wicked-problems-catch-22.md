@@ -3,6 +3,8 @@ title: 'Wicked Problems: The Ultimate Catch-22'
 draft: true
 date: 2010-05-17T12:09:17+00:00
 slug: '201005171209-wicked-problems-catch-22'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '14142833211'

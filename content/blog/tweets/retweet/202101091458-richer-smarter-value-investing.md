@@ -3,6 +3,8 @@ title: 'Richer and Smarter: Value Investing Doesn''t Work'
 draft: true
 date: 2021-01-09T14:58:10+00:00
 slug: '202101091458-richer-smarter-value-investing'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1347799811165089793'

@@ -3,6 +3,8 @@ title: 'The ''self''-ish Rebellion Against ''this'
 draft: true
 date: 2021-10-14T13:15:27+00:00
 slug: '202110141315-selfish-rebellion-against-this'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1448532886764748801'

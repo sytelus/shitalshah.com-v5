@@ -3,6 +3,8 @@ title: 'Marching Towards Change: BLM Protests Lower Police Homicides'
 draft: true
 date: 2021-02-13T13:21:45+00:00
 slug: '202102131321-blm-protests-lower-police-homicides'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1360459121493823492'

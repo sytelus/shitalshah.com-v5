@@ -3,6 +3,8 @@ title: 'IQ in Slow Motion'
 draft: false
 date: 2023-12-31T16:04:02+00:00
 slug: '202312311604-iq-in-slow-motion'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1741369610048577748'

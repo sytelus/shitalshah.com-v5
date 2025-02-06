@@ -3,6 +3,8 @@ title: 'OPT-175B Takes the Helm from GPT-3'
 draft: true
 date: 2022-12-07T13:52:47+00:00
 slug: '202212071352-opt-175b-takes-helm-from-gpt3'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1600367700274184192'

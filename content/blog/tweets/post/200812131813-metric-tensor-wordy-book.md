@@ -3,6 +3,8 @@ title: 'Finally Grasped Metric Tensors Thanks to This Wordy Book!'
 draft: true
 date: 2008-12-13T18:13:10+00:00
 slug: '200812131813-metric-tensor-wordy-book'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1055093412'

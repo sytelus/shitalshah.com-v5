@@ -3,6 +3,8 @@ title: 'Cracking the Cursor Code'
 draft: false
 date: 2024-09-27T18:39:34+00:00
 slug: '202409271839-cracking-the-cursor-code'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1839630961572749451'

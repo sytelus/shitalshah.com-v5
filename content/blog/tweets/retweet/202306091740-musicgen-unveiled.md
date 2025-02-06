@@ -3,6 +3,8 @@ title: 'When AI Strikes a Chord: MusicGen Unveiled'
 draft: true
 date: 2023-06-09T17:40:17+00:00
 slug: '202306091740-musicgen-unveiled'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1667119419615772678'

@@ -3,6 +3,8 @@ title: 'All You Need Is Matrix Multiplication'
 draft: true
 date: 2024-10-21T08:25:12+00:00
 slug: '202410210825-all-you-need-is-matrix-multiplication'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1848173661330526654'

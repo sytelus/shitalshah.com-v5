@@ -3,6 +3,8 @@ title: 'LLMs Age Like Wine: Databricks'' 2-Year-Old Model Becomes ChatGPT-like'
 draft: true
 date: 2023-03-26T08:27:04+00:00
 slug: '202303260827-llms-age-like-wine'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1639801106028195840'

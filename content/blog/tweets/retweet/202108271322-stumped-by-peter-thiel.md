@@ -3,6 +3,8 @@ title: 'Stumped by Peter Thiel''s Big Question'
 draft: true
 date: 2021-08-27T13:22:17+00:00
 slug: '202108271322-stumped-by-peter-thiel'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1431139991023808517'

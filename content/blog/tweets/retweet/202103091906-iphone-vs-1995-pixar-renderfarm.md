@@ -3,6 +3,8 @@ title: 'Your iPhone Is as Powerful as Pixar''s 1995 Render Farm'
 draft: true
 date: 2021-03-09T19:06:50+00:00
 slug: '202103091906-iphone-vs-1995-pixar-renderfarm'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1369243274393845762'

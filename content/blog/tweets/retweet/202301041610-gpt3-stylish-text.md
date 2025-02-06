@@ -3,6 +3,8 @@ title: 'When Text Gets Stylish: GPT-3 Makes It Snappy'
 draft: true
 date: 2023-01-04T16:10:28+00:00
 slug: '202301041610-gpt3-stylish-text'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1610549207936696321'

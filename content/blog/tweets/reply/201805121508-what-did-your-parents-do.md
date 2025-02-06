@@ -3,6 +3,8 @@ title: 'What Did Your Parents Do? A Lifestyle Mystery'
 draft: true
 date: 2018-05-12T15:08:11+00:00
 slug: '201805121508-what-did-your-parents-do'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '995214038484238339'

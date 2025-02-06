@@ -3,6 +3,8 @@ title: 'EncoderDecoder Models Go Brrrr: 5x Faster on CPUs!'
 draft: true
 date: 2020-12-25T12:45:12+00:00
 slug: '202012251245-encoder-decoder-5x-faster-cpu'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1342330532575625216'

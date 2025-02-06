@@ -3,6 +3,8 @@ title: 'From Typewriters to OpenAI: Docs Disrupted Again'
 draft: false
 date: 2022-12-14T14:24:22+00:00
 slug: '202212141424-docs-disrupted-by-openai'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1602912362276999169'

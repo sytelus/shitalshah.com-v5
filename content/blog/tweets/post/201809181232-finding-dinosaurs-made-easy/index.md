@@ -3,6 +3,8 @@ title: 'Finding Dinosaurs Made Easy'
 draft: false
 date: 2018-09-18T12:32:25+00:00
 slug: '201809181232-finding-dinosaurs-made-easy'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1041922870949994497'

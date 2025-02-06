@@ -3,6 +3,8 @@ title: 'When Lecture Prep Becomes Deep Learning Gold'
 draft: true
 date: 2021-03-09T11:18:29+00:00
 slug: '202103091118-lecture-prep-deep-learning-gold'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1369125409334251526'

@@ -3,6 +3,8 @@ title: 'Chain-of-Thought Verification? Naturally!'
 draft: true
 date: 2023-06-07T14:30:45+00:00
 slug: '202306071430-chain-of-thought-verification'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1666346942748844033'

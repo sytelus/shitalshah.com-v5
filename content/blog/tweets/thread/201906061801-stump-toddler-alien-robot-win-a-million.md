@@ -3,6 +3,8 @@ title: 'Stump a Toddler, Alien, or Robot—Win a Million'
 draft: false
 date: 2019-06-06T18:01:29+00:00
 slug: '201906061801-stump-toddler-alien-robot-win-a-million'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1136588916465647616'

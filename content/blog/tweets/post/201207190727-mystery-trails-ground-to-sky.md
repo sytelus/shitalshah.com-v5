@@ -3,6 +3,8 @@ title: 'Mystery Trails from Ground to Sky'
 draft: true
 date: 2012-07-19T07:27:29+00:00
 slug: '201207190727-mystery-trails-ground-to-sky'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '225748659432718336'

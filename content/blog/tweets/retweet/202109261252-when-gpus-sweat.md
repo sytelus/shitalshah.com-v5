@@ -3,6 +3,8 @@ title: 'When GPUs Sweat: Parallel Training for Large Models'
 draft: true
 date: 2021-09-26T12:52:12+00:00
 slug: '202109261252-when-gpus-sweat'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1442004056201830400'

@@ -3,6 +3,8 @@ title: 'Saved by the App'
 draft: true
 date: 2010-01-25T09:13:12+00:00
 slug: '201001250913-saved-by-the-app'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '8171487399'

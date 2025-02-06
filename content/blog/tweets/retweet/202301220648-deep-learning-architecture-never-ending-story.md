@@ -3,6 +3,8 @@ title: 'Deep Learning Architecture: The Never-Ending Story'
 draft: true
 date: 2023-01-22T06:48:43+00:00
 slug: '202301220648-deep-learning-architecture-never-ending-story'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1616930822929649664'

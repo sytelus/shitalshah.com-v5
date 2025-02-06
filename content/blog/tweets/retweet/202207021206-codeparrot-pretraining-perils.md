@@ -3,6 +3,8 @@ title: 'CodeParrot''s Pretraining Perils'
 draft: true
 date: 2022-07-02T12:06:09+00:00
 slug: '202207021206-codeparrot-pretraining-perils'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1543098679698997248'

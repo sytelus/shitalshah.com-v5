@@ -3,6 +3,8 @@ title: 'No Degrees, No Problem: Self-Taught Programmers Crack Obstacle Tower'
 draft: false
 date: 2019-08-08T13:10:57+00:00
 slug: '201908081310-no-degrees-no-problem'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1159346239609040896'

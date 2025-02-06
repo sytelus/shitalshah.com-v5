@@ -3,6 +3,8 @@ title: 'Nature''s Imagination: Netflix''s Secret Real-Life Films'
 draft: false
 date: 2021-02-10T12:34:11+00:00
 slug: '202102101234-netflix-secret-real-life-films'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1359359989932908546'

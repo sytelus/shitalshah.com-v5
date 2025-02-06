@@ -3,6 +3,8 @@ title: 'Switch It Up: Lumia 920 Takes the Crown'
 draft: true
 date: 2013-06-04T05:00:30+00:00
 slug: '201306040500-lumia-920-takes-the-crown'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '341675789454028800'

@@ -3,6 +3,8 @@ title: 'Not Dead Yet: CPR Can Revive After 90 Minutes Without Pulse'
 draft: true
 date: 2011-08-23T03:43:49+00:00
 slug: '201108230343-not-dead-yet-cpr'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '105741988107788289'

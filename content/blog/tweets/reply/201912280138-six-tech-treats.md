@@ -3,6 +3,8 @@ title: 'Six Tech Treats: From Minecraft Coding to Cosmo Robots'
 draft: true
 date: 2019-12-28T01:38:39+00:00
 slug: '201912280138-six-tech-treats'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1210615991258009600'

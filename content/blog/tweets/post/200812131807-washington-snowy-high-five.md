@@ -3,6 +3,8 @@ title: 'Washington''s Snowy High Five: Trails Ranked National Best'
 draft: true
 date: 2008-12-13T18:07:17+00:00
 slug: '200812131807-washington-snowy-high-five'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1055089882'

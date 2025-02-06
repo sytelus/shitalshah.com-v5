@@ -3,6 +3,8 @@ title: 'Sam Gentile''s Link Blogs: Goodbye Free Time'
 draft: true
 date: 2008-04-07T09:19:48+00:00
 slug: '200804070919-sam-gentile-link-blogs-goodbye-free-time'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '784134065'

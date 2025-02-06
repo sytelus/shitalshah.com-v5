@@ -3,6 +3,8 @@ title: 'MPT-7B Mania: MosaicML''s Trio Takes the Stage'
 draft: true
 date: 2023-05-13T08:33:25+00:00
 slug: '202305130833-mpt-7b-mosaicml-trio'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1657197323196432385'

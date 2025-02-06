@@ -3,6 +3,8 @@ title: 'Zero Limits: Billion-Scale Models for All with ZeRO-Offload'
 draft: true
 date: 2021-01-22T11:52:57+00:00
 slug: '202101221152-zero-limits-billion-scale-models'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1352464241563824130'

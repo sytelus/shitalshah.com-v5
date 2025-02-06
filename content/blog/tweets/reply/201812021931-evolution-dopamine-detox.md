@@ -3,6 +3,8 @@ title: 'Survival of the Un-Tempted: Evolution''s Dopamine Detox'
 draft: true
 date: 2018-12-02T19:31:53+00:00
 slug: '201812021931-evolution-dopamine-detox'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1069192427179728897'

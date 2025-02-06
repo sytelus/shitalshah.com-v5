@@ -3,6 +3,8 @@ title: 'RAG vs Long Context: Who Remembers Better?'
 draft: false
 date: 2024-03-11T06:31:37+00:00
 slug: '202403110631-rag-vs-long-context'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1766970192158961818'

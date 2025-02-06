@@ -3,6 +3,8 @@ title: 'Baby Steps into Language Models: The BabyLM Challenge'
 draft: true
 date: 2023-01-31T17:20:34+00:00
 slug: '202301311720-babylm-challenge'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1620351321332404225'

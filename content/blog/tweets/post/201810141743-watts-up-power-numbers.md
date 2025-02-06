@@ -3,6 +3,8 @@ title: 'Watts Up: Power Consumption Numbers Every Geek Should Know'
 draft: false
 date: 2018-10-14T17:43:59+00:00
 slug: '201810141743-watts-up-power-numbers'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1051423364907028481'

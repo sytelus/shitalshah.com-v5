@@ -3,6 +3,8 @@ title: 'Architectures Beware: Nature''s Guide to Spotting Performance Problems'
 draft: true
 date: 2023-01-22T06:49:25+00:00
 slug: '202301220649-architectures-beware-nature'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1616930995546230784'

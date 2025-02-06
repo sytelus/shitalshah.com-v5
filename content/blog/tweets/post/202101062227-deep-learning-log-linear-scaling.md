@@ -3,6 +3,8 @@ title: 'Deep Learning''s Log-Linear Scaling Secrets'
 draft: false
 date: 2021-01-06T22:27:49+00:00
 slug: '202101062227-deep-learning-log-linear-scaling'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1346825806194962432'

@@ -3,6 +3,8 @@ title: 'The Universe''s Dice: Quantum Free Will for All'
 draft: true
 date: 2022-11-10T04:09:39+00:00
 slug: '202211100409-universes-dice-quantum-free-will'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1590436476822904832'

@@ -3,6 +3,8 @@ title: 'Taming Torrents with Tomato Firmware'
 draft: true
 date: 2008-12-14T13:21:46+00:00
 slug: '200812141321-taming-torrents-with-tomato-firmware'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1056395520'

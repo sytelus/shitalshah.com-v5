@@ -3,6 +3,8 @@ title: 'Snow''s Slow Show: Grass Gets a White Makeover'
 draft: true
 date: 2008-12-14T13:19:34+00:00
 slug: '200812141319-snow-slow-show-white-grass'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1056393001'

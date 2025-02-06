@@ -3,6 +3,8 @@ title: 'Tiny Tot Tackles Math Apps'
 draft: true
 date: 2021-02-25T13:23:15+00:00
 slug: '202102251323-tiny-tot-tackles-math-apps'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1364808153406169093'

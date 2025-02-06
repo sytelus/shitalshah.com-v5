@@ -3,6 +3,8 @@ title: 'India''s Politicians Get a $14.5B Free Lunch, Poor Go Hungry'
 draft: true
 date: 2012-08-30T09:53:04+00:00
 slug: '201208300953-india-politicians-free-lunch'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '241005587612172288'

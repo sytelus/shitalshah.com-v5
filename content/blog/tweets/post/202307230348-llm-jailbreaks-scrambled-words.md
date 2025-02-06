@@ -3,6 +3,8 @@ title: 'LLM Jailbreaks: Scrambled Words, Still Served Hot'
 draft: false
 date: 2023-07-23T03:48:20+00:00
 slug: '202307230348-llm-jailbreaks-scrambled-words'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1682855118088151042'

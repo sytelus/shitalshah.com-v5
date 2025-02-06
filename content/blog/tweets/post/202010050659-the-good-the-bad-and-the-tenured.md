@@ -3,6 +3,8 @@ title: 'The Good, the Bad, and the Tenured: Why I Left Academia'
 draft: false
 date: 2020-10-05T06:59:17+00:00
 slug: '202010050659-the-good-the-bad-and-the-tenured'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1312905161350627328'

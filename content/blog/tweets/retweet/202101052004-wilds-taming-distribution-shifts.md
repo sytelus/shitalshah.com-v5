@@ -3,6 +3,8 @@ title: 'WILDS: Taming the Wild Distribution Shifts'
 draft: true
 date: 2021-01-05T20:04:04+00:00
 slug: '202101052004-wilds-taming-distribution-shifts'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1346427241320775681'

@@ -3,6 +3,8 @@ title: 'All Code Becomes ''Considered Harmful'' Over Time'
 draft: true
 date: 2018-12-19T16:03:09+00:00
 slug: '201812191603-all-code-becomes-considered-harmful-over-time'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1075300488600375296'

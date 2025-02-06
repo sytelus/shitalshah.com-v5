@@ -3,6 +3,8 @@ title: 'Zero-Shot Era Ends, Fine-Tuning Ascends'
 draft: true
 date: 2022-12-22T11:10:33+00:00
 slug: '202212221110-zero-shot-ends-fine-tuning-ascends'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1605762687618744320'

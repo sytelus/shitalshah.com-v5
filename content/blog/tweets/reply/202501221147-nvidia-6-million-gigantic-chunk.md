@@ -3,6 +3,8 @@ title: 'When 6 Million Isn''t Enough: NVidia''s Gigantic Chunk'
 draft: true
 date: 2025-01-22T11:47:17+00:00
 slug: '202501221147-nvidia-6-million-gigantic-chunk'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1881911488878981518'

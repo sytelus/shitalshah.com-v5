@@ -3,6 +3,8 @@ title: 'Vintage Christmas Cheer'
 draft: true
 date: 2020-12-25T12:37:08+00:00
 slug: '202012251237-vintage-christmas-cheer'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1342328500124971008'

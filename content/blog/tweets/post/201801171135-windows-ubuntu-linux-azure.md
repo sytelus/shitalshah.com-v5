@@ -3,6 +3,8 @@ title: 'Ubuntu in Windows Store, Linux Foundation Teaches Azure'
 draft: false
 date: 2018-01-17T11:35:43+00:00
 slug: '201801171135-windows-ubuntu-linux-azure'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '953470866670600192'

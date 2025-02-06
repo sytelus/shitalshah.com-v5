@@ -3,6 +3,8 @@ title: 'Naval''s Niagara: A Flood of Insights on Life, the Universe, and Everyth
 draft: false
 date: 2019-09-20T19:19:57+00:00
 slug: '201909201919-navals-niagara-of-insights'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1175021779376431104'

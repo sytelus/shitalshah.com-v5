@@ -3,6 +3,8 @@ title: 'NeuSpell: AI That Fixes Your Typo Woes'
 draft: true
 date: 2021-12-14T11:37:42+00:00
 slug: '202112141137-neuspell_ai_typo_fixer'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1470598847223058433'

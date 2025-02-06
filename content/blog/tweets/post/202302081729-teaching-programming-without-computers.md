@@ -3,6 +3,8 @@ title: 'Teaching Programming Without Computers: Knuth Would Be Proud'
 draft: false
 date: 2023-02-08T17:29:00+00:00
 slug: '202302081729-teaching-programming-without-computers'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1623252547267067904'

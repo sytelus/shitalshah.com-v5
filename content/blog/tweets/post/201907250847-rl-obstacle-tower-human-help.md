@@ -3,6 +3,8 @@ title: 'When RL Hits a Wall: Humans Open Doors'
 draft: false
 date: 2019-07-25T08:47:07+00:00
 slug: '201907250847-rl-obstacle-tower-human-help'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1154206414442622976'

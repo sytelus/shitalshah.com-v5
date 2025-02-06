@@ -3,6 +3,8 @@ title: 'When Interesting Beats Important'
 draft: false
 date: 2019-11-24T16:15:44+00:00
 slug: '201911241615-when-interesting-beats-important'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1198515531042586629'

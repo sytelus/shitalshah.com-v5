@@ -3,6 +3,8 @@ title: 'The Un-Googlable Article by Judea Pearl'
 draft: true
 date: 2018-12-10T19:05:13+00:00
 slug: '201812101905-un-googlable-article-judea-pearl'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1072084817573888000'

@@ -3,6 +3,8 @@ title: 'E\[X\] Marks the Spot: Calculating Expected Value'
 draft: true
 date: 2010-02-12T10:00:53+00:00
 slug: '201002121000-ex-marks-the-spot'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '8988775155'

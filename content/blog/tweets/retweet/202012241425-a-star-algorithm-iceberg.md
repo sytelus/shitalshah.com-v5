@@ -3,6 +3,8 @@ title: 'A* Is Just the Tip of the Algorithm Iceberg'
 draft: true
 date: 2020-12-24T14:25:15+00:00
 slug: '202012241425-a-star-algorithm-iceberg'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1341993319967014914'

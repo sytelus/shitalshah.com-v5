@@ -3,6 +3,8 @@ title: 'Princesses vs. Robots: One Dad''s Toy Story'
 draft: false
 date: 2020-11-30T15:59:33+00:00
 slug: '202011301559-princesses-vs-robots-dad-toy-story'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1333319744368177154'

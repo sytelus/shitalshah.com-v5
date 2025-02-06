@@ -3,6 +3,8 @@ title: 'Comefrom'': When Code Comes to You'
 draft: true
 date: 2012-08-30T15:03:50+00:00
 slug: '201208301503-comefrom-code-comes-to-you'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '241083795829297152'

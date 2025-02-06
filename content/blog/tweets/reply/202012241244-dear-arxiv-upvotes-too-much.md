@@ -3,6 +3,8 @@ title: 'Dear ArXiv, Are Upvotes Too Much to Ask?'
 draft: true
 date: 2020-12-24T12:44:35+00:00
 slug: '202012241244-dear-arxiv-upvotes-too-much'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1341967987817910273'

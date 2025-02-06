@@ -3,6 +3,8 @@ title: 'Credit Cards Need a Stripe of Innovation'
 draft: true
 date: 2020-08-02T16:04:16+00:00
 slug: '202008021604-credit-cards-need-stripe'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1289849487758725121'

@@ -3,6 +3,8 @@ title: 'Mind-Bending Logic: Computing with Optical Illusions'
 draft: false
 date: 2019-04-03T09:37:27+00:00
 slug: '201904030937-computing-with-optical-illusions'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1113269250335006720'

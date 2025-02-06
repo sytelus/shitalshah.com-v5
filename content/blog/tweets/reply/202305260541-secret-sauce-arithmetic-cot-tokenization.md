@@ -3,6 +3,8 @@ title: 'Thought the Secret Sauce Was Arithmetic CoT? Tokenization Begs to Differ
 draft: true
 date: 2023-05-26T05:41:03+00:00
 slug: '202305260541-secret-sauce-arithmetic-cot-tokenization'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1661864987005161474'

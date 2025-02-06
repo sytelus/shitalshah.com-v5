@@ -3,6 +3,8 @@ title: 'GPT Goes to Math Class: Fine-Tuned Model Beats the Curve'
 draft: true
 date: 2023-05-26T12:59:21+00:00
 slug: '202305261259-gpt-math-class-finetune'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1661975289596108801'

@@ -3,6 +3,8 @@ title: 'Game of Code: Cool .NET Samples from Ray Tracing to Boids'
 draft: true
 date: 2010-11-10T11:16:58+00:00
 slug: '201011101116-game-of-code-dotnet-samples'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '2197999253983232'

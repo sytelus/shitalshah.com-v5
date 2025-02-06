@@ -3,6 +3,8 @@ title: 'Reprogramming Cancer: Cells Commit ''Cell''f-Destruction'
 draft: true
 date: 2012-12-23T15:29:22+00:00
 slug: '201212231529-cancer-cells-commit-cellf-destruction'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '282749727165005824'

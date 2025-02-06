@@ -3,6 +3,8 @@ title: 'Sparse and the Furious: Decoding Transformers at High Speed'
 draft: true
 date: 2021-11-29T15:55:16+00:00
 slug: '202111291555-sparse-and-the-furious-decoding-transformers'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1465227849686601733'

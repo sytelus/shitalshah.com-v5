@@ -3,6 +3,8 @@ title: 'Data Structures All the Way Down: Python Edition'
 draft: false
 date: 2018-11-29T07:46:59+00:00
 slug: '201811290746-python-dataception'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1067927868242415616'

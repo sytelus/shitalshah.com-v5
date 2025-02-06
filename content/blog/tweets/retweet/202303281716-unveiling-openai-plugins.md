@@ -3,6 +3,8 @@ title: 'Unveiling OpenAI Plugins: Server Secrets Revealed'
 draft: true
 date: 2023-03-28T17:16:29+00:00
 slug: '202303281716-unveiling-openai-plugins'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1640659116308987904'

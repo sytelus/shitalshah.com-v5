@@ -3,6 +3,8 @@ title: 'Focus Pocus: You Don''t Need More Time'
 draft: true
 date: 2021-03-03T11:49:35+00:00
 slug: '202103031149-focus-pocus-you-dont-need-more-time'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1366958910163148805'

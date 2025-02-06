@@ -3,6 +3,8 @@ title: 'ALERT: Language Models Learn to Reason'
 draft: true
 date: 2022-12-19T12:00:49+00:00
 slug: '202212191200-alert-language-models-learn-to-reason'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1604688177352314882'

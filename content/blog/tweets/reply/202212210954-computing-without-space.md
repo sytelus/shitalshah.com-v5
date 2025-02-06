@@ -3,6 +3,8 @@ title: 'Computing Without Space: It''s All Functions'
 draft: true
 date: 2022-12-21T09:54:38+00:00
 slug: '202212210954-computing-without-space'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1605381197097766912'

@@ -3,6 +3,8 @@ title: 'Unprofitable? Maybe We Just Don''t Care'
 draft: true
 date: 2022-12-19T05:22:43+00:00
 slug: '202212190522-unprofitable-by-choice'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1604587988935008257'

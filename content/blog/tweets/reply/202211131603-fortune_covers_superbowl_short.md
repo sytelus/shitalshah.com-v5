@@ -3,6 +3,8 @@ title: 'Fortune Covers and Super Bowl Ads: Time to Short?'
 draft: true
 date: 2022-11-13T16:03:53+00:00
 slug: '202211131603-fortune_covers_superbowl_short'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1591703384377413632'

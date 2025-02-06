@@ -3,6 +3,8 @@ title: 'Data Dazzle: Microsoft''s [@sytelus](https://x.com/sytelus) Shines at DA
 draft: true
 date: 2018-02-12T11:48:33+00:00
 slug: '201802121148-data-dazzle-sytelus-daisummit'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '962896177388650496'

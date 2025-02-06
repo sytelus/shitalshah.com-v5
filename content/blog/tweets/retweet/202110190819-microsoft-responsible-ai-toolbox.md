@@ -3,6 +3,8 @@ title: 'AI Builds Character: Microsoft''s Responsible Toolbox Unveiled'
 draft: true
 date: 2021-10-19T08:19:43+00:00
 slug: '202110190819-microsoft-responsible-ai-toolbox'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1450270404921102336'

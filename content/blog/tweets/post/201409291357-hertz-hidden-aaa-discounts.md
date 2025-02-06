@@ -3,6 +3,8 @@ title: 'Hertz''s Hidden Discounts: AAA Members Save Big!'
 draft: true
 date: 2014-09-29T13:57:32+00:00
 slug: '201409291357-hertz-hidden-aaa-discounts'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '516481886760497152'

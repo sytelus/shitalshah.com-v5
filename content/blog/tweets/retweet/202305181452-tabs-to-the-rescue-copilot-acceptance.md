@@ -3,6 +3,8 @@ title: 'Tabs to the Rescue: Copilot Acceptance Up by 5%'
 draft: true
 date: 2023-05-18T14:52:06+00:00
 slug: '202305181452-tabs-to-the-rescue-copilot-acceptance'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1659104559527079936'

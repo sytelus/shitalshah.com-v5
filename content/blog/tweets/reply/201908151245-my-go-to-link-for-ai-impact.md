@@ -3,6 +3,8 @@ title: 'My Go-To Link for AI''s Impact'
 draft: true
 date: 2019-08-15T12:45:19+00:00
 slug: '201908151245-my-go-to-link-for-ai-impact'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1161876503556055040'

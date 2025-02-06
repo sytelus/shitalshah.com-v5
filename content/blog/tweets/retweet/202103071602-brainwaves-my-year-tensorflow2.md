@@ -3,6 +3,8 @@ title: 'Brainwaves: My Year Developing TensorFlow 2 at Google Brain'
 draft: true
 date: 2021-03-07T16:02:05+00:00
 slug: '202103071602-brainwaves-my-year-tensorflow2'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1368472005700284419'

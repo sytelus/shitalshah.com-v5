@@ -3,6 +3,8 @@ title: 'Forget the Beach House, We Bought an Island'
 draft: true
 date: 2013-09-17T17:38:52+00:00
 slug: '201309171738-friends_bought_island'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '379917362712965120'

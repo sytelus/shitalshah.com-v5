@@ -3,6 +3,8 @@ title: 'Isms Change, 1% Remains'
 draft: true
 date: 2011-04-04T14:29:14+00:00
 slug: '201104041429-isms-change-1-percent-remains'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '54807724478840832'

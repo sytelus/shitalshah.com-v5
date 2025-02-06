@@ -3,6 +3,8 @@ title: 'Brain Trees and Synaptic Leaves: The Amazon in Your Head'
 draft: false
 date: 2018-12-12T13:33:11+00:00
 slug: '201812121333-brain-trees-synaptic-leaves'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1072726035882434561'

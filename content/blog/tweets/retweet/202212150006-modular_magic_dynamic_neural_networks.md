@@ -3,6 +3,8 @@ title: 'Modular Magic: The Dynamic Duo of Neural Networks'
 draft: true
 date: 2022-12-15T00:06:12+00:00
 slug: '202212150006-modular_magic_dynamic_neural_networks'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1603058785555447808'

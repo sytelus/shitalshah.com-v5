@@ -3,6 +3,8 @@ title: 'Post-Training Post-Haste: Revamped in No Time'
 draft: true
 date: 2024-12-13T13:59:07+00:00
 slug: '202412131359-post-training-post-haste'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1867449149228298683'

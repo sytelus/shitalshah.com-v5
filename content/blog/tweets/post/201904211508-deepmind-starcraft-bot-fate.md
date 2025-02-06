@@ -3,6 +3,8 @@ title: 'Will DeepMind''s StarCraft Bot Meet the Same Fate?'
 draft: false
 date: 2019-04-21T15:08:21+00:00
 slug: '201904211508-deepmind-starcraft-bot-fate'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1119875504973074432'

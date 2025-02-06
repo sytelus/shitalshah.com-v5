@@ -3,6 +3,8 @@ title: 'Go Big or Go Home: Scaling Up Go Models by 100,000X'
 draft: false
 date: 2024-05-08T09:50:22+00:00
 slug: '202405080950-go-big-or-go-home-scaling-up-go-models'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1788038708714942627'

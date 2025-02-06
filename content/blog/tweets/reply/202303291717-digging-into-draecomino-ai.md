@@ -3,6 +3,8 @@ title: 'Digging into [@draecomino](https://x.com/draecomino)''s AI: Architecture
 draft: true
 date: 2023-03-29T17:17:59+00:00
 slug: '202303291717-digging-into-draecomino-ai'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1641021880021966851'

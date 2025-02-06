@@ -3,6 +3,8 @@ title: 'Unpromoted Work: Modesty or Malady?'
 draft: true
 date: 2020-12-18T15:16:24+00:00
 slug: '202012181516-unpromoted-work-modesty-malady'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1339831864685522944'

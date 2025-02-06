@@ -3,6 +3,8 @@ title: 'OPT-IML Drops: LLM Gets an Instructional Boost!'
 draft: true
 date: 2022-12-25T06:00:39+00:00
 slug: '202212250600-opt-iml-instructional-boost'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1606771865116381186'

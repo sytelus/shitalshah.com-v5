@@ -3,6 +3,8 @@ title: 'Resolution Confusion: EfficientNet vs RegNet'
 draft: true
 date: 2020-04-15T00:50:58+00:00
 slug: '202004150050-resolution-confusion-efficientnet-regnet'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1250119370790952968'

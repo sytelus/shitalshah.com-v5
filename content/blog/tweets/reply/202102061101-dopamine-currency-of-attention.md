@@ -3,6 +3,8 @@ title: 'Dopamine: The Currency of Attention'
 draft: true
 date: 2021-02-06T11:01:06+00:00
 slug: '202102061101-dopamine-currency-of-attention'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1357887011504332800'

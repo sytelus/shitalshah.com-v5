@@ -3,6 +3,8 @@ title: 'Double Vision: ImageNet-21K''s 1.2 Million Duplicates'
 draft: true
 date: 2022-07-17T22:39:16+00:00
 slug: '202207172239-double-vision-imagenet-duplicates'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1548693827426275333'

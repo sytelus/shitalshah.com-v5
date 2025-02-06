@@ -3,6 +3,8 @@ title: '8 Days a Week: Top Times to Buy Stocks'
 draft: true
 date: 2012-07-19T15:37:01+00:00
 slug: '201207191537-8-days-to-buy-stocks'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '225871853464457216'

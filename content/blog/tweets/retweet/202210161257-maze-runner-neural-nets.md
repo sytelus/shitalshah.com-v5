@@ -3,6 +3,8 @@ title: 'Maze Runner: Neural Nets Escape the Labyrinth'
 draft: true
 date: 2022-10-16T12:57:03+00:00
 slug: '202210161257-maze-runner-neural-nets'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1581524602387599360'

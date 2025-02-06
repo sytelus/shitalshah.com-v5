@@ -3,6 +3,8 @@ title: 'Shh! Secret Release of SotA Score-Based Methods'
 draft: true
 date: 2021-03-03T11:40:44+00:00
 slug: '202103031140-secret-sota-methods'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1366956680710266887'

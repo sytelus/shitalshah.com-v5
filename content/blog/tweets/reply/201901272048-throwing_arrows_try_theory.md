@@ -3,6 +3,8 @@ title: 'Throwing Arrows in the Dark? Try Theory!'
 draft: true
 date: 2019-01-27T20:48:49+00:00
 slug: '201901272048-throwing_arrows_try_theory'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1089505508447248384'

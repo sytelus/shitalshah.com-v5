@@ -3,6 +3,8 @@ title: 'UW Projects COVID Exit Stage Left by June'
 draft: false
 date: 2020-04-18T13:32:20+00:00
 slug: '202004181332-uw-projects-covid-exit-by-june'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1251398138478252033'

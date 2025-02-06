@@ -3,6 +3,8 @@ title: 'Neurons Schmeurons: Synapses Show AI''s Grim Odds'
 draft: true
 date: 2019-11-11T12:53:28+00:00
 slug: '201911111253-neurons-schmeurons-grim-odds'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1193753586670301189'

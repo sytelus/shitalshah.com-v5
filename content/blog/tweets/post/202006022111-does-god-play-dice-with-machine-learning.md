@@ -3,6 +3,8 @@ title: 'Does God Play Dice with Machine Learning?'
 draft: false
 date: 2020-06-02T21:11:00+00:00
 slug: '202006022111-does-god-play-dice-with-machine-learning'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1267821017814073353'

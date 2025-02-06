@@ -3,6 +3,8 @@ title: 'Brute Force vs. Brain Force: Winning with Algorithms'
 draft: true
 date: 2019-02-08T14:49:41+00:00
 slug: '201902081449-brute-force-vs-brain-force'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1093763781069426688'

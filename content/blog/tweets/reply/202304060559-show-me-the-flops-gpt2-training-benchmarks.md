@@ -3,6 +3,8 @@ title: 'Show Me the FLOPS: Seeking GPT-2 Training Benchmarks'
 draft: true
 date: 2023-04-06T05:59:58+00:00
 slug: '202304060559-show-me-the-flops-gpt2-training-benchmarks'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1643750352842526720'

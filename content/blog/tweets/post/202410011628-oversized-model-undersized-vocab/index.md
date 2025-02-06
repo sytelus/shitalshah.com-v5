@@ -3,6 +3,8 @@ title: 'Oversized Model, Undersized Vocab'
 draft: false
 date: 2024-10-01T16:28:40+00:00
 slug: '202410011628-oversized-model-undersized-vocab'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1841047571122569502'

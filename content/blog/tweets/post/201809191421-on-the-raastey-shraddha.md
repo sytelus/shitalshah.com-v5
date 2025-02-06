@@ -3,6 +3,8 @@ title: 'On the Raastey with Shraddha: Unpolished Intrigue'
 draft: false
 date: 2018-09-19T14:21:40+00:00
 slug: '201809191421-on-the-raastey-shraddha'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1042312754206392320'

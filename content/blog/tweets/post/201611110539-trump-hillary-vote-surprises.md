@@ -3,6 +3,8 @@ title: 'Trump''s Hispanic Bump and Hillary''s Female Feat'
 draft: true
 date: 2016-11-11T05:39:05+00:00
 slug: '201611110539-trump-hillary-vote-surprises'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '796829558515216388'

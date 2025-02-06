@@ -3,6 +3,8 @@ title: '4000 Miles to the Center of the Earth'
 draft: true
 date: 2010-10-12T05:09:44+00:00
 slug: '201010120509-4000-miles-to-center-of-earth'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '27073078035'

@@ -3,6 +3,8 @@ title: 'NotebookLM: Passing the Turing Test with Flying Colors'
 draft: true
 date: 2024-10-28T07:15:27+00:00
 slug: '202410280715-notebooklm-turing-test'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1850692820199428472'

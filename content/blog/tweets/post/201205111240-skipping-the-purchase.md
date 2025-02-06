@@ -3,6 +3,8 @@ title: 'Skipping the Purchase, Not the Bill'
 draft: true
 date: 2012-05-11T12:40:41+00:00
 slug: '201205111240-skipping-the-purchase'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '200822718931808256'

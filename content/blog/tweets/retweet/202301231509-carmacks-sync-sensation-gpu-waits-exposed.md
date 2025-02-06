@@ -3,6 +3,8 @@ title: 'Carmack''s Sync Sensation: GPU Waits Exposed!'
 draft: true
 date: 2023-01-23T15:09:22+00:00
 slug: '202301231509-carmacks-sync-sensation-gpu-waits-exposed'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1617419203354693632'

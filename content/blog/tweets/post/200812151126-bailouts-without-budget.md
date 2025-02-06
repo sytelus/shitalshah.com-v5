@@ -3,6 +3,8 @@ title: 'Bailouts Without a Budget: Where''s the Money Coming From?'
 draft: true
 date: 2008-12-15T11:26:58+00:00
 slug: '200812151126-bailouts-without-budget'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1057827170'

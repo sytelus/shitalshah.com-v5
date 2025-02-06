@@ -3,6 +3,8 @@ title: 'Curtis''s $75k Mission: Preserving Native Heritage'
 draft: true
 date: 2011-03-10T17:22:06+00:00
 slug: '201103101722-curtis_75k_native_heritage'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '45776432512765953'

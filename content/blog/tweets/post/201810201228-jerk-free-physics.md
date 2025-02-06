@@ -3,6 +3,8 @@ title: 'Jerk-Free Physics: Why Fundamental Forces Depend Only on Acceleration'
 draft: false
 date: 2018-10-20T12:28:09+00:00
 slug: '201810201228-jerk-free-physics'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1053518209846960128'

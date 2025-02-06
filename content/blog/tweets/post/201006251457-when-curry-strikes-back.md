@@ -3,6 +3,8 @@ title: 'When Curry Strikes Back: Understanding ''Violently Sick'
 draft: true
 date: 2010-06-25T14:57:24+00:00
 slug: '201006251457-when-curry-strikes-back'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '16998166384'

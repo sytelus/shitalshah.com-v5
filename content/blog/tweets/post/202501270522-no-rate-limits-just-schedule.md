@@ -3,6 +3,8 @@ title: 'Rate Limits Are for Those Who Can''t Schedule'
 draft: false
 date: 2025-01-27T05:22:20+00:00
 slug: '202501270522-no-rate-limits-just-schedule'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1883626550740054120'

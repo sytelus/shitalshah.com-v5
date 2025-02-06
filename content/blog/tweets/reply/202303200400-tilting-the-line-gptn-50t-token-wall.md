@@ -3,6 +3,8 @@ title: 'Tilting the Line: GPT-n Hits the 50T Token Wall'
 draft: true
 date: 2023-03-20T04:00:40+00:00
 slug: '202303200400-tilting-the-line-gptn-50t-token-wall'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1637559736173465600'

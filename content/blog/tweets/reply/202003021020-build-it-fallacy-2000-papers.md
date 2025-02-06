@@ -3,6 +3,8 @@ title: 'Build It and They''ll Come? Not Among 2000 Papers a Day'
 draft: true
 date: 2020-03-02T10:20:45+00:00
 slug: '202003021020-build-it-fallacy-2000-papers'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1234302596086562816'

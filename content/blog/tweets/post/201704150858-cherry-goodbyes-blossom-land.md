@@ -3,6 +3,8 @@ title: 'Cherry Goodbyes: Farewell to Blossom Land'
 draft: true
 date: 2017-04-15T08:58:28+00:00
 slug: '201704150858-cherry-goodbyes-blossom-land'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '853064953795923969'

@@ -3,6 +3,8 @@ title: 'Mega Makes Transformers Look Average'
 draft: true
 date: 2022-09-26T00:20:25+00:00
 slug: '202209260020-mega-makes-transformers-look-average'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1574086431483785216'

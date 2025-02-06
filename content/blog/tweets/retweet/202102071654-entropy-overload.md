@@ -3,6 +3,8 @@ title: 'Entropy Overload: Surviving a Grueling Data Science Interview'
 draft: true
 date: 2021-02-07T16:54:34+00:00
 slug: '202102071654-entropy-overload'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1358338350223032320'

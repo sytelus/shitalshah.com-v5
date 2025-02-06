@@ -3,6 +3,8 @@ title: 'Seeking the Secret Sauce: How do you test, [@WolframRvnwlf](https://x.co
 draft: true
 date: 2024-04-28T06:37:56+00:00
 slug: '202404280637-how-do-you-test-wolfram'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1784366399236067774'

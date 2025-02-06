@@ -3,6 +3,8 @@ title: 'Little LSTM Outsmarts Big Transformer in Flip-Flop Task'
 draft: false
 date: 2023-06-09T16:45:38+00:00
 slug: '202306091645-lstm-vs-transformer-flipflop'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1667105663435300871'

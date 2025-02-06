@@ -3,6 +3,8 @@ title: 'All Bases Covered: Identity Projection from Full-Rank Squares'
 draft: true
 date: 2010-01-23T12:48:45+00:00
 slug: '201001231248-identity-projection-full-rank-squares'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '8099818648'

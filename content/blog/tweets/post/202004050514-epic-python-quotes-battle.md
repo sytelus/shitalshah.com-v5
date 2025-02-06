@@ -3,6 +3,8 @@ title: '": The Epic Battle for Python Strings'
 draft: false
 date: 2020-04-05T05:14:50+00:00
 slug: '202004050514-epic-python-quotes-battle'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1246561896527872000'

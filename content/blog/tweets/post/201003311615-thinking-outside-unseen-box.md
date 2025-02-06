@@ -3,6 +3,8 @@ title: 'Thinking Outside the Box No One Knew Existed'
 draft: true
 date: 2010-03-31T16:15:16+00:00
 slug: '201003311615-thinking-outside-unseen-box'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '11358023758'

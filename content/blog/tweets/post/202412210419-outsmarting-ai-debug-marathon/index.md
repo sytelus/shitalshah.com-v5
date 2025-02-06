@@ -3,6 +3,8 @@ title: 'Outsmarting Every AI in an 18-Hour Debug Marathon'
 draft: false
 date: 2024-12-21T04:19:17+00:00
 slug: '202412210419-outsmarting-ai-debug-marathon'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1870202331398320602'

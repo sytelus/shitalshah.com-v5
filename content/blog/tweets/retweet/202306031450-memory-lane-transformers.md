@@ -3,6 +3,8 @@ title: 'Memory Lane: The Birth of Transformers'
 draft: true
 date: 2023-06-03T14:50:14+00:00
 slug: '202306031450-memory-lane-transformers'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1664902296696913920'

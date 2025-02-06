@@ -3,6 +3,8 @@ title: 'AdamW Who? A New Optimizer Steals the Show'
 draft: false
 date: 2024-10-13T10:01:24+00:00
 slug: '202410131001-adamw-who-new-optimizer'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1845298766863270159'

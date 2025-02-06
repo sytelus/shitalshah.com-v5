@@ -3,6 +3,8 @@ title: 'Pad: Doing Everything Except Coding'
 draft: true
 date: 2020-08-10T11:20:27+00:00
 slug: '202008101120-ipad-doing-everything-except-coding'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1292677166392467457'

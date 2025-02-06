@@ -3,6 +3,8 @@ title: 'Two Million Euros Too Many: The Dutch Perspective on Excess Wealth'
 draft: true
 date: 2021-01-16T01:36:14+00:00
 slug: '202101160136-two-million-euros-too-many'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1350134710869999617'

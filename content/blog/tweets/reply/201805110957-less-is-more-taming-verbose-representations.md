@@ -3,6 +3,8 @@ title: 'Less is More: Taming Verbose Representations'
 draft: true
 date: 2018-05-11T09:57:56+00:00
 slug: '201805110957-less-is-more-taming-verbose-representations'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '994773574455103490'

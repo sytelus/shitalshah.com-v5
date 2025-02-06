@@ -3,6 +3,8 @@ title: 'Slot to See Here: Amazing Photos from Buckskin Gulch'
 draft: true
 date: 2010-10-19T05:22:19+00:00
 slug: '201010190522-slot-to-see-buckskin-gulch'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '27774780376'

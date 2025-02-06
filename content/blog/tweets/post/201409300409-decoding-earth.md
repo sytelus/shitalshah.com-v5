@@ -3,6 +3,8 @@ title: 'Earth Unveiled: Algorithm Deciphers the Surface'
 draft: true
 date: 2014-09-30T04:09:57+00:00
 slug: '201409300409-decoding-earth'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '516696405209927682'

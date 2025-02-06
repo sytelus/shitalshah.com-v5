@@ -3,6 +3,8 @@ title: 'Mill''s Law: One Belief Beats 99 Interests'
 draft: true
 date: 2011-07-26T09:21:11+00:00
 slug: '201107260921-mills-law-one-beats-99-interests'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '95680031807909888'

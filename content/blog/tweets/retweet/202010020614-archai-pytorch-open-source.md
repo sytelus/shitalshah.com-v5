@@ -3,6 +3,8 @@ title: 'Archai You Ready? MSR Open-Sources PyTorch Platform'
 draft: true
 date: 2020-10-02T06:14:36+00:00
 slug: '202010020614-archai-pytorch-open-source'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1311806751595876352'

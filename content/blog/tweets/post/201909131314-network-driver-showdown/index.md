@@ -3,6 +3,8 @@ title: 'Network Driver Showdown: C Soars, Python Snores, Rust Rustles'
 draft: false
 date: 2019-09-13T13:14:21+00:00
 slug: '201909131314-network-driver-showdown'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1172393058656088065'

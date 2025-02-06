@@ -3,6 +3,8 @@ title: 'Regularization Outshines Architecture: Twice the Improvement!'
 draft: false
 date: 2021-10-01T13:19:01+00:00
 slug: '202110011319-regularization-outshines-architecture'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1443822743091232771'

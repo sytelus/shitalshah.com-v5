@@ -3,6 +3,8 @@ title: 'Brewing Success: The Rise of Dataset Distillation in ML'
 draft: true
 date: 2022-08-20T02:39:23+00:00
 slug: '202208200239-dataset-distillation-ml-rise'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1560713053208920065'

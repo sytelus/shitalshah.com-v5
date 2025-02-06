@@ -3,6 +3,8 @@ title: 'The SAT: An IQ Test in Disguise'
 draft: true
 date: 2011-11-20T16:06:47+00:00
 slug: '201111201606-sat-iq-test-in-disguise'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '138166384579457025'

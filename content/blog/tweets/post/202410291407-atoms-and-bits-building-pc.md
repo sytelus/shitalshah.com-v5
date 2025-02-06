@@ -3,6 +3,8 @@ title: 'Atoms and Bits: The Joy of Building Your Own PC'
 draft: false
 date: 2024-10-29T14:07:00+00:00
 slug: '202410291407-atoms-and-bits-building-pc'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1851158779360133231'

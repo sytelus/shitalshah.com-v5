@@ -3,6 +3,8 @@ title: 'DIY Code Completion: Run StarCoder Locally'
 draft: true
 date: 2023-06-09T17:33:14+00:00
 slug: '202306091733-run-starcoder-locally'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1667117644594675712'

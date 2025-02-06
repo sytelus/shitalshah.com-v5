@@ -3,6 +3,8 @@ title: 'When Kids Quiz, The Gadget Replies'
 draft: true
 date: 2021-07-12T11:53:03+00:00
 slug: '202107121153-when-kids-quiz-gadget-replies'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1414447690830606336'

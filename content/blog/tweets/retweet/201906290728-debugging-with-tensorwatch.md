@@ -3,6 +3,8 @@ title: 'Debugging Machine Learning? Time to ''Watch'' with TensorWatch'
 draft: true
 date: 2019-06-29T07:28:09+00:00
 slug: '201906290728-debugging-with-tensorwatch'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1144764454720004096'

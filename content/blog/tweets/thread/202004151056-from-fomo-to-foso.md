@@ -3,6 +3,8 @@ title: 'From FOMO to FOSO: Afraid to Spread Out?'
 draft: false
 date: 2020-04-15T10:56:15+00:00
 slug: '202004151056-from-fomo-to-foso'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1250271696314970123'

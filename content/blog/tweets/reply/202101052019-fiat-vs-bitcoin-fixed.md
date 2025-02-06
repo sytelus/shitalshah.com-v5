@@ -3,6 +3,8 @@ title: 'Fiat Flexibility vs. Bitcoin''s Fixed Dilemma'
 draft: true
 date: 2021-01-05T20:19:07+00:00
 slug: '202101052019-fiat-vs-bitcoin-fixed'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1346431030169722901'

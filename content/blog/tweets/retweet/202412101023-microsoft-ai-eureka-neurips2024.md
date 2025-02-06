@@ -3,6 +3,8 @@ title: 'Microsoft''s AI Frontier Sparks ''Eureka'' at NeurIPS2024'
 draft: true
 date: 2024-12-10T10:23:54+00:00
 slug: '202412101023-microsoft-ai-eureka-neurips2024'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1866307826815258950'

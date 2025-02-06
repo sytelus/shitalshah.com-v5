@@ -3,6 +3,8 @@ title: 'One Question to Rule Them All: Simplifying Paper Reviews'
 draft: true
 date: 2018-07-30T18:16:40+00:00
 slug: '201807301816-one-question-paper-reviews'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1023890113967751168'

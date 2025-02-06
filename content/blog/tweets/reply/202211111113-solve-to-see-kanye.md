@@ -3,6 +3,8 @@ title: 'Solve to See Kanye'
 draft: true
 date: 2022-11-11T11:13:07+00:00
 slug: '202211111113-solve-to-see-kanye'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1590905431559647233'

@@ -3,6 +3,8 @@ title: 'FastAI Express: Bootstrapping Deep Learning Research'
 draft: true
 date: 2020-01-21T17:59:21+00:00
 slug: '202001211759-fastai-deep-learning'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1219560104657162246'

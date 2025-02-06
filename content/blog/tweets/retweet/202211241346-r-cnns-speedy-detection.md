@@ -3,6 +3,8 @@ title: 'R-CNNs: From 2-Second Sloths to Speedy Object Detection'
 draft: true
 date: 2022-11-24T13:46:13+00:00
 slug: '202211241346-r-cnns-speedy-detection'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1595655002215051264'

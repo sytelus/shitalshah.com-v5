@@ -3,6 +3,8 @@ title: 'The Genius Ladder: From Us to von Neumann to Superintelligence'
 draft: true
 date: 2023-03-24T09:53:55+00:00
 slug: '202303240953-genius-ladder-von-neumann-superintelligence'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1639098185607184385'

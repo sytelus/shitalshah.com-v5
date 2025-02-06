@@ -3,6 +3,8 @@ title: 'When Hurricanes and Galaxies Twirl in Sync'
 draft: true
 date: 2010-09-15T03:17:18+00:00
 slug: '201009150317-hurricanes-galaxies-twirl'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '24505816308'

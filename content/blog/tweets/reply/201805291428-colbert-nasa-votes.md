@@ -3,6 +3,8 @@ title: 'Colbert, NASA, and the Game of Votes'
 draft: true
 date: 2018-05-29T14:28:38+00:00
 slug: '201805291428-colbert-nasa-votes'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1001364678096732161'

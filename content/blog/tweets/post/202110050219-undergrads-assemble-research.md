@@ -3,6 +3,8 @@ title: 'Undergrads Assemble! Research Awaits!'
 draft: false
 date: 2021-10-05T02:19:50+00:00
 slug: '202110050219-undergrads-assemble-research'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1445106403853561857'

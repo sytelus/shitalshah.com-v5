@@ -3,6 +3,8 @@ title: 'Microsoft''s Great LATAM Deep Learning Adventure'
 draft: false
 date: 2021-02-20T09:27:24+00:00
 slug: '202102200927-microsoft-latam-deep-learning'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1362936862172569602'

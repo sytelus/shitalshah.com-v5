@@ -3,6 +3,8 @@ title: 'Surprise Math in Docs: Equations Added!'
 draft: true
 date: 2014-02-07T15:31:08+00:00
 slug: '201402071531-surprise-math-docs'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '431691583805612032'

@@ -3,6 +3,8 @@ title: 'Honey, I Shrunk the Transformers: Meet MiniLMv2'
 draft: true
 date: 2021-01-14T23:35:13+00:00
 slug: '202101142335-honey-i-shrunk-the-transformers'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1349741868506968066'

@@ -3,6 +3,8 @@ title: 'Toyota Bellevue: Riding High on Low Prices'
 draft: true
 date: 2010-04-27T09:22:56+00:00
 slug: '201004270922-toyota-bellevue-riding-high-low-prices'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '12920482125'

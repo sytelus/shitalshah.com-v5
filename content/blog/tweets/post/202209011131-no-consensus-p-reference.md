@@ -3,6 +3,8 @@ title: 'No Consensus: Is ''P'' Actually ''Reference''?'
 draft: false
 date: 2022-09-01T11:31:48+00:00
 slug: '202209011131-no-consensus-p-reference'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1565195695229136897'

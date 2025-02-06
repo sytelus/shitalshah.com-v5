@@ -3,6 +3,8 @@ title: 'Self-Taught APIs: Meta''s LMs Need Only a Few Examples'
 draft: true
 date: 2023-02-10T14:44:43+00:00
 slug: '202302101444-self-taught-apis-meta-lms'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1623935980901396482'

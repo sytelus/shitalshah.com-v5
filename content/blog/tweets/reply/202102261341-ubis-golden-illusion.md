@@ -3,6 +3,8 @@ title: 'UBI''s Golden Illusion: More Gold, Same Worth'
 draft: true
 date: 2021-02-26T13:41:23+00:00
 slug: '202102261341-ubis-golden-illusion'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1365175103865036802'

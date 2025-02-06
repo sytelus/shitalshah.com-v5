@@ -3,6 +3,8 @@ title: 'AI''s Discrete Quantum Leap: Hacking Spacetime One Particle at a Time'
 draft: true
 date: 2023-02-27T01:23:03+00:00
 slug: '202302270123-ai-discrete-quantum-leap'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1629894828237660161'

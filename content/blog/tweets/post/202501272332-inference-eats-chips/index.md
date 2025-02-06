@@ -3,6 +3,8 @@ title: 'Inference Eats the Chips: Training Left Hungry'
 draft: false
 date: 2025-01-27T23:32:56+00:00
 slug: '202501272332-inference-eats-chips'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1883901010596479079'

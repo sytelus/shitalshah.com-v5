@@ -3,6 +3,8 @@ title: 'Compressing Life: 18 Years in a 3TB File'
 draft: false
 date: 2023-03-06T15:52:04+00:00
 slug: '202303061552-compressing-life-18-years-in-3tb'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1632650238141009923'

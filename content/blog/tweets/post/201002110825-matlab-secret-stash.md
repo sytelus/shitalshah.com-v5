@@ -3,6 +3,8 @@ title: 'MatLab''s Secret Stash: Octave, Sage, Maxima'
 draft: true
 date: 2010-02-11T08:25:10+00:00
 slug: '201002110825-matlab-secret-stash'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '8926669085'

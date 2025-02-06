@@ -3,6 +3,8 @@ title: 'Alpaca-Powered Coding: instruct-codegen-16B Released'
 draft: true
 date: 2023-05-28T13:22:41+00:00
 slug: '202305281322-alpaca-instruct-codegen-16b-released'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1662705937797496832'

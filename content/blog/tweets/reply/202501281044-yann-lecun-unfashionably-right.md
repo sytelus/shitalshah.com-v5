@@ -3,6 +3,8 @@ title: 'Yann LeCun: Unfashionably Right'
 draft: true
 date: 2025-01-28T10:44:19+00:00
 slug: '202501281044-yann-lecun-unfashionably-right'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1884069970616971539'

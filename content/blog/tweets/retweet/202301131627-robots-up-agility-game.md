@@ -3,6 +3,8 @@ title: 'Robots Need to Up Their Agility Game'
 draft: true
 date: 2023-01-13T16:27:19+00:00
 slug: '202301131627-robots-up-agility-game'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1613814939663368192'

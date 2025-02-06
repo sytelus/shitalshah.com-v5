@@ -3,6 +3,8 @@ title: 'Code First, Ask Questions Later: The Understudied Secret Behind GPT-3.5'
 draft: false
 date: 2023-05-01T05:57:21+00:00
 slug: '202305010557-code-first-llm-secret'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1652809390918082561'

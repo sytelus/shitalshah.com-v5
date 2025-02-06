@@ -3,6 +3,8 @@ title: 'Don''t Battle the Old Model—Obsolete It!'
 draft: false
 date: 2023-01-23T11:41:38+00:00
 slug: '202301231141-dont-battle-old-model-obsolete-it'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1617366922613649408'

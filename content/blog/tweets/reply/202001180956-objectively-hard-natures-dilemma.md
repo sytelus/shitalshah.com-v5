@@ -3,6 +3,8 @@ title: 'Objective-ly Hard: Nature''s Dilemma'
 draft: true
 date: 2020-01-18T09:56:22+00:00
 slug: '202001180956-objectively-hard-natures-dilemma'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1218351393624342528'

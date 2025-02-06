@@ -3,6 +3,8 @@ title: 'ChatGPT Eats Search Engines for Breakfast'
 draft: false
 date: 2022-12-01T11:59:07+00:00
 slug: '202212011159-chatgpt-eats-search-engines'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1598164765385555976'

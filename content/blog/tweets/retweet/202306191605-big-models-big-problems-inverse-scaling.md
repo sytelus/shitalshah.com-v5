@@ -3,6 +3,8 @@ title: 'Big Models, Big Problems: Inverse Scaling Explained'
 draft: true
 date: 2023-06-19T16:05:57+00:00
 slug: '202306191605-big-models-big-problems-inverse-scaling'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1670719556741132294'

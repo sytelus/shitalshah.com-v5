@@ -3,6 +3,8 @@ title: 'Pluto: The Ice Ball That Stole the Spotlight'
 draft: true
 date: 2018-12-08T19:56:41+00:00
 slug: '201812081956-pluto-ice-ball-stole-spotlight'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1071372991752065025'

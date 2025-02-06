@@ -3,6 +3,8 @@ title: 'GAN Get It Right: The Case for Theses'
 draft: true
 date: 2020-03-23T14:29:13+00:00
 slug: '202003231429-gan-get-it-right'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1241990366351339520'

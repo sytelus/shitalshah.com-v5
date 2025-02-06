@@ -3,6 +3,8 @@ title: 'Outsmarting Time: BackwardCompatibilityML Goes Open Source'
 draft: true
 date: 2021-10-19T03:24:28+00:00
 slug: '202110190324-backwardcompatibilityml-opensource'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1450196099650625541'

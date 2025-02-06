@@ -3,6 +3,8 @@ title: 'MatLab Installed! Math Hercules Mode Activated'
 draft: true
 date: 2010-02-13T09:25:47+00:00
 slug: '201002130925-matlab-installed-math-hercules'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '9034992904'

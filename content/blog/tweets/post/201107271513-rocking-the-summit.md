@@ -3,6 +3,8 @@ title: 'Rocking the Summit: My Granite Mountain Hike'
 draft: true
 date: 2011-07-27T15:13:10+00:00
 slug: '201107271513-rocking-the-summit'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '96130996088483840'

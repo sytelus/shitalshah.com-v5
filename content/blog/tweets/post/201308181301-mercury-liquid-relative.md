@@ -3,6 +3,8 @@ title: 'Mercury''s Liquid State: It''s All Relative!'
 draft: true
 date: 2013-08-18T13:01:46+00:00
 slug: '201308181301-mercury-liquid-relative'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '368975993282641921'

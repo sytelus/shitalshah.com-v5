@@ -3,6 +3,8 @@ title: 'Open Reviews, Closed Wounds: ICLR''s Approach'
 draft: true
 date: 2019-11-05T12:45:31+00:00
 slug: '201911051245-open-reviews-closed-wounds'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1191577257631830017'

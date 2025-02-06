@@ -3,6 +3,8 @@ title: 'Chain-of-Thought Unveiled: MLPs'' Compositional Tricks'
 draft: true
 date: 2023-06-01T14:36:48+00:00
 slug: '202306011436-dissecting-cot-mlps'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1664174138045636608'

@@ -3,6 +3,8 @@ title: 'Uplifted by Under-Desk Hammocks: Choosing Uplift Over Fully'
 draft: true
 date: 2020-03-20T10:00:54+00:00
 slug: '202003201000-uplifted-by-under-desk-hammocks'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1240835682106404865'

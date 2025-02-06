@@ -3,6 +3,8 @@ title: 'AMD''s Deep Learning Dilemma: Reddit Weighs In'
 draft: true
 date: 2021-11-11T04:28:16+00:00
 slug: '202111110428-amd-deep-learning-dilemma'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1458531977112416256'

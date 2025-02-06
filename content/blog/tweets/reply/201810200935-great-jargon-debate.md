@@ -3,6 +3,8 @@ title: 'The Great Jargon Debate: Terminology Tales'
 draft: true
 date: 2018-10-20T09:35:15+00:00
 slug: '201810200935-great-jargon-debate'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1053474699546488832'

@@ -3,6 +3,8 @@ title: 'Tilt Five''s AR Puts Magic Leap Out of Focus'
 draft: false
 date: 2021-11-24T03:37:26+00:00
 slug: '202111240337-tilt-five-ar-puts-magic-leap-out-of-focus'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1463230229057454085'

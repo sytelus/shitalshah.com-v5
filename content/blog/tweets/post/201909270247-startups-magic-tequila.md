@@ -3,6 +3,8 @@ title: 'Startups Use Magic and Tequila to Battle Big Booths'
 draft: false
 date: 2019-09-27T02:47:02+00:00
 slug: '201909270247-startups-magic-tequila'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1177308617256710146'

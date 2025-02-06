@@ -3,6 +3,8 @@ title: 'The Misunderstood Magic of JavaScript'
 draft: true
 date: 2008-12-17T10:55:04+00:00
 slug: '200812171055-misunderstood-magic-of-javascript'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1062004145'

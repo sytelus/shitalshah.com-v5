@@ -3,6 +3,8 @@ title: 'Speech-to-Text Tech: All Hype, No Battery Life'
 draft: true
 date: 2018-12-30T14:27:39+00:00
 slug: '201812301427-speech-to-text-all-hype-no-battery-life'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1079262721881690113'

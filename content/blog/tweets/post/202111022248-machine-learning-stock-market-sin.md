@@ -3,6 +3,8 @@ title: 'Machine Learning''s Stock Market Sin'
 draft: false
 date: 2021-11-02T22:48:00+00:00
 slug: '202111022248-machine-learning-stock-market-sin'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1455562342935191558'

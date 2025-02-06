@@ -3,6 +3,8 @@ title: '27,000 Postdocs and the Cost of Living'
 draft: true
 date: 2022-12-24T11:07:41+00:00
 slug: '202212241107-27000-postdocs-and-cost-of-living'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1606486744731627520'

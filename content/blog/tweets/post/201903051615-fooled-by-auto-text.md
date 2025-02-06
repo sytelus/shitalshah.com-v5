@@ -3,6 +3,8 @@ title: 'When Coherent Gibberish Fools Us All'
 draft: false
 date: 2019-03-05T16:15:36+00:00
 slug: '201903051615-fooled-by-auto-text'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1102845102639071232'

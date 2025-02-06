@@ -3,6 +3,8 @@ title: 'Terence Tao Grades AI: From Incompetent to Mediocre'
 draft: false
 date: 2024-09-14T08:53:49+00:00
 slug: '202409140853-terence-tao-ai-grading'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1834772510698881231'

@@ -3,6 +3,8 @@ title: 'Skivvies and Snacks: A Day at Mayuri and Freddies'
 draft: true
 date: 2008-12-15T11:23:47+00:00
 slug: '200812151123-skivvies-and-snacks'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1057822944'

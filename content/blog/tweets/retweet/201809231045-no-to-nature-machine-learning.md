@@ -3,6 +3,8 @@ title: 'Nature Machine Learning? No Thanks!'
 draft: true
 date: 2018-09-23T10:45:37+00:00
 slug: '201809231045-no-to-nature-machine-learning'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1043707936487354369'

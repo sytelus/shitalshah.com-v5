@@ -3,6 +3,8 @@ title: 'TAM Raiders: How Software Firms Staff Up for Growth'
 draft: true
 date: 2022-11-20T06:46:35+00:00
 slug: '202211200646-tam-raiders-software-staff-growth'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1594099850018426880'

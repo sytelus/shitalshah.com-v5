@@ -3,6 +3,8 @@ title: '10 Lines of Python vs 1 Line of Sorcery'
 draft: true
 date: 2020-12-19T08:18:42+00:00
 slug: '202012190818-ten_lines_python_one_line_sorcery'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1340089137081151491'

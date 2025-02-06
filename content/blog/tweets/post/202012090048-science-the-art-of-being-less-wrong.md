@@ -3,6 +3,8 @@ title: 'Science: The Art of Being Less Wrong'
 draft: false
 date: 2020-12-09T00:48:00+00:00
 slug: '202012090048-science-the-art-of-being-less-wrong'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1336351834714214401'

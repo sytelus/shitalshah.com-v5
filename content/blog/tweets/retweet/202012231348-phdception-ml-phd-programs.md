@@ -3,6 +3,8 @@ title: 'PhDception: Need a PhD to Get into ML PhD Programs'
 draft: true
 date: 2020-12-23T13:48:53+00:00
 slug: '202012231348-phdception-ml-phd-programs'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1341621783032524800'

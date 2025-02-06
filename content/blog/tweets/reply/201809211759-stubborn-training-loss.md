@@ -3,6 +3,8 @@ title: 'Training Loss That Just Won''t Lose'
 draft: true
 date: 2018-09-21T17:59:11+00:00
 slug: '201809211759-stubborn-training-loss'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1043092269799301120'

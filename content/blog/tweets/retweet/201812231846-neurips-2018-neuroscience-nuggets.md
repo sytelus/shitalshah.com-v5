@@ -3,6 +3,8 @@ title: 'NeurIPS 2018 Neuroscience Nuggets'
 draft: true
 date: 2018-12-23T18:46:10+00:00
 slug: '201812231846-neurips-2018-neuroscience-nuggets'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1076791064013361152'

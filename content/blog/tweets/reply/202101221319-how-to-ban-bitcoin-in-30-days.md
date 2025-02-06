@@ -3,6 +3,8 @@ title: 'How to Ban Bitcoin in 30 Days or Less'
 draft: true
 date: 2021-01-22T13:19:42+00:00
 slug: '202101221319-how-to-ban-bitcoin-in-30-days'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1352486074807848962'

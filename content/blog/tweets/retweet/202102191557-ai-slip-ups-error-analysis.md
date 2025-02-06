@@ -3,6 +3,8 @@ title: 'AI Slip-ups: Error Analysis Tool Released'
 draft: true
 date: 2021-02-19T15:57:58+00:00
 slug: '202102191557-ai-slip-ups-error-analysis'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1362672760871292933'

@@ -3,6 +3,8 @@ title: 'Ironing Out Neural Network Kinks with Quality Data'
 draft: true
 date: 2023-02-03T17:08:36+00:00
 slug: '202302031708-ironing-out-neural-kinks'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1621435473846759425'

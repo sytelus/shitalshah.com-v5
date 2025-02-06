@@ -3,6 +3,8 @@ title: 'XPollinate Your Posts: Live Writer Plugin for SharePoint'
 draft: true
 date: 2010-02-05T10:12:42+00:00
 slug: '201002051012-xpollinate_live_writer_plugin'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '8658676935'

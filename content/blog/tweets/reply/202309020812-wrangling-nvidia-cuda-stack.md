@@ -3,6 +3,8 @@ title: 'Wrangling NVIDIA''s Unruly CUDA Stack'
 draft: true
 date: 2023-09-02T08:12:28+00:00
 slug: '202309020812-wrangling-nvidia-cuda-stack'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1697779490594959415'

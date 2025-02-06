@@ -3,6 +3,8 @@ title: 'Deep Learning Can''t Sine Outside the Box'
 draft: true
 date: 2019-12-30T15:30:02+00:00
 slug: '201912301530-deep-learning-cant-sine-outside-box'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1211549992160096257'

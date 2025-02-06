@@ -3,6 +3,8 @@ title: 'When AI Plays Pretend: Deep Learning and Theory of Mind'
 draft: false
 date: 2018-08-30T17:37:46+00:00
 slug: '201808301737-ai-plays-pretend'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1035114349042356224'

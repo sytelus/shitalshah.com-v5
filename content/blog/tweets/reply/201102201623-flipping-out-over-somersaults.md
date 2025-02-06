@@ -3,6 +3,8 @@ title: 'Flipping Out Over Somersaults: Addictive Protein Snacks'
 draft: true
 date: 2011-02-20T16:23:07+00:00
 slug: '201102201623-flipping-out-over-somersaults'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '39238606539198464'

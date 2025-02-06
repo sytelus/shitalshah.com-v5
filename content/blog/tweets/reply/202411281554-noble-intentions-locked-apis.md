@@ -3,6 +3,8 @@ title: 'From Noble Intentions to Locked APIs'
 draft: true
 date: 2024-11-28T15:54:33+00:00
 slug: '202411281554-noble-intentions-locked-apis'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1862042382457561412'

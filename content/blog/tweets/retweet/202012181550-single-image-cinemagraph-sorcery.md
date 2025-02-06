@@ -3,6 +3,8 @@ title: 'From Snap to Loop: Single-Image Cinemagraph Sorcery'
 draft: true
 date: 2020-12-18T15:50:22+00:00
 slug: '202012181550-single-image-cinemagraph-sorcery'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1339840412832317440'

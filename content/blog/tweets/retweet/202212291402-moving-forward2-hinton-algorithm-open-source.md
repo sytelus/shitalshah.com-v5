@@ -3,6 +3,8 @@ title: 'Moving Forward²: Hinton''s Algorithm Now Open Source'
 draft: true
 date: 2022-12-29T14:02:51+00:00
 slug: '202212291402-moving-forward2-hinton-algorithm-open-source'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1608342764458246145'

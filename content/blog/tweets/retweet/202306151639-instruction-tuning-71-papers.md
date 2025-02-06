@@ -3,6 +3,8 @@ title: 'Instruction-Tuning Treasure Trove: 71 Papers Discovered!'
 draft: true
 date: 2023-06-15T16:39:01+00:00
 slug: '202306151639-instruction-tuning-71-papers'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1669278325389545475'

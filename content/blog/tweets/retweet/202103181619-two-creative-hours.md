@@ -3,6 +3,8 @@ title: 'Two Creative Hours: Make Them Count'
 draft: true
 date: 2021-03-18T16:19:11+00:00
 slug: '202103181619-two-creative-hours'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1372477672337543168'

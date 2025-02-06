@@ -3,6 +3,8 @@ title: 'Identity Crisis: My 10-Year-Old Questions the Matrix'
 draft: true
 date: 2023-09-16T01:24:57+00:00
 slug: '202309160124-identity-crisis-10yo-matrix'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1702750367149335015'

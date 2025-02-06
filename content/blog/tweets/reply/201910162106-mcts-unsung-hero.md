@@ -3,6 +3,8 @@ title: 'MCTS: The Unsung Hero Amidst Pure Learning Obsession'
 draft: true
 date: 2019-10-16T21:06:21+00:00
 slug: '201910162106-mcts-unsung-hero'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1184470638498435073'

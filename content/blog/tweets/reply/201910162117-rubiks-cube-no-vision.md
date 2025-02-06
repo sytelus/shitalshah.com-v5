@@ -3,6 +3,8 @@ title: 'Rubik''s Cube Solved—But Not Seeing Is Believing'
 draft: true
 date: 2019-10-16T21:17:07+00:00
 slug: '201910162117-rubiks-cube-no-vision'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1184473347603587072'

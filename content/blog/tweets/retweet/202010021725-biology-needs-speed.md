@@ -3,6 +3,8 @@ title: 'Not Immortal Yet? Biology Needs a Speed Boost'
 draft: true
 date: 2020-10-02T17:25:08+00:00
 slug: '202010021725-biology-needs-speed'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1311975496859570176'

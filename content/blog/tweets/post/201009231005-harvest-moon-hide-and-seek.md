@@ -3,6 +3,8 @@ title: 'Harvest Moon Plays Hide and Seek'
 draft: true
 date: 2010-09-23T10:05:18+00:00
 slug: '201009231005-harvest-moon-hide-and-seek'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '25272594898'

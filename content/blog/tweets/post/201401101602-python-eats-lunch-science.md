@@ -3,6 +3,8 @@ title: 'Python Eats Other Languages'' Lunch in Science'
 draft: true
 date: 2014-01-10T16:02:05+00:00
 slug: '201401101602-python-eats-lunch-science'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '421552513012092928'

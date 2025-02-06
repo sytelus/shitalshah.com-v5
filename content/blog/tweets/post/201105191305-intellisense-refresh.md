@@ -3,6 +3,8 @@ title: 'Intellisense Not Sensing? Ctrl+Shift+R It!'
 draft: true
 date: 2011-05-19T13:05:46+00:00
 slug: '201105191305-intellisense-refresh'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '71094172899213312'

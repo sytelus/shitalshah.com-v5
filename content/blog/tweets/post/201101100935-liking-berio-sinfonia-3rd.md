@@ -3,6 +3,8 @@ title: 'Liking the Layers: Berio''s Sinfonia 3rd Movement'
 draft: true
 date: 2011-01-10T09:35:49+00:00
 slug: '201101100935-liking-berio-sinfonia-3rd'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '24278204021739520'

@@ -3,6 +3,8 @@ title: 'Image Classification So Easy, Even AutoTrain Can Do It!'
 draft: true
 date: 2022-10-13T15:19:08+00:00
 slug: '202210131519-image-classification-so-easy-even-autotrain-can-do-it'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1580473198134509570'

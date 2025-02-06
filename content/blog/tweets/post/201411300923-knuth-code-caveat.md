@@ -3,6 +3,8 @@ title: 'Knuth''s Code Caveat: Proof vs Testing'
 draft: true
 date: 2014-11-30T09:23:31+00:00
 slug: '201411300923-knuth-code-caveat'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '538865878423461888'

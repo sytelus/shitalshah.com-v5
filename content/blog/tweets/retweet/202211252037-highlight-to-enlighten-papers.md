@@ -3,6 +3,8 @@ title: 'Highlight to Enlighten: Simplify Academic Papers'
 draft: true
 date: 2022-11-25T20:37:15+00:00
 slug: '202211252037-highlight-to-enlighten-papers'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1596120830194642946'

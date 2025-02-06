@@ -3,6 +3,8 @@ title: 'No PhD? Build Systems, Not Frontiers'
 draft: true
 date: 2022-12-22T12:42:54+00:00
 slug: '202212221242-no-phd-build-systems'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1605785931805429761'

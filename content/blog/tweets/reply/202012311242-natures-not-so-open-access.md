@@ -3,6 +3,8 @@ title: 'Nature''s Not-So-Open Access'
 draft: true
 date: 2020-12-31T12:42:31+00:00
 slug: '202012311242-natures-not-so-open-access'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1344504180929564672'

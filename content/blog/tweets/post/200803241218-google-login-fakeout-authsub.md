@@ -3,6 +3,8 @@ title: 'The Great Google Login Fake-Out: Is AuthSub at Risk?'
 draft: true
 date: 2008-03-24T12:18:12+00:00
 slug: '200803241218-google-login-fakeout-authsub'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '776073638'

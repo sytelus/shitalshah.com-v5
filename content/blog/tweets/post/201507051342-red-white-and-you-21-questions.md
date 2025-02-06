@@ -3,6 +3,8 @@ title: 'Red, White, and You: 21 Essential Questions'
 draft: true
 date: 2015-07-05T13:42:32+00:00
 slug: '201507051342-red-white-and-you-21-questions'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '617584326520127489'

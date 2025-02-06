@@ -3,6 +3,8 @@ title: 'Explainability Is Relative: The P, M Conundrum'
 draft: true
 date: 2018-10-21T13:43:43+00:00
 slug: '201810211343-explainability-is-relative'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1053899614401765376'

@@ -3,6 +3,8 @@ title: 'Knot Your Average Class: My Intro to Rock Climbing'
 draft: true
 date: 2009-04-30T13:59:45+00:00
 slug: '200904301359-knot-your-average-class'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1657070089'

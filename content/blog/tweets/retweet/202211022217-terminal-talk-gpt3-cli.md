@@ -3,6 +3,8 @@ title: 'Terminal Talk: Piping Questions to GPT-3 via CLI'
 draft: true
 date: 2022-11-02T22:17:12+00:00
 slug: '202211022217-terminal-talk-gpt3-cli'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1587826162436538373'

@@ -3,6 +3,8 @@ title: 'Surprise! Urdu Songs Come in Twos'
 draft: true
 date: 2011-02-23T16:34:50+00:00
 slug: '201102231634-urdu-songs-come-in-twos'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '40328720552181761'

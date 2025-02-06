@@ -3,6 +3,8 @@ title: 'ML Celebrities: Swimming in Funds, Drowning in Students'
 draft: true
 date: 2020-03-03T02:42:20+00:00
 slug: '202003030242-ml-celebs-funds-students'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1234549617573781508'

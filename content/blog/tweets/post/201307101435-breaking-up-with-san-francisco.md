@@ -3,6 +3,8 @@ title: 'Breaking Up with San Francisco'
 draft: true
 date: 2013-07-10T14:35:55+00:00
 slug: '201307101435-breaking-up-with-san-francisco'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '354866558843105280'

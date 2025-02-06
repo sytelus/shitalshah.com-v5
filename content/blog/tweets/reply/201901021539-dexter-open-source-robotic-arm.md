@@ -3,6 +3,8 @@ title: 'Dexter''s Lab: Open-Source Robotic Arm with 50-Micron Accuracy'
 draft: true
 date: 2019-01-02T15:39:49+00:00
 slug: '201901021539-dexter-open-source-robotic-arm'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1080368047750180864'

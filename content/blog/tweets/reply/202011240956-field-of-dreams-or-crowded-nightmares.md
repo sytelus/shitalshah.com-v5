@@ -3,6 +3,8 @@ title: 'Field of Dreams or Crowded Nightmares?'
 draft: true
 date: 2020-11-24T09:56:16+00:00
 slug: '202011240956-field-of-dreams-or-crowded-nightmares'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1331053995217940480'

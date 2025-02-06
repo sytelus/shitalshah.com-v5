@@ -3,6 +3,8 @@ title: 'Money Satisficed, Freedom Realized'
 draft: true
 date: 2023-02-28T14:51:27+00:00
 slug: '202302281451-money-satisficed-freedom-realized'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1630460656427352064'

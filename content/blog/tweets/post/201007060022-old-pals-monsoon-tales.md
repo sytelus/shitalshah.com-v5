@@ -3,6 +3,8 @@ title: 'Old Pals and Monsoon Tales'
 draft: true
 date: 2010-07-06T00:22:08+00:00
 slug: '201007060022-old-pals-monsoon-tales'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '17805119969'

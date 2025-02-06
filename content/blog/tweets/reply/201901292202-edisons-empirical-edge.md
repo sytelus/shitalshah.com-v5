@@ -3,6 +3,8 @@ title: 'Edison''s Empirical Edge: Theorists Can''t Afford Me'
 draft: true
 date: 2019-01-29T22:02:02+00:00
 slug: '201901292202-edisons-empirical-edge'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1090248708531212288'

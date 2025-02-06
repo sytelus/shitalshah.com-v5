@@ -3,6 +3,8 @@ title: 'Big Training, Tiny Evals: The Pythia Predicament'
 draft: true
 date: 2023-05-06T01:35:15+00:00
 slug: '202305060135-big-training-tiny-evals-pythia'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1654555370998865920'

@@ -3,6 +3,8 @@ title: 'Why SATs Are Overrated... If Your Counselor Isn''t'
 draft: false
 date: 2022-11-27T18:26:38+00:00
 slug: '202211271826-sats-overrated-if-your-counselor-isnt'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1596812734959882240'

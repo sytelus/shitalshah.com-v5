@@ -3,6 +3,8 @@ title: 'Access-ing SharePoint in Style'
 draft: true
 date: 2011-02-13T04:25:13+00:00
 slug: '201102130425-accessing-sharepoint-in-style'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '36521224234475520'

@@ -3,6 +3,8 @@ title: 'Mentor Jacket Slims Down for 2010'
 draft: true
 date: 2010-10-19T09:26:47+00:00
 slug: '201010190926-mentor-jacket-slims-2010'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '27794696234'

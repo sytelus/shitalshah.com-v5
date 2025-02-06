@@ -3,6 +3,8 @@ title: 'Bandera Mountain: Shhh... Snoqualmie''s Secret Hike'
 draft: true
 date: 2013-06-09T15:19:51+00:00
 slug: '201306091519-bandera-mountain-secret-hike'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '343643590578290688'

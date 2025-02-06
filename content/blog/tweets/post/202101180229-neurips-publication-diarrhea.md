@@ -3,6 +3,8 @@ title: 'Too Many NeurIPS Papers? Sounds like Publication Diarrhea'
 draft: false
 date: 2021-01-18T02:29:24+00:00
 slug: '202101180229-neurips-publication-diarrhea'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1350872868511383554'

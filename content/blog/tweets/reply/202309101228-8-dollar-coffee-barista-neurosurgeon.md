@@ -3,6 +3,8 @@ title: '$8 Coffee in 60 Seconds: Barista Should Be Paid Like a Neurosurgeon'
 draft: true
 date: 2023-09-10T12:28:18+00:00
 slug: '202309101228-8-dollar-coffee-barista-neurosurgeon'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1700742976354578641'

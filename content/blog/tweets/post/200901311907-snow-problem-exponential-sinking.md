@@ -3,6 +3,8 @@ title: 'Snow Problem: The Exponential Sinking of Snowshoes'
 draft: true
 date: 2009-01-31T19:07:35+00:00
 slug: '200901311907-snow-problem-exponential-sinking'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1164255936'

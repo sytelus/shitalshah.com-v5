@@ -3,6 +3,8 @@ title: 'The Fast and the Neural: Quick Turnarounds in Deep Learning'
 draft: true
 date: 2022-11-02T03:00:00+00:00
 slug: '202211020300-fast-and-neural'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1587534943726764032'

@@ -3,6 +3,8 @@ title: 'BLOOMing Bureaucracy: How Committees Complicate AI Training'
 draft: true
 date: 2023-03-19T16:26:14+00:00
 slug: '202303191626-blooming-bureaucracy-ai'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1637384979801075712'

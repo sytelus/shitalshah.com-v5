@@ -3,6 +3,8 @@ title: 'Batch Sizes on a Diet: Memory-Smart Adjustments'
 draft: false
 date: 2021-11-30T17:36:45+00:00
 slug: '202111301736-batch-sizes-on-a-diet'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1465615775528472581'

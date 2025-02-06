@@ -3,6 +3,8 @@ title: 'Imagic Wand: Waving Text to Edit Real Photos'
 draft: true
 date: 2022-10-18T14:00:29+00:00
 slug: '202210181400-imagic-wand-text-edit'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1582265341996322816'

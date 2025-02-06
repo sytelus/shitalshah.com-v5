@@ -3,6 +3,8 @@ title: 'Art''s Big Bang: The 14 Million Prompt DiffusionDB'
 draft: true
 date: 2022-12-06T15:35:41+00:00
 slug: '202212061535-arts-big-bang-diffusiondb'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1600031207768879104'

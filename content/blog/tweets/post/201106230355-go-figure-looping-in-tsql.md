@@ -3,6 +3,8 @@ title: 'GO Figure: Looping in TSQL with GO'
 draft: true
 date: 2011-06-23T03:55:10+00:00
 slug: '201106230355-go-figure-looping-in-tsql'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '83639185755475968'

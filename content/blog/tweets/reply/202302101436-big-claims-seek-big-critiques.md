@@ -3,6 +3,8 @@ title: 'Big Claims Seek Big Critiques'
 draft: true
 date: 2023-02-10T14:36:50+00:00
 slug: '202302101436-big-claims-seek-big-critiques'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1623933993883418624'

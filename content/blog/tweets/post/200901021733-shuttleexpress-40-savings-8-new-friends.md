@@ -3,6 +3,8 @@ title: 'ShuttleExpress: 40% Savings, 8 New Friends'
 draft: true
 date: 2009-01-02T17:33:50+00:00
 slug: '200901021733-shuttleexpress-40-savings-8-new-friends'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1091327924'

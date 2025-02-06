@@ -3,6 +3,8 @@ title: 'Missed the Ball, Not the Freeze'
 draft: true
 date: 2009-01-01T13:30:37+00:00
 slug: '200901011330-missed-ball-not-freeze'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1089500410'

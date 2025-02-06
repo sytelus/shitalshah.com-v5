@@ -3,6 +3,8 @@ title: 'No More Driver Blues: HP SoftPaq to the Rescue'
 draft: true
 date: 2011-07-22T03:52:58+00:00
 slug: '201107220352-no-more-driver-blues-hp-softpaq'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '94147880998281217'

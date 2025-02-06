@@ -3,6 +3,8 @@ title: 'AI Bots Outsmart Google Rankings'
 draft: false
 date: 2023-05-25T10:39:36+00:00
 slug: '202305251039-ai-bots-outsmart-google'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1661577730977316865'

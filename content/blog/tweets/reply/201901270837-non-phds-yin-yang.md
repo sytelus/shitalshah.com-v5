@@ -3,6 +3,8 @@ title: 'Non-PhDs: The Yin to Academia''s Yang'
 draft: true
 date: 2019-01-27T08:37:41+00:00
 slug: '201901270837-non-phds-yin-yang'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1089321509665951744'

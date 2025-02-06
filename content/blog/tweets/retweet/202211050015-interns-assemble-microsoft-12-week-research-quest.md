@@ -3,6 +3,8 @@ title: 'Interns Assemble: Microsoft''s Epic 12-Week Research Quest'
 draft: true
 date: 2022-11-05T00:15:06+00:00
 slug: '202211050015-interns-assemble-microsoft-12-week-research-quest'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1588580608803905536'

@@ -3,6 +3,8 @@ title: 'Perceiver: The Jack-of-All-Trades Neural Network'
 draft: true
 date: 2021-03-05T10:28:06+00:00
 slug: '202103051028-perceiver-jack-of-all-trades'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1367663178629275649'

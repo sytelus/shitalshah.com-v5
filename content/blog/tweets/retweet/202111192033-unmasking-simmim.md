@@ -3,6 +3,8 @@ title: 'Unmasking SimMIM: Simpler Masked Image Modeling'
 draft: true
 date: 2021-11-19T20:33:23+00:00
 slug: '202111192033-unmasking-simmim'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1461673960198717450'

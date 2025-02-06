@@ -3,6 +3,8 @@ title: 'BLAST From the Genes'
 draft: true
 date: 2010-03-06T11:34:15+00:00
 slug: '201003061134-blast-from-the-genes'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '10057137196'

@@ -3,6 +3,8 @@ title: 'Breaking the Ice: Snowshoeing Commonwealth Basin'
 draft: true
 date: 2010-03-07T16:13:23+00:00
 slug: '201003071613-breaking-the-ice-commonwealth-basin'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '10112191378'

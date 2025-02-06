@@ -3,6 +3,8 @@ title: 'Apple''s First Bite: 74K HDR Images for AI Research'
 draft: true
 date: 2020-12-19T10:06:27+00:00
 slug: '202012191006-apple-first-74k-ai-images'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1340116254611292162'

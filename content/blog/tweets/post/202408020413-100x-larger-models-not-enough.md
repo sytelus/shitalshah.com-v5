@@ -3,6 +3,8 @@ title: 'When 100X Larger Models Aren''t Enough'
 draft: false
 date: 2024-08-02T04:13:08+00:00
 slug: '202408020413-100x-larger-models-not-enough'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1819119195675939120'

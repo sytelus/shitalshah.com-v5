@@ -3,6 +3,8 @@ title: 'Can''t Emphasize This Degree Enough!'
 draft: true
 date: 2023-05-01T06:53:16+00:00
 slug: '202305010653-cant-emphasize-degree-enough'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1652823462719942657'

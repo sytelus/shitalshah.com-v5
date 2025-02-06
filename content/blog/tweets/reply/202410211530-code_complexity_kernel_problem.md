@@ -3,6 +3,8 @@ title: 'Code Complexity: The Kernel of the Problem'
 draft: true
 date: 2024-10-21T15:30:24+00:00
 slug: '202410211530-code_complexity_kernel_problem'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1848280663461642748'

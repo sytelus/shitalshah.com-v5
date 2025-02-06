@@ -3,6 +3,8 @@ title: 'Hacking Time: Dev-Friendly Watches Like PineTime'
 draft: true
 date: 2021-01-02T15:08:35+00:00
 slug: '202101021508-hacking-time-dev-watches'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1345265715570360321'

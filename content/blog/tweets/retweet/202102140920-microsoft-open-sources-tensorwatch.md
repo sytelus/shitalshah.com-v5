@@ -3,6 +3,8 @@ title: 'Peek-a-boo AI: Microsoft Open-Sources TensorWatch'
 draft: true
 date: 2021-02-14T09:20:36+00:00
 slug: '202102140920-microsoft-open-sources-tensorwatch'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1360760823220641792'

@@ -3,6 +3,8 @@ title: 'Wisdom Trio: Self-Reflection from a Billionaire, Math Professor, and a 9
 draft: true
 date: 2022-10-10T02:00:40+00:00
 slug: '202210100200-wisdom-trio-reflections'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1579185090974089217'

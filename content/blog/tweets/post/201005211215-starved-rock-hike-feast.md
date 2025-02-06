@@ -3,6 +3,8 @@ title: 'Starved Rock: A Feast for the Hike-Starved'
 draft: true
 date: 2010-05-21T12:15:35+00:00
 slug: '201005211215-starved-rock-hike-feast'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '14408782689'

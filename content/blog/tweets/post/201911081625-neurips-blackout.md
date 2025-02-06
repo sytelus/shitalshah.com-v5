@@ -3,6 +3,8 @@ title: 'NeurIPS Blackout: 48% of Black Researchers Denied Entry'
 draft: false
 date: 2019-11-08T16:25:24+00:00
 slug: '201911081625-neurips-blackout'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1192719756802945024'

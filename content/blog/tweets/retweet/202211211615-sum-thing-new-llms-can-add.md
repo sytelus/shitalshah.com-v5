@@ -3,6 +3,8 @@ title: 'Sum Thing New: LLMs Can Add with English Algorithms'
 draft: true
 date: 2022-11-21T16:15:42+00:00
 slug: '202211211615-sum-thing-new-llms-can-add'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1594605457590849536'

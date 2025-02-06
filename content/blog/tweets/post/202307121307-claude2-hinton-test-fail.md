@@ -3,6 +3,8 @@ title: 'Claude-2 Fails Hinton''s Pop Quiz; GPT-4 Aces It'
 draft: false
 date: 2023-07-12T13:07:04+00:00
 slug: '202307121307-claude2-hinton-test-fail'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1679009461095268352'

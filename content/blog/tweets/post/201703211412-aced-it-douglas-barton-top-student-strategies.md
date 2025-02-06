@@ -3,6 +3,8 @@ title: 'Aced It! Douglas Barton on Top Student Strategies'
 draft: true
 date: 2017-03-21T14:12:59+00:00
 slug: '201703211412-aced-it-douglas-barton-top-student-strategies'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '844084404800561152'

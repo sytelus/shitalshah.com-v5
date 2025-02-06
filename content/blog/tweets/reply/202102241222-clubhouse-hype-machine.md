@@ -3,6 +3,8 @@ title: 'Clubhouse Hype Machine: VCs and Celeb Overkill'
 draft: true
 date: 2021-02-24T12:22:36+00:00
 slug: '202102241222-clubhouse-hype-machine'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1364430501138685955'

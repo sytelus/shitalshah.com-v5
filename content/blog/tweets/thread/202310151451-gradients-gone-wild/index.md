@@ -3,6 +3,8 @@ title: 'Gradients Gone Wild: Loss Scaling in FP16 Training'
 draft: false
 date: 2023-10-15T14:51:51+00:00
 slug: '202310151451-gradients-gone-wild'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1713462676838588565'

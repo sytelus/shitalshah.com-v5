@@ -3,6 +3,8 @@ title: 'Ponging to Perfection: Max Score Achieved in 1.5 Hours'
 draft: false
 date: 2019-10-30T10:34:26+00:00
 slug: '201910301034-ponging-to-perfection'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1189385040930566144'

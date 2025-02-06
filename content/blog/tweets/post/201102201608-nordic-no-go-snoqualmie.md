@@ -3,6 +3,8 @@ title: 'Nordic No-Go at Snoqualmie Summit'
 draft: true
 date: 2011-02-20T16:08:56+00:00
 slug: '201102201608-nordic-no-go-snoqualmie'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '39235039103430656'

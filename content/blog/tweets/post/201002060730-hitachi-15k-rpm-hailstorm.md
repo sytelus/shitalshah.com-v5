@@ -3,6 +3,8 @@ title: 'Hitachi''s 15K RPM Hailstorm'
 draft: true
 date: 2010-02-06T07:30:25+00:00
 slug: '201002060730-hitachi-15k-rpm-hailstorm'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '8698487022'

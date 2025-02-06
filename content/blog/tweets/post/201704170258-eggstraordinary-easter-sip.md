@@ -3,6 +3,8 @@ title: 'Eggs-traordinary Easter at Sip Wine Bar'
 draft: true
 date: 2017-04-17T02:58:36+00:00
 slug: '201704170258-eggstraordinary-easter-sip'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '853699163481092096'

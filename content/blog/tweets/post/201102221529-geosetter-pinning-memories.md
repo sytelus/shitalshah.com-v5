@@ -3,6 +3,8 @@ title: 'GeoSetter: Pinning Memories, One Photo at a Time'
 draft: true
 date: 2011-02-22T15:29:43+00:00
 slug: '201102221529-geosetter-pinning-memories'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '39949945209499648'

@@ -3,6 +3,8 @@ title: 'Bean There, Done That: Robot Makes Coffee at ICRA'
 draft: true
 date: 2017-06-01T03:14:44+00:00
 slug: '201706010314-bean-there-done-that-robot-makes-coffee-icra'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '870010680379932672'

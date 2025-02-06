@@ -3,6 +3,8 @@ title: 'Before AlexNet: Schmidhuber''s 12M-Parameter MNIST Slayer'
 draft: true
 date: 2023-12-01T09:36:30+00:00
 slug: '202312010936-before-alexnet-schmidhuber-12m-mnist-slayer'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1730400445104095727'

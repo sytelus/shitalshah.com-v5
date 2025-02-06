@@ -3,6 +3,8 @@ title: 'Diffusion Hits the Right Notes: Synthesizing Music from MIDI'
 draft: true
 date: 2022-08-30T13:22:43+00:00
 slug: '202208301322-diffusion-synthesizing-music-midi'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1564498833853128704'

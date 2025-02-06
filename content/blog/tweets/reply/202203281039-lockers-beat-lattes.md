@@ -3,6 +3,8 @@ title: 'Lockers Beat Lattes: Why Storage Spaces Outperform Weekend-Only Business
 draft: true
 date: 2022-03-28T10:39:52+00:00
 slug: '202203281039-lockers-beat-lattes'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1508287731054481416'

@@ -3,6 +3,8 @@ title: 'Is Scale All You Need? Beating Neural Scaling Laws'
 draft: true
 date: 2022-07-03T06:53:03+00:00
 slug: '202207030653-beating-neural-scaling-laws'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1543382276276310016'

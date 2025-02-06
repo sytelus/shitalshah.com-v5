@@ -3,6 +3,8 @@ title: 'LLMs: Linear Minds in a Non-Linear World'
 draft: true
 date: 2023-05-25T17:21:46+00:00
 slug: '202305251721-llms-linear-minds'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1661678940254248961'

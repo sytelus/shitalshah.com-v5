@@ -3,6 +3,8 @@ title: 'Blown Away by 40mph Snow'
 draft: true
 date: 2008-12-22T08:12:15+00:00
 slug: '200812220812-blown-away-by-40mph-snow'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1071322988'

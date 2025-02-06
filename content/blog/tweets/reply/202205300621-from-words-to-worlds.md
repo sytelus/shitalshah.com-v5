@@ -3,6 +3,8 @@ title: 'From Words to Worlds: Text-to-VR Takes Off'
 draft: true
 date: 2022-05-30T06:21:56+00:00
 slug: '202205300621-from-words-to-worlds'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1531053256171933696'

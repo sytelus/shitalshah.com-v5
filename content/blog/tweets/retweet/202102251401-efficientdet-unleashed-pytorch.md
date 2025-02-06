@@ -3,6 +3,8 @@ title: 'EfficientDet Unleashed: My PyTorch Journey'
 draft: true
 date: 2021-02-25T14:01:54+00:00
 slug: '202102251401-efficientdet-unleashed-pytorch'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1364817879653212160'

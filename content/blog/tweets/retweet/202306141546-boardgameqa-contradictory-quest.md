@@ -3,6 +3,8 @@ title: 'BoardgameQA: The Contradictory Quest'
 draft: true
 date: 2023-06-14T15:46:25+00:00
 slug: '202306141546-boardgameqa-contradictory-quest'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1668902701261029377'

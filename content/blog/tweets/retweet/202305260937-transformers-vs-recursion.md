@@ -3,6 +3,8 @@ title: 'Transformers vs. Recursion: The Ultimate Showdown'
 draft: true
 date: 2023-05-26T09:37:12+00:00
 slug: '202305260937-transformers-vs-recursion'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1661924415234531328'

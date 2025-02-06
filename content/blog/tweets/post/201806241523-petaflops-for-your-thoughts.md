@@ -3,6 +3,8 @@ title: 'Petaflops For Your Thoughts'
 draft: false
 date: 2018-06-24T15:23:40+00:00
 slug: '201806241523-petaflops-for-your-thoughts'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1010800614014480384'

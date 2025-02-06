@@ -3,6 +3,8 @@ title: 'Waiters and Cashiers: The Unexpected Survivors'
 draft: true
 date: 2024-09-30T13:10:51+00:00
 slug: '202409301310-waiters-and-cashiers-the-unexpected-survivors'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1840635401091846286'

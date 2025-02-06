@@ -3,6 +3,8 @@ title: 'The Epsilon Enigma: How Small Can Self-Awareness Be?'
 draft: true
 date: 2023-02-10T15:14:41+00:00
 slug: '202302101514-epsilon-enigma'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1623943522499063809'

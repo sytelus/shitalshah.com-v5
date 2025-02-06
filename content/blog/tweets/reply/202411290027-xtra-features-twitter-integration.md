@@ -3,6 +3,8 @@ title: 'X-tra Features Needed: My Twitter Integration Wishlist'
 draft: true
 date: 2024-11-29T00:27:22+00:00
 slug: '202411290027-xtra-features-twitter-integration'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1862171434874974670'

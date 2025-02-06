@@ -3,6 +3,8 @@ title: 'Battling Cancer with a Slingshot Against a Tank'
 draft: false
 date: 2018-06-24T17:52:36+00:00
 slug: '201806241752-battling_cancer_slingshot'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1010838091324538882'

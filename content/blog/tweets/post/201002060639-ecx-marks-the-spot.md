@@ -3,6 +3,8 @@ title: 'ECX Marks the Spot: Decoding ThisCall vs FastCall'
 draft: true
 date: 2010-02-06T06:39:54+00:00
 slug: '201002060639-ecx-marks-the-spot'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '8696695674'

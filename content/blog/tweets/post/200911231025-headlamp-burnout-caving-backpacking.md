@@ -3,6 +3,8 @@ title: 'Headlamp Burnout: Need a Bright Idea for Caving and Backpacking'
 draft: true
 date: 2009-11-23T10:25:22+00:00
 slug: '200911231025-headlamp-burnout-caving-backpacking'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '5963793575'

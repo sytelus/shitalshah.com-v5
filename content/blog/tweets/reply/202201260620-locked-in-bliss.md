@@ -3,6 +3,8 @@ title: 'Locked-In Bliss: When Hardware Just Works'
 draft: true
 date: 2022-01-26T06:20:34+00:00
 slug: '202201260620-locked-in-bliss'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1486101716583936000'

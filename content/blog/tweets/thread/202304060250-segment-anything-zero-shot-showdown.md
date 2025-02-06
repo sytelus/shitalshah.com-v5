@@ -3,6 +3,8 @@ title: 'Segment Anything vs. The Torture Test: Zero-Shot Showdown'
 draft: false
 date: 2023-04-06T02:50:52+00:00
 slug: '202304060250-segment-anything-zero-shot-showdown'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1643702763724095488'

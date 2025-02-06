@@ -3,6 +3,8 @@ title: 'When GPUs Say No: Taming Big Batches with Gradient Accumulation'
 draft: false
 date: 2019-03-20T12:17:48+00:00
 slug: '201903201217-taming-big-batches'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1108236174622023682'

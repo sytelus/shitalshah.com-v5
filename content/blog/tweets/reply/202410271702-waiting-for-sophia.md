@@ -3,6 +3,8 @@ title: 'Waiting for Sophia: No Final Conclusion Yet?'
 draft: true
 date: 2024-10-27T17:02:47+00:00
 slug: '202410271702-waiting-for-sophia'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1850478240160514149'

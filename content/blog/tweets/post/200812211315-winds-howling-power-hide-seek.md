@@ -3,6 +3,8 @@ title: 'Wind''s Howling at 60 mph: Power Plays Hide and Seek'
 draft: true
 date: 2008-12-21T13:15:47+00:00
 slug: '200812211315-winds-howling-power-hide-seek'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1070107475'

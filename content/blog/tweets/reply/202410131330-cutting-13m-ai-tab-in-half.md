@@ -3,6 +3,8 @@ title: 'Cutting the $13M AI Tab in Half!'
 draft: true
 date: 2024-10-13T13:30:17+00:00
 slug: '202410131330-cutting-13m-ai-tab-in-half'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1845351331659382808'

@@ -3,6 +3,8 @@ title: 'News So Bad, It''s Good: The Least Bad Sources'
 draft: true
 date: 2021-01-19T17:13:42+00:00
 slug: '202101191713-news-so-bad-its-good-least-bad-sources'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1351457799729946626'

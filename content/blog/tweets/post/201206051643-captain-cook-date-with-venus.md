@@ -3,6 +3,8 @@ title: 'Captain Cook''s Date with Venus'
 draft: true
 date: 2012-06-05T16:43:05+00:00
 slug: '201206051643-captain-cook-date-with-venus'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '209943417432715264'

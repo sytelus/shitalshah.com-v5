@@ -3,6 +3,8 @@ title: 'Sunny with a Chance of Larches'
 draft: true
 date: 2010-10-17T02:48:59+00:00
 slug: '201010170248-sunny-with-chance-of-larches'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '27570309117'

@@ -3,6 +3,8 @@ title: 'Double Trouble Tubing: Chaining Tubes at Snoqualmie''s Fresh Start'
 draft: true
 date: 2009-11-22T09:04:12+00:00
 slug: '200911220904-double-trouble-tubing'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '5933282305'

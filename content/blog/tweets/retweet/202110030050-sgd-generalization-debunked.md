@@ -3,6 +3,8 @@ title: 'SGD''s Generalization Superpowers? Tom Says Nope!'
 draft: true
 date: 2021-10-03T00:50:04+00:00
 slug: '202110030050-sgd-generalization-debunked'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1444359038150402048'

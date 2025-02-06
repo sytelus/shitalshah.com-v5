@@ -3,6 +3,8 @@ title: 'How Germany''s 1% Does 10% of the World''s Exports'
 draft: false
 date: 2018-05-23T14:50:50+00:00
 slug: '201805231450-germany-1pc-labor-10pc-exports'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '999195937070239744'

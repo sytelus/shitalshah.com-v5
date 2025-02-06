@@ -3,6 +3,8 @@ title: 'Queries in English? My 300-Line SQL Is Crying'
 draft: false
 date: 2022-12-16T14:23:18+00:00
 slug: '202212161423-queries-in-english-300-line-sql'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1603636867836309505'

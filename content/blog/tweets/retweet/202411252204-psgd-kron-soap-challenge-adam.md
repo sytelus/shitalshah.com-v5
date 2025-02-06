@@ -3,6 +3,8 @@ title: 'PSGD-Kron and SOAP Challenge ADAM''s Throne'
 draft: true
 date: 2024-11-25T22:04:05+00:00
 slug: '202411252204-psgd-kron-soap-challenge-adam'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1861048213039636947'

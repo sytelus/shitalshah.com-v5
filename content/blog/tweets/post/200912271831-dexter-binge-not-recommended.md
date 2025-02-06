@@ -3,6 +3,8 @@ title: 'Highly NOT Recommended: My Five-Episode Dexter Binge'
 draft: true
 date: 2009-12-27T18:31:20+00:00
 slug: '200912271831-dexter-binge-not-recommended'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '7087312470'

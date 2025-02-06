@@ -3,6 +3,8 @@ title: 'Wi-Fi Fears and Open-Air Ears'
 draft: true
 date: 2021-01-05T23:09:01+00:00
 slug: '202101052309-wifi-fears-open-air-ears'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1346473785633906688'

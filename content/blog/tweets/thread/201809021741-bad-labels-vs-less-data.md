@@ -3,6 +3,8 @@ title: 'Bad Labels vs. Less Data: The ML Training Quiz'
 draft: false
 date: 2018-09-02T17:41:30+00:00
 slug: '201809021741-bad-labels-vs-less-data'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1036202449617354753'

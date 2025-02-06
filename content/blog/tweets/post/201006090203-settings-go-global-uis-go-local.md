@@ -3,6 +3,8 @@ title: 'Settings Go Global, UIs Go Local'
 draft: true
 date: 2010-06-09T02:03:06+00:00
 slug: '201006090203-settings-go-global-uis-go-local'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '15725781070'

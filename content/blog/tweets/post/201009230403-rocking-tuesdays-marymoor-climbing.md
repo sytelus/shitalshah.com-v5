@@ -3,6 +3,8 @@ title: 'Rocking Tuesdays: 5 Stars at Marymoor Climbing'
 draft: true
 date: 2010-09-23T04:03:32+00:00
 slug: '201009230403-rocking-tuesdays-marymoor-climbing'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '25245118456'

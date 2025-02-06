@@ -3,6 +3,8 @@ title: 'Don''t SFT the Diversity Out of AI'
 draft: true
 date: 2024-04-18T05:54:33+00:00
 slug: '202404180554-dont-sft-diversity-out-of-ai'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1780731604262178978'

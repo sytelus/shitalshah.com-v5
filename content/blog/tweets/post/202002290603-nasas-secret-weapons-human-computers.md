@@ -3,6 +3,8 @@ title: 'NASA''s Secret Weapons: The Human Computers of Hidden Figures'
 draft: false
 date: 2020-02-29T06:03:11+00:00
 slug: '202002290603-nasas-secret-weapons-human-computers'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1233512999299796992'

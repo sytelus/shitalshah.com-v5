@@ -3,6 +3,8 @@ title: 'The Great Background TV Hunt Begins'
 draft: true
 date: 2013-01-01T13:34:28+00:00
 slug: '201301011334-background-tv-hunt'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '285982298938175490'

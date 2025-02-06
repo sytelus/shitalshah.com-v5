@@ -3,6 +3,8 @@ title: 'When ''Range'' Becomes ''Small Set'': The XYZ Benchmark That Doesn''t Co
 draft: false
 date: 2020-05-26T22:27:00+00:00
 slug: '202005262227-when-range-becomes-small-set'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1265303428693028870'

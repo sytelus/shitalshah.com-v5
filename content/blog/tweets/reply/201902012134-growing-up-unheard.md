@@ -3,6 +3,8 @@ title: 'Growing Up Unheard: The Impact of No Adult Interaction on Child Developm
 draft: true
 date: 2019-02-01T21:34:21+00:00
 slug: '201902012134-growing-up-unheard'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1091328906072752128'

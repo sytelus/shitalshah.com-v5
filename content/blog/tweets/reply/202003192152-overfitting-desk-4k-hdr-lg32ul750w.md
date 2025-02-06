@@ -3,6 +3,8 @@ title: 'Overfitting My Desk with 4K HDR Monitors: The LG 32UL750-W Story'
 draft: true
 date: 2020-03-19T21:52:08+00:00
 slug: '202003192152-overfitting-desk-4k-hdr-lg32ul750w'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1240652279792848903'

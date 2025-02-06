@@ -3,6 +3,8 @@ title: 'LLMs Critique Thyself: Unveiling Self-Refine'
 draft: true
 date: 2023-05-24T13:04:18+00:00
 slug: '202305241304-llms-critique-thyself'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1661251758004506626'

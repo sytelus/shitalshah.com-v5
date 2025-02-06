@@ -3,6 +3,8 @@ title: 'When Governments Mine Bitcoin: Same Old Money Press'
 draft: true
 date: 2019-11-25T17:03:21+00:00
 slug: '201911251703-governments-mine-bitcoin'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1198889901342642176'

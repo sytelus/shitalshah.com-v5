@@ -3,6 +3,8 @@ title: 'Maryam Mirzakhani: The Artist of Infinite Math'
 draft: false
 date: 2019-04-24T12:34:59+00:00
 slug: '201904241234-artist-of-infinite-math'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1120924074031509504'

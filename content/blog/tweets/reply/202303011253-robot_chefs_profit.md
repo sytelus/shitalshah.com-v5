@@ -3,6 +3,8 @@ title: 'Robot Chefs and Cheap Rents: A Recipe for Profit'
 draft: true
 date: 2023-03-01T12:53:03+00:00
 slug: '202303011253-robot_chefs_profit'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1630793247898632192'

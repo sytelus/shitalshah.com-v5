@@ -3,6 +3,8 @@ title: 'The 26 Million Reasons Apple Thinks Vision Pro Will Soar'
 draft: false
 date: 2023-06-07T13:09:24+00:00
 slug: '202306071309-apple-vision-pro-26-million'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1666326472745959426'

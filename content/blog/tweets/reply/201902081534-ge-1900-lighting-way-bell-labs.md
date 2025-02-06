@@ -3,6 +3,8 @@ title: 'GE''s 1900 Lab: Lighting the Way for Bell Labs'
 draft: true
 date: 2019-02-08T15:34:33+00:00
 slug: '201902081534-ge-1900-lighting-way-bell-labs'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1093775074086141952'

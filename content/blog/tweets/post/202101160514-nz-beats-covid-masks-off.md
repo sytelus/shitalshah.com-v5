@@ -3,6 +3,8 @@ title: 'NZ Beats COVID: Masks Off, Crowds On'
 draft: false
 date: 2021-01-16T05:14:15+00:00
 slug: '202101160514-nz-beats-covid-masks-off'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1350189577714036736'

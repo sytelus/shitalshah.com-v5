@@ -3,6 +3,8 @@ title: 'Contamination? Not on Our Watch!'
 draft: true
 date: 2024-12-13T14:53:28+00:00
 slug: '202412131453-contamination-not-on-our-watch'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1867462829198258345'

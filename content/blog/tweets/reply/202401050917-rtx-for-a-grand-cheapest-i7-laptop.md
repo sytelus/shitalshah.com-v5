@@ -3,6 +3,8 @@ title: 'RTX for a Grand: The Cheapest i7 Laptop'
 draft: true
 date: 2024-01-05T09:17:39+00:00
 slug: '202401050917-rtx-for-a-grand-cheapest-i7-laptop'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1743079278076735630'

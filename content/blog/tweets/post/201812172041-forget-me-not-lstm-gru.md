@@ -3,6 +3,8 @@ title: 'Forget Me Not: LSTM and GRU Demystified'
 draft: false
 date: 2018-12-17T20:41:47+00:00
 slug: '201812172041-forget-me-not-lstm-gru'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1074645832559783936'

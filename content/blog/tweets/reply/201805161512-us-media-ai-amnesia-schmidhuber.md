@@ -3,6 +3,8 @@ title: 'US Media''s AI Amnesia: Schmidhuber''s Complaint'
 draft: true
 date: 2018-05-16T15:12:59+00:00
 slug: '201805161512-us-media-ai-amnesia-schmidhuber'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '996664799017684992'

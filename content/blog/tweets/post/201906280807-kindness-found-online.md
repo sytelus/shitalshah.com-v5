@@ -3,6 +3,8 @@ title: 'Shock and Awe: Kindness Found Online'
 draft: false
 date: 2019-06-28T08:07:36+00:00
 slug: '201906280807-kindness-found-online'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1144411995065577474'

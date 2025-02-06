@@ -3,6 +3,8 @@ title: 'Word Order Schmord Order: BERT Doesn''t Care!'
 draft: true
 date: 2021-01-03T12:11:57+00:00
 slug: '202101031211-bert-word-order'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1345583653368131584'

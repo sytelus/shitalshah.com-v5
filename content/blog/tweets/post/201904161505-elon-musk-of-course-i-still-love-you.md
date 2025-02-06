@@ -3,6 +3,8 @@ title: 'When Elon Musk Says ''Of Course I Still Love You'
 draft: false
 date: 2019-04-16T15:05:30+00:00
 slug: '201904161505-elon-musk-of-course-i-still-love-you'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1118062850793074689'

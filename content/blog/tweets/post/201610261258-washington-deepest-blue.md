@@ -3,6 +3,8 @@ title: 'Washington: The Deepest Blue'
 draft: true
 date: 2016-10-26T12:58:11+00:00
 slug: '201610261258-washington-deepest-blue'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '791156954475429888'

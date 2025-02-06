@@ -3,6 +3,8 @@ title: 'Stable Diffusion Goes Apple Picking: Now on Mac, iPad, and iPhone'
 draft: true
 date: 2023-06-19T15:54:48+00:00
 slug: '202306191554-stable-diffusion-apple-picking'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1670716752177807361'

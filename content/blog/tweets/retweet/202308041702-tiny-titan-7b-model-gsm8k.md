@@ -3,6 +3,8 @@ title: 'Tiny Titan: 7B Model Nears Code-Davinci-002 on GSM8K'
 draft: true
 date: 2023-08-04T17:02:02+00:00
 slug: '202308041702-tiny-titan-7b-model-gsm8k'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1687403512517509120'

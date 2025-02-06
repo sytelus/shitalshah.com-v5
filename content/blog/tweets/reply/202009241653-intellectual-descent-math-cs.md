@@ -3,6 +3,8 @@ title: 'The Intellectual Descent: From Math to CS'
 draft: true
 date: 2020-09-24T16:53:23+00:00
 slug: '202009241653-intellectual-descent-math-cs'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1309068404427575296'

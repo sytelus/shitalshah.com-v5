@@ -3,6 +3,8 @@ title: 'Whack-a-Mole Science: Battling Galactica''s Fake Papers'
 draft: true
 date: 2022-11-20T04:30:09+00:00
 slug: '202211200430-whack-a-mole-galactica-fake-papers'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1594065513726226433'

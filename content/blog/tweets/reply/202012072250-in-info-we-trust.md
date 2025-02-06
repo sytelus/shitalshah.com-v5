@@ -3,6 +3,8 @@ title: 'In Info We Trust: Filtering the Overflow'
 draft: true
 date: 2020-12-07T22:50:02+00:00
 slug: '202012072250-in-info-we-trust'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1335959759682355201'

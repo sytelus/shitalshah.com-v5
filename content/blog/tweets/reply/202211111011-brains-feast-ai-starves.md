@@ -3,6 +3,8 @@ title: 'Brains Feast on Data; AI Starves'
 draft: true
 date: 2022-11-11T10:11:28+00:00
 slug: '202211111011-brains-feast-ai-starves'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1590889918137761793'

@@ -3,6 +3,8 @@ title: 'Transformers: More Than Meets the Math at EPFL'
 draft: true
 date: 2022-07-03T14:00:57+00:00
 slug: '202207031400-transformers-more-than-meets-the-math-at-epfl'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1543489959750823937'

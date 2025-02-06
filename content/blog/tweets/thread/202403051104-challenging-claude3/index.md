@@ -3,6 +3,8 @@ title: 'Challenging Claude 3: Extinct Codes, Maps, and Puzzles'
 draft: false
 date: 2024-03-05T11:04:13+00:00
 slug: '202403051104-challenging-claude3'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1764849366983217300'

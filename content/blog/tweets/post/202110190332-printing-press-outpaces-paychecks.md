@@ -3,6 +3,8 @@ title: 'Printing Press Outpaces Paychecks'
 draft: false
 date: 2021-10-19T03:32:22+00:00
 slug: '202110190332-printing-press-outpaces-paychecks'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1450198088602177536'

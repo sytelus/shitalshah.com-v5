@@ -3,6 +3,8 @@ title: 'Intern Turned Author: Mirac''s ACL Achievement'
 draft: true
 date: 2023-05-03T20:47:18+00:00
 slug: '202305032047-intern-turned-author-mirac-acl'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1653758131913261058'

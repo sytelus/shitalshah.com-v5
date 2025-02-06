@@ -3,6 +3,8 @@ title: 'Wildflower Wanderlust'
 draft: true
 date: 2009-05-14T16:19:35+00:00
 slug: '200905141619-wildflower-wanderlust'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1793343310'

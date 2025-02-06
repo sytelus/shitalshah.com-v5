@@ -3,6 +3,8 @@ title: 'From Zero to Django Hero in One Month'
 draft: true
 date: 2012-01-23T23:03:43+00:00
 slug: '201201232303-zero-to-django-hero'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '161464130346287104'

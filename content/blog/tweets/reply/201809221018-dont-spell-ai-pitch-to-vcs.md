@@ -3,6 +3,8 @@ title: 'Don''t Spell ''AI''—Just Pitch It to VCs'
 draft: true
 date: 2018-09-22T10:18:59+00:00
 slug: '201809221018-dont-spell-ai-pitch-to-vcs'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1043338845322797057'

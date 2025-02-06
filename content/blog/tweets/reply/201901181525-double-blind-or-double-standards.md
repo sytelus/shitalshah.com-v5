@@ -3,6 +3,8 @@ title: 'Double-Blind or Double-Standards?'
 draft: true
 date: 2019-01-18T15:25:37+00:00
 slug: '201901181525-double-blind-or-double-standards'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1086162678349877249'

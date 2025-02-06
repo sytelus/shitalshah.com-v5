@@ -3,6 +3,8 @@ title: 'Girls Just Wanna Have STEM'
 draft: false
 date: 2018-06-30T16:48:26+00:00
 slug: '201806301648-girls-just-wanna-have-stem'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1012996271223734272'

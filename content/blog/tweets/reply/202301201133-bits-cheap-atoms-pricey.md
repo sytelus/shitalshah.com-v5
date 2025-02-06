@@ -3,6 +3,8 @@ title: 'Bits are Cheap, Atoms are Pricey'
 draft: true
 date: 2023-01-20T11:33:44+00:00
 slug: '202301201133-bits-cheap-atoms-pricey'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1616277772078559232'

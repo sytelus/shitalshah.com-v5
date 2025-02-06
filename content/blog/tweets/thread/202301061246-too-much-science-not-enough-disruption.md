@@ -3,6 +3,8 @@ title: 'Too Much Science, Not Enough Disruption?'
 draft: false
 date: 2023-01-06T12:46:28+00:00
 slug: '202301061246-too-much-science-not-enough-disruption'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1611222645294628864'

@@ -3,6 +3,8 @@ title: 'No Single Trick for Multi-Objective Optimization'
 draft: false
 date: 2022-07-17T22:49:22+00:00
 slug: '202207172249-no-single-trick-for-multi-objective'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1548696368025284608'

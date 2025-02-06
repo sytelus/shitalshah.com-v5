@@ -3,6 +3,8 @@ title: 'Apple Keeps Calm and LiDARs On with New iPad'
 draft: false
 date: 2020-03-20T10:18:03+00:00
 slug: '202003201018-apple-keeps-calm-lidars-on'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1240839996128415745'

@@ -3,6 +3,8 @@ title: 'Reinforce Your Career: Many RL Positions Open!'
 draft: true
 date: 2020-11-24T09:52:12+00:00
 slug: '202011240952-reinforce-your-career-rl-positions'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1331052970960506881'

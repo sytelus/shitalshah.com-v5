@@ -3,6 +3,8 @@ title: 'GPUs Reign On: Quantum Leap Still Decades Away'
 draft: true
 date: 2020-12-20T13:04:36+00:00
 slug: '202012201304-gpus-reign-quantum-decades'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1340523474784153600'

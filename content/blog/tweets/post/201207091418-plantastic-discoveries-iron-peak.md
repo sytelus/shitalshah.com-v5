@@ -3,6 +3,8 @@ title: 'Plantastic Discoveries at Iron Peak'
 draft: true
 date: 2012-07-09T14:18:54+00:00
 slug: '201207091418-plantastic-discoveries-iron-peak'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '222228318043385856'

@@ -3,6 +3,8 @@ title: '28 Metrics Later: The Quest for Language Complexity'
 draft: true
 date: 2022-12-22T17:01:33+00:00
 slug: '202212221701-28-metrics-language-complexity'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1605851023729311745'

@@ -3,6 +3,8 @@ title: 'Quiet Mentors, Loud Legacies'
 draft: true
 date: 2019-07-27T04:51:44+00:00
 slug: '201907270451-quiet-mentors-loud-legacies'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1154871951820648448'

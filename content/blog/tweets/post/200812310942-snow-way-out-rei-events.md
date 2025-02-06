@@ -3,6 +3,8 @@ title: 'Snow Way Out: Adding REI Events to Our Calendar'
 draft: true
 date: 2008-12-31T09:42:03+00:00
 slug: '200812310942-snow-way-out-rei-events'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1087074346'

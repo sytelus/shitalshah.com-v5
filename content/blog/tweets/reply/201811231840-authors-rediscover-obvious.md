@@ -3,6 +3,8 @@ title: 'Authors Pat Themselves on the Back While Rediscovering the Obvious'
 draft: true
 date: 2018-11-23T18:40:45+00:00
 slug: '201811231840-authors-rediscover-obvious'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1065918067161493504'

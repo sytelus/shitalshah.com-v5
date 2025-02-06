@@ -3,6 +3,8 @@ title: 'When Even Einstein Felt the Sting of Peer Review'
 draft: false
 date: 2020-06-03T21:02:00+00:00
 slug: '202006032102-einstein-peer-review-rejection'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1268181140776648704'

@@ -3,6 +3,8 @@ title: 'When Datasets Get Tough, V-Usable Gets Going'
 draft: true
 date: 2022-08-01T09:49:49+00:00
 slug: '202208010949-v-usable-dataset'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1553936008793563137'

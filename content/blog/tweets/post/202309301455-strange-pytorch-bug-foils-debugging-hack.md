@@ -3,6 +3,8 @@ title: 'Strange PyTorch Bug Foils My Debugging Hack'
 draft: false
 date: 2023-09-30T14:55:50+00:00
 slug: '202309301455-strange-pytorch-bug-foils-debugging-hack'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1708027860928389566'

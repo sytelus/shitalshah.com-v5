@@ -3,6 +3,8 @@ title: 'Building Brains: Architecture Meets Augmentation in Self-Supervised Lear
 draft: true
 date: 2023-05-26T05:48:36+00:00
 slug: '202305260548-building-brains-architecture-augmentation'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1661866887796408322'

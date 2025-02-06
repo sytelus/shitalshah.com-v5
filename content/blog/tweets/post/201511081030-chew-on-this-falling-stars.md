@@ -3,6 +3,8 @@ title: 'Chew on This: My Falling Stars Composition'
 draft: true
 date: 2015-11-08T10:30:20+00:00
 slug: '201511081030-chew-on-this-falling-stars'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '663181730577166337'

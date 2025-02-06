@@ -3,6 +3,8 @@ title: 'When PageRank Makes Oprah President'
 draft: true
 date: 2018-11-30T20:26:04+00:00
 slug: '201811302026-pagerank-makes-oprah-president'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1068481284870008832'

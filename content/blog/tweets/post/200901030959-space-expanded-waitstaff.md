@@ -3,6 +3,8 @@ title: 'Space Expanded, Waitstaff Not Included'
 draft: true
 date: 2009-01-03T09:59:22+00:00
 slug: '200901030959-space-expanded-waitstaff'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1092674911'

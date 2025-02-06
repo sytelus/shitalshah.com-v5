@@ -3,6 +3,8 @@ title: 'TensorWatchful Eyes: Microsoft Open Sources AI Debugging Tool'
 draft: true
 date: 2020-03-07T19:49:03+00:00
 slug: '202003071949-tensorwatchful_eyes'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1236257549722062848'

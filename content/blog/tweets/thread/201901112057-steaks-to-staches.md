@@ -3,6 +3,8 @@ title: 'From Steaks to Staches: Tomorrow''s Moral Outcasts'
 draft: false
 date: 2019-01-11T20:57:48+00:00
 slug: '201901112057-steaks-to-staches'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1083709559967907840'

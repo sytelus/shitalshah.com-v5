@@ -3,6 +3,8 @@ title: 'Models in a Trenchcoat: Training Multiple Networks Together'
 draft: true
 date: 2021-10-24T02:17:41+00:00
 slug: '202110240217-models-in-a-trenchcoat'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1451991232188534788'

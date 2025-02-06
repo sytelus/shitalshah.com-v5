@@ -3,6 +3,8 @@ title: 'AirSim Takes Flight at #9 in ML Projects'
 draft: false
 date: 2018-01-05T20:38:09+00:00
 slug: '201801052038-airsim-takes-flight-9-ml'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '949258720462041088'

@@ -3,6 +3,8 @@ title: 'Stumping ChatGPT with Reddit''s Ultra-Fringe'
 draft: true
 date: 2023-01-22T09:34:47+00:00
 slug: '202301220934-stumping-chatgpt-reddit-fringe'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1616972613448011777'

@@ -3,6 +3,8 @@ title: 'DIY GPT: 60 Lines of NumPy Magic'
 draft: true
 date: 2023-02-18T16:18:03+00:00
 slug: '202302181618-gpt-in-60-lines-numpy'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1626858570137604096'

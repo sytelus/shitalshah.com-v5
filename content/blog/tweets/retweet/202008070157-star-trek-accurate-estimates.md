@@ -3,6 +3,8 @@ title: 'The Real Fantasy in Star Trek: Accurate Estimates'
 draft: true
 date: 2020-08-07T01:57:29+00:00
 slug: '202008070157-star-trek-accurate-estimates'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1291448323950301184'

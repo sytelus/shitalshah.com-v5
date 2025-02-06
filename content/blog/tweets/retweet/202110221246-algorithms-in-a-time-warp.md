@@ -3,6 +3,8 @@ title: 'Algorithms in a Time Warp: Half Stand Still, 15% Surge Ahead'
 draft: true
 date: 2021-10-22T12:46:16+00:00
 slug: '202110221246-algorithms-in-a-time-warp'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1451424647178686467'

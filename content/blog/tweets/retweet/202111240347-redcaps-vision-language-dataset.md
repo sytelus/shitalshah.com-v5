@@ -3,6 +3,8 @@ title: 'RedCaps Unveiled: A 12M Vision+Language Dataset'
 draft: true
 date: 2021-11-24T03:47:03+00:00
 slug: '202111240347-redcaps-vision-language-dataset'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1463232646952013825'

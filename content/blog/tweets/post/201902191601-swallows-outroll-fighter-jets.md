@@ -3,6 +3,8 @@ title: 'Swallows Outroll Fighter Jets'
 draft: false
 date: 2019-02-19T16:01:37+00:00
 slug: '201902191601-swallows-outroll-fighter-jets'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1097768151087890432'

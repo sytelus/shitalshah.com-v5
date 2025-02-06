@@ -3,6 +3,8 @@ title: 'City Lights Can''t Hide the Seven Sisters'
 draft: true
 date: 2010-07-29T16:48:47+00:00
 slug: '201007291648-city-lights-seven-sisters'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '19813978158'

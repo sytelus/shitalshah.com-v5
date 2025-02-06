@@ -3,6 +3,8 @@ title: 'Going SOFT: Softmax-Free Transformers with Linear Complexity'
 draft: true
 date: 2021-10-25T08:19:45+00:00
 slug: '202110250819-softmax-free-transformer'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1452444739022712832'

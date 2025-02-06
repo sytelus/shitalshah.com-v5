@@ -3,6 +3,8 @@ title: '60-Minute Programming: The Original Speed Run'
 draft: false
 date: 2021-01-18T02:00:49+00:00
 slug: '202101180200-60-minute-programming'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1350865673514225666'

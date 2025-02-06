@@ -3,6 +3,8 @@ title: 'Reject First, Hire the Best: The Secretary Problem Simplified'
 draft: true
 date: 2014-02-11T09:10:10+00:00
 slug: '201402110910-reject-first-hire-best'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '433045260625657856'

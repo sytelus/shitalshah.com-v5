@@ -3,6 +3,8 @@ title: 'Neural Network Solves 10 Math Olympiad Problems—More Than Me!'
 draft: true
 date: 2022-11-03T22:04:13+00:00
 slug: '202211032204-neural-network-solves-10-imo-problems'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1588185282792525824'

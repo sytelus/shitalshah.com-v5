@@ -3,6 +3,8 @@ title: 'Too Dumb to Define ''Smart'
 draft: true
 date: 2022-11-10T06:32:35+00:00
 slug: '202211100632-too-dumb-to-define-smart'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1590472446255452160'

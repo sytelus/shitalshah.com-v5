@@ -3,6 +3,8 @@ title: 'Segment and Conquer: Crafting a Semantic Webpage Dataset'
 draft: true
 date: 2022-12-29T14:34:46+00:00
 slug: '202212291434-segment-and-conquer-semantic-web-dataset'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1608350797557030912'

@@ -3,6 +3,8 @@ title: 'Peer Review Makeover: Keeping Good, Ditching Bad'
 draft: true
 date: 2020-01-07T20:54:48+00:00
 slug: '202001072054-peer_review_makeover'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1214530825150029824'

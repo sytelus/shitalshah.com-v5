@@ -3,6 +3,8 @@ title: 'Superminds: Beyond Human Capacity'
 draft: true
 date: 2020-08-10T10:31:19+00:00
 slug: '202008101031-superminds-beyond-human'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1292664801659744256'

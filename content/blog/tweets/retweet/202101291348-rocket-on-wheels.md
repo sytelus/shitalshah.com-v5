@@ -3,6 +3,8 @@ title: 'Rocket on Wheels: First Production Car Achieves 0-60mph Under 2 Seconds'
 draft: true
 date: 2021-01-29T13:48:28+00:00
 slug: '202101291348-rocket-on-wheels'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1355030029487333376'

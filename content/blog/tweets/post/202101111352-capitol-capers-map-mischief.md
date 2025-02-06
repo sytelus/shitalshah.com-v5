@@ -3,6 +3,8 @@ title: 'Capitol Capers: Map-Wielding Mischief Makers'
 draft: false
 date: 2021-01-11T13:52:26+00:00
 slug: '202101111352-capitol-capers-map-mischief'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1348508042975866882'

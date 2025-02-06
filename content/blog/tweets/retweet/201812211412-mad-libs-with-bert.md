@@ -3,6 +3,8 @@ title: 'Mad Libs with BERT: AI''s Surprising Word Choices'
 draft: true
 date: 2018-12-21T14:12:21+00:00
 slug: '201812211412-mad-libs-with-bert'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1075997381886263297'

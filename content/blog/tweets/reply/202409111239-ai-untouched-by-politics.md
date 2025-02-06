@@ -3,6 +3,8 @@ title: 'AI: The One Thing Politicians Haven''t Argued About Yet'
 draft: true
 date: 2024-09-11T12:39:09+00:00
 slug: '202409111239-ai-untouched-by-politics'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1833742051957264485'

@@ -3,6 +3,8 @@ title: 'Chatbots Need You: Bounties for Human Wisdom'
 draft: true
 date: 2023-07-27T07:18:32+00:00
 slug: '202307270718-chatbots-need-you'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1684357565885583360'

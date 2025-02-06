@@ -3,6 +3,8 @@ title: 'Video Vibrations Sing: Reconstructing Audio from Silent Footage'
 draft: true
 date: 2018-12-20T06:20:48+00:00
 slug: '201812200620-video-vibrations-sing'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1075516324699205632'

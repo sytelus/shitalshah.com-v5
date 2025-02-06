@@ -3,6 +3,8 @@ title: 'CLRS: The 14,000-Hour Masterpiece I Read Twice'
 draft: false
 date: 2019-11-08T03:08:16+00:00
 slug: '201911080308-clrs-14000-hour-masterpiece'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1192519153984274432'

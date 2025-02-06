@@ -3,6 +3,8 @@ title: 'MT-DNN Speaks Human – AI''s New Milestone'
 draft: false
 date: 2019-06-08T19:04:11+00:00
 slug: '201906081904-mt-dnn-speaks-human'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1137329472921694208'

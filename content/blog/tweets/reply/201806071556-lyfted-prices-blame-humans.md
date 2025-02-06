@@ -3,6 +3,8 @@ title: 'Lyfted Prices: Blame the Humans'
 draft: true
 date: 2018-06-07T15:56:55+00:00
 slug: '201806071556-lyfted-prices-blame-humans'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1004648388116090880'

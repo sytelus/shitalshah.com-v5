@@ -3,6 +3,8 @@ title: 'ChatGPT''s Oops Moments: A Thread of Inaccuracies'
 draft: true
 date: 2022-12-11T14:18:41+00:00
 slug: '202212111418-chatgpts-oops-moments'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1601823769928298496'

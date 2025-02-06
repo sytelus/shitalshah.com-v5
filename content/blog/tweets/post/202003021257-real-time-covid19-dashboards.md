@@ -3,6 +3,8 @@ title: 'Real-Time COVID-19 Dashboards: Because Refreshing Twitter Isn''t Enough'
 draft: false
 date: 2020-03-02T12:57:06+00:00
 slug: '202003021257-real-time-covid19-dashboards'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1234341940289667073'

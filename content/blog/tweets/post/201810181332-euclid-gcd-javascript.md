@@ -3,6 +3,8 @@ title: 'Euclid Would Be Proud: GCD in a JavaScript One-Liner'
 draft: false
 date: 2018-10-18T13:32:22+00:00
 slug: '201810181332-euclid-gcd-javascript'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1052809593670139904'

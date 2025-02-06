@@ -3,6 +3,8 @@ title: 'Rewriting to Oblivion: The Collapse of Digg and Netscape'
 draft: true
 date: 2010-10-04T15:23:26+00:00
 slug: '201010041523-rewriting-to-oblivion'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '26344226448'

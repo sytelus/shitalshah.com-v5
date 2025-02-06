@@ -3,6 +3,8 @@ title: 'Persian Problem Solving: Drink, Decide, Repeat'
 draft: false
 date: 2021-01-05T17:37:00+00:00
 slug: '202101051737-drink-decide-repeat'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1346390230543130625'

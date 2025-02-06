@@ -3,6 +3,8 @@ title: 'Love at First Push: Releasing the Repo on Valentine''s Day'
 draft: false
 date: 2023-02-16T10:44:29+00:00
 slug: '202302161044-love-at-first-push'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1626049849283207169'

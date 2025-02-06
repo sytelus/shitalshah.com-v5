@@ -3,6 +3,8 @@ title: 'Small Pixels, Huge Gains: Pseudo-Labeling Tiny CIFAR Images'
 draft: true
 date: 2021-03-09T18:20:05+00:00
 slug: '202103091820-small-pixels-huge-gains'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1369231508423073794'

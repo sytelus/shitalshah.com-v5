@@ -3,6 +3,8 @@ title: 'Spinning a Web of Code: xCodeEval and SQL Spider'
 draft: true
 date: 2023-06-21T12:07:46+00:00
 slug: '202306211207-spinning-web-of-code'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1671384392315584513'

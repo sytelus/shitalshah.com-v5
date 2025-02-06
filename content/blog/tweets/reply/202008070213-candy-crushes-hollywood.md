@@ -3,6 +3,8 @@ title: 'Candy Crushes Hollywood: Software''s Huge Value'
 draft: true
 date: 2020-08-07T02:13:10+00:00
 slug: '202008070213-candy-crushes-hollywood'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1291452272782667776'

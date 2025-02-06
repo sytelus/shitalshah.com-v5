@@ -3,6 +3,8 @@ title: 'When PhD-Level AI Fails at Junior Tasks'
 draft: false
 date: 2025-01-17T15:49:11+00:00
 slug: '202501171549-phd_ai_fails_junior_tasks'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1880160423108112721'

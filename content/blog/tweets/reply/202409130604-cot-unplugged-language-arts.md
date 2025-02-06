@@ -3,6 +3,8 @@ title: 'CoT Unplugged: AI''s Reasoning Gap in Language Arts'
 draft: true
 date: 2024-09-13T06:04:36+00:00
 slug: '202409130604-cot-unplugged-language-arts'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1834367535506227410'

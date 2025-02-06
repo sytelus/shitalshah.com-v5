@@ -3,6 +3,8 @@ title: 'Honey, I Shrunk the Camera: Sony TX-100V''s Big Features'
 draft: true
 date: 2011-07-06T15:39:49+00:00
 slug: '201107061539-honey-i-shrunk-the-camera'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '88527558911594496'

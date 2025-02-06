@@ -3,6 +3,8 @@ title: 'Transformers Exposed: Peeking Under the Neural Hood'
 draft: true
 date: 2022-06-12T11:44:29+00:00
 slug: '202206121144-transformers-exposed'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1535845468684419073'

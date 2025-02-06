@@ -3,6 +3,8 @@ title: 'Sky High Radiation: FAA''s Cosmic Calculator'
 draft: true
 date: 2010-06-12T12:31:52+00:00
 slug: '201006121231-sky-high-radiation'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '15982491662'

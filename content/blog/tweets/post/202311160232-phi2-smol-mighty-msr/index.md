@@ -3,6 +3,8 @@ title: 'Phi-2: Smol but Mighty Model from MSR'
 draft: false
 date: 2023-11-16T02:32:26+00:00
 slug: '202311160232-phi2-smol-mighty-msr'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1724857907542724980'

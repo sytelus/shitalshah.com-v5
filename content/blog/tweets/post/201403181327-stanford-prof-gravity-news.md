@@ -3,6 +3,8 @@ title: 'Stanford Prof Over the Moon About Gravity News'
 draft: true
 date: 2014-03-18T13:27:20+00:00
 slug: '201403181327-stanford-prof-gravity-news'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '445808653057003522'

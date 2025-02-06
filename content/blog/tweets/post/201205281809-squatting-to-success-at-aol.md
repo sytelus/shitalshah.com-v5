@@ -3,6 +3,8 @@ title: 'Squatting to Success: The Entrepreneur Who Lived at AOL'
 draft: true
 date: 2012-05-28T18:09:51+00:00
 slug: '201205281809-squatting-to-success-at-aol'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '207066147189817344'

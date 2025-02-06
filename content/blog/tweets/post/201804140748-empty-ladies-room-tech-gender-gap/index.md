@@ -3,6 +3,8 @@ title: 'The Empty Ladies'' Room: Tech''s Gender Gap'
 draft: false
 date: 2018-04-14T07:48:57+00:00
 slug: '201804140748-empty-ladies-room-tech-gender-gap'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '984956639383113728'

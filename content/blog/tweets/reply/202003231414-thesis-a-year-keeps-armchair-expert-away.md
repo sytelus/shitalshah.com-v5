@@ -3,6 +3,8 @@ title: 'A Thesis a Year Keeps the Armchair Expert Away'
 draft: true
 date: 2020-03-23T14:14:24+00:00
 slug: '202003231414-thesis-a-year-keeps-armchair-expert-away'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1241986637791244288'

@@ -3,6 +3,8 @@ title: 'AirSim Shifts into Self-Driving Mode'
 draft: true
 date: 2017-11-14T04:38:03+00:00
 slug: '201711140438-airsim-self-driving-mode'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '930172933036679169'

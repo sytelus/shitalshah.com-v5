@@ -3,6 +3,8 @@ title: 'Tilth''s Terrific Tastes Triumph'
 draft: true
 date: 2010-11-03T04:17:41+00:00
 slug: '201011030417-tilth-terrific-tastes'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '29506167051'

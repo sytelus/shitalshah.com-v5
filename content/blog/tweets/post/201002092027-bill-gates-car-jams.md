@@ -3,6 +3,8 @@ title: 'Bill Gates Confirms: My Car Jams Are Educational'
 draft: true
 date: 2010-02-09T20:27:29+00:00
 slug: '201002092027-bill-gates-car-jams'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '8852381608'

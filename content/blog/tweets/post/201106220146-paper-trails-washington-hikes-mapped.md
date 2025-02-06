@@ -3,6 +3,8 @@ title: 'Paper Trails: Washington''s Hikes Mapped on Google Maps'
 draft: true
 date: 2011-06-22T01:46:28+00:00
 slug: '201106220146-paper-trails-washington-hikes-mapped'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '83244408677478401'

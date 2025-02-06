@@ -3,6 +3,8 @@ title: 'Twin Primes Drove Me to Programming'
 draft: false
 date: 2021-12-01T11:42:36+00:00
 slug: '202112011142-twin-primes-drove-me-to-programming'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1465889037130944517'

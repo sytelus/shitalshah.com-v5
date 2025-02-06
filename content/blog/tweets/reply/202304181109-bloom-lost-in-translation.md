@@ -3,6 +3,8 @@ title: 'Lost in Multilingual Translation: BLOOM''s Quality Plunge'
 draft: true
 date: 2023-04-18T11:09:51+00:00
 slug: '202304181109-bloom-lost-in-translation'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1648176993610104833'

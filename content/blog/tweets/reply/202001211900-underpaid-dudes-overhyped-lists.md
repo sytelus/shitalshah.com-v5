@@ -3,6 +3,8 @@ title: 'Underpaid Dudes and Overhyped Lists'
 draft: true
 date: 2020-01-21T19:00:03+00:00
 slug: '202001211900-underpaid-dudes-overhyped-lists'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1219575378139742208'

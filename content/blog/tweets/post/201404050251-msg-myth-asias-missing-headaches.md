@@ -3,6 +3,8 @@ title: 'The MSG Myth: Asia''s Missing Headaches'
 draft: true
 date: 2014-04-05T02:51:19+00:00
 slug: '201404050251-msg-myth-asias-missing-headaches'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '452171577224724480'

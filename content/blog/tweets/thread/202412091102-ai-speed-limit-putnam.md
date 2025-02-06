@@ -3,6 +3,8 @@ title: 'AI''s Speed Limit: From 10000x to 12x on Putnam Problems'
 draft: false
 date: 2024-12-09T11:02:57+00:00
 slug: '202412091102-ai-speed-limit-putnam'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1865955265067323659'

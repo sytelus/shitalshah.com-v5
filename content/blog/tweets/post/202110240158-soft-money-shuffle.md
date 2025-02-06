@@ -3,6 +3,8 @@ title: 'The Soft Money Shuffle: Universities vs. PIs in the Grant Game'
 draft: false
 date: 2021-10-24T01:58:25+00:00
 slug: '202110240158-soft-money-shuffle'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1451986384139423744'

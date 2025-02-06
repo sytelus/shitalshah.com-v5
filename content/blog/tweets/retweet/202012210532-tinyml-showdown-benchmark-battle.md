@@ -3,6 +3,8 @@ title: 'TinyML Showdown: The Ultimate Benchmark Battle of Microcontrollers'
 draft: true
 date: 2020-12-21T05:32:15+00:00
 slug: '202012210532-tinyml-showdown-benchmark-battle'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1340772025929854976'

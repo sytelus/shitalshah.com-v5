@@ -3,6 +3,8 @@ title: 'Your Brain''s Original 18-Year Binge-Watch'
 draft: true
 date: 2023-03-06T15:59:32+00:00
 slug: '202303061559-brain-original-18-year-binge-watch'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1632652116878827521'

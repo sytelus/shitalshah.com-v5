@@ -3,6 +3,8 @@ title: 'Late for a Very Important Date: Missing Alice IMAX at Pac Sci'
 draft: true
 date: 2010-04-25T13:32:03+00:00
 slug: '201004251332-missing-alice-imax-pac-sci'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '12808126430'

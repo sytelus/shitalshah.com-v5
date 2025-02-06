@@ -3,6 +3,8 @@ title: 'PowerShell Sorcery: Update .gitignore Across All Repos'
 draft: true
 date: 2014-04-16T12:46:57+00:00
 slug: '201404161246-powershell-update-gitignore-all-repos'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '456307739287760896'

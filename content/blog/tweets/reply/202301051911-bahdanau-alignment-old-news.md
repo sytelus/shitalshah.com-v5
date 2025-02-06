@@ -3,6 +3,8 @@ title: 'Bahdanau''s ''New'' Alignment? NLP Veterans Say ''Old News'
 draft: true
 date: 2023-01-05T19:11:48+00:00
 slug: '202301051911-bahdanau-alignment-old-news'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1610957230211502082'

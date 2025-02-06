@@ -3,6 +3,8 @@ title: 'From Soooooooo Excited to Soooooooo Fast: Program Induction Unveiled'
 draft: true
 date: 2022-01-27T05:05:50+00:00
 slug: '202201270505-so-fast-program-induction'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1486445298469593088'

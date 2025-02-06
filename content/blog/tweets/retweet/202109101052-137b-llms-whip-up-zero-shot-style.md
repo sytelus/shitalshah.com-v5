@@ -3,6 +3,8 @@ title: '137B LLMs Whip Up Zero-Shot Text Style Transfer'
 draft: true
 date: 2021-09-10T10:52:14+00:00
 slug: '202109101052-137b-llms-whip-up-zero-shot-style'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1436175657734533136'

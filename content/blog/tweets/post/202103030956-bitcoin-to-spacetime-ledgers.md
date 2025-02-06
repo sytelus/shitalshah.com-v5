@@ -3,6 +3,8 @@ title: 'From Bitcoin to Spacetime: Ledgers Everywhere'
 draft: false
 date: 2021-03-03T09:56:44+00:00
 slug: '202103030956-bitcoin-to-spacetime-ledgers'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1366930511642251264'

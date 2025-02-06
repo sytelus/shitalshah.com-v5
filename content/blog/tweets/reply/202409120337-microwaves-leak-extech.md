@@ -3,6 +3,8 @@ title: 'When Microwaves Leak, Engineers Reach for Extech'
 draft: true
 date: 2024-09-12T03:37:09+00:00
 slug: '202409120337-microwaves-leak-extech'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1833968043325882430'

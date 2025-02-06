@@ -3,6 +3,8 @@ title: 'Rattlesnacks and Katwalks: Weekend Hiking Plans'
 draft: true
 date: 2009-07-18T15:26:38+00:00
 slug: '200907181526-rattlesnacks-and-katwalks-weekend'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '2703870754'

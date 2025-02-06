@@ -3,6 +3,8 @@ title: 'Open-Sourcing Extravaganza: Everything Must Go!'
 draft: true
 date: 2022-10-08T04:57:13+00:00
 slug: '202210080457-open-sourcing-extravaganza'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1578504745391919105'

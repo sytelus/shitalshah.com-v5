@@ -3,6 +3,8 @@ title: 'OpenAI''s DALL-E and CLIP: Unbelievable AI Magic'
 draft: false
 date: 2021-01-06T15:38:42+00:00
 slug: '202101061538-openai-dalle-clip-ai-magic'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1346722846861496320'

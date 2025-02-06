@@ -3,6 +3,8 @@ title: 'Trailblazing: 17,450 Hours for a 3-Mile Hike'
 draft: true
 date: 2011-08-04T03:46:11+00:00
 slug: '201108040346-trailblazing-17450-hours-for-3-mile-hike'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '98857217217933313'

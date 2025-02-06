@@ -3,6 +3,8 @@ title: 'Kernels in Disguise: Learning Softmax in Transformers'
 draft: true
 date: 2021-10-25T12:15:58+00:00
 slug: '202110251215-kernels-in-disguise'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1452504185153355776'

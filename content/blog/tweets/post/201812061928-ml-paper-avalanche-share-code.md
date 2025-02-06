@@ -3,6 +3,8 @@ title: 'ML Paper Avalanche: One Every 20 Minutes, But Only 15% Share Code'
 draft: false
 date: 2018-12-06T19:28:35+00:00
 slug: '201812061928-ml-paper-avalanche-share-code'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1070641147867844609'

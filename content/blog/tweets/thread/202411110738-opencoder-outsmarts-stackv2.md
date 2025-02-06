@@ -3,6 +3,8 @@ title: 'OpenCoder Outsmarts StackV2 with 3X Less Data'
 draft: false
 date: 2024-11-11T07:38:36+00:00
 slug: '202411110738-opencoder-outsmarts-stackv2'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1855756978917986627'

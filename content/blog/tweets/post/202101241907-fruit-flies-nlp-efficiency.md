@@ -3,6 +3,8 @@ title: 'Fruit Flies Beat AI at NLP with Tiny Brains'
 draft: false
 date: 2021-01-24T19:07:53+00:00
 slug: '202101241907-fruit-flies-nlp-efficiency'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1353298471537635328'

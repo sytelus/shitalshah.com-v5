@@ -3,6 +3,8 @@ title: 'Scratch That: Coding Isn''t Just for Geniuses'
 draft: true
 date: 2023-05-25T11:16:15+00:00
 slug: '202305251116-scratch-that-coding-is-for-everyone'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1661586953702379521'

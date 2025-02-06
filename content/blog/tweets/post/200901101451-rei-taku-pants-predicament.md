@@ -3,6 +3,8 @@ title: 'No Belt Loops or Pockets? The REI Taku Pants Predicament'
 draft: true
 date: 2009-01-10T14:51:33+00:00
 slug: '200901101451-rei-taku-pants-predicament'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1108642628'

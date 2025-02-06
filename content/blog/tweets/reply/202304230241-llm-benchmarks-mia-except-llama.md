@@ -3,6 +3,8 @@ title: 'LLM Benchmarks: Everyone''s MIA Except LLaMA'
 draft: true
 date: 2023-04-23T02:41:01+00:00
 slug: '202304230241-llm-benchmarks-mia-except-llama'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1649860879830376448'

@@ -3,6 +3,8 @@ title: 'Taxing the Chatbots: Funding Unemployment with AI Taxes'
 draft: true
 date: 2024-09-30T20:52:49+00:00
 slug: '202409302052-taxing-chatbots-fund-unemployment'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1840751659305099269'

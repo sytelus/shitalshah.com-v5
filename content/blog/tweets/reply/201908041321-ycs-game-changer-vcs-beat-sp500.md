@@ -3,6 +3,8 @@ title: 'YC''s Game Changer: VCs Beat the S&P500'
 draft: true
 date: 2019-08-04T13:21:33+00:00
 slug: '201908041321-ycs-game-changer-vcs-beat-sp500'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1157899353647747072'

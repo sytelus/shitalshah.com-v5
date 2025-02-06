@@ -3,6 +3,8 @@ title: 'Why Women Skip STEM: It''s Not Rocket Science, It''s Stereotypes'
 draft: true
 date: 2021-03-03T11:55:34+00:00
 slug: '202103031155-why-women-skip-stem'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1366960414408384519'

@@ -3,6 +3,8 @@ title: 'Dropbox It Like It''s Hot'
 draft: true
 date: 2009-09-30T13:45:45+00:00
 slug: '200909301345-dropbox-it-like-its-hot'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '4491723304'

@@ -3,6 +3,8 @@ title: 'Mango: Sweet Hyperparameter Tuning in Python'
 draft: true
 date: 2022-12-29T13:59:47+00:00
 slug: '202212291359-mango-hyperparameter-tuning'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1608341991666114562'

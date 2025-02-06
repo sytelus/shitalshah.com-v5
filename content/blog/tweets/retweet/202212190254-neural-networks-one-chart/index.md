@@ -3,6 +3,8 @@ title: 'One Chart to Rule Them All: Neural Networks'
 draft: true
 date: 2022-12-19T02:54:30+00:00
 slug: '202212190254-neural-networks-one-chart'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1604550690478903298'

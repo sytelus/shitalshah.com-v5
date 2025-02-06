@@ -3,6 +3,8 @@ title: 'DeepSpeed Profiler: The Fast and the FLOPs'
 draft: false
 date: 2022-11-10T07:41:37+00:00
 slug: '202211100741-deepspeed-profiler-fast-and-flops'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1590489817481383937'

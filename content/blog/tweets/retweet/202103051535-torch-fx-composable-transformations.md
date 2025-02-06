@@ -3,6 +3,8 @@ title: 'orch.fx: Composable Transformations in PyTorch'
 draft: true
 date: 2021-03-05T15:35:06+00:00
 slug: '202103051535-torch-fx-composable-transformations'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1367740439655194625'

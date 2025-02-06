@@ -3,6 +3,8 @@ title: 'Heart Strong in 20 Minutes: The Magic of Intervals'
 draft: true
 date: 2012-02-16T16:49:01+00:00
 slug: '201202161649-heart-strong-20-minutes'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '170067144053239809'

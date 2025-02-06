@@ -3,6 +3,8 @@ title: 'Big Questions, Small Teams: A Stadium of Scientists'
 draft: true
 date: 2019-11-23T08:36:21+00:00
 slug: '201911230836-stadium-of-scientists'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1198037537169690624'

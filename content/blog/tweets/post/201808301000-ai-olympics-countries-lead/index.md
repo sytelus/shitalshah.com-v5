@@ -3,6 +3,8 @@ title: 'AI Olympics: Which Countries Lead the Race?'
 draft: false
 date: 2018-08-30T10:00:06+00:00
 slug: '201808301000-ai-olympics-countries-lead'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1034999171147866113'

@@ -3,6 +3,8 @@ title: 'Google Bags ICLR Papers, China Lags, Female Authors Numbers Sag'
 draft: false
 date: 2018-12-22T16:37:38+00:00
 slug: '201812221637-google-china-women-iclr'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1076396332326170624'

@@ -3,6 +3,8 @@ title: 'The Dropdown That Stopped the Hikers'
 draft: true
 date: 2011-06-20T13:57:01+00:00
 slug: '201106201357-dropdown-stopped-hikers'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '82703482691387392'

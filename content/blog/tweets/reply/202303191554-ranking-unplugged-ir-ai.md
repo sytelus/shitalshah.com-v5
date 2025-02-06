@@ -3,6 +3,8 @@ title: 'Ranking Unplugged: Why IR and AI Won''t Talk'
 draft: true
 date: 2023-03-19T15:54:00+00:00
 slug: '202303191554-ranking-unplugged-ir-ai'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1637376864594575361'

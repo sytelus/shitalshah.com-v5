@@ -3,6 +3,8 @@ title: 'Say Cheese! GitHub Now a Webcam'
 draft: false
 date: 2020-12-18T15:56:41+00:00
 slug: '202012181556-github-now-webcam'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1339842002674802688'

@@ -3,6 +3,8 @@ title: 'Generalized Decision Transformers: Solving Hindsight with a Twist'
 draft: true
 date: 2021-11-24T06:40:49+00:00
 slug: '202111240640-gdt-hindsight-solution'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1463276378183254017'

@@ -3,6 +3,8 @@ title: 'Quit Your Job, See the World: A 12-Month Plan'
 draft: true
 date: 2012-01-23T20:45:01+00:00
 slug: '201201232045-quit-your-job-see-the-world'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '161429227604946944'

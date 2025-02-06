@@ -3,6 +3,8 @@ title: 'Animals Think in Scenarios—Just Not Nested Ones'
 draft: true
 date: 2019-02-05T07:47:39+00:00
 slug: '201902050747-animals-think-scenarios-not-nested'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1092570411894632448'

@@ -3,6 +3,8 @@ title: 'From Uninformed to Misinformed: The Newspaper Paradox'
 draft: true
 date: 2021-01-19T17:19:02+00:00
 slug: '202101191719-uninformed-to-misinformed'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1351459138480402433'

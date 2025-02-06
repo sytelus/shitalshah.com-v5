@@ -3,6 +3,8 @@ title: 'Futuristic Feasting: Easter Brunch at Bellevue Hilton'
 draft: true
 date: 2011-04-25T05:20:30+00:00
 slug: '201104250520-futuristic-easter-brunch'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '62279775984689152'

@@ -3,6 +3,8 @@ title: 'Groomed for Success: 3/4 Edge XC Skis and Comfy Boots'
 draft: true
 date: 2009-11-30T15:30:50+00:00
 slug: '200911301530-groomed-for-success'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '6195405983'

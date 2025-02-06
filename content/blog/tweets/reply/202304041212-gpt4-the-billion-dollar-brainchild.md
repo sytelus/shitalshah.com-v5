@@ -3,6 +3,8 @@ title: 'GPT-4: The Billion-Dollar Brainchild'
 draft: true
 date: 2023-04-04T12:12:14+00:00
 slug: '202304041212-gpt4-the-billion-dollar-brainchild'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1643119263476244481'

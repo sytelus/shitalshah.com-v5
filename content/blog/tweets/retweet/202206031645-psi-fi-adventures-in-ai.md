@@ -3,6 +3,8 @@ title: 'Psi-Fi Adventures in AI Begin'
 draft: true
 date: 2022-06-03T16:45:23+00:00
 slug: '202206031645-psi-fi-adventures-in-ai'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1532659703968215040'

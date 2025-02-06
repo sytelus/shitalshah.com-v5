@@ -3,6 +3,8 @@ title: 'Bloom Library Blossoms with 300+ Language Datasets'
 draft: true
 date: 2022-10-10T02:57:06+00:00
 slug: '202210100257-bloom-library-blossoms'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1579199294464462850'

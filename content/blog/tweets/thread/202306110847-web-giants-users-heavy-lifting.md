@@ -3,6 +3,8 @@ title: 'Web Giants: Users Do the Heavy Lifting'
 draft: false
 date: 2023-06-11T08:47:23+00:00
 slug: '202306110847-web-giants-users-heavy-lifting'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1667710085731323905'

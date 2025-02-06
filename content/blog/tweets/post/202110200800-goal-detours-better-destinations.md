@@ -3,6 +3,8 @@ title: 'Goal Detours: Better Destinations Ahead'
 draft: false
 date: 2021-10-20T08:00:42+00:00
 slug: '202110200800-goal-detours-better-destinations'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1450628005315768322'

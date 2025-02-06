@@ -3,6 +3,8 @@ title: 'The Mother of All STEM Solutions'
 draft: true
 date: 2020-12-24T13:44:33+00:00
 slug: '202012241344-mother-of-all-stem-solutions'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1341983077409595393'

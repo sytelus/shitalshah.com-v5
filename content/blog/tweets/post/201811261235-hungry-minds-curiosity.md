@@ -3,6 +3,8 @@ title: 'Hungry Minds: The Brain''s Irresistible Craving for Curiosity'
 draft: false
 date: 2018-11-26T12:35:45+00:00
 slug: '201811261235-hungry-minds-curiosity'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1066913374645084161'

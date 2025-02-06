@@ -3,6 +3,8 @@ title: 'AMD''s MI300X Out-FLOPs H100 by 32% in BF16'
 draft: false
 date: 2023-12-22T20:19:12+00:00
 slug: '202312222019-amd-mi300x-outflops-h100'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1738172333410717930'

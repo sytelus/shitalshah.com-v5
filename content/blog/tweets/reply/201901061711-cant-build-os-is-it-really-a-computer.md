@@ -3,6 +3,8 @@ title: 'If You Can''t Build an OS, Is It Really a Computer?'
 draft: true
 date: 2019-01-06T17:11:10+00:00
 slug: '201901061711-cant-build-os-is-it-really-a-computer'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1081840587198746626'

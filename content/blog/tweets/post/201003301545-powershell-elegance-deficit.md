@@ -3,6 +3,8 @@ title: 'PowerShell''s Elegance Deficit Disorder'
 draft: true
 date: 2010-03-30T15:45:24+00:00
 slug: '201003301545-powershell-elegance-deficit'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '11298837558'

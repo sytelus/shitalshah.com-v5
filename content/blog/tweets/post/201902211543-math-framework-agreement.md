@@ -3,6 +3,8 @@ title: 'Math: The Uncomfortable Framework of Agreement'
 draft: false
 date: 2019-02-21T15:43:57+00:00
 slug: '201902211543-math-framework-agreement'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1098488480340955136'

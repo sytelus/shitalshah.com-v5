@@ -3,6 +3,8 @@ title: 'Mona Lisa Finally Breaks Her Silence—Thanks to AI'
 draft: false
 date: 2019-06-06T12:21:14+00:00
 slug: '201906061221-mona-lisa-breaks-silence-ai'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1136503293302018049'

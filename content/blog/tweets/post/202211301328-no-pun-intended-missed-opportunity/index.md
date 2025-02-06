@@ -3,6 +3,8 @@ title: 'No Pun Intended: A Missed Opportunity'
 draft: false
 date: 2022-11-30T13:28:50+00:00
 slug: '202211301328-no-pun-intended-missed-opportunity'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1597824958759325696'

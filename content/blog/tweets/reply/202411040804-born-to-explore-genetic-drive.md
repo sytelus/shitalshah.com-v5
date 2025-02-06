@@ -3,6 +3,8 @@ title: 'Born to Explore: The Genetic Drive'
 draft: true
 date: 2024-11-04T08:04:38+00:00
 slug: '202411040804-born-to-explore-genetic-drive'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1853226813239218398'

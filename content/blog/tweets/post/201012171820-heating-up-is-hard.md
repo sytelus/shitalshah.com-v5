@@ -3,6 +3,8 @@ title: 'Heating Up Is Hard to Do'
 draft: true
 date: 2010-12-17T18:20:39+00:00
 slug: '201012171820-heating-up-is-hard'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '15712975595769857'

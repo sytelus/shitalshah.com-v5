@@ -3,6 +3,8 @@ title: 'A Flash of Attention: Queries for [@hi_tysam](https://x.com/hi_tysam) on
 draft: true
 date: 2023-03-14T12:44:52+00:00
 slug: '202303141244-flash-of-attention-queries-hi_tysam'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1635517327650455552'

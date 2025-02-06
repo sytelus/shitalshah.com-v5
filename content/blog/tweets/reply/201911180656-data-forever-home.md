@@ -3,6 +3,8 @@ title: 'Data Deserves a Forever Home'
 draft: true
 date: 2019-11-18T06:56:36+00:00
 slug: '201911180656-data-forever-home'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1196200493099311104'

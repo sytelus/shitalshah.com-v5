@@ -3,6 +3,8 @@ title: 'LLaMA Express: From Zero to ChatGPT in 3 Hours'
 draft: false
 date: 2023-03-14T08:34:12+00:00
 slug: '202303140834-llama-express-zero-to-chatgpt'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1635454246828281857'

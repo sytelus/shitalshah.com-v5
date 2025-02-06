@@ -3,6 +3,8 @@ title: 'detect_anomaly(True): The Hidden PyTorch Performance Killer'
 draft: false
 date: 2019-12-14T12:52:27+00:00
 slug: '201912141252-set-detect-anomaly-pytorch-performance'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1205712131577892864'

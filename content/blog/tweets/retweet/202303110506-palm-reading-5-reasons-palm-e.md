@@ -3,6 +3,8 @@ title: 'Palm Reading: 5 Reasons PaLM-E Will Blow Your Mind'
 draft: true
 date: 2023-03-11T05:06:51+00:00
 slug: '202303110506-palm-reading-5-reasons-palm-e'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1634299803172737027'

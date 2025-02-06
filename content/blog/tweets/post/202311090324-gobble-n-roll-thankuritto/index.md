@@ -3,6 +3,8 @@ title: 'Gobble ''n'' Roll: The Thankuritto Is Here'
 draft: false
 date: 2023-11-09T03:24:40+00:00
 slug: '202311090324-gobble-n-roll-thankuritto'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1722334339491615229'

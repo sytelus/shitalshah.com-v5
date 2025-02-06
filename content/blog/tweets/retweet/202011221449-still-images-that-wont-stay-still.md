@@ -3,6 +3,8 @@ title: 'Still Images That Won''t Stay Still'
 draft: true
 date: 2020-11-22T14:49:08+00:00
 slug: '202011221449-still-images-that-wont-stay-still'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1330402919015804929'

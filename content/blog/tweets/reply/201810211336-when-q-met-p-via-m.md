@@ -3,6 +3,8 @@ title: 'When Q Met P via M: An Explainability Love Story'
 draft: true
 date: 2018-10-21T13:36:57+00:00
 slug: '201810211336-when-q-met-p-via-m'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1053897914483826689'

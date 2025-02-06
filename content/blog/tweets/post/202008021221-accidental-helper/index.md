@@ -3,6 +3,8 @@ title: 'The Accidental Helper: My Notes, Their Thanks'
 draft: false
 date: 2020-08-02T12:21:20+00:00
 slug: '202008021221-accidental-helper'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1289793383171362816'

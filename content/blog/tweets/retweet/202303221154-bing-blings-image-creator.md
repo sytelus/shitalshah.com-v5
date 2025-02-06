@@ -3,6 +3,8 @@ title: 'Bing Blings: Image Creator Hits the Edge'
 draft: true
 date: 2023-03-22T11:54:51+00:00
 slug: '202303221154-bing-blings-image-creator'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1638403843657723904'

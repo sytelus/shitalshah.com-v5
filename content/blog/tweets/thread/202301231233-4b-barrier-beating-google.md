@@ -3,6 +3,8 @@ title: 'The $4B Barrier to Beating Google'
 draft: false
 date: 2023-01-23T12:33:14+00:00
 slug: '202301231233-4b-barrier-beating-google'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1617379910074654722'

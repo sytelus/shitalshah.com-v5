@@ -3,6 +3,8 @@ title: 'Even Tech Celebs Were Once Scruffy Nobodies'
 draft: true
 date: 2019-01-11T21:05:49+00:00
 slug: '201901112105-scruffy-to-tech-celeb'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1083711580498317312'

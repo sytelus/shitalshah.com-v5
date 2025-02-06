@@ -3,6 +3,8 @@ title: 'Elon, Let''s Break the 5K Follow Barrier!'
 draft: true
 date: 2022-11-10T02:30:18+00:00
 slug: '202211100230-elon-5000-follow-barrier'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1590411473540743168'

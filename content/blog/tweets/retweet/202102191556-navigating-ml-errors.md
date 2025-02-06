@@ -3,6 +3,8 @@ title: 'Lost in Computation: Navigating Machine Learning Errors'
 draft: true
 date: 2021-02-19T15:56:30+00:00
 slug: '202102191556-navigating-ml-errors'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1362672392460361729'

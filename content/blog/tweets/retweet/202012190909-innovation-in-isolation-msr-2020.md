@@ -3,6 +3,8 @@ title: 'Innovation in Isolation: Microsoft Research 2020 Review'
 draft: true
 date: 2020-12-19T09:09:41+00:00
 slug: '202012190909-innovation-in-isolation-msr-2020'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1340101966651748353'

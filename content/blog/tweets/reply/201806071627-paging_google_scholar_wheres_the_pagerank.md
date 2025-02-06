@@ -3,6 +3,8 @@ title: 'Paging Google Scholar: Where''s the PageRank?'
 draft: true
 date: 2018-06-07T16:27:47+00:00
 slug: '201806071627-paging_google_scholar_wheres_the_pagerank'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1004656155619045377'

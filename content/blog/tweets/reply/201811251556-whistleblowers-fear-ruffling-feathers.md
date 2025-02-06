@@ -3,6 +3,8 @@ title: 'When Whistleblowers Fear Ruffling Feathers'
 draft: true
 date: 2018-11-25T15:56:00+00:00
 slug: '201811251556-whistleblowers-fear-ruffling-feathers'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1066601382306701312'

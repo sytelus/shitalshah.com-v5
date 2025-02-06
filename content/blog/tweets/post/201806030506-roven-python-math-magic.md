@@ -3,6 +3,8 @@ title: 'Roven Casts "Python" to Unlock Math Magic'
 draft: false
 date: 2018-06-03T05:06:11+00:00
 slug: '201806030506-roven-python-math-magic'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1003035073237544961'

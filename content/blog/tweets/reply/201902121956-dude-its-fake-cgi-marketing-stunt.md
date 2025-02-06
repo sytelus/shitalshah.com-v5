@@ -3,6 +3,8 @@ title: 'Dude, It''s Fake! CGI Marketing Stunt Revealed'
 draft: true
 date: 2019-02-12T19:56:18+00:00
 slug: '201902121956-dude-its-fake-cgi-marketing-stunt'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1095290497818517505'

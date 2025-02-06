@@ -3,6 +3,8 @@ title: 'Corporate Psychopaths: Snakes in Suits'
 draft: true
 date: 2010-09-08T06:19:53+00:00
 slug: '201009080619-corporate-psychopaths'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '23861632543'

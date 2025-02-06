@@ -3,6 +3,8 @@ title: 'Interns Wanted: Bridging ML and Security'
 draft: true
 date: 2019-12-21T02:58:57+00:00
 slug: '201912210258-interns-wanted-bridging-ml-security'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1208099484833501185'

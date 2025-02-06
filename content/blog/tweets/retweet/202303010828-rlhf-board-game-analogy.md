@@ -3,6 +3,8 @@ title: 'RLHF: AI Training as a Board Game'
 draft: true
 date: 2023-03-01T08:28:25+00:00
 slug: '202303010828-rlhf-board-game-analogy'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1630726648575455232'

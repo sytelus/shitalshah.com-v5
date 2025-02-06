@@ -3,6 +3,8 @@ title: 'LLM Tuning Goes Supernatural'
 draft: true
 date: 2023-04-12T15:03:28+00:00
 slug: '202304121503-llm-tuning-goes-supernatural'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1646061457593729028'

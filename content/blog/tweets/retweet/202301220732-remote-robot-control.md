@@ -3,6 +3,8 @@ title: '"Remote Robot Control: For Days You Don''t Feel Like It"'
 draft: true
 date: 2023-01-22T07:32:40+00:00
 slug: '202301220732-remote-robot-control'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1616941879265996801'

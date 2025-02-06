@@ -3,6 +3,8 @@ title: 'Chinchilla''s Law: AI Models Should Eat Less Data'
 draft: true
 date: 2023-01-08T11:16:02+00:00
 slug: '202301081116-chinchillas-law-ai-eat-less'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1611924663327948800'

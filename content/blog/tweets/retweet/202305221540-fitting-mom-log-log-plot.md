@@ -3,6 +3,8 @@ title: 'Fitting Mom on a Log-Log Plot'
 draft: true
 date: 2023-05-22T15:40:42+00:00
 slug: '202305221540-fitting-mom-log-log-plot'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1660566344058966016'

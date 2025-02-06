@@ -3,6 +3,8 @@ title: 'The Square Root of N: A Mean Tale'
 draft: true
 date: 2010-01-20T06:26:45+00:00
 slug: '201001200626-square-root-of-n-a-mean-tale'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '7962154864'

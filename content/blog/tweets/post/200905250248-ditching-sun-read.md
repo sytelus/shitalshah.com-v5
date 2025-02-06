@@ -3,6 +3,8 @@ title: 'Ditching the Sun for a Good Read'
 draft: true
 date: 2009-05-25T02:48:49+00:00
 slug: '200905250248-ditching-sun-read'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1905269084'

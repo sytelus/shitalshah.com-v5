@@ -3,6 +3,8 @@ title: 'Big Grok, Small Gains: Grok-1 Code Release Underwhelms'
 draft: false
 date: 2024-03-18T03:18:22+00:00
 slug: '202403180318-big-grok-small-gains'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1769458277308571676'

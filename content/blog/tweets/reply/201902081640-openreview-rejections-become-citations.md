@@ -3,6 +3,8 @@ title: 'OpenReview: When Rejections Become Citations'
 draft: true
 date: 2019-02-08T16:40:34+00:00
 slug: '201902081640-openreview-rejections-become-citations'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1093791686977740801'

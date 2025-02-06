@@ -3,6 +3,8 @@ title: 'Book Flights Early, Hotels Late: Maximize Savings'
 draft: true
 date: 2010-09-20T04:19:07+00:00
 slug: '201009200419-book-flights-early-hotels-late'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '24967573931'

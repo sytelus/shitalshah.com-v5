@@ -3,6 +3,8 @@ title: 'Blood, Sweat, and Unfair Taxes'
 draft: true
 date: 2018-12-18T07:24:50+00:00
 slug: '201812180724-blood-sweat-unfair-taxes'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1074807661277802496'

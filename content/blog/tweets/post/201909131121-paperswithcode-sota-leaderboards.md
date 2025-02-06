@@ -3,6 +3,8 @@ title: 'PapersWithCode''s Best Kept Secret: SOTA Leaderboards'
 draft: false
 date: 2019-09-13T11:21:27+00:00
 slug: '201909131121-paperswithcode-sota-leaderboards'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1172364646625374208'

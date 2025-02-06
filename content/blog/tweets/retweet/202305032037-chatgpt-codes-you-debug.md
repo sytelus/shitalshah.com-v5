@@ -3,6 +3,8 @@ title: 'ChatGPT Codes, You Debug'
 draft: true
 date: 2023-05-03T20:37:03+00:00
 slug: '202305032037-chatgpt-codes-you-debug'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1653755552705691649'

@@ -3,6 +3,8 @@ title: 'Euler''s Impossible Stroll: The Non-Causal Bridges of Königsberg'
 draft: true
 date: 2018-10-21T12:40:56+00:00
 slug: '201810211240-eulers-impossible-stroll'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1053883815293202433'

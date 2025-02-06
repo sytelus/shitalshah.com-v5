@@ -3,6 +3,8 @@ title: 'Amazon''s Glide-and-Seek Delivery Drone'
 draft: false
 date: 2019-06-08T18:27:00+00:00
 slug: '201906081827-amazons-glide-and-seek-delivery-drone'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1137320116591292416'

@@ -3,6 +3,8 @@ title: 'One Hour to Rule Them All: The Art of Paper Programming'
 draft: false
 date: 2018-03-04T05:21:47+00:00
 slug: '201803040521-one-hour-to-rule-them-all'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '970046602030104576'

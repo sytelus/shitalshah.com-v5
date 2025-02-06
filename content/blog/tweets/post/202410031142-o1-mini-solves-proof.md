@@ -3,6 +3,8 @@ title: 'Mini Model, Major Proof: o1-mini Solves It'
 draft: false
 date: 2024-10-03T11:42:07+00:00
 slug: '202410031142-o1-mini-solves-proof'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1841700233966977507'

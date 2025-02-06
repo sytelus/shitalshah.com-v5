@@ -3,6 +3,8 @@ title: 'From Waves to Wastelands: Road Trip to Burning Man'
 draft: true
 date: 2009-07-17T19:08:57+00:00
 slug: '200907171908-waves-to-wastelands-burning-man'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '2687177399'

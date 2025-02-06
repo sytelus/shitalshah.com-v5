@@ -3,6 +3,8 @@ title: 'Tango Tapas Triumph: A Delicious Evening Out'
 draft: true
 date: 2009-01-12T13:09:06+00:00
 slug: '200901121309-tango-tapas-triumph'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1112452045'

@@ -3,6 +3,8 @@ title: 'Typography 101: At Long Sans Last'
 draft: true
 date: 2010-10-01T09:07:33+00:00
 slug: '201010010907-typography-101-at-long-sans-last'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '26038389837'

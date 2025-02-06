@@ -3,6 +3,8 @@ title: 'Transformer FF Layers: Key-Value Memories Unveiled'
 draft: true
 date: 2021-01-02T13:49:23+00:00
 slug: '202101021349-transformer-ff-layers-key-value-memories'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1345245787471527937'

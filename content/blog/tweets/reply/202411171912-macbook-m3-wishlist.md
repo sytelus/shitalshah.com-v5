@@ -3,6 +3,8 @@ title: 'MacBook M3 Wishlist: CUDA, Linux, 4K OLED—Is That Too Much to Ask?'
 draft: true
 date: 2024-11-17T19:12:32+00:00
 slug: '202411171912-macbook-m3-wishlist'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1858105940714881039'

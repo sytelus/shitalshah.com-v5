@@ -3,6 +3,8 @@ title: 'Google''s Got Big Data—Literally!'
 draft: true
 date: 2010-03-01T16:36:23+00:00
 slug: '201003011636-googles-big-data'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '9816976978'

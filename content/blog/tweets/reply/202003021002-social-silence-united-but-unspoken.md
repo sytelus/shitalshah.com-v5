@@ -3,6 +3,8 @@ title: 'The ''Social'' Silence: United but Unspoken'
 draft: true
 date: 2020-03-02T10:02:37+00:00
 slug: '202003021002-social-silence-united-but-unspoken'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1234298031891079169'

@@ -3,6 +3,8 @@ title: 'Chess Engines in Slow Motion: Time for a Rematch?'
 draft: false
 date: 2024-04-14T16:41:59+00:00
 slug: '202404141641-chess-engines-slow-motion-rematch'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1779444983826985105'

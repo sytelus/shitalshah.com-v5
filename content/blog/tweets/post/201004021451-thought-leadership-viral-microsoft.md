@@ -3,6 +3,8 @@ title: 'Thought Leadership Goes Viral at Microsoft'
 draft: true
 date: 2010-04-02T14:51:45+00:00
 slug: '201004021451-thought-leadership-viral-microsoft'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '11470250297'

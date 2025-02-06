@@ -3,6 +3,8 @@ title: 'Dialing into Privilege: How Call Centers Manage Account Access'
 draft: true
 date: 2024-02-28T03:48:58+00:00
 slug: '202402280348-dialing-into-privilege'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1762565507754897495'

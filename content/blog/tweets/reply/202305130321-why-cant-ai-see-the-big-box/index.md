@@ -3,6 +3,8 @@ title: 'Why Can''t AI See the Big Box?'
 draft: true
 date: 2023-05-13T03:21:58+00:00
 slug: '202305130321-why-cant-ai-see-the-big-box'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1657118943788806145'

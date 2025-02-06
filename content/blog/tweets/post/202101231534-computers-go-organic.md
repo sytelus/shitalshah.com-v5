@@ -3,6 +3,8 @@ title: 'When Computers Go Organic: The AI Revolution'
 draft: false
 date: 2021-01-23T15:34:08+00:00
 slug: '202101231534-computers-go-organic'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1352882293346455552'

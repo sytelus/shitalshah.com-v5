@@ -3,6 +3,8 @@ title: 'Why Trees Still Leaf Deep Learning Behind'
 draft: true
 date: 2022-12-29T15:43:56+00:00
 slug: '202212291543-trees-leaf-deep-learning'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1608368203906056192'

@@ -3,6 +3,8 @@ title: 'Stacking Up: How CNNs See the Whole Picture'
 draft: true
 date: 2022-11-30T12:48:41+00:00
 slug: '202211301248-stacking-up-cnns-see-whole-picture'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1597814852382519296'

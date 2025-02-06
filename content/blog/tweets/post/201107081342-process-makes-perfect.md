@@ -3,6 +3,8 @@ title: 'Process Makes Perfect'
 draft: true
 date: 2011-07-08T13:42:44+00:00
 slug: '201107081342-process-makes-perfect'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '89222870898720768'

@@ -3,6 +3,8 @@ title: 'AI Lawyer Up: ChatGPT Passes Practice Bar Exam'
 draft: true
 date: 2022-12-11T13:06:02+00:00
 slug: '202212111306-ai-lawyer-up-chatgpt-passes-bar'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1601805486055387137'

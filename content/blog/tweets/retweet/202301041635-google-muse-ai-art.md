@@ -3,6 +3,8 @@ title: 'Google Unveils Muse: AI Art Just Got Smarter'
 draft: true
 date: 2023-01-04T16:35:48+00:00
 slug: '202301041635-google-muse-ai-art'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1610555581848489984'

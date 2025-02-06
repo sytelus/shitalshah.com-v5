@@ -3,6 +3,8 @@ title: 'Irish Grill So ''Crawded'' It Depletes Other ''Restaurents'
 draft: true
 date: 2008-12-22T08:00:07+00:00
 slug: '200812220800-irish-grill-crawded-restaurents'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1071305738'

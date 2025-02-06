@@ -3,6 +3,8 @@ title: 'Petals: Big LMs Blossom on Volunteer Devices'
 draft: true
 date: 2022-12-29T14:07:31+00:00
 slug: '202212291407-petals-lms-blossom'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1608343937751875584'

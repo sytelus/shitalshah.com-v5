@@ -3,6 +3,8 @@ title: 'Writing: Nature''s Sloppy Thought Detector'
 draft: false
 date: 2019-04-24T10:09:05+00:00
 slug: '201904241009-writing-sloppy-thoughts'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1120887355101945857'

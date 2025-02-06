@@ -3,6 +3,8 @@ title: 'Synapses vs Silicon: The 1000X Brain Advantage'
 draft: true
 date: 2023-03-26T09:05:58+00:00
 slug: '202303260905-synapses-vs-silicon'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1639810895818940417'

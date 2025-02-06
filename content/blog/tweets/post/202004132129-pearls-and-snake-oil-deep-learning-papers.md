@@ -3,6 +3,8 @@ title: 'Pearls and Snake Oil: Selling Deep Learning Papers'
 draft: false
 date: 2020-04-13T21:29:56+00:00
 slug: '202004132129-pearls-and-snake-oil-deep-learning-papers'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1249706389460541441'

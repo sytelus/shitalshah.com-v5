@@ -3,6 +3,8 @@ title: 'Math and Coding: Different Syntax, Same Logic'
 draft: true
 date: 2023-06-16T01:08:32+00:00
 slug: '202306160108-math-code-same-logic'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1669406549255815168'

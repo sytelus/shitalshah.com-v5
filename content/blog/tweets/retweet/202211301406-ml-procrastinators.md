@@ -3,6 +3,8 @@ title: 'ML''s Procrastinators: Hard Examples Learned Late'
 draft: true
 date: 2022-11-30T14:06:00+00:00
 slug: '202211301406-ml-procrastinators'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1597834311197413376'

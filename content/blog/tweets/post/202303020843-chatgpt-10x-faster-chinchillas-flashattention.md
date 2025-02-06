@@ -3,6 +3,8 @@ title: 'Chinchillas and Flashy Attention: How ChatGPT Got 10X Faster'
 draft: false
 date: 2023-03-02T08:43:54+00:00
 slug: '202303020843-chatgpt-10x-faster-chinchillas-flashattention'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1631092932920119296'

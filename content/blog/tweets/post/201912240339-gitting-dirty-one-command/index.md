@@ -3,6 +3,8 @@ title: 'Gitting Dirty: One Command to Find Them All'
 draft: false
 date: 2019-12-24T03:39:00+00:00
 slug: '201912240339-gitting-dirty-one-command'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1209196729318301696'

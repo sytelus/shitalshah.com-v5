@@ -3,6 +3,8 @@ title: 'Krishna''s Birthday Bash: The Untold Janmashtami Tale'
 draft: true
 date: 2009-08-14T14:19:05+00:00
 slug: '200908141419-janmashtami-story'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '3303688310'

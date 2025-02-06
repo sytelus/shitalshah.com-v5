@@ -3,6 +3,8 @@ title: 'Tweet on 2012-01-12T10:53:35+00:00'
 draft: true
 date: 2012-01-12T10:53:35+00:00
 slug: '201201121053'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '157294114881286145'

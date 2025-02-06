@@ -3,6 +3,8 @@ title: 'Copilot''s Price: AI Magic Comes with a Cost'
 draft: true
 date: 2022-06-23T05:06:40+00:00
 slug: '202206230506-copilot-price-ai-cost'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1539731625444970496'

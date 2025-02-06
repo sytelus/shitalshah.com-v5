@@ -3,6 +3,8 @@ title: 'Counting Craters from Your Couch'
 draft: true
 date: 2011-04-26T01:59:20+00:00
 slug: '201104260159-counting-craters-from-your-couch'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '62591540119347200'

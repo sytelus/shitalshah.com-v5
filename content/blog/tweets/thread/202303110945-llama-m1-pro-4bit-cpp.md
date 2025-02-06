@@ -3,6 +3,8 @@ title: 'LLaMA Sprints on M1 Pro: 16 Tokens/s via 4-bit C++ Magic'
 draft: false
 date: 2023-03-11T09:45:56+00:00
 slug: '202303110945-llama-m1-pro-4bit-cpp'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1634370038349303808'

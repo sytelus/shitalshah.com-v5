@@ -3,6 +3,8 @@ title: 'You Don''t Need More Knowledge, Just More Strategies'
 draft: true
 date: 2024-07-22T15:12:44+00:00
 slug: '202407221512-more-strategies'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1815298921633333298'

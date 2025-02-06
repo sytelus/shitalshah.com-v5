@@ -3,6 +3,8 @@ title: 'KL Divergence Unplugged: Coding Your Way to Cross-Entropy'
 draft: false
 date: 2019-03-14T14:46:45+00:00
 slug: '201903141446-kl-divergence-unplugged'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1106099332057522176'

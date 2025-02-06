@@ -3,6 +3,8 @@ title: 'OpenPilot: Self-Driving for $800, but Is It Safe?'
 draft: false
 date: 2019-05-13T11:14:17+00:00
 slug: '201905131114-openpilot-self-driving'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1127789136025247744'

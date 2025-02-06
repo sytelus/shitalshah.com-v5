@@ -3,6 +3,8 @@ title: 'Overfitting? Not on Their Watch!'
 draft: true
 date: 2024-10-04T15:03:07+00:00
 slug: '202410041503-overfitting-not-on-their-watch'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1842113203913777274'

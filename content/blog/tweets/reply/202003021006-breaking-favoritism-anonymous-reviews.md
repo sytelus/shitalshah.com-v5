@@ -3,6 +3,8 @@ title: 'Breaking Favoritism: Anonymous Reviews vs. Social Trust Hubs'
 draft: true
 date: 2020-03-02T10:06:00+00:00
 slug: '202003021006-breaking-favoritism-anonymous-reviews'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1234298881992609792'

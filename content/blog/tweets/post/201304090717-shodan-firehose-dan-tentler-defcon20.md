@@ -3,6 +3,8 @@ title: 'Shodan Firehose: Dan Tentler''s Caffeinated Dive at Defcon 20'
 draft: true
 date: 2013-04-09T07:17:01+00:00
 slug: '201304090717-shodan-firehose-dan-tentler-defcon20'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '321416422964203520'

@@ -3,6 +3,8 @@ title: 'New Tools, New Rules: Freeman Dyson on Science'
 draft: true
 date: 2020-12-05T20:06:45+00:00
 slug: '202012052006-freeman-dyson-new-tools'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1335193894422683648'

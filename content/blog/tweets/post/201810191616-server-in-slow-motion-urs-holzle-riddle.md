@@ -3,6 +3,8 @@ title: 'Server in Slow Motion: Solving Urs Holzle''s Riddle'
 draft: false
 date: 2018-10-19T16:16:56+00:00
 slug: '201810191616-server-in-slow-motion-urs-holzle-riddle'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1053213397704105984'

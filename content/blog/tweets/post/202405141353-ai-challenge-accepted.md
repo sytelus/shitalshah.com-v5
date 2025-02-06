@@ -3,6 +3,8 @@ title: 'AI: ''Complex'' and ''Unique''? Challenge Accepted'
 draft: false
 date: 2024-05-14T13:53:03+00:00
 slug: '202405141353-ai-challenge-accepted'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1790274109156544761'

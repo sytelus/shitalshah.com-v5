@@ -3,6 +3,8 @@ title: 'The Falcon That Flew Under the Radar'
 draft: true
 date: 2023-11-02T05:04:16+00:00
 slug: '202311020504-falcon-flew-under-radar'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1719837789448249601'

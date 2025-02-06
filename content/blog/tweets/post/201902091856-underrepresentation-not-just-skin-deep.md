@@ -3,6 +3,8 @@ title: 'Underrepresentation Isn''t Just Skin Deep'
 draft: false
 date: 2019-02-09T18:56:29+00:00
 slug: '201902091856-underrepresentation-not-just-skin-deep'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1094188280201932801'

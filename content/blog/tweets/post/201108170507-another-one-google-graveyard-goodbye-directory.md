@@ -3,6 +3,8 @@ title: 'Another One for the Google Graveyard: Goodbye Directory'
 draft: true
 date: 2011-08-17T05:07:20+00:00
 slug: '201108170507-another-one-google-graveyard-goodbye-directory'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '103588679406202880'

@@ -3,6 +3,8 @@ title: 'Theorists: Chipping Away While No One Notices'
 draft: true
 date: 2019-01-29T22:27:58+00:00
 slug: '201901292227-theorists-chipping-away'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1090255235870674945'

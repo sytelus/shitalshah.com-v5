@@ -3,6 +3,8 @@ title: 'Robots Playing Catch: The Inverted Pendulum Trick'
 draft: false
 date: 2018-12-10T11:52:40+00:00
 slug: '201812101152-robots-playing-catch-inverted-pendulum'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1071975963611656192'

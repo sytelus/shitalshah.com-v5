@@ -3,6 +3,8 @@ title: 'GroqInc''s 10 Million Challenge: Can They Deliver?'
 draft: true
 date: 2025-01-27T23:56:41+00:00
 slug: '202501272356-groqinc-10-million-challenge'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1883906985399402575'

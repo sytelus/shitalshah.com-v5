@@ -3,6 +3,8 @@ title: 'Wall Street on Capitol Hill: NYT Reports on Politicians Trading Stocks'
 draft: true
 date: 2022-09-17T18:55:11+00:00
 slug: '202209171855-wall-street-on-capitol-hill'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1571105484006125569'

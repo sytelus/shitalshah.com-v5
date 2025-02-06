@@ -3,6 +3,8 @@ title: 'PhDs: A Family Tradition'
 draft: false
 date: 2022-08-17T12:30:08+00:00
 slug: '202208171230-phd-family-tradition'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1559774557661044736'

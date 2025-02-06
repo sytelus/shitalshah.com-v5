@@ -3,6 +3,8 @@ title: 'Our Generation''s Moonshots: Like Christmas Every Day'
 draft: false
 date: 2023-03-18T02:49:26+00:00
 slug: '202303180249-moonshots-like-christmas'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1636817035899596801'

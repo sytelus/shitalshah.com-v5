@@ -3,6 +3,8 @@ title: 'Zen and the Art of Veggie Cuisine at Koya San'
 draft: true
 date: 2019-07-18T17:16:37+00:00
 slug: '201907181716-zen-veggie-cuisine-koya-san'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1151797915523829760'

@@ -3,6 +3,8 @@ title: 'Core Copycats: China''s Fake Apple Stores'
 draft: true
 date: 2011-07-22T05:05:58+00:00
 slug: '201107220505-china-fake-apple-stores'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '94166249260580864'

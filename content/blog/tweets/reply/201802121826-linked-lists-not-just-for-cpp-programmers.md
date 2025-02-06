@@ -3,6 +3,8 @@ title: 'Linked Lists: Not Just for C++ Programmers'
 draft: true
 date: 2018-02-12T18:26:09+00:00
 slug: '201802121826-linked-lists-not-just-for-cpp-programmers'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '962996238839832576'

@@ -3,6 +3,8 @@ title: 'Entropy Is Just a Log Away'
 draft: true
 date: 2023-05-19T15:38:50+00:00
 slug: '202305191538-entropy-is-just-a-log-away'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1659478708204470273'

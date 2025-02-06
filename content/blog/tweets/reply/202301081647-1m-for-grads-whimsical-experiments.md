@@ -3,6 +3,8 @@ title: 'Seeking $1M for Grad Students'' Whimsical Experiments'
 draft: true
 date: 2023-01-08T16:47:58+00:00
 slug: '202301081647-1m-for-grads-whimsical-experiments'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1612008196331409411'

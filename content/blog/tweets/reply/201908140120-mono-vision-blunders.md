@@ -3,6 +3,8 @@ title: 'Mono Vision Blunders: Scale AI''s Radarless Approach'
 draft: true
 date: 2019-08-14T01:20:54+00:00
 slug: '201908140120-mono-vision-blunders'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1161341875657179136'

@@ -3,6 +3,8 @@ title: 'No Local Tech Millionaires? No Seed Money!'
 draft: true
 date: 2020-02-01T14:12:09+00:00
 slug: '202002011412-no-local-tech-millionaires-no-seed-money'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1223489193315192832'

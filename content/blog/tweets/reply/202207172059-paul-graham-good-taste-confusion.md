@@ -3,6 +3,8 @@ title: 'Paul Graham''s Good Taste Reversed: Skill vs. Taste Confusion'
 draft: true
 date: 2022-07-17T20:59:37+00:00
 slug: '202207172059-paul-graham-good-taste-confusion'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1548668750311804929'

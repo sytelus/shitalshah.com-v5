@@ -3,6 +3,8 @@ title: 'Cloak and Diner: Waiters on Deception'
 draft: true
 date: 2015-08-27T13:11:34+00:00
 slug: '201508271311-cloak-and-diner'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '636783091495759872'

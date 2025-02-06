@@ -3,6 +3,8 @@ title: 'Tiny Datasets, Big Results: The Magic of Dataset Distillation'
 draft: true
 date: 2023-01-23T14:41:15+00:00
 slug: '202301231441-tiny-datasets-big-results'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1617412125202477056'

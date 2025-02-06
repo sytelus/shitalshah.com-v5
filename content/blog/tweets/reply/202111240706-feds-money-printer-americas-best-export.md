@@ -3,6 +3,8 @@ title: 'The Fed''s Money Printer: America''s Best Export'
 draft: true
 date: 2021-11-24T07:06:11+00:00
 slug: '202111240706-feds-money-printer-americas-best-export'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1463282761381212162'

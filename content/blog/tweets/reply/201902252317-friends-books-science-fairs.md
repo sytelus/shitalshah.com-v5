@@ -3,6 +3,8 @@ title: 'Who Needs Literate Family? Friends, Books, and Science Fairs!'
 draft: true
 date: 2019-02-25T23:17:09+00:00
 slug: '201902252317-friends-books-science-fairs'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1100052085674958852'

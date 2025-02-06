@@ -3,6 +3,8 @@ title: 'Clock Blocked: How Dennard Scaling Stalls AI Progress'
 draft: false
 date: 2022-12-11T10:21:51+00:00
 slug: '202212111021-clock-blocked-dennard-scaling'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1601764168079904768'

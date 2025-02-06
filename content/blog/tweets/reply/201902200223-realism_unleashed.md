@@ -3,6 +3,8 @@ title: 'Realism Unleashed: Embracing Diversity and Lens Flares'
 draft: true
 date: 2019-02-20T02:23:50+00:00
 slug: '201902200223-realism_unleashed'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1097924735864733696'

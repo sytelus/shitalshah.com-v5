@@ -3,6 +3,8 @@ title: 'LeCun''s DIY Peer Review Platform'
 draft: true
 date: 2020-01-07T20:29:53+00:00
 slug: '202001072029-lecun-diy-peer-review-platform'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1214524557173747712'

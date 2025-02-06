@@ -3,6 +3,8 @@ title: 'Arrows Away! Screenpresso and PicPick Hit the Mark'
 draft: true
 date: 2011-02-04T08:44:16+00:00
 slug: '201102040844-arrows-away-screenpresso-picpick'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '33324928401014784'

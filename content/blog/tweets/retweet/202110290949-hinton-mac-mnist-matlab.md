@@ -3,6 +3,8 @@ title: 'Geoff Hinton''s Mac-MNIST-MATLAB Mashup'
 draft: true
 date: 2021-10-29T09:49:37+00:00
 slug: '202110290949-hinton-mac-mnist-matlab'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1453916907090812929'

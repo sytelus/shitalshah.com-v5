@@ -3,6 +3,8 @@ title: 'Lost in Translation: The Sneaky ALT+Shift Language Switch in Windows'
 draft: true
 date: 2011-02-25T11:22:10+00:00
 slug: '201102251122-alt-shift-language-switch-windows'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '40974810095947776'

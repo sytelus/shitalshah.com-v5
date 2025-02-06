@@ -3,6 +3,8 @@ title: 'Chasing Numbers: The Trap of Goodhart''s Law'
 draft: false
 date: 2018-02-19T22:20:05+00:00
 slug: '201802192220-chasing-numbers-goodharts-law'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '965591823057121280'

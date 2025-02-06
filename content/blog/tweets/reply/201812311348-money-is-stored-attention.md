@@ -3,6 +3,8 @@ title: 'Money is Just Stored Attention'
 draft: true
 date: 2018-12-31T13:48:15+00:00
 slug: '201812311348-money-is-stored-attention'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1079615196631429121'

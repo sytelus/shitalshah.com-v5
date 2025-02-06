@@ -3,6 +3,8 @@ title: 'Physics Frenemies: Gell-Mann Roasts Feynman'
 draft: false
 date: 2020-09-22T13:54:53+00:00
 slug: '202009221354-physics-frenemies'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1308298705838120960'

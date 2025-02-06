@@ -3,6 +3,8 @@ title: 'GOAT Beats GPT-4: LLaMA''s Math Mastery'
 draft: true
 date: 2023-05-24T14:47:40+00:00
 slug: '202305241447-goat-llama-outperforms-gpt4'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1661277770138230785'

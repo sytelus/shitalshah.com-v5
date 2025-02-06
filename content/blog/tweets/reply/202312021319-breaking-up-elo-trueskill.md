@@ -3,6 +3,8 @@ title: 'Breaking up with Elo: Is TrueSkill the One?'
 draft: true
 date: 2023-12-02T13:19:05+00:00
 slug: '202312021319-breaking-up-elo-trueskill'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1730818849329815629'

@@ -3,6 +3,8 @@ title: 'Hotels, Please Wash Your Hands of Bar Soap'
 draft: true
 date: 2023-01-02T22:24:33+00:00
 slug: '202301022224-hotels-ditch-bar-soap'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1609918573757206529'

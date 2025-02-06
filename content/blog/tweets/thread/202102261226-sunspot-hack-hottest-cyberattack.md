@@ -3,6 +3,8 @@ title: 'Sunspot Hack: The Hottest Cyberattack'
 draft: false
 date: 2021-02-26T12:26:27+00:00
 slug: '202102261226-sunspot-hack-hottest-cyberattack'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1365156248631476228'

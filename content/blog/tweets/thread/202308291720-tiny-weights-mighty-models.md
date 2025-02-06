@@ -3,6 +3,8 @@ title: 'Tiny Weights, Mighty Models: The Mystery of Weight Decay'
 draft: false
 date: 2023-08-29T17:20:55+00:00
 slug: '202308291720-tiny-weights-mighty-models'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1696467961224327404'

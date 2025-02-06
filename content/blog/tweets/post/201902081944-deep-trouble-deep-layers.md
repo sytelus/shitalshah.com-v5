@@ -3,6 +3,8 @@ title: 'Deep Trouble: Deeper Layers Don''t See the Big Picture'
 draft: false
 date: 2019-02-08T19:44:47+00:00
 slug: '201902081944-deep-trouble-deep-layers'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1093838046221357056'

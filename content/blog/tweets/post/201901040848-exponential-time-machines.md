@@ -3,6 +3,8 @@ title: 'Exponential Time Machines'
 draft: false
 date: 2019-01-04T08:48:13+00:00
 slug: '201901040848-exponential-time-machines'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1080989240496775168'

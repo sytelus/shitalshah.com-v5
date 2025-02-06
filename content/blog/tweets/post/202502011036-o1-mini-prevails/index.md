@@ -3,6 +3,8 @@ title: 'When Big Models Fail, o1-mini Prevails'
 draft: false
 date: 2025-02-01T10:36:40+00:00
 slug: '202502011036-o1-mini-prevails'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1885517594268229822'

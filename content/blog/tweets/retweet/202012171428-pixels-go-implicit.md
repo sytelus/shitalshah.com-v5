@@ -3,6 +3,8 @@ title: 'Pixels Go Implicit: Learning Continuous Images Locally'
 draft: true
 date: 2020-12-17T14:28:27+00:00
 slug: '202012171428-pixels-go-implicit'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1339457413452161030'

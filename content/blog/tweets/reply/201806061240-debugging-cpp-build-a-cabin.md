@@ -3,6 +3,8 @@ title: 'Debugging C++: Build a Cabin'
 draft: true
 date: 2018-06-06T12:40:19+00:00
 slug: '201806061240-debugging-cpp-build-a-cabin'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1004236521539452928'

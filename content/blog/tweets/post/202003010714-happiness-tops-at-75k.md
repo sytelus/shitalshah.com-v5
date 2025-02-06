@@ -3,6 +3,8 @@ title: 'Money buys happiness—up to $75K, say Nobel economists'
 draft: false
 date: 2020-03-01T07:14:04+00:00
 slug: '202003010714-happiness-tops-at-75k'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1233893226462896128'

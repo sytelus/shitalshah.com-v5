@@ -3,6 +3,8 @@ title: 'Generalization? Just Ask! Eric Jang''s AI Insight'
 draft: true
 date: 2023-07-17T20:34:25+00:00
 slug: '202307172034-generalization-just-ask'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1680933978721894401'

@@ -3,6 +3,8 @@ title: 'Google''s Research Papers Make Them Look Like a Lab—Paging Microsoft!'
 draft: true
 date: 2008-03-24T12:29:19+00:00
 slug: '200803241229-google-papers-ms-envy'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '776076385'

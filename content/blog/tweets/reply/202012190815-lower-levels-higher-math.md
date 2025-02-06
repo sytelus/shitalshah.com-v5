@@ -3,6 +3,8 @@ title: 'Lower Levels, Higher Math: The Programmer''s Paradox'
 draft: true
 date: 2020-12-19T08:15:17+00:00
 slug: '202012190815-lower-levels-higher-math'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1340088276212826114'

@@ -3,6 +3,8 @@ title: 'MetaHumans: When Unreal Gets Real'
 draft: true
 date: 2021-02-11T14:45:38+00:00
 slug: '202102111445-metahumans-when-unreal-gets-real'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1359755458458734595'

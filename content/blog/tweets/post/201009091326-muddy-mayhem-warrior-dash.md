@@ -3,6 +3,8 @@ title: 'Muddy Mayhem: Warrior Dash Races Reminiscent of OTR Obstacles'
 draft: true
 date: 2010-09-09T13:26:31+00:00
 slug: '201009091326-muddy-mayhem-warrior-dash'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '23986216448'

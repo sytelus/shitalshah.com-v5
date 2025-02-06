@@ -3,6 +3,8 @@ title: 'Twitter Math: Limiting Follow Spree with max(followers, 5000)'
 draft: true
 date: 2022-11-27T18:08:11+00:00
 slug: '202211271808-twitter-math-follow-limit'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1596808092226052096'

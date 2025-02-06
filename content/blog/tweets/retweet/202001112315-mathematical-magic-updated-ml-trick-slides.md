@@ -3,6 +3,8 @@ title: 'Mathematical Magic: Updated ML Trick Slides by Frank Nielsen'
 draft: true
 date: 2020-01-11T23:15:10+00:00
 slug: '202001112315-mathematical-magic-updated-ml-trick-slides'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1216015700541657089'

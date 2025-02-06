@@ -3,6 +3,8 @@ title: 'Pillow Talk: Creative Marketing Reminiscent of Bill Gates'
 draft: false
 date: 2018-12-02T19:55:53+00:00
 slug: '201812021955-pillow-talk-creative-marketing'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1069198466767740928'

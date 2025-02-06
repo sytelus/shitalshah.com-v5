@@ -3,6 +3,8 @@ title: 'CICERO: AI''s First Negotiator'
 draft: true
 date: 2022-11-23T03:23:14+00:00
 slug: '202211230323-cicero-ai-negotiator'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1595135837234024448'

@@ -3,6 +3,8 @@ title: 'Analysts Scramble; I Sense Normalcy Returning'
 draft: false
 date: 2022-12-31T16:31:47+00:00
 slug: '202212311631-analysts-scramble-normalcy-returning'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1609105023140786176'

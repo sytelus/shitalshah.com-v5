@@ -3,6 +3,8 @@ title: 'Variance Vigilantes: Exposing Noisy Numbers'
 draft: true
 date: 2020-03-21T19:11:27+00:00
 slug: '202003211911-variance_vigilantes'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1241336619082317825'

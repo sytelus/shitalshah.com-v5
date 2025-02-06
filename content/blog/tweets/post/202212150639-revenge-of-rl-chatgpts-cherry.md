@@ -3,6 +3,8 @@ title: 'Revenge of RL: The Cherry on ChatGPT''s Cake'
 draft: false
 date: 2022-12-15T06:39:17+00:00
 slug: '202212150639-revenge-of-rl-chatgpts-cherry'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1603157707363844096'

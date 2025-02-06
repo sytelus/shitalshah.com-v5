@@ -3,6 +3,8 @@ title: 'Teaching Vectors as n-Tuples? Prepare for Ridicule!'
 draft: false
 date: 2019-03-05T18:06:06+00:00
 slug: '201903051806-vectors-not-n-tuples'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1102872910547509248'

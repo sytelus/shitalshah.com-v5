@@ -3,6 +3,8 @@ title: 'Transformception: Transformer in Transformer Beats DeiT on ImageNet'
 draft: true
 date: 2021-03-03T12:05:30+00:00
 slug: '202103031205-transformer-in-transformer-beats-deit'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1366962915408973824'

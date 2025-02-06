@@ -3,6 +3,8 @@ title: 'Mixing It Up: First Trillion-Parameter MoE Model on the Hub'
 draft: true
 date: 2022-11-17T11:16:24+00:00
 slug: '202211171116-mixing-it-up-trillion-parameter-moe-model'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1593080584804663297'

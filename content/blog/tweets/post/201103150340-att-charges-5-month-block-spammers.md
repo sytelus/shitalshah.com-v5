@@ -3,6 +3,8 @@ title: 'AT&T Charges $5/Month to Block Spammers'
 draft: true
 date: 2011-03-15T03:40:27+00:00
 slug: '201103150340-att-charges-5-month-block-spammers'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '47396697638313984'

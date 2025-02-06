@@ -3,6 +3,8 @@ title: 'HBM Heavy? Go Silicon for O(1) Inference!'
 draft: true
 date: 2024-04-22T05:15:16+00:00
 slug: '202404220515-hbm-heavy-go-silicon-inference'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1782171270354010382'

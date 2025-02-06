@@ -3,6 +3,8 @@ title: 'Coding Blind: Programming the HP 48SX Without Manuals'
 draft: false
 date: 2020-09-19T05:35:36+00:00
 slug: '202009190535-coding-blind-hp48sx'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1307085894730633216'

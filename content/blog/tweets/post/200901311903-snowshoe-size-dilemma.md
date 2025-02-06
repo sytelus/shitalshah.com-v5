@@ -3,6 +3,8 @@ title: 'Snowshoe Size Dilemma: Small Steps, Big Sinks'
 draft: true
 date: 2009-01-31T19:03:53+00:00
 slug: '200901311903-snowshoe-size-dilemma'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1164252021'

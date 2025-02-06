@@ -3,6 +3,8 @@ title: 'Eye Can''t Believe It: Blood Sugar via Iris Selfies'
 draft: false
 date: 2019-05-12T14:16:41+00:00
 slug: '201905121416-eye-cant-believe-it'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1127472650014449664'

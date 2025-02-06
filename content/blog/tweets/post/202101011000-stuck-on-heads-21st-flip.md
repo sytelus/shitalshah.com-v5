@@ -3,6 +3,8 @@ title: 'Stuck on Heads: A 21st Flip Quandary'
 draft: false
 date: 2021-01-01T10:00:39+00:00
 slug: '202101011000-stuck-on-heads-21st-flip'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1344825833630748673'

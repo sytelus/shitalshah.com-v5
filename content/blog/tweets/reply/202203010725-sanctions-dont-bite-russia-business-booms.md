@@ -3,6 +3,8 @@ title: 'When Sanctions Don''t Bite: Russia''s Business Booms Post-Crimea'
 draft: true
 date: 2022-03-01T07:25:27+00:00
 slug: '202203010725-sanctions-dont-bite-russia-business-booms'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1498439235057029122'

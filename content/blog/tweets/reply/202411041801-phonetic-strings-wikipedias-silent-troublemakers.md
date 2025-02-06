@@ -3,6 +3,8 @@ title: 'Phonetic Strings: Wikipedia''s Silent Troublemakers'
 draft: true
 date: 2024-11-04T18:01:19+00:00
 slug: '202411041801-phonetic-strings-wikipedias-silent-troublemakers'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1853376975437701278'

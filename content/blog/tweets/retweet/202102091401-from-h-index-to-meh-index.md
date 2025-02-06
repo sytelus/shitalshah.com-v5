@@ -3,6 +3,8 @@ title: 'From h-Index to ''Meh''-Index'
 draft: true
 date: 2021-02-09T14:01:13+00:00
 slug: '202102091401-from-h-index-to-meh-index'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1359019504274034689'

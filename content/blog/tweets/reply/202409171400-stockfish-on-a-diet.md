@@ -3,6 +3,8 @@ title: 'Stockfish on a Diet: 270M-Param Transformer Hits 2895 Elo'
 draft: true
 date: 2024-09-17T14:00:34+00:00
 slug: '202409171400-stockfish-on-a-diet'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1835936871572197781'

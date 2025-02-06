@@ -3,6 +3,8 @@ title: 'FedEx Feedback: Gone with the Refresh'
 draft: false
 date: 2021-03-02T05:39:00+00:00
 slug: '202103020539-fedex-feedback-gone-with-refresh'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1366503259607687171'

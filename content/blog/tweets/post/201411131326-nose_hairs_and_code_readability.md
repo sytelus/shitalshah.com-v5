@@ -3,6 +3,8 @@ title: 'Nose Hairs and Code Readability'
 draft: true
 date: 2014-11-13T13:26:03+00:00
 slug: '201411131326-nose_hairs_and_code_readability'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '532766321293811712'

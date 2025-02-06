@@ -3,6 +3,8 @@ title: 'Subscription Slayer: The Credit Card Fighting Unwanted Charges'
 draft: false
 date: 2020-02-29T02:38:51+00:00
 slug: '202002290238-subscription-slayer-credit-card'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1233461579489792000'

@@ -3,6 +3,8 @@ title: 'ChatGPT''s Memory Hole: 4096 Tokens Deep'
 draft: true
 date: 2022-12-02T12:25:10+00:00
 slug: '202212021225-chatgpt-memory-hole-4096-tokens'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1598533711317766145'

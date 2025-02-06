@@ -3,6 +3,8 @@ title: 'Don''t Skip Evals—They''re Not That Hard!'
 draft: true
 date: 2023-04-05T13:42:15+00:00
 slug: '202304051342-dont_skip_evals'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1643504304836456448'

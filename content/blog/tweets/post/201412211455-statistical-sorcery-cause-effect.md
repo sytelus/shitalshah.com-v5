@@ -3,6 +3,8 @@ title: 'Statistical Sorcery: Teasing Apart Cause and Effect'
 draft: true
 date: 2014-12-21T14:55:28+00:00
 slug: '201412211455-statistical-sorcery-cause-effect'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '546559562463973376'

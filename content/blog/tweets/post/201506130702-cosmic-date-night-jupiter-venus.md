@@ -3,6 +3,8 @@ title: 'Cosmic Date Night: Jupiter and Venus Align on June 30'
 draft: true
 date: 2015-06-13T07:02:02+00:00
 slug: '201506130702-cosmic-date-night-jupiter-venus'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '609511004980916225'

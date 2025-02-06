@@ -3,6 +3,8 @@ title: 'Imperfect Photos, Perfect Memories'
 draft: true
 date: 2019-02-19T14:50:23+00:00
 slug: '201902191450-imperfect-photos-perfect-memories'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1097750224955596800'

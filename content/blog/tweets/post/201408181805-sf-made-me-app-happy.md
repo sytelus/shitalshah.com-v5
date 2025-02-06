@@ -3,6 +3,8 @@ title: 'San Francisco Made Me App-Happy'
 draft: true
 date: 2014-08-18T18:05:06+00:00
 slug: '201408181805-sf-made-me-app-happy'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '501323900186161152'

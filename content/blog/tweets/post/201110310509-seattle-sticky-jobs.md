@@ -3,6 +3,8 @@ title: 'Seattle''s Sticky Jobs vs Silicon Valley''s Revolving Doors'
 draft: true
 date: 2011-10-31T05:09:58+00:00
 slug: '201110310509-seattle-sticky-jobs'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '130768432043016192'

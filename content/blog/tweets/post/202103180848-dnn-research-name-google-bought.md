@@ -3,6 +3,8 @@ title: 'DNN-research: The Name That Google Bought'
 draft: false
 date: 2021-03-18T08:48:33+00:00
 slug: '202103180848-dnn-research-name-google-bought'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1372364268599865344'

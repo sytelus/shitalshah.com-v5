@@ -3,6 +3,8 @@ title: 'PyTorch Gold Rush: Unearthing Distributed Debugging Tips'
 draft: false
 date: 2024-01-22T19:18:53+00:00
 slug: '202401221918-pytorch-gold-rush-debugging-tips'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1749391178511085975'

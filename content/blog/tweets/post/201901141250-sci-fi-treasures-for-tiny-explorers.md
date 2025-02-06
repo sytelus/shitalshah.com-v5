@@ -3,6 +3,8 @@ title: 'Sci-Fi Treasures for Tiny Explorers'
 draft: false
 date: 2019-01-14T12:50:03+00:00
 slug: '201901141250-sci-fi-treasures-for-tiny-explorers'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1084673976910065664'

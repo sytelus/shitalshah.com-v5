@@ -3,6 +3,8 @@ title: 'Expecting the Unexpected: Test Sets vs. Real-World Data'
 draft: true
 date: 2021-09-29T13:26:36+00:00
 slug: '202109291326-expecting-the-unexpected'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1443099874346504192'

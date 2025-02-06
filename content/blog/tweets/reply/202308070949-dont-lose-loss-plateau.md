@@ -3,6 +3,8 @@ title: 'Don''t Lose to the Loss Plateau: Schedule Learning Rate Drops'
 draft: true
 date: 2023-08-07T09:49:09+00:00
 slug: '202308070949-dont-lose-loss-plateau'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1688381735950860288'

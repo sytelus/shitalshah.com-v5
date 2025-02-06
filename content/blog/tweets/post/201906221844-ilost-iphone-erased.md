@@ -3,6 +3,8 @@ title: 'Lost: My iPhone Erased Itself'
 draft: false
 date: 2019-06-22T18:44:03+00:00
 slug: '201906221844-ilost-iphone-erased'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1142397836425928704'

@@ -3,6 +3,8 @@ title: 'Is the Universe Optimizing Something? ;)'
 draft: true
 date: 2018-12-30T18:48:04+00:00
 slug: '201812301848-is-the-universe-optimizing'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1079328257705598977'

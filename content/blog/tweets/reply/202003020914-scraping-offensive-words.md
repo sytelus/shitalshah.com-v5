@@ -3,6 +3,8 @@ title: 'Scraping Offensive Words: Easier Than Swearing'
 draft: true
 date: 2020-03-02T09:14:43+00:00
 slug: '202003020914-scraping-offensive-words'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1234285979055247360'

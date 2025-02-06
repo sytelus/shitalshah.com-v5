@@ -3,6 +3,8 @@ title: 'Sonnet 3.5 Outsmarts Sus'
 draft: true
 date: 2024-08-10T00:16:29+00:00
 slug: '202408100016-sonnet-35-outsmarts-sus'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1821958741643948244'

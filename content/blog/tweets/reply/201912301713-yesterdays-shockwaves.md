@@ -3,6 +3,8 @@ title: 'Yesterday''s Shockwaves, Today''s Echoes'
 draft: true
 date: 2019-12-30T17:13:06+00:00
 slug: '201912301713-yesterdays-shockwaves'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1211575928586792965'

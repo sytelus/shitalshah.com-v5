@@ -3,6 +3,8 @@ title: 'MSFT''s Creative Spin on GPT-4 Evaluation'
 draft: true
 date: 2023-03-23T09:39:32+00:00
 slug: '202303230939-msft_gpt4_eval_creativity'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1638732179894304769'

@@ -3,6 +3,8 @@ title: 'Lex Marks the Spot: AI-Powered Writing'
 draft: true
 date: 2022-10-18T13:57:20+00:00
 slug: '202210181357-lex-marks-the-spot'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1582264550015258624'

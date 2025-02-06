@@ -3,6 +3,8 @@ title: 'Still Seeing Four Lights: My Favorite TNG Episode'
 draft: false
 date: 2018-06-17T10:06:06+00:00
 slug: '201806171006-still-seeing-four-lights'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1008183980070338560'

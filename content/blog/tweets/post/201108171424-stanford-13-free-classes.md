@@ -3,6 +3,8 @@ title: 'Stanford''s Doorbuster Deal: 13 Free Classes Online!'
 draft: true
 date: 2011-08-17T14:24:59+00:00
 slug: '201108171424-stanford-13-free-classes'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '103729016023941120'

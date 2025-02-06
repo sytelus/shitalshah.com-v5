@@ -3,6 +3,8 @@ title: 'LLMs Teach Databases to Speak Human'
 draft: false
 date: 2022-12-22T08:08:03+00:00
 slug: '202212220808-llms-teach-databases-to-speak-human'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1605716763005460481'

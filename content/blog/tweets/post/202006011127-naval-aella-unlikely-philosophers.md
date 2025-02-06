@@ -3,6 +3,8 @@ title: 'Unlikely Philosophers: Tweets from Naval and Aella'
 draft: false
 date: 2020-06-01T11:27:54+00:00
 slug: '202006011127-naval-aella-unlikely-philosophers'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1267311887521165313'

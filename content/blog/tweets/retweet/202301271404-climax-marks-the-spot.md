@@ -3,6 +3,8 @@ title: 'ClimaX Marks the Spot: AI Revolution in Weather Forecasting'
 draft: true
 date: 2023-01-27T14:04:11+00:00
 slug: '202301271404-climax-marks-the-spot'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1618852350843838464'

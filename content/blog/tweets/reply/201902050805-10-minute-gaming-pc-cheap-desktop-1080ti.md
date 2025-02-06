@@ -3,6 +3,8 @@ title: '10-Minute Gaming PC: Cheap Desktop + 1080Ti'
 draft: true
 date: 2019-02-05T08:05:32+00:00
 slug: '201902050805-10-minute-gaming-pc-cheap-desktop-1080ti'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1092574909610450944'

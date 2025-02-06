@@ -3,6 +3,8 @@ title: 'New Bing Outsmarts Paid ChatGPT in Math Puzzles'
 draft: false
 date: 2023-03-01T01:35:54+00:00
 slug: '202303010135-bing-outsmarts-chatgpt-math-puzzles'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1630622835000631296'

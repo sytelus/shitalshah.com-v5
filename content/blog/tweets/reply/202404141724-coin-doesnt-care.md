@@ -3,6 +3,8 @@ title: '10 Tails in a Row? The Coin Doesn''t Care'
 draft: true
 date: 2024-04-14T17:24:34+00:00
 slug: '202404141724-coin-doesnt-care'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1779455699434836298'

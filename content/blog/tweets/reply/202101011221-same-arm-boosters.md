@@ -3,6 +3,8 @@ title: 'Same Arm for Boosters: Does It Boost Efficacy?'
 draft: true
 date: 2021-01-01T12:21:53+00:00
 slug: '202101011221-same-arm-boosters'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1344861376276123648'

@@ -3,6 +3,8 @@ title: 'AI Gets Hands-On: Understanding Touch'
 draft: true
 date: 2021-11-02T08:00:49+00:00
 slug: '202111020800-ai-gets-hands-on'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1455339075242577922'

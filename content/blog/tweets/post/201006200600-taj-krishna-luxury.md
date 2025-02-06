@@ -3,6 +3,8 @@ title: 'Taj Krishna: So Luxurious, You Can''t Carry Your Own Bags!'
 draft: true
 date: 2010-06-20T06:00:20+00:00
 slug: '201006200600-taj-krishna-luxury'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '16576319331'

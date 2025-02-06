@@ -3,6 +3,8 @@ title: 'Defeating the Hyperparameter Hydra: A Breakthrough in Deep Learning'
 draft: false
 date: 2023-02-15T11:18:45+00:00
 slug: '202302151118-defeating-hyperparameter-hydra'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1625696086693388288'

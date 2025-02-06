@@ -3,6 +3,8 @@ title: 'GPT Confusion? Do Science!'
 draft: true
 date: 2023-03-25T14:50:24+00:00
 slug: '202303251450-gpt-confusion-do-science'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1639535188840714241'

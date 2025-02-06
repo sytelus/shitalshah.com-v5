@@ -3,6 +3,8 @@ title: 'Self-Supervised Spectacles: Latest in Speech and Vision'
 draft: true
 date: 2021-05-23T09:43:18+00:00
 slug: '202105230943-self-supervised-spectacles'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1396295645640626179'

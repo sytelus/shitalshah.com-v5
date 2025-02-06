@@ -3,6 +3,8 @@ title: 'AMD MI250x: The Overlooked Powerhouse Outsmarting A100'
 draft: false
 date: 2023-03-29T07:01:44+00:00
 slug: '202303290701-amd-mi250x-overlooked-powerhouse'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1640866795446996993'

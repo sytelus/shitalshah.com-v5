@@ -3,6 +3,8 @@ title: 'Co-Authors Should Get It Free: My T-Shirt Now On Sale'
 draft: false
 date: 2018-09-09T14:46:58+00:00
 slug: '201809091446-co-authors-should-get-it-free'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1038695242457731072'

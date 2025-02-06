@@ -3,6 +3,8 @@ title: 'Tesla Stock: The World''s Sneakiest Space Program'
 draft: false
 date: 2020-12-19T14:45:48+00:00
 slug: '202012191445-tesla-stock-sneaky-space-program'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1340186552400367616'

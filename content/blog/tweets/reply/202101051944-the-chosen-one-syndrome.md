@@ -3,6 +3,8 @@ title: 'The Chosen One Syndrome: Why Superheroes Will Never Die'
 draft: true
 date: 2021-01-05T19:44:58+00:00
 slug: '202101051944-the-chosen-one-syndrome'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1346422435906666497'

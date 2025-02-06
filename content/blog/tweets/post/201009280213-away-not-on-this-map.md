@@ -3,6 +3,8 @@ title: 'Away? Not on This Map'
 draft: true
 date: 2010-09-28T02:13:37+00:00
 slug: '201009280213-away-not-on-this-map'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '25713361215'

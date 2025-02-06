@@ -3,6 +3,8 @@ title: 'ML Models: Giant Equations Turning Numbers Into Numbers'
 draft: true
 date: 2021-03-31T13:09:02+00:00
 slug: '202103311309-ml-models-giant-equations'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1377140864489717769'

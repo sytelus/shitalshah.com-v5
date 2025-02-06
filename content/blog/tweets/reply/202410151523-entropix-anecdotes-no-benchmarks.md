@@ -3,6 +3,8 @@ title: 'Entropix: Anecdotes Galore, Benchmarks No More?'
 draft: true
 date: 2024-10-15T15:23:58+00:00
 slug: '202410151523-entropix-anecdotes-no-benchmarks'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1846104716671177041'

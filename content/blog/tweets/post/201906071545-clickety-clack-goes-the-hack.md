@@ -3,6 +3,8 @@ title: 'Clickety-Clack Goes the Hack!'
 draft: false
 date: 2019-06-07T15:45:37+00:00
 slug: '201906071545-clickety-clack-goes-the-hack'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1136917113845665792'

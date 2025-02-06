@@ -3,6 +3,8 @@ title: 'DeepMind''s AI Soccer Bots Score Big Without Communication!'
 draft: true
 date: 2022-12-17T16:42:41+00:00
 slug: '202212171642-deepmind-ai-soccer-bots'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1604034335052812290'

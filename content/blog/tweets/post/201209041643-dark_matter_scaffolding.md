@@ -3,6 +3,8 @@ title: 'Dark Matter''s Cosmic Scaffolding Spotted!'
 draft: true
 date: 2012-09-04T16:43:29+00:00
 slug: '201209041643-dark_matter_scaffolding'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '242920810560503808'

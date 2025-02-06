@@ -3,6 +3,8 @@ title: 'Biting the C That Feeds: Anti-C Languages Written in C'
 draft: true
 date: 2021-10-14T14:09:06+00:00
 slug: '202110141409-anti-c-languages-in-c'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1448546388422234120'

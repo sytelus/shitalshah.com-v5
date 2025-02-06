@@ -3,6 +3,8 @@ title: 'AI Masters Go, Crashes in Drone Racing'
 draft: false
 date: 2019-12-11T08:13:47+00:00
 slug: '201912110813-ai-masters-go-crashes-in-drone-racing'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1204554836924157952'

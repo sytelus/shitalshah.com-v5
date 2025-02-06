@@ -3,6 +3,8 @@ title: 'When Math Gets Abstract: The 6th Grade Shift'
 draft: false
 date: 2023-07-19T11:50:57+00:00
 slug: '202307191150-math-gets-abstract-6th-grade'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1681527019086176256'

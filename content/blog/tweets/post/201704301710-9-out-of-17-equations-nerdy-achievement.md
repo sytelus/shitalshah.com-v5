@@ -3,6 +3,8 @@ title: '9 out of 17 Equations: My Nerdy Achievement Unlocked!'
 draft: true
 date: 2017-04-30T17:10:49+00:00
 slug: '201704301710-9-out-of-17-equations-nerdy-achievement'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '858624675257044992'

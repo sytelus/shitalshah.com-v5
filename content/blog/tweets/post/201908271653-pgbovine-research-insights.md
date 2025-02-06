@@ -3,6 +3,8 @@ title: 'Bumped into Brilliance: [@pgbovine](https://x.com/pgbovine)''s Research 
 draft: false
 date: 2019-08-27T16:53:48+00:00
 slug: '201908271653-pgbovine-research-insights'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1166287688497975296'

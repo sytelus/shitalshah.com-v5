@@ -3,6 +3,8 @@ title: 'No Free Lunch: When Every Algorithm Gets the Same Grade'
 draft: false
 date: 2018-02-12T17:55:13+00:00
 slug: '201802121755-no_free_lunch_algorithms'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '962988455167803392'

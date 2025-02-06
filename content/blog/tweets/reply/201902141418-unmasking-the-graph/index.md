@@ -3,6 +3,8 @@ title: 'Unmasking the Graph: When Smoothing Goes Wrong'
 draft: true
 date: 2019-02-14T14:18:52+00:00
 slug: '201902141418-unmasking-the-graph'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1095930354093805573'

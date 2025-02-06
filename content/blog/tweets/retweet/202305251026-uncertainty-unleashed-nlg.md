@@ -3,6 +3,8 @@ title: 'Uncertainty Unleashed: The Open-Ended World of NLG'
 draft: true
 date: 2023-05-25T10:26:37+00:00
 slug: '202305251026-uncertainty-unleashed-nlg'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1661574464457551872'

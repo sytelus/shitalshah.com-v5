@@ -3,6 +3,8 @@ title: 'When AI Can''t Speak Asimov: The ''Last Question'' Test'
 draft: false
 date: 2023-02-16T11:55:07+00:00
 slug: '202302161155-ai-cant-speak-asimov'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1626067627432083457'

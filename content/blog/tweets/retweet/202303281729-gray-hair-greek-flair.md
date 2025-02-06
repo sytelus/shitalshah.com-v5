@@ -3,6 +3,8 @@ title: 'Gray Hair, Greek Flair: A Film Portrait'
 draft: true
 date: 2023-03-28T17:29:51+00:00
 slug: '202303281729-gray-hair-greek-flair'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1640662478882471939'

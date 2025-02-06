@@ -3,6 +3,8 @@ title: 'Stocks Rise While Economy Crumbles: The Fed''s P/E Trickery'
 draft: false
 date: 2020-06-06T13:51:00+00:00
 slug: '202006061351-fed-pe-trickery'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1269159839311097856'

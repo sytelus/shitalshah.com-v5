@@ -3,6 +3,8 @@ title: 'No Strings Attached: Free Solo is a Gripping Must-See!'
 draft: false
 date: 2018-10-12T12:42:41+00:00
 slug: '201810121242-free-solo-gripping-must-see'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1050622763122061312'

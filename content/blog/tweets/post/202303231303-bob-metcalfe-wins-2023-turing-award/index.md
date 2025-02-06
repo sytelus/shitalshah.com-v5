@@ -3,6 +3,8 @@ title: 'Bob Metcalfe Wins 2023 Turing Award, Remains Brutally Honest'
 draft: false
 date: 2023-03-23T13:03:49+00:00
 slug: '202303231303-bob-metcalfe-wins-2023-turing-award'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1638783588778000385'

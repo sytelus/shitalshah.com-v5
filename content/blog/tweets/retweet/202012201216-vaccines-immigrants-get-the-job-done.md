@@ -3,6 +3,8 @@ title: 'Vaccines: Immigrants Get the Job Done'
 draft: true
 date: 2020-12-20T12:16:58+00:00
 slug: '202012201216-vaccines-immigrants-get-the-job-done'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1340511484552462336'

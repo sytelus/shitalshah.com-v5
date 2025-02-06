@@ -3,6 +3,8 @@ title: 'Startup Lessons from a Spectacular Fail'
 draft: true
 date: 2014-01-01T06:06:01+00:00
 slug: '201401010606-startup-lessons-fail'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '418141017439608833'

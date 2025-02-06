@@ -3,6 +3,8 @@ title: 'Don''t Foam Around: Best Detail-Oriented Mattress Brands'
 draft: true
 date: 2021-10-13T02:10:47+00:00
 slug: '202110130210-dont-foam-around-best-mattress-brands'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1448003232559554563'

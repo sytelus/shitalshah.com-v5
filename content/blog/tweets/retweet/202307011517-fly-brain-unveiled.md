@@ -3,6 +3,8 @@ title: 'Fly Brain Unveiled: The Ultimate Neuron Roadmap'
 draft: true
 date: 2023-07-01T15:17:27+00:00
 slug: '202307011517-fly-brain-unveiled'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1675056007482085376'

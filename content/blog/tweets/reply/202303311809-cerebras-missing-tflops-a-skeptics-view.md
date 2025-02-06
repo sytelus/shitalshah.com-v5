@@ -3,6 +3,8 @@ title: 'CerebrasSystems'' Missing TFlops: A Skeptic''s View'
 draft: true
 date: 2023-03-31T18:09:22+00:00
 slug: '202303311809-cerebras-missing-tflops-a-skeptics-view'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1641759587492855813'

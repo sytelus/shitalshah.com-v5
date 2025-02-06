@@ -3,6 +3,8 @@ title: 'Just a Bit Off: Two GUIDs Differing by One Bit'
 draft: true
 date: 2010-06-17T15:15:00+00:00
 slug: '201006171515-just-a-bit-off-guids'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '16373056645'

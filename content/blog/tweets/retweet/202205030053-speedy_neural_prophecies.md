@@ -3,6 +3,8 @@ title: 'Speedy Neural Prophecies: Predicting Performance in 5 Seconds'
 draft: true
 date: 2022-05-03T00:53:43+00:00
 slug: '202205030053-speedy_neural_prophecies'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1521186187112632321'

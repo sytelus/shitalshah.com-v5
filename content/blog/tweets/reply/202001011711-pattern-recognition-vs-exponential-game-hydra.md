@@ -3,6 +3,8 @@ title: 'Pattern Recognition vs. The Exponential Game Tree Hydra'
 draft: true
 date: 2020-01-01T17:11:47+00:00
 slug: '202001011711-pattern-recognition-vs-exponential-game-hydra'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1212300373681037312'

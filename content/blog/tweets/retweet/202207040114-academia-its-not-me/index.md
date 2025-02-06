@@ -3,6 +3,8 @@ title: 'Academia: It''s Not Me, It''s You'
 draft: true
 date: 2022-07-04T01:14:33+00:00
 slug: '202207040114-academia-its-not-me'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1543659475667562497'

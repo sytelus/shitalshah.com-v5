@@ -3,6 +3,8 @@ title: 'When EveryMove Goes Wrong: Unfriendly User Design'
 draft: true
 date: 2016-04-30T05:12:23+00:00
 slug: '201604300512-everymove-unfriendly-design'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '726172302581227522'

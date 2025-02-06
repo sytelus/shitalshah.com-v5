@@ -3,6 +3,8 @@ title: 'Big Bang Theory''s Clutter Challenge—Can You Spot Them All?'
 draft: false
 date: 2024-08-04T20:09:05+00:00
 slug: '202408042009-big-bang-clutter-challenge'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1820084546114904207'

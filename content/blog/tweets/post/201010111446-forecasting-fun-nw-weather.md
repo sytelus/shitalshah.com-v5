@@ -3,6 +3,8 @@ title: 'Forecasting Fun: The Science Behind NW Weather Predictions'
 draft: true
 date: 2010-10-11T14:46:11+00:00
 slug: '201010111446-forecasting-fun-nw-weather'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '27014010279'

@@ -3,6 +3,8 @@ title: 'Blind N-Gram Detection: Making Claims Without Data'
 draft: true
 date: 2024-10-15T22:17:11+00:00
 slug: '202410152217-blind-n-gram-detection'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1846208708914958348'

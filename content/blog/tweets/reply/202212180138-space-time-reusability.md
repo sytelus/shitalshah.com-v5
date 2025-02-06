@@ -3,6 +3,8 @@ title: 'Space-Time Reusability'
 draft: true
 date: 2022-12-18T01:38:27+00:00
 slug: '202212180138-space-time-reusability'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1604169166046781441'

@@ -3,6 +3,8 @@ title: 'Letting AI Learn: Resist the Urge to Correct'
 draft: true
 date: 2023-04-04T12:50:45+00:00
 slug: '202304041250-letting-ai-learn'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1643128953857802241'

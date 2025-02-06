@@ -3,6 +3,8 @@ title: 'Beam Search and Short Horizons: Time for Smarter Decoding?'
 draft: true
 date: 2023-03-27T10:14:04+00:00
 slug: '202303271014-beam_search_short_horizon'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1640190423904952326'

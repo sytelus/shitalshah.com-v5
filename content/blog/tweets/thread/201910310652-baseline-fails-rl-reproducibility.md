@@ -3,6 +3,8 @@ title: 'Baseline Fails: The Pathetic State of RL Reproducibility'
 draft: false
 date: 2019-10-31T06:52:35+00:00
 slug: '201910310652-baseline-fails-rl-reproducibility'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1189691601934663681'

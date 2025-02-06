@@ -3,6 +3,8 @@ title: 'Hip to Be Square: A Visual Proof of Pythagoras'
 draft: true
 date: 2018-10-13T15:07:13+00:00
 slug: '201810131507-hip-to-be-square'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1051021525225156609'

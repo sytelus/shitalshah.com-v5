@@ -3,6 +3,8 @@ title: 'PyTorch 1.0: Python Comforts Meet C++ Speed'
 draft: true
 date: 2019-01-26T17:14:55+00:00
 slug: '201901261714-pytorch-python-comforts-cpp-speed'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1089089288908591104'

@@ -3,6 +3,8 @@ title: 'Grok It All: The AI that Knows No Bounds'
 draft: false
 date: 2023-12-08T15:21:46+00:00
 slug: '202312081521-grok-it-all-ai-knows-no-bounds'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1733024050296004693'

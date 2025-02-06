@@ -3,6 +3,8 @@ title: 'From Command Lines to Commanding Visuals: AI''s Multimodal Jump'
 draft: false
 date: 2023-06-29T00:12:59+00:00
 slug: '202306290012-ai-multimodal-jump'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1674103611809492992'

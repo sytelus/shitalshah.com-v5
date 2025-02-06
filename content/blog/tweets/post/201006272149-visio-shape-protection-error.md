@@ -3,6 +3,8 @@ title: 'Unlocking Visio: Fixing the Shape Protection Error'
 draft: true
 date: 2010-06-27T21:49:58+00:00
 slug: '201006272149-visio-shape-protection-error'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '17169928024'

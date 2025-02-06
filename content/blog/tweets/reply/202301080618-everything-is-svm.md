@@ -3,6 +3,8 @@ title: 'Everything is SVM if You Squint Hard Enough'
 draft: true
 date: 2023-01-08T06:18:19+00:00
 slug: '202301080618-everything-is-svm'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1611849742258167809'

@@ -3,6 +3,8 @@ title: 'Waiter? No, I''ll Have Toast'
 draft: true
 date: 2023-12-04T06:07:22+00:00
 slug: '202312040607-waiter-no-toast'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1731434980159766929'

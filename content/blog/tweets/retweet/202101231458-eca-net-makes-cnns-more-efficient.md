@@ -3,6 +3,8 @@ title: 'Attention Please! ECA-Net Makes CNNs More Efficient'
 draft: true
 date: 2021-01-23T14:58:43+00:00
 slug: '202101231458-eca-net-makes-cnns-more-efficient'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1352873380802826240'

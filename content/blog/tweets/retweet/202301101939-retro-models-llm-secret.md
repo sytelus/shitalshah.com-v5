@@ -3,6 +3,8 @@ title: 'RETRO Models: LLM''s Best-Kept Secret'
 draft: true
 date: 2023-01-10T19:39:22+00:00
 slug: '202301101939-retro-models-llm-secret'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1612776106293366785'

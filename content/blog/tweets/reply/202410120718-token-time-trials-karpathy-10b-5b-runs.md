@@ -3,6 +3,8 @@ title: 'Token Time Trials: Karpathy’s 10B vs 5B Runs'
 draft: true
 date: 2024-10-12T07:18:14+00:00
 slug: '202410120718-token-time-trials-karpathy-10b-5b-runs'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1844895314970542256'

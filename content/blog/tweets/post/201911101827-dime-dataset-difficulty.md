@@ -3,6 +3,8 @@ title: 'Putting a DIME on Dataset Difficulty'
 draft: false
 date: 2019-11-10T18:27:04+00:00
 slug: '201911101827-dime-dataset-difficulty'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1193475150747815936'

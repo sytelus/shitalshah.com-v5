@@ -3,6 +3,8 @@ title: 'Default Defectors: Techies'' 2-Year Quest to Break Google''s Spell'
 draft: false
 date: 2024-11-01T21:57:07+00:00
 slug: '202411012157-default-defectors'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1852364250003747162'

@@ -3,6 +3,8 @@ title: 'You Can''t Insure a Sinking Ship'
 draft: true
 date: 2020-01-29T11:34:37+00:00
 slug: '202001291134-cant-insure-sinking-ship'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1222362385597390848'

@@ -3,6 +3,8 @@ title: 'Lexiconnecting the Dots: From Words to Concepts and Back'
 draft: true
 date: 2012-05-21T17:15:06+00:00
 slug: '201205211715-lexiconnecting-dots'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '204515655947526144'

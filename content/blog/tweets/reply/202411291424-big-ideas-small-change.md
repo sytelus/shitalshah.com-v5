@@ -3,6 +3,8 @@ title: 'Big Ideas from Small Change: How 0.75% GDP Funds Innovation'
 draft: true
 date: 2024-11-29T14:24:11+00:00
 slug: '202411291424-big-ideas-small-change'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1862382026365837396'

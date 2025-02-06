@@ -3,6 +3,8 @@ title: 'Bit Battles on 8-Way Nodes: FP8 vs INT4'
 draft: true
 date: 2024-08-08T15:11:13+00:00
 slug: '202408081511-bit-battles-fp8-vs-int4'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1821459136221208910'

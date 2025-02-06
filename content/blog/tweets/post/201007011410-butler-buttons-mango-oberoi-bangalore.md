@@ -3,6 +3,8 @@ title: 'Butler Buttons and Mango Slices: The Oberoi in Bangalore'
 draft: true
 date: 2010-07-01T14:10:55+00:00
 slug: '201007011410-butler-buttons-mango-oberoi-bangalore'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '17475903399'

@@ -3,6 +3,8 @@ title: 'Bearly There: Uncovering Subtle Wildlife Signs in the Cascades'
 draft: true
 date: 2009-01-16T14:05:16+00:00
 slug: '200901161405-bearly-there-cascades'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1123080647'

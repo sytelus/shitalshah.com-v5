@@ -3,6 +3,8 @@ title: 'Ring the Alarm: The Power of Change in Stories'
 draft: false
 date: 2018-03-17T12:49:17+00:00
 slug: '201803171249-ring-alarm-change-stories'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '974885362756599808'

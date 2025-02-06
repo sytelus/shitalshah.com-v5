@@ -3,6 +3,8 @@ title: 'Bargain Bin GPT-4: Training on a Budget'
 draft: true
 date: 2023-09-10T14:45:50+00:00
 slug: '202309101445-bargain-bin-gpt4-training-on-a-budget'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1700777585960255607'

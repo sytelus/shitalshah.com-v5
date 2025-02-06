@@ -3,6 +3,8 @@ title: 'US Taxes: Not So Taxing After All'
 draft: true
 date: 2020-08-11T11:37:42+00:00
 slug: '202008111137-us-taxes-not-so-taxing'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1293043894305738754'

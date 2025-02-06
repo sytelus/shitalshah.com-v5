@@ -3,6 +3,8 @@ title: 'GITting Ahead: New Vision-Language Models Land on HuggingFace'
 draft: true
 date: 2023-01-05T19:29:34+00:00
 slug: '202301051929-gitting-ahead-huggingface'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1610961700446175232'

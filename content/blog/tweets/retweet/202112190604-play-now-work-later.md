@@ -3,6 +3,8 @@ title: 'Play Now, Work Later: Research''s 6-Week Deadline Crunch'
 draft: true
 date: 2021-12-19T06:04:58+00:00
 slug: '202112190604-play-now-work-later'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1472327053810622464'

@@ -3,6 +3,8 @@ title: 'Too Busy to Be Brief'
 draft: true
 date: 2015-12-31T07:41:27+00:00
 slug: '201512310741-too-busy-to-be-brief'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '682345786328223744'

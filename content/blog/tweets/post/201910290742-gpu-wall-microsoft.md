@@ -3,6 +3,8 @@ title: 'When GPUs Go Wall-to-Wall at Microsoft'
 draft: false
 date: 2019-10-29T07:42:26+00:00
 slug: '201910290742-gpu-wall-microsoft'
+tags:
+  - tweets
 is_tweet: true
 tweet_info:
   id: '1188979369760509954'
