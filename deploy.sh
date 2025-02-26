@@ -9,6 +9,13 @@ hugo
 cp public.git public/.git
 
 pushd public
+git status
+read -r -p "Commit and push everything ([y]/n)? " response
+response=${response:-y}
+if [ "$response" != "y" ]; then
+    echo "Deployment aborted."
+    exit 0
+fi
 git add .
 git commit -m "deployment"
 git push
