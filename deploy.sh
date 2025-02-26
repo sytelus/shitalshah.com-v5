@@ -9,7 +9,7 @@ hugo
 cp public.git public/.git
 
 pushd public
-git diff --stat
+git status --short
 read -r -p "Commit and push everything ([y]/n)? " response
 response=${response:-y}
 if [ "$response" != "y" ]; then
