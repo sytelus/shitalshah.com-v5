@@ -1,5 +1,5 @@
 ---
-title: 'AdamW Who? A New Optimizer Steals the Show'
+title: 'New Optimizer: Muon'
 draft: false
 date: 2024-10-13T10:01:24+00:00
 slug: '202410131001-adamw-who-new-optimizer'
@@ -16,7 +16,7 @@ tweet_info:
 
 There is something beautiful and amazing happening right now. A new optimizer that is almost twice as efficient than AdamW is being born right in front of our eyes!
 
-Many people are probably rolling their eyes just reading this but this time it feels different! 🧵 
+Many people are probably rolling their eyes just reading this but this time it feels different! 🧵
 
 ![https://pbs.twimg.com/media/GZu9vzUaAAIcwkL.jpg](lIDxSWqsq2.jpg)
 
@@ -30,7 +30,7 @@ So, recently [@kellerjordan0](https://x.com/kellerjordan0) took upon speed train
 
 <https://x.com/kellerjordan0/status/1844820924195106850>
 
-The reason I am ecstatic about this is because I have always felt this is how the research should be done. 
+The reason I am ecstatic about this is because I have always felt this is how the research should be done.
 
 Even in "open" research labs, you will see too many researchers jealously guarding early ideas. The sharing only happens with close friends. There is obsession on…
 
@@ -42,7 +42,7 @@ This is truly distributed real time AI research! Within days Keller and others w
 
 In traditional AI research landscape, this feedback cycle would have taken 6+ months instead of just 6 days.
 
-Funny thing is that the optimizer wasn't even named just couple of days ago so people kept calling it "Proposed Optimizer" 😂. Finally, its named as Muon and Keller might get around to write paper some day. 
+Funny thing is that the optimizer wasn't even named just couple of days ago so people kept calling it "Proposed Optimizer" 😂. Finally, its named as Muon and Keller might get around to write paper some day.
 
 It's such as fun to see all this happen in real time.
 

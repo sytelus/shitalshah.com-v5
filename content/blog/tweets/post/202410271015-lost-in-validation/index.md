@@ -1,5 +1,5 @@
 ---
-title: 'Tricky Validation Accuracy Plot'
+title: 'Tricky Validation Plot'
 draft: false
 date: 2024-10-27T10:15:07+00:00
 slug: '202410271015-lost-in-validation'

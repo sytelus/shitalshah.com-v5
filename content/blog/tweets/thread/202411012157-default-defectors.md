@@ -1,6 +1,6 @@
 ---
 title: 'Power of Search Default'
-draft: false
+draft: true
 date: 2024-11-01T21:57:07+00:00
 slug: '202411012157-default-defectors'
 tags:

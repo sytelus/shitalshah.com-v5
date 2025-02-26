@@ -1,6 +1,6 @@
 ---
 title: 'Code in Papers'
-draft: false
+draft: true
 date: 2024-10-23T04:18:12+00:00
 slug: '202410230418-no-magic-just-code-noam-shazeer'
 tags:
