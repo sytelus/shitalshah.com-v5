@@ -1,5 +1,5 @@
 ---
-title: 'Transformer Weak Links: Tokenization and Decoding'
+title: 'Tokenization and Decoding'
 draft: false
 date: 2024-11-21T20:10:22+00:00
 slug: '202411212010-bandaids-cant-fix-transformers'

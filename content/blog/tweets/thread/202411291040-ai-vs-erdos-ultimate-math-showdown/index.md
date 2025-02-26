@@ -1,5 +1,5 @@
 ---
-title: 'Erdős has A Great Benchmark for ASI'
+title: 'Erdős Open Problems as ASI Benchmark'
 draft: false
 date: 2024-11-29T10:40:57+00:00
 slug: '202411291040-ai-vs-erdos-ultimate-math-showdown'

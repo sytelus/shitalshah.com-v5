@@ -1,5 +1,5 @@
 ---
-title: 'What did Changed with DeepSeek''s Recipe?'
+title: 'DeepSeek''s Recipe Evolution'
 draft: false
 date: 2025-01-27T23:01:25+00:00
 slug: '202501272301-deepseek-recipe-cot-2line'

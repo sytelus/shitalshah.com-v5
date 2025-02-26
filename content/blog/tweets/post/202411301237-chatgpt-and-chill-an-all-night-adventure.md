@@ -1,6 +1,6 @@
 ---
 title: 'ChatGPT and GR: An All-Night Adventure'
-draft: false
+draft: true
 date: 2024-11-30T12:37:49+00:00
 slug: '202411301237-chatgpt-and-chill-an-all-night-adventure'
 tags:

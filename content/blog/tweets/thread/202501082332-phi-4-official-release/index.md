@@ -1,5 +1,5 @@
 ---
-title: 'Phi-4 Goes Official: No More Bootlegs!'
+title: 'Phi-4 Now On HuggingFace with MIT Licence!'
 draft: false
 date: 2025-01-08T23:32:21+00:00
 slug: '202501082332-phi-4-official-release'
@@ -18,7 +18,7 @@ We have been completely amazed by the response to phi-4 release. A lot of folks 
 
 Well, wait no more. We are releasing today official phi-4 model on HuggingFace!
 
-With MIT licence!! 
+With MIT licence!!
 
 ![https://pbs.twimg.com/media/Ggx96kba8AA9Wsv.jpg](rcugWBPU4r.jpg)
 

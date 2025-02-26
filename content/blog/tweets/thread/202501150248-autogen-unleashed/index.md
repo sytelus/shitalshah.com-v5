@@ -1,6 +1,6 @@
 ---
 title: 'AutoGen Unleashed: Microsoft Supercharges Agentic Framework'
-draft: false
+draft: true
 date: 2025-01-15T02:48:45+00:00
 slug: '202501150248-autogen-unleashed'
 tags:
@@ -14,7 +14,7 @@ tweet_info:
 
 
 
-Our sister team at Microsoft Research just released huge improvements in AutoGen! This is one of the most popular open source agentic framework and now beefed up with number of great new capabilities, extensibility and completely revamped codebase!! 
+Our sister team at Microsoft Research just released huge improvements in AutoGen! This is one of the most popular open source agentic framework and now beefed up with number of great new capabilities, extensibility and completely revamped codebase!!
 
 ![https://pbs.twimg.com/media/GhRlLDDaIAA9MNB.png](KSunplgfPv.png)
 

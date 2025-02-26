@@ -1,6 +1,6 @@
 ---
 title: 'Data Efficiency with LoRA'
-draft: false
+draft: true
 date: 2024-12-04T21:41:36+00:00
 slug: '202412042141-quick-learners-humans-outpace-ai'
 tags:

@@ -1,5 +1,5 @@
 ---
-title: 'OpenCoder Uses 3X Less Data'
+title: 'OpenCoder'
 draft: false
 date: 2024-11-11T07:38:36+00:00
 slug: '202411110738-opencoder-outsmarts-stackv2'

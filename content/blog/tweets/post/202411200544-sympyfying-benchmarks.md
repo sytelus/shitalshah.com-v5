@@ -1,6 +1,6 @@
 ---
 title: 'One Neat trick in FrontierMath'
-draft: false
+draft: true
 date: 2024-11-20T05:44:03+00:00
 slug: '202411200544-sympyfying-benchmarks'
 tags:

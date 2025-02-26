@@ -1,6 +1,6 @@
 ---
 title: 'AI, Aye? Half the Folks Haven''t Tried It!'
-draft: false
+draft: true
 date: 2025-01-07T02:11:26+00:00
 slug: '202501070211-ai-aye-half-folks-havent-tried'
 tags:
@@ -22,7 +22,7 @@ Some takeaways:
 
 - people who use AI are all on free plan, ChatGPT or Copilot
 
-- a lot of people use… 
+- a lot of people use…
 
 ![https://pbs.twimg.com/media/GgoQ3ona8AA5aW8.jpg](kl5MVkUGFm.jpg)
 
