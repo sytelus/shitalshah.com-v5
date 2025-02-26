@@ -1,11 +1,12 @@
 ---
 title: 'AI Detective: Next-Word Prediction Solves Mysteries'
-draft: false
+draft: true
 date: 2023-05-20T13:21:22+00:00
 slug: '202305201321-ai-detective-next-word'
 tags:
   - tweets
 is_tweet: true
+is_retweet: true
 tweet_info:
   id: '1659806503224881153'
   type: 'post'

@@ -6,6 +6,7 @@ slug: '202410031156-ai-upgrade-doctors-confused'
 tags:
   - tweets
 is_tweet: true
+is_retweet: true
 tweet_info:
   id: '1841703809078460758'
   type: 'post'

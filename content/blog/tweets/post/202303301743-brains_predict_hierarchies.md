@@ -1,11 +1,12 @@
 ---
 title: 'Brains Predict Hierarchies—LLMs Should Too!'
-draft: false
+draft: true
 date: 2023-03-30T17:43:52+00:00
 slug: '202303301743-brains_predict_hierarchies'
 tags:
   - tweets
 is_tweet: true
+is_retweet: true
 tweet_info:
   id: '1641390780844769280'
   type: 'post'

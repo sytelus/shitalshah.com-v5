@@ -1,11 +1,12 @@
 ---
 title: 'GAN You Believe It? AI Movies in 5 Years!'
-draft: false
+draft: true
 date: 2023-03-26T16:24:41+00:00
 slug: '202303261624-gan-you-believe-it'
 tags:
   - tweets
 is_tweet: true
+is_retweet: true
 tweet_info:
   id: '1639921302046908417'
   type: 'post'

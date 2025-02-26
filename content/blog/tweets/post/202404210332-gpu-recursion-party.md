@@ -1,11 +1,12 @@
 ---
 title: 'GPU Party: Recursion Invites All Its Friends'
-draft: false
+draft: true
 date: 2024-04-21T03:32:18+00:00
 slug: '202404210332-gpu-recursion-party'
 tags:
   - tweets
 is_tweet: true
+is_retweet: true
 tweet_info:
   id: '1781782968396283990'
   type: 'post'

@@ -1,11 +1,12 @@
 ---
 title: 'The Magnificent Eight: Fixed Prompts Supercharge Small LLMs'
-draft: false
+draft: true
 date: 2023-03-01T13:46:28+00:00
 slug: '202303011346-magnificent-eight-llms'
 tags:
   - tweets
 is_tweet: true
+is_retweet: true
 tweet_info:
   id: '1630806689648885761'
   type: 'post'

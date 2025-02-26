@@ -1,11 +1,12 @@
 ---
 title: 'Bing Nails the Summary: ChatGPT Use Cases Unveiled!'
-draft: false
+draft: true
 date: 2023-03-27T10:54:56+00:00
 slug: '202303271054-bing-nails-summary-chatgpt-use-cases'
 tags:
   - tweets
 is_tweet: true
+is_retweet: true
 tweet_info:
   id: '1640200706111184896'
   type: 'post'

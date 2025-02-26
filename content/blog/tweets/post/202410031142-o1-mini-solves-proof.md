@@ -6,6 +6,7 @@ slug: '202410031142-o1-mini-solves-proof'
 tags:
   - tweets
 is_tweet: true
+is_retweet: true
 tweet_info:
   id: '1841700233966977507'
   type: 'post'

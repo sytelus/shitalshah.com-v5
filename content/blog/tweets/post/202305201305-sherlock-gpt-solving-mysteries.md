@@ -1,11 +1,12 @@
 ---
 title: 'Sherlock GPT: Solving Mysteries One Word at a Time'
-draft: false
+draft: true
 date: 2023-05-20T13:05:35+00:00
 slug: '202305201305-sherlock-gpt-solving-mysteries'
 tags:
   - tweets
 is_tweet: true
+is_retweet: true
 tweet_info:
   id: '1659802531630022656'
   type: 'post'

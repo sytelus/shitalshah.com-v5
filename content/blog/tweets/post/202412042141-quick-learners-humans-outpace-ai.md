@@ -6,6 +6,7 @@ slug: '202412042141-quick-learners-humans-outpace-ai'
 tags:
   - tweets
 is_tweet: true
+is_retweet: true
 tweet_info:
   id: '1864304047282638863'
   type: 'post'

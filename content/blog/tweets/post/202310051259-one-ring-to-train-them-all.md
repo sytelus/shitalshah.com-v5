@@ -1,11 +1,12 @@
 ---
 title: 'One Ring to Train Them All: Scaling Transformers with Ring Attention'
-draft: false
+draft: true
 date: 2023-10-05T12:59:46+00:00
 slug: '202310051259-one-ring-to-train-them-all'
 tags:
   - tweets
 is_tweet: true
+is_retweet: true
 tweet_info:
   id: '1709810589902786613'
   type: 'post'

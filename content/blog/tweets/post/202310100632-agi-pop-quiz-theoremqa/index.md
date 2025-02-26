@@ -1,11 +1,12 @@
 ---
 title: 'AGI''s Pop Quiz: TheoremQA Stumps AI'
-draft: false
+draft: true
 date: 2023-10-10T06:32:03+00:00
 slug: '202310100632-agi-pop-quiz-theoremqa'
 tags:
   - tweets
 is_tweet: true
+is_retweet: true
 tweet_info:
   id: '1711524957556216028'
   type: 'post'

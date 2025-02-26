@@ -1,11 +1,12 @@
 ---
 title: 'AI Watches YouTube, Masters Minecraft—Harder Than AlphaGo?'
-draft: false
+draft: true
 date: 2023-08-31T05:42:00+00:00
 slug: '202308310542-ai-watches-youtube-masters-minecraft'
 tags:
   - tweets
 is_tweet: true
+is_retweet: true
 tweet_info:
   id: '1697016848775303481'
   type: 'post'

@@ -1,11 +1,12 @@
 ---
 title: 'Cracking Mysteries with Next-Word Prediction'
-draft: false
+draft: true
 date: 2023-05-20T13:06:04+00:00
 slug: '202305201306-cracking-mysteries-next-word'
 tags:
   - tweets
 is_tweet: true
+is_retweet: true
 tweet_info:
   id: '1659802649875877890'
   type: 'post'

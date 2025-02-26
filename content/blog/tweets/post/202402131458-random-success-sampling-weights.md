@@ -1,11 +1,12 @@
 ---
 title: 'Random Success: When Sampling Weights Generalizes'
-draft: false
+draft: true
 date: 2024-02-13T14:58:59+00:00
 slug: '202402131458-random-success-sampling-weights'
 tags:
   - tweets
 is_tweet: true
+is_retweet: true
 tweet_info:
   id: '1757298302629114176'
   type: 'post'

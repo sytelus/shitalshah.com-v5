@@ -1,11 +1,12 @@
 ---
 title: 'Your Model''s IQ Won''t Impress LMSys'
-draft: false
+draft: true
 date: 2024-05-09T14:40:57+00:00
 slug: '202405091440-model_iq_wont_impress_lmsys'
 tags:
   - tweets
 is_tweet: true
+is_retweet: true
 tweet_info:
   id: '1788474222312103980'
   type: 'post'

@@ -1,11 +1,12 @@
 ---
 title: 'When ''C'' Speeds: GPT-2 Training Cut from 14 Hours to 90 Minutes'
-draft: false
+draft: true
 date: 2024-05-29T16:25:30+00:00
 slug: '202405291625-c-speeds-gpt2-training-90-minutes'
 tags:
   - tweets
 is_tweet: true
+is_retweet: true
 tweet_info:
   id: '1795748291692642400'
   type: 'post'

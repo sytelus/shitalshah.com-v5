@@ -1,11 +1,12 @@
 ---
 title: 'Notes from OpenAI''s o1 Developers AMA'
-draft: false
+draft: true
 date: 2024-09-16T04:39:49+00:00
 slug: '202409160439-openai-o1-outshines-gpt4o'
 tags:
   - tweets
 is_tweet: true
+is_retweet: true
 tweet_info:
   id: '1835433363882270922'
   type: 'post'

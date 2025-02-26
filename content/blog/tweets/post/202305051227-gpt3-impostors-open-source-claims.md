@@ -1,11 +1,12 @@
 ---
 title: 'The GPT-3 Impostors: Open-Source Models'' Unproven Claims'
-draft: false
+draft: true
 date: 2023-05-05T12:27:14+00:00
 slug: '202305051227-gpt3-impostors-open-source-claims'
 tags:
   - tweets
 is_tweet: true
+is_retweet: true
 tweet_info:
   id: '1654357060648325120'
   type: 'post'

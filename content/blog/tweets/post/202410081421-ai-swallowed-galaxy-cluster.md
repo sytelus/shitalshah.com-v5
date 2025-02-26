@@ -6,6 +6,7 @@ slug: '202410081421-ai-swallowed-galaxy-cluster'
 tags:
   - tweets
 is_tweet: true
+is_retweet: true
 tweet_info:
   id: '1843552281159184734'
   type: 'post'

@@ -6,6 +6,7 @@ slug: '202410051539-encoder-only-models-expressive-attention-hungry'
 tags:
   - tweets
 is_tweet: true
+is_retweet: true
 tweet_info:
   id: '1842484621642235992'
   type: 'post'
