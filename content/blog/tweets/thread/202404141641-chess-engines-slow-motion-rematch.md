@@ -14,9 +14,9 @@ tweet_info:
 
 
 
-IBM DeepBlue ran at ~11 BFLOPS while current CPUs can do 80X more FLOPS. If we consider DeepBlue ELO (2853) approximately same as modern human grandmaster ELO then I would guess that human can still beat modern chess engines if we slow them down by 80X.   1/3 <https://x.com/DavidDeutschOxf/status/1778324747853389909>
+IBM DeepBlue ran at ~11 BFLOPS while current CPUs can do 80X more FLOPS. If we consider DeepBlue ELO (2853) approximately same as modern human grandmaster ELO then I would guess that human can still beat modern chess engines if we slow them down by 80X. That's the question raised here: <https://x.com/DavidDeutschOxf/status/1778324747853389909>.
 
-I love above question because it highlights the importance of time as it relates to “better” reasoning. We often confuse better/more powerful reasoning with simply faster computation or computation with access to larger memory/scratch pad.   2/3
+I love above question because it highlights the importance of time as it relates to “better” reasoning. We often confuse better/more powerful reasoning with simply faster computation or computation with access to larger memory/scratch pad.
 
 The existential question of our times is to figure out what is reasoning, or more concretely, how do we precisely measure it in purely computational sense. A mental model I have in my mind is as follows:
 

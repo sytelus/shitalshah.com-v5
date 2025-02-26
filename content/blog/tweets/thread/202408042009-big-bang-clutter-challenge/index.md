@@ -1,5 +1,5 @@
 ---
-title: 'Things on Big Bang Theory''s Writers Table'
+title: 'Things on Big Bang Theory Writer''s Table'
 draft: false
 date: 2024-08-04T20:09:05+00:00
 slug: '202408042009-big-bang-clutter-challenge'

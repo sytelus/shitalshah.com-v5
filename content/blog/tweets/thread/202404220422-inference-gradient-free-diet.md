@@ -1,5 +1,5 @@
 ---
-title: 'Inference: When Neural Nets Go on a Gradient-Free Diet'
+title: 'Inference Memory'
 draft: false
 date: 2024-04-22T04:22:02+00:00
 slug: '202404220422-inference-gradient-free-diet'

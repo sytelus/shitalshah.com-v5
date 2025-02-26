@@ -1,6 +1,6 @@
 ---
 title: 'Tiny but Mighty: Microsoft AI''s Upcoming Release'
-draft: false
+draft: true
 date: 2024-04-23T11:53:11+00:00
 slug: '202404231153-tiny-but-mighty-microsoft-ai'
 tags:

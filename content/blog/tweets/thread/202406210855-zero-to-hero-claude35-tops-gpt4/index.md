@@ -1,6 +1,6 @@
 ---
 title: 'My GPT4-Zero Benchmark'
-draft: false
+draft: true
 date: 2024-06-21T08:55:58+00:00
 slug: '202406210855-zero-to-hero-claude35-tops-gpt4'
 tags:

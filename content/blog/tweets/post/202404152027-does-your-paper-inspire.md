@@ -1,5 +1,5 @@
 ---
-title: 'SOTA Schmota—Does Your Paper Inspire?'
+title: 'Great Papers'
 draft: false
 date: 2024-04-15T20:27:15+00:00
 slug: '202404152027-does-your-paper-inspire'

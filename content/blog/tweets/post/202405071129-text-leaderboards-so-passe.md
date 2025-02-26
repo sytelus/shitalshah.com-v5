@@ -1,6 +1,6 @@
 ---
 title: 'Text Leaderboards? So Passé—Enter Multimodal AI with Planning'
-draft: false
+draft: true
 date: 2024-05-07T11:29:38+00:00
 slug: '202405071129-text-leaderboards-so-passe'
 tags:

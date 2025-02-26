@@ -1,5 +1,5 @@
 ---
-title: 'ENIAC''s Tubular Triumph: From 200 to 10,000 Vacuum Tubes'
+title: 'ENIAC'
 draft: false
 date: 2024-04-15T19:59:24+00:00
 slug: '202404151959-eniac-tubular-triumph'
@@ -14,7 +14,7 @@ tweet_info:
 
 
 
-Some very cool facts about ENIAC, the first general purpose electronic computer from the book by Scott McCartney: 
+Some very cool facts about ENIAC, the first general purpose electronic computer from the book by Scott McCartney:
 
 Experts in 1940s believed ENIAC was impossible because vacuum tubes cannot be scaled to about 10000 needed for the circuits. Max tubes used at the time was ~200. 🧵
 

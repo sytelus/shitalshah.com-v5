@@ -1,0 +1,13 @@
+{{ if .Site.Params.homepage.showRecent | default false }}
+  <h2 class="mt-8 text-2xl font-extrabold">{{ i18n "shortcode.recent_articles" | emojify }}</h2>
+  {{ range first .Site.Params.homepage.recentLimit (.Paginate (where .Site.RegularPages "Type" "in" .Site.Params.mainSections) .Site.Params.homepage.recentLimit).Pages }}
+    {{ partial "article-link.html" . }}
+  {{ end }}
+{{ end }}
+<div class="prose dark:prose-invert">
+  <p>
+    <div class="text-xs">
+      <a href="{{ .Site.Params.recentLink | default "/articles" }}">More...</a>
+    </div>
+  </p>
+</div>

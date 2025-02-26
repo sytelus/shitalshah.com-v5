@@ -1,5 +1,5 @@
 ---
-title: 'Blazing Fast CIFAR-10 Training: 94% Accuracy in 3.29s'
+title: 'CIFAR-10 Training to 94% Accuracy in 3.29s'
 draft: false
 date: 2024-04-05T14:13:15+00:00
 slug: '202404051413-blazing-fast-cifar10-training'
