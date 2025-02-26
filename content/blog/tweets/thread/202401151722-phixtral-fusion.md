@@ -1,5 +1,5 @@
 ---
-title: 'Phixtral Fusion: Phi-2 and Pre-trained Experts Smash the Leaderboard'
+title: 'Phixtral Fusion'
 draft: false
 date: 2024-01-15T17:22:19+00:00
 slug: '202401151722-phixtral-fusion'
@@ -18,7 +18,7 @@ It’s simply amazing how OSS community is using Phi-2. Goddard figured out that
 
 Phixtral smashes the leaderboard. No extra training!! <https://x.com/maximelabonne/status/1744867841436700850>
 
-Shout out to fun article by Charles Goddard on how this strange “MoE” works. 
+Shout out to fun article by Charles Goddard on how this strange “MoE” works.
 
 Most folks will immediately realize this as ensembles with one weird trick :).
 

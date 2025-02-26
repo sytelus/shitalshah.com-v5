@@ -1,5 +1,5 @@
 ---
-title: 'Paperception: Unveiling Post-Hoc EMA Tuning'
+title: 'EMA Tuning'
 draft: false
 date: 2024-01-19T21:20:35+00:00
 slug: '202401192120-paperception-post-hoc-ema-tuning'

@@ -1,5 +1,5 @@
 ---
-title: 'A Lifetime in 1T Tokens: AI''s Human Experience'
+title: 'A Lifetime in 1T Tokens'
 draft: false
 date: 2024-02-22T12:35:39+00:00
 slug: '202402221235-lifetime-in-1t-tokens'

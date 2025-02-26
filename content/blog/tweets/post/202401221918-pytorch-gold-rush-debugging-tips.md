@@ -1,5 +1,5 @@
 ---
-title: 'PyTorch Gold Rush: Unearthing Distributed Debugging Tips'
+title: 'PyTorch Distributed Debugging Tips'
 draft: false
 date: 2024-01-22T19:18:53+00:00
 slug: '202401221918-pytorch-gold-rush-debugging-tips'
@@ -14,7 +14,7 @@ tweet_info:
 
 
 
-Literal goldmine of PyTorch distributed training debugging tips: 
+Literal goldmine of PyTorch distributed training debugging tips:
 
 <https://github.com/stas00/ml-engineering/blob/master/debug/pytorch.md>
 

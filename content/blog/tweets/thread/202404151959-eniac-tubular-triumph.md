@@ -1,5 +1,5 @@
 ---
-title: 'ENIAC'
+title: 'Marvels of ENIAC'
 draft: false
 date: 2024-04-15T19:59:24+00:00
 slug: '202404151959-eniac-tubular-triumph'

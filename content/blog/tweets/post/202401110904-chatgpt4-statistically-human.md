@@ -1,6 +1,6 @@
 ---
 title: 'ChatGPT-4 is Statistically Human'
-draft: false
+draft: true
 date: 2024-01-11T09:04:03+00:00
 slug: '202401110904-chatgpt4-statistically-human'
 tags:

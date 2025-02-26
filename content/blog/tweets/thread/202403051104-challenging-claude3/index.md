@@ -1,6 +1,6 @@
 ---
 title: 'Challenging Claude 3: Extinct Codes, Maps, and Puzzles'
-draft: false
+draft: true
 date: 2024-03-05T11:04:13+00:00
 slug: '202403051104-challenging-claude3'
 tags:
@@ -20,7 +20,7 @@ Just tried some hard prompts on Claude 3:
 - Geospatial/map knowledge in other countries with traffic patterns
 - Complex visual puzzles
 
-Overall, textual prompts many times does work better on Claude but… 
+Overall, textual prompts many times does work better on Claude but…
 
 ![https://pbs.twimg.com/media/GH30M8kaMAAEBWc.jpg](5tQqvPATM0.jpg)
 
