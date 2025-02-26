@@ -1,6 +1,6 @@
 ---
 title: 'AI Flunks SimpleBench, Teens Triumph'
-draft: false
+draft: true
 date: 2024-08-27T20:10:58+00:00
 slug: '202408272010-ai-flunks-simplebench-teens-triumph'
 tags:

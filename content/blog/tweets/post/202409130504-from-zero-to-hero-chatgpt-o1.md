@@ -1,6 +1,6 @@
 ---
-title: 'From Zero to Hero: ChatGPT o1 Scores 80%!'
-draft: false
+title: 'o1 on My Private Bench Mark'
+draft: true
 date: 2024-09-13T05:04:59+00:00
 slug: '202409130504-from-zero-to-hero-chatgpt-o1'
 tags:

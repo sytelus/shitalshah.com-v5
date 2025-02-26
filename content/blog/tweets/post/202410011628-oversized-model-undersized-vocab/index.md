@@ -1,5 +1,5 @@
 ---
-title: 'Oversized Model, Undersized Vocab'
+title: 'Vocab Scaling'
 draft: false
 date: 2024-10-01T16:28:40+00:00
 slug: '202410011628-oversized-model-undersized-vocab'
@@ -18,7 +18,7 @@ Scaling laws for vocab size: <https://arxiv.org/abs/2407.13623>
 
 This paper asserts that as model gets larger, vocab size should be getting larger. Specifically, Llama2-70B vocab size is way below optimal (32K vs 216K).
 
-However, E2E benchmark perf improvement seems underwhelming even… 
+However, E2E benchmark perf improvement seems underwhelming even…
 
 ![https://pbs.twimg.com/media/GYy3AhwbQAQdQJ3.jpg](afyR0AY2r5.jpg)
 

@@ -1,6 +1,6 @@
 ---
 title: 'Twice the FLOPs, Half the Sense: The 405B Dense Model'
-draft: false
+draft: true
 date: 2024-07-24T15:18:29+00:00
 slug: '202407241518-twice-flops-half-sense-405b-dense'
 tags:

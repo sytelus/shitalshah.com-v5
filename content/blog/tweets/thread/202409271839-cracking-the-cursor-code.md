@@ -1,5 +1,5 @@
 ---
-title: 'Cracking the Cursor Code'
+title: 'Using Cursor'
 draft: false
 date: 2024-09-27T18:39:34+00:00
 slug: '202409271839-cracking-the-cursor-code'
@@ -20,7 +20,7 @@ When you open Cursor for the first time it doesn't feel too different until you 
 
 You can now just write one line comment and press tab to generate the code!
 
-Or press Cmd+K to write instruction and generate code. 
+Or press Cmd+K to write instruction and generate code.
 
 If you want generated code only upto some point, press Cmd+right arrow to accept word-by-word.
 
@@ -28,7 +28,7 @@ In chat, type @ followed by file, folder or URL to add them in your prompt. You 
 
 One of the best feature is iterating on code via diffs! You ask AI to make some change and it generates diff for you. You apply it, run it, copy/past any errors back in chat, ask AI to fix it and keep repeating this process until you get to desired code.
 
-Another cool thing you can do is to drag and drop image in the chat and generate UX for you! 
+Another cool thing you can do is to drag and drop image in the chat and generate UX for you!
 
 Or use @ to reference URL and ask AI to use that web page for example, documentation or whatever.
 
@@ -38,4 +38,4 @@ Composer is perhaps the most interesting feature. It's a way to do multi-file ch
 
 Use Cmd+Shift+I to open Composer window. Add…
 
-I often maintain <http://TODO.md> in my projects. Now, I can add this in composer, ask AI to implement all TODOs. The best part is that you can even ask AI to update the <http://TODO.md> itself with summary of what it did! You get the diff for each file and you can… [continue reading](https://x.com/sytelus/status/1839630961572749451)
+I often maintain `TODO.md` in my projects. Now, I can add this in composer, ask AI to implement all TODOs. The best part is that you can even ask AI to update the `TODO.md` itself with summary of what it did! You get the diff for each file and you can… [continue reading](https://x.com/sytelus/status/1839630961572749451)

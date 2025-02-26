@@ -25,5 +25,12 @@ You can find a lot of my hobby projects on [GitHub](https://github.com/sytelus).
 
 You can find research papers I contributed to at [Google Scholar](https://scholar.google.co.uk/citations?user=1PEHzesAAAAJ).
 
-
 You can follow me on [twitter](https://twitter.com/sytelus) for posts mainly on deep learning code and research.
+
+##### About Site
+
+This site is made with [Hugo](https://gohugo.io/) static site generator with slighly customized [Congo theme](https://github.com/jpanther/congo). The [source code](https://github.com/sytelus/shitalshah.com-v5) for this website is available freely. This website can also be visited at https://shitalshah.com and https://sytelus.github.io/.
+
+A lot of content on this website is sourced from [my twitter account](https://x.com/sytelus). One of the goals was to move my content on Twitter/X out of its private data wall so it can be indexed and searched freely on Internet. To achieve this, I [exported](https://x.com/settings/download_your_data) my data out of Twitter and wrote [some code](https://github.com/sytelus/Tweeter2Blog) to convert it to markdown posts for this website.
+
+Happy browsing!

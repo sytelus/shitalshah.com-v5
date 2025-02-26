@@ -1,5 +1,5 @@
 ---
-title: 'From Zero to Hero: Claude-3.5 Tops GPT-4'
+title: 'My GPT4-Zero Benchmark'
 draft: false
 date: 2024-06-21T08:55:58+00:00
 slug: '202406210855-zero-to-hero-claude35-tops-gpt4'
@@ -14,14 +14,14 @@ tweet_info:
 
 
 
-So, I have 10 diverse prompts I call "GPT4-Zero" as in GPT-4-1106 gets precisely the score of 0%. 
+So, I have 10 diverse prompts I call "GPT4-Zero" as in GPT-4-1106 gets precisely the score of 0%.
 
 GPT-4o gets 20% on this set.
 Claude-3.5 Sonnet gets 30% on this set.
 
 Nicely done, [@AnthropicAI](https://x.com/AnthropicAI).
 
-Also, GSM8K is now RIP 🤯. 
+Also, GSM8K is now RIP 🤯.
 
 ![https://pbs.twimg.com/media/GQj4NJ-awAAaYdO.png](AYx9lIHy0o.png)
 

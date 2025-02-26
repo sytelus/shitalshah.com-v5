@@ -1,5 +1,5 @@
 ---
-title: 'Big Bang Theory''s Clutter Challenge—Can You Spot Them All?'
+title: 'Things on Big Bang Theory''s Writers Table'
 draft: false
 date: 2024-08-04T20:09:05+00:00
 slug: '202408042009-big-bang-clutter-challenge'
@@ -14,7 +14,7 @@ tweet_info:
 
 
 
-This is famous “writers’ table” where Big Bang Theory episodes were written. How many types of objects can GPT-4o and Claude identify with name? But before looking up answer in the thread, give it a try yourself 🧐 
+This is famous “writers’ table” where Big Bang Theory episodes were written. How many types of objects can GPT-4o and Claude identify with name? But before looking up answer in the thread, give it a try yourself 🧐
 
 ![https://pbs.twimg.com/media/GUI9PxXa0AAYz9b.jpg](7DbmQyZehb.jpg)
 

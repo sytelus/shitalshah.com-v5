@@ -1,5 +1,5 @@
 ---
-title: 'Frontier Models vs. Mathletes: The Great IMO Showdown'
+title: 'IMO 2024 Test'
 draft: false
 date: 2024-07-22T08:53:37+00:00
 slug: '202407220853-frontier-models-vs-mathletes'
@@ -14,9 +14,9 @@ tweet_info:
 
 
 
-International Math Olympiad 2024 gives us good test set for frontier models :). IMO questions only need high school level math knowledge and first one is the easiest so best humans can solve it in &lt;60 mins. Here’s that question. 
+International Math Olympiad 2024 gives us good test set for frontier models :). IMO questions only need high school level math knowledge and first one is the easiest so best humans can solve it in &lt;60 mins. Here’s that question.
 
-Any guesses how frontier models would do? 
+Any guesses how frontier models would do?
 
 ![https://pbs.twimg.com/media/GTDl-noboAAorbC.jpg](YrIacIWVnO.jpg)
 
