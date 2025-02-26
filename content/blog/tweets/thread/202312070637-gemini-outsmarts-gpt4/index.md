@@ -1,6 +1,6 @@
 ---
 title: 'Gemini Outsmarts GPT-4 When Prompted Right'
-draft: false
+draft: true
 date: 2023-12-07T06:37:49+00:00
 slug: '202312070637-gemini-outsmarts-gpt4'
 tags:
@@ -14,7 +14,7 @@ tweet_info:
 
 
 
-Gemini does win against GPT-4 with CoT@32 but not on 5-shot. This likely indicates that Gemini is inherently more powerful but somehow without proper prompting that capability doesn't get exposed. May be GPT-4 still has better IFT? Still, this is super exciting milestone! 
+Gemini does win against GPT-4 with CoT@32 but not on 5-shot. This likely indicates that Gemini is inherently more powerful but somehow without proper prompting that capability doesn't get exposed. May be GPT-4 still has better IFT? Still, this is super exciting milestone!
 
 ![https://pbs.twimg.com/media/GAsszJFaEAAvr4o.png](dfBsuShyoG.png)
 

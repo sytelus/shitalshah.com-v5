@@ -1,5 +1,5 @@
 ---
-title: 'Linear Thinking: Simple Nets Tackle Language and Math'
+title: 'Architecture vs Auto-regressive Objective'
 draft: false
 date: 2023-09-17T17:38:25+00:00
 slug: '202309171738-linear-thinking-simple-nets'

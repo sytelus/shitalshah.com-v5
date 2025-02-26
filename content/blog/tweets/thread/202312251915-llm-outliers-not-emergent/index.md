@@ -1,5 +1,5 @@
 ---
-title: 'LLM Outliers: Not So Emergent After All!'
+title: 'Large Activation Outliers'
 draft: false
 date: 2023-12-25T19:15:37+00:00
 slug: '202312251915-llm-outliers-not-emergent'
@@ -16,11 +16,11 @@ tweet_info:
 
 One surprising phenomenon for LLMs has been the large activation outliers in certain dimensions which made quantization hard but were believed to be correlated with emergent properties.
 
-Well, this paper points out that they might in fact artifacts of training choices!   1/2 
+Well, this paper points out that they might in fact artifacts of training choices!
 
 ![https://pbs.twimg.com/media/GCMIvisasAA2IFi.jpg](lhdbvHPxr4.jpg)
 
-Meanwhile, if you are practitioner, the takeaway message seems to be: use bf16, weight_decay = 0.1, dropout=0, grad_clip=1 if you want your model to be more quantization friendly.   2/2
+Meanwhile, if you are practitioner, the takeaway message seems to be: use bf16, weight_decay = 0.1, dropout=0, grad_clip=1 if you want your model to be more quantization friendly.
 
   <https://arxiv.org/abs/2305.19268>
 

@@ -1,5 +1,5 @@
 ---
-title: 'One Percent, One Week: Hinton''s Deal with Krizhevsky'
+title: 'One Percent, One Week'
 draft: false
 date: 2023-12-17T19:19:30+00:00
 slug: '202312171919-one-percent-one-week'
@@ -14,7 +14,7 @@ tweet_info:
 
 
 
-TIL: Hinton offered Alex Krizhevsky that he can delay  his 2nd year PhD reqs  by 1 week for every 1% improvement he gets on ImageNet. 
+TIL: Hinton offered Alex Krizhevsky that he can delay his 2nd year PhD reqs by 1 week for every 1% improvement he gets on ImageNet.
 
 Rest is the history :).
 

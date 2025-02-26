@@ -1,5 +1,5 @@
 ---
-title: 'Gradients Gone Wild: Loss Scaling in FP16 Training'
+title: 'Loss Scaling in FP16 Training'
 draft: false
 date: 2023-10-15T14:51:51+00:00
 slug: '202310151451-gradients-gone-wild'
@@ -14,11 +14,11 @@ tweet_info:
 
 
 
-One interesting thing about why we need loss scaling for FP16 training is rather empirical observation on nature of the gradients! If you look at training of lots of different NNs, you might find gradient distribution that looks something like this:  (mini🧵) 
+One interesting thing about why we need loss scaling for FP16 training is rather empirical observation on nature of the gradients! If you look at training of lots of different NNs, you might find gradient distribution that looks something like this:  (mini🧵)
 
 ![https://pbs.twimg.com/media/F8dpr32bQAAMf9d.png](pcXrSqQjPQ.png)
 
-Above distribution shows that gradients are typically rather small, all the way to 2^-40, rarely in +ve exponent. However, smallest subnormal number that FP16 represent is just 2^-24. This means all grades below 2^-24 are completely lost! That's big loss of info compared to FP32. 
+Above distribution shows that gradients are typically rather small, all the way to 2^-40, rarely in +ve exponent. However, smallest subnormal number that FP16 represent is just 2^-24. This means all grades below 2^-24 are completely lost! That's big loss of info compared to FP32.
 
 ![https://pbs.twimg.com/media/F8duR_GbsAAz1Cl.jpg](GFyWd64Xkn.jpg)
 

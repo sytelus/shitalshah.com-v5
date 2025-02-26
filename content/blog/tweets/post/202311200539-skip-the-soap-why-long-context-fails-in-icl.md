@@ -1,6 +1,6 @@
 ---
 title: 'Skip the Soap: Why Long Context Fails in ICL'
-draft: false
+draft: true
 date: 2023-11-20T05:39:13+00:00
 slug: '202311200539-skip-the-soap-why-long-context-fails-in-icl'
 tags:

@@ -1,5 +1,5 @@
 ---
-title: 'Chess Engines in Slow Motion: Time for a Rematch?'
+title: 'Intelligence and FLOPs Efficiency'
 draft: false
 date: 2024-04-14T16:41:59+00:00
 slug: '202404141641-chess-engines-slow-motion-rematch'

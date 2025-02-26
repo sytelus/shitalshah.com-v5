@@ -1,5 +1,5 @@
 ---
-title: 'Robot on a Budget: Co-training with Cheap Hardware'
+title: 'Amazing Robotics Demo with Cheap Hardware'
 draft: false
 date: 2024-01-04T16:35:45+00:00
 slug: '202401041635-robot-on-a-budget'
@@ -14,7 +14,9 @@ tweet_info:
 
 
 
-So, this robot was made under $32k. It’s driven by a cheap laptop with a mobile 3070ti. It has 2 low res cameras on wrist and one front facing (+ proprioception from arms). Models are tiny ResNet18 backbones. The key insight is that co-training improves performance!   1/3 <https://x.com/zipengfu/status/1742602881390477771>
+So, this robot was made under $32k. It’s driven by a cheap laptop with a mobile 3070ti. It has 2 low res cameras on wrist and one front facing (+ proprioception from arms). Models are tiny ResNet18 backbones. The key insight is that co-training improves performance!
+
+{{< tweet user="zipengfu" id="1742602881390477771" >}}
 
 According to paper, imitation learning seems to be robust against randomization, for ex, different locations/attire of person. However, I am sure there are obvious and more often failure cases (for example, what if person refuses to do hi-fi or pan is turned upside down).
 

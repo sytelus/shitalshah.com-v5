@@ -1,5 +1,5 @@
 ---
-title: 'Matmul Antics: Powers of Two and Strassen''s Exile'
+title: 'Matmul and Strassen''s Algo'
 draft: false
 date: 2023-11-26T18:31:28+00:00
 slug: '202311261831-matmul-powers-two-strassen'
@@ -14,6 +14,8 @@ tweet_info:
 
 
 
-Very succinct explanation of matmul at hardware level. This should explain why strassen’s algo is never used in accelerators. Also, why you need many hyper parameters such as vocab size, number of heads etc in multiple of 2^k. <https://x.com/olafwillocx/status/1728707653772456135>
+Very succinct explanation of matmul at hardware level. This should explain why strassen’s algo is never used in accelerators. Also, why you need many hyper parameters such as vocab size, number of heads etc in multiple of 2^k.
+
+{{< tweet user="olafwillocx" id="1728707653772456135" >}}
 
 [Discussion](https://x.com/sytelus/status/1728723138379153778)

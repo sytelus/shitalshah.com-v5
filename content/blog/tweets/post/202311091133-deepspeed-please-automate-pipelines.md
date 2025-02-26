@@ -1,6 +1,6 @@
 ---
 title: 'DeepSpeed, Please Automate Those Pipelines!'
-draft: false
+draft: true
 date: 2023-11-09T11:33:03+00:00
 slug: '202311091133-deepspeed-please-automate-pipelines'
 tags:

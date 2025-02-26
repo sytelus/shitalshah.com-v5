@@ -1,5 +1,5 @@
 ---
-title: 'When Images Go Flat: MLPs Step Up'
+title: 'Scaling MLPs Paper'
 draft: false
 date: 2023-12-03T18:49:44+00:00
 slug: '202312031849-when-images-go-flat-mlps-step-up'

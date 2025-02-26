@@ -1,5 +1,5 @@
 ---
-title: 'GPT-4''s New Fitness Plan: From 25K to 2K GPUs'
+title: 'GPT-4 Training Time'
 draft: false
 date: 2024-03-19T04:00:02+00:00
 slug: '202403190400-gpt4-fitness-plan'
@@ -14,7 +14,7 @@ tweet_info:
 
 
 
-If you were to train GPT-4, 1.8T params model, 
+If you were to train GPT-4, 1.8T params model,
 
 On A100, it will take 25k A100s and take 3-5 months.
 

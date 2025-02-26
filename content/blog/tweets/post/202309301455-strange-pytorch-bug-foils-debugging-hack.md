@@ -1,6 +1,6 @@
 ---
-title: 'Strange PyTorch Bug Foils My Debugging Hack'
-draft: false
+title: 'torch.Tensor.__repr__ bug'
+draft: true
 date: 2023-09-30T14:55:50+00:00
 slug: '202309301455-strange-pytorch-bug-foils-debugging-hack'
 tags:

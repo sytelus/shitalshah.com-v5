@@ -1,5 +1,5 @@
 ---
-title: 'Model Mayhem: 23 Architectures Under the Microscope'
+title: 'Hyperparams for 23 Architectures'
 draft: false
 date: 2023-12-30T16:41:32+00:00
 slug: '202312301641-model-mayhem-23-architectures'
@@ -14,9 +14,11 @@ tweet_info:
 
 
 
-Nice collection of architecture and training parameters for 23 models in one place! 
+Nice collection of architecture and training parameters for 23 models in one place!
 
-Some observations and rant :) 🧵 <https://x.com/BlancheMinerva/status/1740365334467756267>
+Some observations and rant :) 🧵
+
+{{< tweet user="BlancheMinerva" id="1740365334467756267" >}}
 
 As someone who has spent ton of time in NAS, what bugs me the most is how little effort is spent on principled approach to find these parameters. Current sentiment that only number of params matters and arch is irrelevant has blocked the progress and done a significant damage.
 

@@ -1,5 +1,5 @@
 ---
-title: 'What''s the Universe Computing? Exploring the Thermodynamics of Prediction'
+title: 'Thermodynamics of Prediction'
 draft: false
 date: 2023-12-06T23:03:46+00:00
 slug: '202312062303-whats-the-universe-computing'

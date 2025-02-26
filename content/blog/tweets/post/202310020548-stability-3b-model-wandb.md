@@ -1,5 +1,5 @@
 ---
-title: 'Training Tidbits: Behind Stability''s New 3B Model with WandB'
+title: 'Stability''s 3B Model Training Report'
 draft: false
 date: 2023-10-02T05:48:56+00:00
 slug: '202310020548-stability-3b-model-wandb'

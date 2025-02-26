@@ -1,5 +1,5 @@
 ---
-title: 'LLMs Can''t Plan? Self-Play to the Rescue!'
+title: 'LLMs and Planning'
 draft: false
 date: 2023-11-24T19:16:46+00:00
 slug: '202311241916-llms-self-play-planning'
@@ -14,7 +14,7 @@ tweet_info:
 
 
 
-A note on recent interest on self-play/MCTS/Q* wrt LLMs. 
+A note on recent interest on self-play/MCTS/Q* wrt LLMs.
 
 I’d posted about this few times during past couple of years so it’s good to see sudden renewed interest :).
 

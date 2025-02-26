@@ -1,6 +1,6 @@
 ---
 title: 'Bard''s Unfiltered Image Chats: No Cherry-Picking!'
-draft: false
+draft: true
 date: 2023-09-26T06:08:48+00:00
 slug: '202309260608-bards-unfiltered-image-chats'
 tags:
@@ -14,7 +14,7 @@ tweet_info:
 
 
 
-What can you do with images in chat? Here is my own examples (not cherry picked) - but from Bard :) 🧵 
+What can you do with images in chat? Here is my own examples (not cherry picked) - but from Bard :) 🧵
 
 ![https://pbs.twimg.com/media/F65_ocUbEAAeGQF.png](qf48ddx2ih.png)
 

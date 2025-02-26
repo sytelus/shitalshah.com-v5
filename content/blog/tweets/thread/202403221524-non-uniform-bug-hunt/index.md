@@ -14,15 +14,15 @@ tweet_info:
 
 
 
-If you like a challenge, this is a very cute one. This bug was driving us crazy and finally hunted down after few hours of chase. 
+If you like a challenge, this is a very cute one. This bug was driving us crazy and finally hunted down after few hours of chase.
 
 See if you can figure it out 😉.
 
-The output of this code should be uniform distribution but instead it looks like in the next post.  WHY? 
+The output of this code should be uniform distribution:
 
 ![https://pbs.twimg.com/media/GJQtMGfaQAALt6Q.jpg](7p14vz0qAg.jpg)
 
-The very strange distribution: 
+...but instead it looks like this stange distribution. WHY?
 
 ![https://pbs.twimg.com/media/GJQrCxHb0AA3mpb.jpg](3yi2MaflEf.jpg)
 

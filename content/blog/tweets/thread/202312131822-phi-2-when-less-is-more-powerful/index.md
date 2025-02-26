@@ -1,5 +1,5 @@
 ---
-title: 'Phi-2: When Less Is More Powerful'
+title: 'Phi-2: Smol Is More Powerful'
 draft: false
 date: 2023-12-13T18:22:51+00:00
 slug: '202312131822-phi-2-when-less-is-more-powerful'
@@ -20,12 +20,12 @@ Welcome to Phi-2.
 
 This is something our team at Microsoft Research had been tirelessly working on and now we have more numbers comparing with Llama-7B, 13B, 70B and Gemini Nano. 👇
 
-Phi-2 is best in the class model beating models 3X of it's size and in many cases even much much larger. Phi-2 especially shines in Math and Coding: 
+Phi-2 is best in the class model beating models 3X of it's size and in many cases even much much larger. Phi-2 especially shines in Math and Coding:
 
 ![https://pbs.twimg.com/media/GBODsdIa8AA7Zox.png](hDTHNG61w1.png)
 
 Want to give Phi-2 a try? Here is how:
- 
+
 1. Go to <http://portal.azure.com>, create an account if you don't have one
 
 2. Go here: <http://aka.ms/phi2az>

@@ -1,5 +1,5 @@
 ---
-title: 'When Machines Clock In, Scarcity Clocks Out'
+title: 'Scarce to Plentiful'
 draft: false
 date: 2024-03-17T06:50:23+00:00
 slug: '202403170650-machines-clock-in-scarcity-out'
