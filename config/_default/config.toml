@@ -3,6 +3,8 @@
 # https://jpanther.github.io/congo/docs/getting-started/
 
 theme = "congo"
+# hugo compiler timeout
+timeout = 60
 
 baseURL = "https://shital.com/"
 languageCode = "en"
