@@ -18,7 +18,7 @@
         (and (.Params.showReadingTime | default (.Site.Params.article.showReadingTime | default true)) (ne .ReadingTime 0))
         (.Params.showEdit | default (.Site.Params.article.showEdit | default false))
       }}
-        <div class="mb-10 text-base text-neutral-500 dark:text-neutral-400 print:hidden">
+        <div class="mb-10 text-base text-neutral-500 dark:text-neutral-400">
           {{ partial "article-meta.html" (dict "context" . "scope" "single") }}
         </div>
       {{ end }}
