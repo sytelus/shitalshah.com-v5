@@ -1,0 +1,7 @@
+<a href="#" id="download-pdf" class="pdf-download-link" style="margin-left: 1rem;">Get PDF</a>
+<script>
+  // Set a global variable for the PDF filename using the page's slug.
+  var pdfFilename = '{{ .Slug }}.pdf';
+</script>
+{{ $script := resources.Get "js/pdf-download.js" | minify | fingerprint }}
+<script src="{{ $script.Permalink }}"></script>
