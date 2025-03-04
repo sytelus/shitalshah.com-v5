@@ -2,7 +2,7 @@
   {{- $images := .Resources.ByType "image" }}
   {{- $cover := $images.GetMatch (.Params.cover | default "*cover*") }}
   {{- $feature := $images.GetMatch (.Params.feature | default "*feature*") | default $cover }}
-  <!-- Assign the id to capture the entire article -->
+  <!-- Wrap the entire article in blog-content -->
   <article id="blog-content">
     <header class="max-w-prose">
       {{ if .Params.showBreadcrumbs | default (.Site.Params.article.showBreadcrumbs | default false) }}
@@ -17,11 +17,9 @@
         (and (.Params.showWordCount | default (.Site.Params.article.showWordCount | default false)) (ne .WordCount 0))
         (and (.Params.showReadingTime | default (.Site.Params.article.showReadingTime | default true)) (ne .ReadingTime 0))
         (.Params.showEdit | default (.Site.Params.article.showEdit | default false))
-        (partial "get-pdf.html" .)
       }}
         <div class="mb-10 text-base text-neutral-500 dark:text-neutral-400 print:hidden">
           {{ partial "article-meta.html" (dict "context" . "scope" "single") }}
-          {{ partial "get-pdf.html" . }}
         </div>
       {{ end }}
       {{ with $feature }}

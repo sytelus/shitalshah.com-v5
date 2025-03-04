@@ -27,4 +27,6 @@ googleAnalytics = "G-3GMZGGS6LX"
 [params]
 sitever = "v5.5.0"
 recentLink="/blog"
+  # [params.article]
+  #   showTaxonomies = false
 
