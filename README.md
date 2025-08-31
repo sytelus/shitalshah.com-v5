@@ -22,7 +22,7 @@ git submodule add -b stable https://github.com/sytelus/congo.git themes/congo
 
 ## How to write content
 
-Content goes in `content/blog/`. Create `.md` file and use markdowndown format ([preview](https://jpanther.github.io/congo/samples/markdown/), [source](https://github.com/sytelus/shitalshah.com-v5/blob/master/themes/congo/exampleSite/content/samples/markdown/index.md)). See adjust files in previous links to more info. Start of the markdown is called [front matter](https://jpanther.github.io/congo/docs/front-matter/).
+Content goes in `content/blog/`. Create `.md` file and use markdowndown format ([sample lost](https://jpanther.github.io/congo/samples/markdown/), [sample lost markdown](https://raw.githubusercontent.com/jpanther/congo/refs/heads/dev/exampleSite/content/samples/markdown/index.md)). Note that the start of the markdown is called [front matter](https://jpanther.github.io/congo/docs/front-matter/) where all the post metadata goes.
 
 ### Tips
 
