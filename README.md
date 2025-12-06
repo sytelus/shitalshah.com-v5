@@ -1,5 +1,19 @@
 # ShitalShah.com v5
 
+## Installing Hugo
+
+Currently, Hugo 0.146 is incompatible and the theme hasn't been updated to it, so install 0.145:
+
+```bash
+HUGO_VERSION=0.145.0
+curl -L -o /tmp/hugo.tar.gz \
+  "https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_extended_${HUGO_VERSION}_Linux-64bit.tar.gz"
+tar -xzf /tmp/hugo.tar.gz -C /tmp hugo
+install -m 755 /tmp/hugo "$HOME/.local/bin/hugo"
+hugo version
+```
+
+
 ## How to recreate this website
 
 Note: Install Hugo in linux or wsl using snap (don't use anything else because they have old versions).

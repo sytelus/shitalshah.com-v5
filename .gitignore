@@ -1,5 +1,7 @@
 # IDEs
 .idea/
+.VSCodeCounter/
+.vscode/settings.json
 
 # Hugo
 resources/
