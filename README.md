@@ -36,7 +36,21 @@ git submodule add -b stable https://github.com/sytelus/congo.git themes/congo
 
 ## How to write content
 
-Content goes in `content/blog/`. Create `.md` file and use markdowndown format ([sample](https://jpanther.github.io/congo/samples/markdown/), [sample markdown](https://raw.githubusercontent.com/jpanther/congo/refs/heads/dev/exampleSite/content/samples/markdown/index.md)). Note that the start of the markdown is called [front matter](https://jpanther.github.io/congo/docs/front-matter/) where all the post metadata goes.
+Content goes in `content/blog/`.
+
+### Hugo Approach
+
+Run the command:
+
+```bash
+hugo new content blog/my-new-post.md
+```
+
+This will create file `my-new-post.md` in folder `content/blog`. Append `YYYY-MM-dd-` to file name for consistency.
+
+### Manual Approach
+
+Create `.md` file and use markdowndown format ([sample](https://jpanther.github.io/congo/samples/markdown/), [sample markdown](https://raw.githubusercontent.com/jpanther/congo/refs/heads/dev/exampleSite/content/samples/markdown/index.md)). Note that the start of the markdown is called [front matter](https://jpanther.github.io/congo/docs/front-matter/) where all the post metadata goes. You can copy initial content from `archetypes/blog.md` template.
 
 ### Tips
 

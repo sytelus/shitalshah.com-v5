@@ -1,4 +1,4 @@
-+++
+---
 title: '{{ replace .File.ContentBaseName "-" " " | title }}'
 author: Shital Shah
 draft: true
@@ -7,7 +7,8 @@ date: '{{ .Date }}'
 slug: '{{ .File.ContentBaseName }}'
 tags:
   - Machine Learning
-+++
+
+---
 
 This is my new blog post.
 
