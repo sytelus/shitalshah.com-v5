@@ -2,6 +2,11 @@
 
 set -eu -o pipefail -o xtrace # fail if any command failes, log all commands, -o xtrace
 
+pushd public
+git checkout master
+git pull
+popd
+
 hugo
 
 # hugo removes the .git file from public/ folder so we restore it with the
@@ -9,6 +14,7 @@ hugo
 cp public.git public/.git
 
 pushd public
+git checkout master
 git status --short
 read -r -p "Commit and push everything ([y]/n)? " response
 response=${response:-y}
