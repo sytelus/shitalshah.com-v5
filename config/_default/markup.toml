@@ -6,7 +6,9 @@
   unsafe = true
 
 [highlight]
-  noClasses = false
+  codeFences = true
+  noClasses = true
+  style = "github-dark"
 
 [tableOfContents]
   startLevel = 2

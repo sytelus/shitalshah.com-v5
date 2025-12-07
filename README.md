@@ -38,6 +38,14 @@ git submodule add -b stable https://github.com/sytelus/congo.git themes/congo
 
 Content goes in `content/blog/`.
 
+### If Post has Images or Other Files
+
+For posts with images/files,
+
+1. Create a folder with the same name as file without extension in one of the below approaches.
+2. Move `.md` file in the folder and rename it to `index.md`.
+3. Put all images/files in the post folder.
+
 ### Hugo Approach
 
 Run the command:
