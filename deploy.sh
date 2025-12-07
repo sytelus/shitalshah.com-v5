@@ -32,4 +32,4 @@ git add .
 git commit -m "deployment"
 git push
 
-echo "Site generated successfully! Commit the changes in public submodule and main repo."
+echo "Site generated successfully! See if anything is dirty in repos."
