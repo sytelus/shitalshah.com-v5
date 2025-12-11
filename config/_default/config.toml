@@ -13,7 +13,8 @@ defaultContentLanguage = "en"
 enableRobotsTXT = true
 summaryLength = 0
 
-ignoreFiles = ["_archive/"]
+# Ignore archived content and tweet replies/retweets for faster builds
+ignoreFiles = ["_archive/", "content/blog/tweets/reply/", "content/blog/tweets/retweet/"]
 
 googleAnalytics = "G-3GMZGGS6LX"
 
