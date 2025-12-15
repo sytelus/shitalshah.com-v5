@@ -48,8 +48,6 @@
     </section>
     <footer class="max-w-prose pt-8 print:hidden">
       {{ partial "author.html" . }}
-      {{ partial "sharing-links.html" . }}
-      {{ partial "article-pagination.html" . }}
       {{ if .Params.showComments | default (.Site.Params.article.showComments | default false) }}
         {{ if templates.Exists "partials/comments.html" }}
           <div class="pt-3">
@@ -62,6 +60,8 @@
           {{ warnf "[CONGO] Comments are enabled for %s but no comments partial exists." .File.Path }}
         {{ end }}
       {{ end }}
+      {{ partial "sharing-links.html" . }}
+      {{ partial "article-pagination.html" . }}
     </footer>
   </article>
 {{ end }}

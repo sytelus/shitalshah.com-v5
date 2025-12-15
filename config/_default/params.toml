@@ -55,7 +55,7 @@ robots = "all"
   showTableOfContents = false
   showTaxonomies = false
   showWordCount = true
-  showComments = false # comment.html partial is missing from layouts
+  showComments = true
   sharingLinks = ["facebook", "x-twitter", "reddit", "linkedin", "email"]
 
 [list]
