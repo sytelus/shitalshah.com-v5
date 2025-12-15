@@ -110,7 +110,10 @@
           {{ partial "translations.html" (dict "ctx" . "dir" "up") }}
         </div>
       {{ end }}
-      <div class="text-sm">
+      <a href="/index.xml" target="_blank" title="RSS Feed" class="text-neutral-500 hover:text-primary-600 dark:text-neutral-400 dark:hover:text-primary-400">
+        {{- partial "icon.html" "rss" -}}
+      </a>
+      <div class="text-sm ms-2">
       {{ .Site.Params.sitever }}
       </div>
       {{/* Appearance switcher */}}
