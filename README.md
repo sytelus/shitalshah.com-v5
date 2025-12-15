@@ -34,6 +34,31 @@ git submodule add -b stable https://github.com/sytelus/congo.git themes/congo
 * The `assets/css/custom.css` added to increase font size.
 * The `static/_headers` is added to allow cross domain call to `index.json` so that search works when calling from `www.domain.com` instead of `domain.com`.
 
+### Comments (Giscus)
+
+Comments are powered by [Giscus](https://giscus.app/), which uses GitHub Discussions as the backend. Comments are stored in the [sytelus/shitalshah.com-comments](https://github.com/sytelus/shitalshah.com-comments) repository.
+
+**Key files:**
+
+* `layouts/partials/comments.html` - Contains the Giscus embed script and exclusion logic
+* `layouts/_default/single.html` - Controls where comments appear in the page layout (after content, before sharing links)
+* `config/_default/params.toml` - Global `showComments` setting under `[article]`
+
+**Configuration:**
+
+* Comments are enabled globally via `showComments = true` in `params.toml`
+* Comments are automatically hidden for:
+  * Draft posts (`draft: true` in front matter)
+  * Private posts (`private: true` in front matter)
+  * Posts in the `tweet/` subfolder
+* Per-post override: Add `showComments: false` in front matter to disable for a specific post
+* Theme follows system dark/light mode via `data-theme="preferred_color_scheme"`
+
+**To modify Giscus settings:**
+
+1. Visit [giscus.app](https://giscus.app/) to generate new configuration
+2. Update the script in `layouts/partials/comments.html`
+
 ## How to write content
 
 Content goes in `content/blog/`.
@@ -149,7 +174,6 @@ References:
 
 ## TODOs
 
-* Enable disqus
 * Enable tags in menu
 * Fix page content links, images
 * Move twitter posts
