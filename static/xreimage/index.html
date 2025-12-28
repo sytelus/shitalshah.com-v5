@@ -1,0 +1,2236 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0">
+
+    <!-- SEO Meta Tags -->
+    <title>XReImage - Free Image Resizer for X/Twitter | No Cropping, Perfect Display</title>
+    <meta name="description" content="Free online tool to resize images for X (Twitter) without awkward cropping. Runs 100% in your browser - no uploads, no login, no tracking. Open source.">
+    <meta name="keywords" content="Twitter image resizer, X image size, Twitter photo dimensions, social media image tool, free image resizer, no upload image editor, privacy-friendly, open source, 16:9 aspect ratio, tweet image optimizer">
+    <meta name="author" content="Shital Shah, Claude Code">
+    <meta name="robots" content="index, follow">
+    <meta name="language" content="English">
+    <meta name="revisit-after" content="7 days">
+
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://github.com/user/XReImage">
+    <meta property="og:title" content="XReImage - Free Image Resizer for X/Twitter">
+    <meta property="og:description" content="Resize images for perfect display on X/Twitter without cropping. 100% free, open source, runs entirely in your browser.">
+    <meta property="og:image" content="https://raw.githubusercontent.com/user/XReImage/main/preview.png">
+
+    <!-- Twitter Card -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="XReImage - Free Image Resizer for X/Twitter">
+    <meta name="twitter:description" content="Resize images for perfect display on X/Twitter without cropping. 100% free, open source, runs entirely in your browser.">
+    <meta name="twitter:image" content="https://raw.githubusercontent.com/user/XReImage/main/preview.png">
+
+    <!-- Canonical URL -->
+    <link rel="canonical" href="https://github.com/user/XReImage">
+
+    <!-- Theme Color for Mobile Browsers -->
+    <meta name="theme-color" content="#1DA1F2">
+    <meta name="msapplication-TileColor" content="#0a0a12">
+
+    <!-- Structured Data (JSON-LD) -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "WebApplication",
+        "name": "XReImage",
+        "description": "Free online tool to resize images for X (Twitter) without awkward cropping. Runs 100% in your browser.",
+        "url": "https://github.com/user/XReImage",
+        "applicationCategory": "UtilitiesApplication",
+        "operatingSystem": "Any",
+        "offers": {
+            "@type": "Offer",
+            "price": "0",
+            "priceCurrency": "USD"
+        },
+        "featureList": [
+            "Resize images for Twitter/X",
+            "Multiple aspect ratios (16:9, 1:1, 4:3)",
+            "No upload required - runs in browser",
+            "Privacy-friendly - no data collection",
+            "Open source"
+        ]
+    }
+    </script>
+    <style>
+        /*
+         * XReImage - CSS Styles
+         * A modern glassmorphism-inspired design with dark theme
+         */
+
+        /* CSS Custom Properties (Design Tokens) */
+        :root {
+            --primary: #1DA1F2;
+            --primary-hover: #1a91da;
+            --primary-glow: rgba(29, 161, 242, 0.3);
+            --success: #17bf63;
+            --warning: #ffad1f;
+            --error: #e0245e;
+
+            --bg-dark: #0a0a12;
+            --bg-gradient: linear-gradient(135deg, #0a0a12 0%, #1a1a2e 50%, #0f0f1a 100%);
+            --surface: rgba(255, 255, 255, 0.03);
+            --surface-hover: rgba(255, 255, 255, 0.06);
+            --surface-active: rgba(255, 255, 255, 0.08);
+            --border: rgba(255, 255, 255, 0.1);
+            --border-light: rgba(255, 255, 255, 0.15);
+
+            --text: #ffffff;
+            --text-secondary: rgba(255, 255, 255, 0.7);
+            --text-muted: rgba(255, 255, 255, 0.5);
+
+            --radius-sm: 8px;
+            --radius-md: 12px;
+            --radius-lg: 16px;
+            --radius-xl: 24px;
+
+            --shadow-sm: 0 2px 8px rgba(0, 0, 0, 0.3);
+            --shadow-md: 0 4px 16px rgba(0, 0, 0, 0.4);
+            --shadow-lg: 0 8px 32px rgba(0, 0, 0, 0.5);
+            --shadow-glow: 0 0 40px var(--primary-glow);
+
+            --transition: 0.2s ease;
+            --transition-slow: 0.3s ease;
+        }
+
+        /* Reset & Base Styles */
+        *, *::before, *::after {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        html {
+            font-size: 16px;
+            scroll-behavior: smooth;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, sans-serif;
+            background: var(--bg-gradient);
+            color: var(--text);
+            min-height: 100vh;
+            line-height: 1.6;
+            overflow-x: hidden;
+        }
+
+        /* Animated Background */
+        body::before {
+            content: '';
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background:
+                radial-gradient(circle at 20% 30%, rgba(29, 161, 242, 0.08) 0%, transparent 50%),
+                radial-gradient(circle at 80% 70%, rgba(23, 191, 99, 0.06) 0%, transparent 50%);
+            pointer-events: none;
+            z-index: -1;
+        }
+
+        /* Container */
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 2rem 1.5rem;
+        }
+
+        /* Header */
+        header {
+            text-align: center;
+            margin-bottom: 2.5rem;
+        }
+
+        .logo {
+            font-size: 2.5rem;
+            font-weight: 800;
+            background: linear-gradient(135deg, var(--primary) 0%, #4ecdc4 100%);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+            margin-bottom: 0.5rem;
+            letter-spacing: -1px;
+        }
+
+        .tagline {
+            color: var(--text-secondary);
+            font-size: 1.1rem;
+            max-width: 500px;
+            margin: 0 auto;
+        }
+
+        /* Glass Panel Component */
+        .glass-panel {
+            background: rgba(20, 20, 35, 0.9);
+            border: 1px solid var(--border);
+            border-radius: var(--radius-lg);
+            padding: 1.5rem;
+            transition: var(--transition);
+        }
+
+        .glass-panel:hover {
+            background: var(--surface-hover);
+            border-color: var(--border-light);
+        }
+
+        /* Drop Zone */
+        .drop-zone {
+            position: relative;
+            min-height: 200px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            gap: 1rem;
+            cursor: pointer;
+            border: 2px dashed var(--border);
+            border-radius: var(--radius-lg);
+            transition: var(--transition);
+            margin-bottom: 1.5rem;
+        }
+
+        .drop-zone:hover,
+        .drop-zone.drag-over {
+            border-color: var(--primary);
+            background: rgba(29, 161, 242, 0.05);
+        }
+
+        .drop-zone.drag-over {
+            transform: scale(1.01);
+            box-shadow: var(--shadow-glow);
+        }
+
+        .drop-zone-icon {
+            width: 64px;
+            height: 64px;
+            stroke: var(--text-muted);
+            transition: var(--transition);
+        }
+
+        .drop-zone:hover .drop-zone-icon,
+        .drop-zone.drag-over .drop-zone-icon {
+            stroke: var(--primary);
+        }
+
+        .drop-zone-text {
+            color: var(--text-secondary);
+            font-size: 1rem;
+        }
+
+        .drop-zone-hint {
+            color: var(--text-muted);
+            font-size: 0.85rem;
+        }
+
+        .drop-zone input[type="file"] {
+            position: absolute;
+            inset: 0;
+            opacity: 0;
+            cursor: pointer;
+        }
+
+        /* Preview Section */
+        .preview-section {
+            display: none;
+            margin-bottom: 1.5rem;
+        }
+
+        .preview-section.active {
+            display: block;
+        }
+
+        .preview-header {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            margin-bottom: 1rem;
+        }
+
+        .preview-title {
+            font-size: 1rem;
+            font-weight: 600;
+            color: var(--text);
+        }
+
+        .preview-dimensions {
+            font-size: 0.85rem;
+            color: var(--text-muted);
+            font-family: monospace;
+        }
+
+        .preview-container {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 1.5rem;
+        }
+
+        @media (max-width: 768px) {
+            .preview-container {
+                grid-template-columns: 1fr;
+            }
+        }
+
+        .preview-box {
+            background: var(--surface);
+            border: 1px solid var(--border);
+            border-radius: var(--radius-md);
+            overflow: hidden;
+        }
+
+        .preview-label {
+            padding: 0.75rem 1rem;
+            background: var(--surface);
+            border-bottom: 1px solid var(--border);
+            font-size: 0.85rem;
+            font-weight: 500;
+            color: var(--text-secondary);
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+        }
+
+        .preview-label .badge {
+            padding: 0.2rem 0.5rem;
+            background: var(--primary);
+            color: white;
+            border-radius: var(--radius-sm);
+            font-size: 0.7rem;
+            font-weight: 600;
+        }
+
+        .preview-image-wrapper {
+            position: relative;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            min-height: 200px;
+            background:
+                linear-gradient(45deg, #1a1a2e 25%, transparent 25%),
+                linear-gradient(-45deg, #1a1a2e 25%, transparent 25%),
+                linear-gradient(45deg, transparent 75%, #1a1a2e 75%),
+                linear-gradient(-45deg, transparent 75%, #1a1a2e 75%);
+            background-size: 20px 20px;
+            background-position: 0 0, 0 10px, 10px -10px, -10px 0px;
+            background-color: #0f0f1a;
+            padding: 1rem;
+        }
+
+        .preview-image-wrapper img,
+        .preview-image-wrapper canvas {
+            max-width: 100%;
+            max-height: 300px;
+            object-fit: contain;
+            border-radius: var(--radius-sm);
+            box-shadow: var(--shadow-md);
+        }
+
+        /* Output canvas is draggable */
+        #outputCanvas {
+            cursor: grab;
+        }
+
+        #outputCanvas:active {
+            cursor: grabbing;
+        }
+
+        /* Options Panel */
+        .options-panel {
+            margin-bottom: 1.5rem;
+        }
+
+        .options-toggle {
+            width: 100%;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            padding: 1rem 1.25rem;
+            background: var(--surface);
+            border: 1px solid var(--border);
+            border-radius: var(--radius-md);
+            color: var(--text);
+            font-size: 0.95rem;
+            font-weight: 500;
+            cursor: pointer;
+            transition: var(--transition);
+        }
+
+        .options-toggle:hover {
+            background: var(--surface-hover);
+        }
+
+        .options-toggle svg {
+            width: 20px;
+            height: 20px;
+            transition: transform var(--transition);
+        }
+
+        .options-toggle.expanded svg {
+            transform: rotate(180deg);
+        }
+
+        .options-content {
+            display: none;
+            padding: 1.25rem;
+            border: 1px solid var(--border);
+            border-top: none;
+            border-radius: 0 0 var(--radius-md) var(--radius-md);
+            background: var(--surface);
+        }
+
+        .options-content.expanded {
+            display: block;
+        }
+
+        .options-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+            gap: 1.5rem;
+        }
+
+        .option-group {
+            display: flex;
+            flex-direction: column;
+            gap: 0.75rem;
+        }
+
+        .option-label {
+            font-size: 0.85rem;
+            font-weight: 600;
+            color: var(--text-secondary);
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+        }
+
+        /* Form Controls */
+        .radio-group {
+            display: flex;
+            gap: 0.5rem;
+            flex-wrap: wrap;
+        }
+
+        .radio-option {
+            flex: 1;
+            min-width: 80px;
+        }
+
+        .radio-option input {
+            display: none;
+        }
+
+        .radio-option label {
+            display: block;
+            padding: 0.6rem 0.75rem;
+            background: var(--surface);
+            border: 1px solid var(--border);
+            border-radius: var(--radius-sm);
+            text-align: center;
+            font-size: 0.85rem;
+            color: var(--text-secondary);
+            cursor: pointer;
+            transition: var(--transition);
+        }
+
+        .radio-option input:checked + label {
+            background: var(--primary);
+            border-color: var(--primary);
+            color: white;
+        }
+
+        .radio-option label:hover {
+            background: var(--surface-hover);
+            border-color: var(--border-light);
+        }
+
+        .radio-option input:checked + label:hover {
+            background: var(--primary-hover);
+        }
+
+        .color-input-wrapper {
+            display: flex;
+            align-items: center;
+            gap: 0.75rem;
+        }
+
+        .color-input {
+            width: 40px;
+            height: 40px;
+            padding: 0;
+            border: 2px solid var(--border);
+            border-radius: var(--radius-sm);
+            cursor: pointer;
+            background: transparent;
+        }
+
+        .color-input::-webkit-color-swatch-wrapper {
+            padding: 2px;
+        }
+
+        .color-input::-webkit-color-swatch {
+            border: none;
+            border-radius: 4px;
+        }
+
+        .color-hex {
+            flex: 1;
+            padding: 0.6rem 0.75rem;
+            background: var(--surface);
+            border: 1px solid var(--border);
+            border-radius: var(--radius-sm);
+            color: var(--text);
+            font-family: monospace;
+            font-size: 0.9rem;
+        }
+
+        .color-hex:focus {
+            outline: none;
+            border-color: var(--primary);
+        }
+
+        .slider-wrapper {
+            display: flex;
+            align-items: center;
+            gap: 0.75rem;
+        }
+
+        .slider {
+            flex: 1;
+            -webkit-appearance: none;
+            appearance: none;
+            height: 6px;
+            background: var(--surface-active);
+            border-radius: 3px;
+            cursor: pointer;
+        }
+
+        .slider::-webkit-slider-thumb {
+            -webkit-appearance: none;
+            appearance: none;
+            width: 18px;
+            height: 18px;
+            background: var(--primary);
+            border-radius: 50%;
+            cursor: pointer;
+            transition: transform var(--transition);
+        }
+
+        .slider::-webkit-slider-thumb:hover {
+            transform: scale(1.1);
+        }
+
+        .slider::-moz-range-thumb {
+            width: 18px;
+            height: 18px;
+            background: var(--primary);
+            border: none;
+            border-radius: 50%;
+            cursor: pointer;
+        }
+
+        .slider-value {
+            min-width: 50px;
+            padding: 0.4rem 0.5rem;
+            background: var(--surface);
+            border: 1px solid var(--border);
+            border-radius: var(--radius-sm);
+            text-align: center;
+            font-size: 0.85rem;
+            font-family: monospace;
+            color: var(--text);
+        }
+
+        .checkbox-wrapper {
+            display: flex;
+            align-items: center;
+            gap: 0.75rem;
+        }
+
+        .checkbox-wrapper input[type="checkbox"] {
+            width: 20px;
+            height: 20px;
+            accent-color: var(--primary);
+            cursor: pointer;
+        }
+
+        .checkbox-wrapper label {
+            color: var(--text-secondary);
+            font-size: 0.9rem;
+            cursor: pointer;
+        }
+
+        .sub-options {
+            padding-left: 1.75rem;
+            margin-top: 0.75rem;
+            display: none;
+        }
+
+        .sub-options.active {
+            display: flex;
+            flex-direction: column;
+            gap: 0.75rem;
+        }
+
+        /* Select dropdown */
+        .select-wrapper {
+            position: relative;
+        }
+
+        .select {
+            width: 100%;
+            padding: 0.6rem 2rem 0.6rem 0.75rem;
+            background: var(--surface);
+            border: 1px solid var(--border);
+            border-radius: var(--radius-sm);
+            color: var(--text);
+            font-size: 0.9rem;
+            cursor: pointer;
+            appearance: none;
+        }
+
+        .select:focus {
+            outline: none;
+            border-color: var(--primary);
+        }
+
+        .select-wrapper::after {
+            content: '';
+            position: absolute;
+            right: 12px;
+            top: 50%;
+            transform: translateY(-50%);
+            border: 5px solid transparent;
+            border-top-color: var(--text-muted);
+            pointer-events: none;
+        }
+
+        /* Action Buttons */
+        .actions {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 0.75rem;
+            justify-content: center;
+        }
+
+        .btn {
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            gap: 0.5rem;
+            padding: 0.75rem 1.5rem;
+            border: none;
+            border-radius: var(--radius-md);
+            font-size: 0.95rem;
+            font-weight: 500;
+            cursor: pointer;
+            transition: var(--transition);
+            text-decoration: none;
+        }
+
+        .btn svg {
+            width: 18px;
+            height: 18px;
+        }
+
+        .btn-primary {
+            background: var(--primary);
+            color: white;
+        }
+
+        .btn-primary:hover {
+            background: var(--primary-hover);
+            transform: translateY(-1px);
+            box-shadow: var(--shadow-md);
+        }
+
+        .btn-primary:active {
+            transform: translateY(0);
+        }
+
+        .btn-secondary {
+            background: var(--surface);
+            color: var(--text);
+            border: 1px solid var(--border);
+        }
+
+        .btn-secondary:hover {
+            background: var(--surface-hover);
+            border-color: var(--border-light);
+        }
+
+        .btn:disabled {
+            opacity: 0.5;
+            cursor: not-allowed;
+            transform: none !important;
+        }
+
+        /* Toast Notifications */
+        .toast-container {
+            position: fixed;
+            bottom: 2rem;
+            right: 2rem;
+            display: flex;
+            flex-direction: column;
+            gap: 0.5rem;
+            z-index: 1000;
+        }
+
+        .toast {
+            padding: 0.75rem 1.25rem;
+            background: rgba(20, 20, 35, 0.95);
+            border: 1px solid var(--border);
+            border-radius: var(--radius-md);
+            color: var(--text);
+            font-size: 0.9rem;
+            box-shadow: var(--shadow-lg);
+            animation: slideIn 0.3s ease;
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+        }
+
+        .toast.success {
+            border-color: var(--success);
+        }
+
+        .toast.success::before {
+            content: '✓';
+            color: var(--success);
+            font-weight: bold;
+        }
+
+        .toast.error {
+            border-color: var(--error);
+        }
+
+        .toast.error::before {
+            content: '✕';
+            color: var(--error);
+            font-weight: bold;
+        }
+
+        @keyframes slideIn {
+            from {
+                opacity: 0;
+                transform: translateX(100%);
+            }
+            to {
+                opacity: 1;
+                transform: translateX(0);
+            }
+        }
+
+        /* Footer */
+        footer {
+            text-align: center;
+            padding: 2rem 0;
+            color: var(--text-muted);
+            font-size: 0.85rem;
+        }
+
+        footer a {
+            color: var(--primary);
+            text-decoration: none;
+        }
+
+        footer a:hover {
+            text-decoration: underline;
+        }
+
+        /* Info Badges */
+        .info-badges {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            gap: 0.5rem;
+            margin-top: 1rem;
+        }
+
+        .info-badge {
+            display: inline-flex;
+            align-items: center;
+            gap: 0.4rem;
+            padding: 0.4rem 0.75rem;
+            background: var(--surface);
+            border: 1px solid var(--border);
+            border-radius: 50px;
+            font-size: 0.75rem;
+            color: var(--text-secondary);
+            transition: var(--transition);
+        }
+
+        .info-badge:hover {
+            background: var(--surface-hover);
+            border-color: var(--primary);
+            color: var(--text);
+        }
+
+        .info-badge svg {
+            width: 14px;
+            height: 14px;
+            flex-shrink: 0;
+        }
+
+        .info-badge.highlight {
+            background: rgba(29, 161, 242, 0.1);
+            border-color: rgba(29, 161, 242, 0.3);
+            color: var(--primary);
+        }
+
+        /* Privacy Notice Card */
+        .privacy-notice {
+            background: linear-gradient(135deg, rgba(23, 191, 99, 0.1) 0%, rgba(29, 161, 242, 0.1) 100%);
+            border: 1px solid rgba(23, 191, 99, 0.2);
+            border-radius: var(--radius-lg);
+            padding: 1.25rem;
+            margin-bottom: 1.5rem;
+        }
+
+        .privacy-notice h3 {
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+            font-size: 0.95rem;
+            font-weight: 600;
+            color: var(--success);
+            margin-bottom: 0.75rem;
+        }
+
+        .privacy-notice h3 svg {
+            width: 20px;
+            height: 20px;
+        }
+
+        .privacy-features {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 0.75rem;
+        }
+
+        .privacy-feature {
+            display: flex;
+            align-items: flex-start;
+            gap: 0.5rem;
+            font-size: 0.85rem;
+            color: var(--text-secondary);
+        }
+
+        .privacy-feature svg {
+            width: 16px;
+            height: 16px;
+            color: var(--success);
+            flex-shrink: 0;
+            margin-top: 2px;
+        }
+
+        /* GitHub Link */
+        .github-link {
+            display: inline-flex;
+            align-items: center;
+            gap: 0.5rem;
+            color: var(--text-secondary);
+            text-decoration: none;
+            padding: 0.5rem 1rem;
+            background: var(--surface);
+            border: 1px solid var(--border);
+            border-radius: var(--radius-md);
+            font-size: 0.9rem;
+            transition: var(--transition);
+            margin-top: 1rem;
+        }
+
+        .github-link:hover {
+            background: var(--surface-hover);
+            border-color: var(--border-light);
+            color: var(--text);
+        }
+
+        .github-link svg {
+            width: 18px;
+            height: 18px;
+        }
+
+        /* Responsive */
+        @media (max-width: 768px) {
+            .privacy-features {
+                grid-template-columns: 1fr;
+            }
+
+            .info-badges {
+                gap: 0.4rem;
+            }
+
+            .info-badge {
+                font-size: 0.7rem;
+                padding: 0.35rem 0.6rem;
+            }
+        }
+
+        /* Tablet responsive */
+        @media (max-width: 900px) {
+            .options-grid {
+                grid-template-columns: repeat(2, 1fr);
+            }
+        }
+
+        @media (max-width: 600px) {
+            .container {
+                padding: 1rem;
+            }
+
+            .logo {
+                font-size: 1.75rem;
+            }
+
+            .tagline {
+                font-size: 0.9rem;
+                padding: 0 0.5rem;
+            }
+
+            .drop-zone {
+                min-height: 160px;
+                padding: 1.5rem 1rem;
+            }
+
+            .drop-zone-icon {
+                width: 48px;
+                height: 48px;
+            }
+
+            .drop-zone-text {
+                font-size: 0.9rem;
+                text-align: center;
+            }
+
+            .drop-zone-hint {
+                font-size: 0.75rem;
+            }
+
+            .preview-container {
+                gap: 1rem;
+            }
+
+            .preview-image-wrapper {
+                min-height: 150px;
+                padding: 0.75rem;
+            }
+
+            .preview-image-wrapper img,
+            .preview-image-wrapper canvas {
+                max-height: 200px;
+            }
+
+            .options-toggle {
+                padding: 0.85rem 1rem;
+                font-size: 0.9rem;
+            }
+
+            .options-content {
+                padding: 1rem;
+            }
+
+            .options-grid {
+                grid-template-columns: 1fr;
+                gap: 1.25rem;
+            }
+
+            .option-label {
+                font-size: 0.8rem;
+            }
+
+            .radio-option label {
+                padding: 0.5rem 0.6rem;
+                font-size: 0.8rem;
+            }
+
+            .actions {
+                flex-direction: column;
+                gap: 0.6rem;
+            }
+
+            .btn {
+                width: 100%;
+                padding: 0.85rem 1.25rem;
+                font-size: 0.9rem;
+            }
+
+            .toast-container {
+                left: 1rem;
+                right: 1rem;
+                bottom: 1rem;
+            }
+
+            .toast {
+                font-size: 0.85rem;
+                padding: 0.65rem 1rem;
+            }
+
+            .privacy-notice {
+                padding: 1rem;
+            }
+
+            .privacy-notice h3 {
+                font-size: 0.85rem;
+            }
+
+            .privacy-feature {
+                font-size: 0.8rem;
+            }
+
+            footer {
+                padding: 1.5rem 0;
+            }
+
+            footer p {
+                font-size: 0.8rem;
+            }
+
+            .github-link {
+                font-size: 0.85rem;
+                padding: 0.45rem 0.85rem;
+            }
+        }
+
+        /* Very small phones */
+        @media (max-width: 380px) {
+            .logo {
+                font-size: 1.5rem;
+            }
+
+            .tagline {
+                font-size: 0.85rem;
+            }
+
+            .info-badge {
+                font-size: 0.65rem;
+                padding: 0.3rem 0.5rem;
+            }
+
+            .info-badge svg {
+                width: 12px;
+                height: 12px;
+            }
+
+            .drop-zone-text {
+                font-size: 0.85rem;
+            }
+
+            .btn {
+                font-size: 0.85rem;
+            }
+        }
+
+        /* Touch-friendly adjustments */
+        @media (hover: none) and (pointer: coarse) {
+            .drop-zone {
+                min-height: 180px;
+            }
+
+            .btn {
+                min-height: 48px;
+            }
+
+            .radio-option label {
+                min-height: 44px;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+            }
+
+            .slider {
+                height: 8px;
+            }
+
+            .slider::-webkit-slider-thumb {
+                width: 24px;
+                height: 24px;
+            }
+
+            .slider::-moz-range-thumb {
+                width: 24px;
+                height: 24px;
+            }
+
+            .checkbox-wrapper input[type="checkbox"] {
+                width: 24px;
+                height: 24px;
+            }
+        }
+
+        /* Hidden utility */
+        .hidden {
+            display: none !important;
+        }
+
+        /* Screen reader only */
+        .sr-only {
+            position: absolute;
+            width: 1px;
+            height: 1px;
+            padding: 0;
+            margin: -1px;
+            overflow: hidden;
+            clip: rect(0, 0, 0, 0);
+            white-space: nowrap;
+            border: 0;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <!-- Header -->
+        <header>
+            <h1 class="logo">XReImage</h1>
+            <p class="tagline">Resize images for perfect display on X/Twitter — no more awkward cropping</p>
+            <div class="info-badges">
+                <span class="info-badge highlight">
+                    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <path d="M12 8c-1.657 0-3 .895-3 2s1.343 2 3 2 3 .895 3 2-1.343 2-3 2m0-8c1.11 0 2.08.402 2.599 1M12 8V7m0 1v8m0 0v1m0-1c-1.11 0-2.08-.402-2.599-1M21 12a9 9 0 11-18 0 9 9 0 0118 0z"/>
+                    </svg>
+                    100% Free
+                </span>
+                <span class="info-badge">
+                    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <path d="M9 12l2 2 4-4m5.618-4.016A11.955 11.955 0 0112 2.944a11.955 11.955 0 01-8.618 3.04A12.02 12.02 0 003 9c0 5.591 3.824 10.29 9 11.622 5.176-1.332 9-6.03 9-11.622 0-1.042-.133-2.052-.382-3.016z"/>
+                    </svg>
+                    No Login Required
+                </span>
+                <span class="info-badge">
+                    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <path d="M12 15v2m-6 4h12a2 2 0 002-2v-6a2 2 0 00-2-2H6a2 2 0 00-2 2v6a2 2 0 002 2zm10-10V7a4 4 0 00-8 0v4h8z"/>
+                    </svg>
+                    Privacy First
+                </span>
+                <a href="https://github.com/user/XReImage" target="_blank" rel="noopener noreferrer" class="info-badge" title="View on GitHub">
+                    <svg viewBox="0 0 24 24" fill="currentColor">
+                        <path d="M12 0c-6.626 0-12 5.373-12 12 0 5.302 3.438 9.8 8.207 11.387.599.111.793-.261.793-.577v-2.234c-3.338.726-4.033-1.416-4.033-1.416-.546-1.387-1.333-1.756-1.333-1.756-1.089-.745.083-.729.083-.729 1.205.084 1.839 1.237 1.839 1.237 1.07 1.834 2.807 1.304 3.492.997.107-.775.418-1.305.762-1.604-2.665-.305-5.467-1.334-5.467-5.931 0-1.311.469-2.381 1.236-3.221-.124-.303-.535-1.524.117-3.176 0 0 1.008-.322 3.301 1.23.957-.266 1.983-.399 3.003-.404 1.02.005 2.047.138 3.006.404 2.291-1.552 3.297-1.23 3.297-1.23.653 1.653.242 2.874.118 3.176.77.84 1.235 1.911 1.235 3.221 0 4.609-2.807 5.624-5.479 5.921.43.372.823 1.102.823 2.222v3.293c0 .319.192.694.801.576 4.765-1.589 8.199-6.086 8.199-11.386 0-6.627-5.373-12-12-12z"/>
+                    </svg>
+                    Open Source
+                </a>
+            </div>
+        </header>
+
+        <!-- Drop Zone -->
+        <div class="glass-panel">
+            <div class="drop-zone" id="dropZone" role="button" tabindex="0" aria-label="Image upload area">
+                <svg class="drop-zone-icon" viewBox="0 0 24 24" fill="none" stroke-width="1.5" aria-hidden="true">
+                    <path d="M4 16l4.586-4.586a2 2 0 012.828 0L16 16m-2-2l1.586-1.586a2 2 0 012.828 0L20 14m-6-6h.01M6 20h12a2 2 0 002-2V6a2 2 0 00-2-2H6a2 2 0 00-2 2v12a2 2 0 002 2z" stroke-linecap="round" stroke-linejoin="round"/>
+                </svg>
+                <p class="drop-zone-text" id="dropZoneText">Drop an image here, paste from clipboard, or click to upload</p>
+                <p class="drop-zone-hint">Supports JPEG, PNG, WebP, GIF</p>
+                <input type="file" id="fileInput" accept="image/*" aria-label="Upload image file">
+            </div>
+
+            <!-- Preview Section -->
+            <div class="preview-section" id="previewSection">
+                <div class="preview-header">
+                    <span class="preview-title">Preview</span>
+                    <span class="preview-dimensions" id="dimensionsInfo"></span>
+                </div>
+                <div class="preview-container">
+                    <div class="preview-box">
+                        <div class="preview-label">
+                            <span>Original</span>
+                            <span class="badge" id="originalSize"></span>
+                        </div>
+                        <div class="preview-image-wrapper">
+                            <img id="originalPreview" alt="Original image preview">
+                        </div>
+                    </div>
+                    <div class="preview-box">
+                        <div class="preview-label">
+                            <span>Processed</span>
+                            <span class="badge" id="processedSize"></span>
+                        </div>
+                        <div class="preview-image-wrapper">
+                            <canvas id="outputCanvas" draggable="true" aria-label="Processed image - drag to export"></canvas>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Options Panel -->
+        <div class="options-panel">
+            <button class="options-toggle" id="optionsToggle" aria-expanded="false" aria-controls="optionsContent">
+                <span>Customize Output</span>
+                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
+                    <path d="M19 9l-7 7-7-7" stroke-linecap="round" stroke-linejoin="round"/>
+                </svg>
+            </button>
+            <div class="options-content" id="optionsContent">
+                <div class="options-grid">
+                    <!-- Aspect Ratio -->
+                    <div class="option-group">
+                        <span class="option-label">Aspect Ratio</span>
+                        <div class="radio-group">
+                            <div class="radio-option">
+                                <input type="radio" name="aspectRatio" id="ratio169" value="16:9" checked>
+                                <label for="ratio169">16:9</label>
+                            </div>
+                            <div class="radio-option">
+                                <input type="radio" name="aspectRatio" id="ratio11" value="1:1">
+                                <label for="ratio11">1:1</label>
+                            </div>
+                            <div class="radio-option">
+                                <input type="radio" name="aspectRatio" id="ratio43" value="4:3">
+                                <label for="ratio43">4:3</label>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Background Type -->
+                    <div class="option-group">
+                        <span class="option-label">Background</span>
+                        <div class="radio-group">
+                            <div class="radio-option">
+                                <input type="radio" name="bgType" id="bgTransparent" value="transparent" checked>
+                                <label for="bgTransparent">Transparent</label>
+                            </div>
+                            <div class="radio-option">
+                                <input type="radio" name="bgType" id="bgColor" value="color">
+                                <label for="bgColor">Color</label>
+                            </div>
+                            <div class="radio-option">
+                                <input type="radio" name="bgType" id="bgBlur" value="blur">
+                                <label for="bgBlur">Blur</label>
+                            </div>
+                        </div>
+                        <div class="sub-options" id="bgColorOptions">
+                            <div class="color-input-wrapper">
+                                <input type="color" class="color-input" id="bgColorPicker" value="#0f0f1a">
+                                <input type="text" class="color-hex" id="bgColorHex" value="#0f0f1a" maxlength="7">
+                            </div>
+                        </div>
+                        <div class="sub-options" id="bgBlurOptions">
+                            <div class="slider-wrapper">
+                                <input type="range" class="slider" id="blurAmount" min="5" max="50" value="20">
+                                <span class="slider-value" id="blurValue">20px</span>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Border -->
+                    <div class="option-group">
+                        <span class="option-label">Border</span>
+                        <div class="checkbox-wrapper">
+                            <input type="checkbox" id="borderEnabled">
+                            <label for="borderEnabled">Add border around image</label>
+                        </div>
+                        <div class="sub-options" id="borderOptions">
+                            <div class="color-input-wrapper">
+                                <input type="color" class="color-input" id="borderColorPicker" value="#ffffff">
+                                <input type="text" class="color-hex" id="borderColorHex" value="#ffffff" maxlength="7">
+                            </div>
+                            <div class="slider-wrapper">
+                                <input type="range" class="slider" id="borderWidth" min="1" max="20" value="2">
+                                <span class="slider-value" id="borderWidthValue">2px</span>
+                            </div>
+                            <div class="slider-wrapper">
+                                <input type="range" class="slider" id="borderRadius" min="0" max="50" value="8">
+                                <span class="slider-value" id="borderRadiusValue">8px</span>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Shadow -->
+                    <div class="option-group">
+                        <span class="option-label">Shadow</span>
+                        <div class="checkbox-wrapper">
+                            <input type="checkbox" id="shadowEnabled" checked>
+                            <label for="shadowEnabled">Add drop shadow</label>
+                        </div>
+                        <div class="sub-options active" id="shadowOptions">
+                            <div class="slider-wrapper">
+                                <input type="range" class="slider" id="shadowBlur" min="0" max="50" value="20">
+                                <span class="slider-value" id="shadowBlurValue">20px</span>
+                            </div>
+                            <div class="slider-wrapper">
+                                <input type="range" class="slider" id="shadowOpacity" min="0" max="100" value="50">
+                                <span class="slider-value" id="shadowOpacityValue">50%</span>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Padding -->
+                    <div class="option-group">
+                        <span class="option-label">Padding</span>
+                        <div class="slider-wrapper">
+                            <input type="range" class="slider" id="padding" min="0" max="100" value="20">
+                            <span class="slider-value" id="paddingValue">20px</span>
+                        </div>
+                    </div>
+
+                    <!-- Export Format -->
+                    <div class="option-group">
+                        <span class="option-label">Export Format</span>
+                        <div class="select-wrapper">
+                            <select class="select" id="exportFormat">
+                                <option value="png">PNG (best quality)</option>
+                                <option value="jpeg">JPEG (smaller size)</option>
+                                <option value="webp">WebP (modern format)</option>
+                            </select>
+                        </div>
+                        <div class="sub-options active" id="qualityOptions">
+                            <div class="slider-wrapper">
+                                <span style="color: var(--text-secondary); font-size: 0.85rem;">Quality:</span>
+                                <input type="range" class="slider" id="exportQuality" min="10" max="100" value="92">
+                                <span class="slider-value" id="qualityValue">92%</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Action Buttons -->
+        <div class="glass-panel">
+            <div class="actions">
+                <button class="btn btn-primary" id="copyBtn" disabled>
+                    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
+                        <rect x="9" y="9" width="13" height="13" rx="2" ry="2"/>
+                        <path d="M5 15H4a2 2 0 01-2-2V4a2 2 0 012-2h9a2 2 0 012 2v1"/>
+                    </svg>
+                    Copy to Clipboard
+                </button>
+                <button class="btn btn-primary" id="downloadBtn" disabled>
+                    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
+                        <path d="M21 15v4a2 2 0 01-2 2H5a2 2 0 01-2-2v-4M7 10l5 5 5-5M12 15V3"/>
+                    </svg>
+                    Download
+                </button>
+                <button class="btn btn-secondary" id="resetBtn" disabled>
+                    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
+                        <path d="M1 4v6h6M23 20v-6h-6"/>
+                        <path d="M20.49 9A9 9 0 005.64 5.64L1 10m22 4l-4.64 4.36A9 9 0 013.51 15"/>
+                    </svg>
+                    Reset
+                </button>
+            </div>
+        </div>
+
+        <!-- Privacy Notice -->
+        <section class="privacy-notice" aria-labelledby="privacy-heading">
+            <h3 id="privacy-heading">
+                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                    <path d="M9 12l2 2 4-4m5.618-4.016A11.955 11.955 0 0112 2.944a11.955 11.955 0 01-8.618 3.04A12.02 12.02 0 003 9c0 5.591 3.824 10.29 9 11.622 5.176-1.332 9-6.03 9-11.622 0-1.042-.133-2.052-.382-3.016z"/>
+                </svg>
+                Your Privacy is Protected
+            </h3>
+            <div class="privacy-features">
+                <div class="privacy-feature">
+                    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <polyline points="20 6 9 17 4 12"/>
+                    </svg>
+                    <span><strong>100% Browser-Based</strong> — All image processing happens locally in your browser</span>
+                </div>
+                <div class="privacy-feature">
+                    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <polyline points="20 6 9 17 4 12"/>
+                    </svg>
+                    <span><strong>No Server Uploads</strong> — Your images are never sent to any server</span>
+                </div>
+                <div class="privacy-feature">
+                    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <polyline points="20 6 9 17 4 12"/>
+                    </svg>
+                    <span><strong>No Data Storage</strong> — Nothing is saved or stored anywhere</span>
+                </div>
+                <div class="privacy-feature">
+                    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <polyline points="20 6 9 17 4 12"/>
+                    </svg>
+                    <span><strong>No Tracking</strong> — No analytics, cookies, or any form of tracking</span>
+                </div>
+            </div>
+        </section>
+
+        <!-- Footer -->
+        <footer>
+            <p><strong>XReImage</strong> — Free, open source tool for perfect X/Twitter images</p>
+            <p>No strings attached. No hidden costs. Just a useful tool.</p>
+            <a href="https://github.com/user/XReImage" target="_blank" rel="noopener noreferrer" class="github-link" aria-label="View source code on GitHub">
+                <svg viewBox="0 0 24 24" fill="currentColor">
+                    <path d="M12 0c-6.626 0-12 5.373-12 12 0 5.302 3.438 9.8 8.207 11.387.599.111.793-.261.793-.577v-2.234c-3.338.726-4.033-1.416-4.033-1.416-.546-1.387-1.333-1.756-1.333-1.756-1.089-.745.083-.729.083-.729 1.205.084 1.839 1.237 1.839 1.237 1.07 1.834 2.807 1.304 3.492.997.107-.775.418-1.305.762-1.604-2.665-.305-5.467-1.334-5.467-5.931 0-1.311.469-2.381 1.236-3.221-.124-.303-.535-1.524.117-3.176 0 0 1.008-.322 3.301 1.23.957-.266 1.983-.399 3.003-.404 1.02.005 2.047.138 3.006.404 2.291-1.552 3.297-1.23 3.297-1.23.653 1.653.242 2.874.118 3.176.77.84 1.235 1.911 1.235 3.221 0 4.609-2.807 5.624-5.479 5.921.43.372.823 1.102.823 2.222v3.293c0 .319.192.694.801.576 4.765-1.589 8.199-6.086 8.199-11.386 0-6.627-5.373-12-12-12z"/>
+                </svg>
+                View on GitHub
+            </a>
+            <p style="margin-top: 1rem; font-size: 0.8rem;">
+                Created by <a href="https://shitalshah.com" target="_blank" rel="noopener noreferrer">Shital Shah</a> and <a href="https://claude.ai/code" target="_blank" rel="noopener noreferrer">Claude Code</a>
+            </p>
+        </footer>
+    </div>
+
+    <!-- Toast Container -->
+    <div class="toast-container" id="toastContainer" aria-live="polite"></div>
+
+    <script>
+        /**
+         * XReImage - Client-side image resizer for X/Twitter
+         *
+         * This application processes images to fit X/Twitter's recommended
+         * dimensions (16:9, 1:1, 4:3) to prevent awkward cropping in the timeline.
+         *
+         * All processing happens client-side using the HTML5 Canvas API.
+         */
+
+        (function() {
+            'use strict';
+
+            // ===========================================
+            // Configuration & Constants
+            // ===========================================
+
+            /**
+             * Detect if running in Microsoft Edge
+             * Edge has known issues with Canvas shadowBlur and filter operations
+             * when running from local file:// protocol
+             */
+            const isEdge = /Edg\//.test(navigator.userAgent);
+            const isLocalFile = window.location.protocol === 'file:';
+            const isEdgeLocal = isEdge && isLocalFile;
+
+            /**
+             * Detect mobile/touch devices
+             * Used to adjust UI messaging since clipboard paste is unreliable on mobile
+             */
+            const isMobile = /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent)
+                || (navigator.maxTouchPoints && navigator.maxTouchPoints > 2);
+            const isIOS = /iPad|iPhone|iPod/.test(navigator.userAgent);
+
+            /**
+             * Target dimensions for different aspect ratios
+             * These are optimized for X/Twitter display
+             */
+            const ASPECT_RATIOS = {
+                '16:9': { width: 1200, height: 675 },
+                '1:1': { width: 1200, height: 1200 },
+                '4:3': { width: 1200, height: 900 }
+            };
+
+            // ===========================================
+            // State Management
+            // ===========================================
+
+            /**
+             * Application state - stores the current image and settings
+             */
+            const state = {
+                originalImage: null,      // HTMLImageElement
+                originalBlob: null,       // Original file blob
+                processedBlob: null,      // Processed image blob
+                options: {
+                    aspectRatio: '16:9',
+                    bgType: 'transparent',
+                    bgColor: '#0f0f1a',
+                    blurAmount: 20,
+                    borderEnabled: false,
+                    borderColor: '#ffffff',
+                    borderWidth: 2,
+                    borderRadius: 8,
+                    shadowEnabled: true,
+                    shadowBlur: 20,
+                    shadowOpacity: 50,
+                    padding: 20,
+                    exportFormat: 'png',
+                    exportQuality: 0.92
+                }
+            };
+
+            // ===========================================
+            // DOM Element References
+            // ===========================================
+
+            const elements = {
+                dropZone: document.getElementById('dropZone'),
+                fileInput: document.getElementById('fileInput'),
+                previewSection: document.getElementById('previewSection'),
+                originalPreview: document.getElementById('originalPreview'),
+                outputCanvas: document.getElementById('outputCanvas'),
+                dimensionsInfo: document.getElementById('dimensionsInfo'),
+                originalSize: document.getElementById('originalSize'),
+                processedSize: document.getElementById('processedSize'),
+                optionsToggle: document.getElementById('optionsToggle'),
+                optionsContent: document.getElementById('optionsContent'),
+                copyBtn: document.getElementById('copyBtn'),
+                downloadBtn: document.getElementById('downloadBtn'),
+                resetBtn: document.getElementById('resetBtn'),
+                toastContainer: document.getElementById('toastContainer')
+            };
+
+            // ===========================================
+            // Utility Functions
+            // ===========================================
+
+            /**
+             * Display a toast notification
+             * @param {string} message - Message to display
+             * @param {string} type - 'success' or 'error'
+             */
+            function showToast(message, type = 'success') {
+                const toast = document.createElement('div');
+                toast.className = `toast ${type}`;
+                toast.textContent = message;
+                elements.toastContainer.appendChild(toast);
+
+                // Auto-remove after 3 seconds
+                setTimeout(() => {
+                    toast.style.opacity = '0';
+                    toast.style.transform = 'translateX(100%)';
+                    setTimeout(() => toast.remove(), 300);
+                }, 3000);
+            }
+
+            /**
+             * Format file size to human-readable string
+             * @param {number} bytes - Size in bytes
+             * @returns {string} Formatted size string
+             */
+            function formatFileSize(bytes) {
+                if (bytes < 1024) return bytes + ' B';
+                if (bytes < 1024 * 1024) return (bytes / 1024).toFixed(1) + ' KB';
+                return (bytes / (1024 * 1024)).toFixed(2) + ' MB';
+            }
+
+            /**
+             * Debounce function to limit rapid calls
+             * @param {Function} func - Function to debounce
+             * @param {number} wait - Wait time in ms
+             */
+            function debounce(func, wait) {
+                let timeout;
+                return function executedFunction(...args) {
+                    const later = () => {
+                        clearTimeout(timeout);
+                        func(...args);
+                    };
+                    clearTimeout(timeout);
+                    timeout = setTimeout(later, wait);
+                };
+            }
+
+            // ===========================================
+            // Image Loading Functions
+            // ===========================================
+
+            /**
+             * Load an image from a File or Blob
+             * @param {File|Blob} file - Image file to load
+             */
+            function loadImage(file) {
+                // Validate file type
+                if (!file.type.startsWith('image/')) {
+                    showToast('Please select a valid image file', 'error');
+                    return;
+                }
+
+                // Validate file size (max 15MB)
+                if (file.size > 15 * 1024 * 1024) {
+                    showToast('Image is too large (max 15MB)', 'error');
+                    return;
+                }
+
+                state.originalBlob = file;
+
+                const reader = new FileReader();
+                reader.onload = (e) => {
+                    const img = new Image();
+                    img.onload = () => {
+                        // Check for very large images that might crash the browser
+                        const maxPixels = 25000000; // 25 megapixels
+                        if (img.width * img.height > maxPixels) {
+                            showToast('Image is too large (max 25 megapixels). Please use a smaller image.', 'error');
+                            return;
+                        }
+
+                        state.originalImage = img;
+                        elements.originalPreview.src = e.target.result;
+                        elements.originalSize.textContent = `${img.width}×${img.height}`;
+                        elements.previewSection.classList.add('active');
+
+                        // Enable buttons
+                        elements.copyBtn.disabled = false;
+                        elements.downloadBtn.disabled = false;
+                        elements.resetBtn.disabled = false;
+
+                        // Process image
+                        processImage();
+                    };
+                    img.onerror = () => {
+                        showToast('Failed to load image', 'error');
+                    };
+                    img.src = e.target.result;
+                };
+                reader.onerror = () => {
+                    showToast('Failed to read file', 'error');
+                };
+                reader.readAsDataURL(file);
+            }
+
+            // ===========================================
+            // Image Processing Functions
+            // ===========================================
+
+            /**
+             * Main image processing function
+             * Applies all selected options and renders to canvas
+             */
+            function processImage() {
+                if (!state.originalImage) return;
+
+                try {
+                const canvas = elements.outputCanvas;
+                const ctx = canvas.getContext('2d', { willReadFrequently: false });
+                const opts = state.options;
+                const dims = ASPECT_RATIOS[opts.aspectRatio];
+
+                // Set canvas dimensions
+                canvas.width = dims.width;
+                canvas.height = dims.height;
+
+                // Clear canvas
+                ctx.clearRect(0, 0, canvas.width, canvas.height);
+
+                // Draw background
+                drawBackground(ctx, canvas, opts);
+
+                // Calculate image placement
+                const img = state.originalImage;
+                const padding = opts.padding;
+                const availableWidth = canvas.width - (padding * 2);
+                const availableHeight = canvas.height - (padding * 2);
+
+                // Calculate scaled dimensions maintaining aspect ratio
+                const imgAspect = img.width / img.height;
+                const containerAspect = availableWidth / availableHeight;
+
+                let drawWidth, drawHeight;
+                if (imgAspect > containerAspect) {
+                    // Image is wider - fit to width
+                    drawWidth = availableWidth;
+                    drawHeight = availableWidth / imgAspect;
+                } else {
+                    // Image is taller - fit to height
+                    drawHeight = availableHeight;
+                    drawWidth = availableHeight * imgAspect;
+                }
+
+                // Center the image
+                const x = (canvas.width - drawWidth) / 2;
+                const y = (canvas.height - drawHeight) / 2;
+
+                // Draw shadow if enabled (skip on Edge local due to GPU crash bug)
+                if (opts.shadowEnabled && !isEdgeLocal) {
+                    ctx.save();
+                    ctx.shadowColor = `rgba(0, 0, 0, ${opts.shadowOpacity / 100})`;
+                    ctx.shadowBlur = opts.shadowBlur;
+                    ctx.shadowOffsetX = 0;
+                    ctx.shadowOffsetY = opts.shadowBlur / 4;
+
+                    // Draw shadow shape
+                    if (opts.borderEnabled && opts.borderRadius > 0) {
+                        roundRect(ctx, x, y, drawWidth, drawHeight, opts.borderRadius);
+                        ctx.fillStyle = 'rgba(0,0,0,1)';
+                        ctx.fill();
+                    } else {
+                        ctx.fillStyle = 'rgba(0,0,0,1)';
+                        ctx.fillRect(x, y, drawWidth, drawHeight);
+                    }
+                    ctx.restore();
+                }
+
+                // Draw image with optional border radius
+                ctx.save();
+                if (opts.borderEnabled && opts.borderRadius > 0) {
+                    roundRect(ctx, x, y, drawWidth, drawHeight, opts.borderRadius);
+                    ctx.clip();
+                }
+                ctx.drawImage(img, x, y, drawWidth, drawHeight);
+                ctx.restore();
+
+                // Draw border if enabled
+                if (opts.borderEnabled) {
+                    ctx.strokeStyle = opts.borderColor;
+                    ctx.lineWidth = opts.borderWidth;
+                    if (opts.borderRadius > 0) {
+                        roundRect(ctx, x, y, drawWidth, drawHeight, opts.borderRadius);
+                        ctx.stroke();
+                    } else {
+                        ctx.strokeRect(x, y, drawWidth, drawHeight);
+                    }
+                }
+
+                // Update dimensions info
+                elements.dimensionsInfo.textContent = `${img.width}×${img.height} → ${canvas.width}×${canvas.height}`;
+                elements.processedSize.textContent = `${canvas.width}×${canvas.height}`;
+
+                // Generate blob for export
+                updateProcessedBlob();
+                } catch (err) {
+                    console.error('Error processing image:', err);
+                    showToast('Error processing image. Try a smaller image or different settings.', 'error');
+                }
+            }
+
+            /**
+             * Draw rounded rectangle path
+             * @param {CanvasRenderingContext2D} ctx - Canvas context
+             * @param {number} x - X position
+             * @param {number} y - Y position
+             * @param {number} width - Width
+             * @param {number} height - Height
+             * @param {number} radius - Corner radius
+             */
+            function roundRect(ctx, x, y, width, height, radius) {
+                ctx.beginPath();
+                ctx.moveTo(x + radius, y);
+                ctx.lineTo(x + width - radius, y);
+                ctx.quadraticCurveTo(x + width, y, x + width, y + radius);
+                ctx.lineTo(x + width, y + height - radius);
+                ctx.quadraticCurveTo(x + width, y + height, x + width - radius, y + height);
+                ctx.lineTo(x + radius, y + height);
+                ctx.quadraticCurveTo(x, y + height, x, y + height - radius);
+                ctx.lineTo(x, y + radius);
+                ctx.quadraticCurveTo(x, y, x + radius, y);
+                ctx.closePath();
+            }
+
+            /**
+             * Draw background based on selected type
+             * @param {CanvasRenderingContext2D} ctx - Canvas context
+             * @param {HTMLCanvasElement} canvas - Canvas element
+             * @param {Object} opts - Options object
+             */
+            function drawBackground(ctx, canvas, opts) {
+                switch (opts.bgType) {
+                    case 'transparent':
+                        // Leave transparent (already cleared)
+                        break;
+
+                    case 'color':
+                        ctx.fillStyle = opts.bgColor;
+                        ctx.fillRect(0, 0, canvas.width, canvas.height);
+                        break;
+
+                    case 'blur':
+                        // On Edge local, fall back to dark color since blur can crash
+                        if (isEdgeLocal) {
+                            ctx.fillStyle = '#1a1a2e';
+                            ctx.fillRect(0, 0, canvas.width, canvas.height);
+                            break;
+                        }
+
+                        if (state.originalImage) {
+                            // Use manual box blur instead of ctx.filter for compatibility
+                            // This is more stable and works across all browsers
+                            const img = state.originalImage;
+                            const imgAspect = img.width / img.height;
+                            const canvasAspect = canvas.width / canvas.height;
+
+                            let sx, sy, sw, sh;
+                            if (imgAspect > canvasAspect) {
+                                sh = img.height;
+                                sw = img.height * canvasAspect;
+                                sx = (img.width - sw) / 2;
+                                sy = 0;
+                            } else {
+                                sw = img.width;
+                                sh = img.width / canvasAspect;
+                                sx = 0;
+                                sy = (img.height - sh) / 2;
+                            }
+
+                            // Step 1: Draw image at very small size (creates blur effect)
+                            const blurFactor = Math.max(1, Math.floor(opts.blurAmount / 5));
+                            const smallWidth = Math.max(1, Math.floor(canvas.width / blurFactor));
+                            const smallHeight = Math.max(1, Math.floor(canvas.height / blurFactor));
+
+                            const tempCanvas = document.createElement('canvas');
+                            tempCanvas.width = smallWidth;
+                            tempCanvas.height = smallHeight;
+                            const tempCtx = tempCanvas.getContext('2d');
+
+                            // Draw small
+                            tempCtx.drawImage(img, sx, sy, sw, sh, 0, 0, smallWidth, smallHeight);
+
+                            // Step 2: Scale back up (bilinear interpolation creates blur)
+                            ctx.imageSmoothingEnabled = true;
+                            ctx.imageSmoothingQuality = 'high';
+
+                            // Draw slightly larger to avoid edge artifacts
+                            const scale = 1.1;
+                            const offsetX = (canvas.width * scale - canvas.width) / 2;
+                            const offsetY = (canvas.height * scale - canvas.height) / 2;
+                            ctx.drawImage(tempCanvas, -offsetX, -offsetY, canvas.width * scale, canvas.height * scale);
+
+                            // Add slight dark overlay for better contrast
+                            ctx.fillStyle = 'rgba(0, 0, 0, 0.3)';
+                            ctx.fillRect(0, 0, canvas.width, canvas.height);
+                        }
+                        break;
+                }
+            }
+
+            /**
+             * Update the processed blob for export
+             */
+            function updateProcessedBlob() {
+                const canvas = elements.outputCanvas;
+                const opts = state.options;
+                const mimeType = `image/${opts.exportFormat}`;
+                const quality = opts.exportFormat === 'png' ? 1 : opts.exportQuality;
+
+                canvas.toBlob((blob) => {
+                    state.processedBlob = blob;
+                }, mimeType, quality);
+            }
+
+            // Debounced version of processImage for slider changes
+            const debouncedProcessImage = debounce(processImage, 50);
+
+            // ===========================================
+            // Output Functions
+            // ===========================================
+
+            /**
+             * Copy processed image to clipboard
+             */
+            async function copyToClipboard() {
+                if (!state.originalImage) return;
+
+                try {
+                    // Check if Clipboard API is available
+                    if (!navigator.clipboard || !navigator.clipboard.write) {
+                        throw new Error('Clipboard API not supported');
+                    }
+
+                    // Always use PNG for clipboard (best compatibility)
+                    const blob = await new Promise((resolve) => {
+                        elements.outputCanvas.toBlob(resolve, 'image/png');
+                    });
+
+                    await navigator.clipboard.write([
+                        new ClipboardItem({ 'image/png': blob })
+                    ]);
+
+                    showToast('Image copied to clipboard!', 'success');
+                } catch (err) {
+                    console.error('Clipboard error:', err);
+
+                    // Provide helpful message based on device
+                    if (isMobile) {
+                        if (isIOS) {
+                            showToast('On iOS: tap & hold the image, then "Copy". Or use Download instead.', 'error');
+                        } else {
+                            showToast('Copy may not work on mobile. Use Download instead.', 'error');
+                        }
+                    } else {
+                        showToast('Failed to copy. Try using Download instead.', 'error');
+                    }
+                }
+            }
+
+            /**
+             * Download processed image
+             */
+            function downloadImage() {
+                if (!state.originalImage) return;
+
+                const opts = state.options;
+                const format = opts.exportFormat;
+                const mimeType = `image/${format}`;
+                const quality = format === 'png' ? 1 : opts.exportQuality;
+
+                const dataUrl = elements.outputCanvas.toDataURL(mimeType, quality);
+                const link = document.createElement('a');
+                link.download = `xreimage-${Date.now()}.${format}`;
+                link.href = dataUrl;
+                link.click();
+
+                showToast('Image downloaded!', 'success');
+            }
+
+            /**
+             * Reset the application state
+             */
+            function resetApp() {
+                state.originalImage = null;
+                state.originalBlob = null;
+                state.processedBlob = null;
+
+                elements.originalPreview.src = '';
+                elements.previewSection.classList.remove('active');
+                elements.copyBtn.disabled = true;
+                elements.downloadBtn.disabled = true;
+                elements.resetBtn.disabled = true;
+                elements.dimensionsInfo.textContent = '';
+
+                // Clear canvas
+                const ctx = elements.outputCanvas.getContext('2d');
+                ctx.clearRect(0, 0, elements.outputCanvas.width, elements.outputCanvas.height);
+
+                showToast('Reset complete', 'success');
+            }
+
+            // ===========================================
+            // Event Handlers Setup
+            // ===========================================
+
+            /**
+             * Initialize all event listeners
+             */
+            function initEventListeners() {
+                // Drop zone events
+                const dropZone = elements.dropZone;
+
+                dropZone.addEventListener('click', () => elements.fileInput.click());
+
+                dropZone.addEventListener('keydown', (e) => {
+                    if (e.key === 'Enter' || e.key === ' ') {
+                        e.preventDefault();
+                        elements.fileInput.click();
+                    }
+                });
+
+                dropZone.addEventListener('dragenter', (e) => {
+                    e.preventDefault();
+                    dropZone.classList.add('drag-over');
+                });
+
+                dropZone.addEventListener('dragover', (e) => {
+                    e.preventDefault();
+                    dropZone.classList.add('drag-over');
+                });
+
+                dropZone.addEventListener('dragleave', (e) => {
+                    e.preventDefault();
+                    dropZone.classList.remove('drag-over');
+                });
+
+                dropZone.addEventListener('drop', (e) => {
+                    e.preventDefault();
+                    dropZone.classList.remove('drag-over');
+                    const files = e.dataTransfer.files;
+                    if (files.length > 0) {
+                        loadImage(files[0]);
+                    }
+                });
+
+                // File input change
+                elements.fileInput.addEventListener('change', (e) => {
+                    if (e.target.files.length > 0) {
+                        loadImage(e.target.files[0]);
+                    }
+                });
+
+                // Paste event (global)
+                document.addEventListener('paste', (e) => {
+                    const items = e.clipboardData?.items;
+                    if (!items) return;
+
+                    for (const item of items) {
+                        if (item.type.startsWith('image/')) {
+                            const file = item.getAsFile();
+                            if (file) {
+                                loadImage(file);
+                                break;
+                            }
+                        }
+                    }
+                });
+
+                // Output canvas drag (for drag export)
+                elements.outputCanvas.addEventListener('dragstart', (e) => {
+                    if (!state.originalImage) {
+                        e.preventDefault();
+                        return;
+                    }
+
+                    // Create drag image data
+                    const dataUrl = elements.outputCanvas.toDataURL('image/png');
+                    e.dataTransfer.setData('text/uri-list', dataUrl);
+                    e.dataTransfer.setData('text/plain', dataUrl);
+                });
+
+                // Options toggle
+                elements.optionsToggle.addEventListener('click', () => {
+                    const expanded = elements.optionsToggle.classList.toggle('expanded');
+                    elements.optionsContent.classList.toggle('expanded', expanded);
+                    elements.optionsToggle.setAttribute('aria-expanded', expanded);
+                });
+
+                // Aspect ratio change
+                document.querySelectorAll('input[name="aspectRatio"]').forEach((radio) => {
+                    radio.addEventListener('change', (e) => {
+                        state.options.aspectRatio = e.target.value;
+                        processImage();
+                    });
+                });
+
+                // Background type change
+                document.querySelectorAll('input[name="bgType"]').forEach((radio) => {
+                    radio.addEventListener('change', (e) => {
+                        state.options.bgType = e.target.value;
+
+                        // Toggle sub-options visibility
+                        document.getElementById('bgColorOptions').classList.toggle('active', e.target.value === 'color');
+                        document.getElementById('bgBlurOptions').classList.toggle('active', e.target.value === 'blur');
+
+                        processImage();
+                    });
+                });
+
+                // Background color picker
+                const bgColorPicker = document.getElementById('bgColorPicker');
+                const bgColorHex = document.getElementById('bgColorHex');
+
+                bgColorPicker.addEventListener('input', (e) => {
+                    state.options.bgColor = e.target.value;
+                    bgColorHex.value = e.target.value;
+                    debouncedProcessImage();
+                });
+
+                bgColorHex.addEventListener('input', (e) => {
+                    const value = e.target.value;
+                    if (/^#[0-9A-Fa-f]{6}$/.test(value)) {
+                        state.options.bgColor = value;
+                        bgColorPicker.value = value;
+                        debouncedProcessImage();
+                    }
+                });
+
+                // Blur amount slider
+                const blurSlider = document.getElementById('blurAmount');
+                const blurValue = document.getElementById('blurValue');
+
+                blurSlider.addEventListener('input', (e) => {
+                    state.options.blurAmount = parseInt(e.target.value);
+                    blurValue.textContent = e.target.value + 'px';
+                    debouncedProcessImage();
+                });
+
+                // Border toggle
+                const borderEnabled = document.getElementById('borderEnabled');
+                const borderOptions = document.getElementById('borderOptions');
+
+                borderEnabled.addEventListener('change', (e) => {
+                    state.options.borderEnabled = e.target.checked;
+                    borderOptions.classList.toggle('active', e.target.checked);
+                    processImage();
+                });
+
+                // Border color picker
+                const borderColorPicker = document.getElementById('borderColorPicker');
+                const borderColorHex = document.getElementById('borderColorHex');
+
+                borderColorPicker.addEventListener('input', (e) => {
+                    state.options.borderColor = e.target.value;
+                    borderColorHex.value = e.target.value;
+                    debouncedProcessImage();
+                });
+
+                borderColorHex.addEventListener('input', (e) => {
+                    const value = e.target.value;
+                    if (/^#[0-9A-Fa-f]{6}$/.test(value)) {
+                        state.options.borderColor = value;
+                        borderColorPicker.value = value;
+                        debouncedProcessImage();
+                    }
+                });
+
+                // Border width slider
+                const borderWidthSlider = document.getElementById('borderWidth');
+                const borderWidthValue = document.getElementById('borderWidthValue');
+
+                borderWidthSlider.addEventListener('input', (e) => {
+                    state.options.borderWidth = parseInt(e.target.value);
+                    borderWidthValue.textContent = e.target.value + 'px';
+                    debouncedProcessImage();
+                });
+
+                // Border radius slider
+                const borderRadiusSlider = document.getElementById('borderRadius');
+                const borderRadiusValue = document.getElementById('borderRadiusValue');
+
+                borderRadiusSlider.addEventListener('input', (e) => {
+                    state.options.borderRadius = parseInt(e.target.value);
+                    borderRadiusValue.textContent = e.target.value + 'px';
+                    debouncedProcessImage();
+                });
+
+                // Shadow toggle
+                const shadowEnabled = document.getElementById('shadowEnabled');
+                const shadowOptions = document.getElementById('shadowOptions');
+
+                shadowEnabled.addEventListener('change', (e) => {
+                    state.options.shadowEnabled = e.target.checked;
+                    shadowOptions.classList.toggle('active', e.target.checked);
+                    processImage();
+                });
+
+                // Shadow blur slider
+                const shadowBlurSlider = document.getElementById('shadowBlur');
+                const shadowBlurValue = document.getElementById('shadowBlurValue');
+
+                shadowBlurSlider.addEventListener('input', (e) => {
+                    state.options.shadowBlur = parseInt(e.target.value);
+                    shadowBlurValue.textContent = e.target.value + 'px';
+                    debouncedProcessImage();
+                });
+
+                // Shadow opacity slider
+                const shadowOpacitySlider = document.getElementById('shadowOpacity');
+                const shadowOpacityValue = document.getElementById('shadowOpacityValue');
+
+                shadowOpacitySlider.addEventListener('input', (e) => {
+                    state.options.shadowOpacity = parseInt(e.target.value);
+                    shadowOpacityValue.textContent = e.target.value + '%';
+                    debouncedProcessImage();
+                });
+
+                // Padding slider
+                const paddingSlider = document.getElementById('padding');
+                const paddingValue = document.getElementById('paddingValue');
+
+                paddingSlider.addEventListener('input', (e) => {
+                    state.options.padding = parseInt(e.target.value);
+                    paddingValue.textContent = e.target.value + 'px';
+                    debouncedProcessImage();
+                });
+
+                // Export format select
+                const exportFormat = document.getElementById('exportFormat');
+                const qualityOptions = document.getElementById('qualityOptions');
+
+                exportFormat.addEventListener('change', (e) => {
+                    state.options.exportFormat = e.target.value;
+                    // Show quality slider only for lossy formats
+                    qualityOptions.classList.toggle('active', e.target.value !== 'png');
+                    updateProcessedBlob();
+                });
+
+                // Export quality slider
+                const qualitySlider = document.getElementById('exportQuality');
+                const qualityValue = document.getElementById('qualityValue');
+
+                qualitySlider.addEventListener('input', (e) => {
+                    state.options.exportQuality = parseInt(e.target.value) / 100;
+                    qualityValue.textContent = e.target.value + '%';
+                    updateProcessedBlob();
+                });
+
+                // Action buttons
+                elements.copyBtn.addEventListener('click', copyToClipboard);
+                elements.downloadBtn.addEventListener('click', downloadImage);
+                elements.resetBtn.addEventListener('click', resetApp);
+
+                // Prevent default drag behavior on window
+                window.addEventListener('dragover', (e) => e.preventDefault());
+                window.addEventListener('drop', (e) => e.preventDefault());
+            }
+
+            // ===========================================
+            // Initialization
+            // ===========================================
+
+            /**
+             * Initialize the application
+             */
+            function init() {
+                initEventListeners();
+
+                // Initialize canvas with default dimensions
+                const dims = ASPECT_RATIOS['16:9'];
+                elements.outputCanvas.width = dims.width;
+                elements.outputCanvas.height = dims.height;
+
+                // Adjust UI for mobile devices
+                if (isMobile) {
+                    adjustForMobile();
+                }
+
+                // Show warning for Edge users running locally
+                if (isEdgeLocal) {
+                    showEdgeWarning();
+                }
+
+                console.log('XReImage initialized');
+            }
+
+            /**
+             * Adjust UI for mobile devices where paste/drag may not work reliably
+             */
+            function adjustForMobile() {
+                // Update drop zone text for mobile
+                const dropZoneText = document.getElementById('dropZoneText');
+                if (dropZoneText) {
+                    dropZoneText.textContent = 'Tap to select an image from your device';
+                }
+
+                // Update copy button to indicate limitation on mobile
+                if (elements.copyBtn) {
+                    elements.copyBtn.innerHTML = `
+                        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
+                            <rect x="9" y="9" width="13" height="13" rx="2" ry="2"/>
+                            <path d="M5 15H4a2 2 0 01-2-2V4a2 2 0 012-2h9a2 2 0 012 2v1"/>
+                        </svg>
+                        ${isIOS ? 'Copy (limited on iOS)' : 'Copy to Clipboard'}
+                    `;
+                }
+            }
+
+            /**
+             * Show warning banner for Edge browser running from local file
+             */
+            function showEdgeWarning() {
+                const banner = document.createElement('div');
+                banner.id = 'edgeWarning';
+                banner.innerHTML = `
+                    <div style="
+                        background: linear-gradient(135deg, #e0245e 0%, #ff6b6b 100%);
+                        color: white;
+                        padding: 12px 20px;
+                        text-align: center;
+                        font-size: 14px;
+                        position: fixed;
+                        top: 0;
+                        left: 0;
+                        right: 0;
+                        z-index: 9999;
+                        box-shadow: 0 2px 10px rgba(0,0,0,0.3);
+                    ">
+                        <strong>Edge Browser Detected (Local File)</strong> — Some features (blur background, shadows) are disabled to prevent crashes.
+                        For full functionality, use Chrome or host this file on a web server.
+                        <button onclick="this.parentElement.parentElement.remove()" style="
+                            background: rgba(255,255,255,0.2);
+                            border: none;
+                            color: white;
+                            padding: 4px 12px;
+                            margin-left: 15px;
+                            border-radius: 4px;
+                            cursor: pointer;
+                        ">Dismiss</button>
+                    </div>
+                `;
+                document.body.prepend(banner);
+
+                // Also disable shadow by default for Edge local
+                state.options.shadowEnabled = false;
+                document.getElementById('shadowEnabled').checked = false;
+                document.getElementById('shadowOptions').classList.remove('active');
+            }
+
+            // Run initialization when DOM is ready
+            if (document.readyState === 'loading') {
+                document.addEventListener('DOMContentLoaded', init);
+            } else {
+                init();
+            }
+        })();
+    </script>
+</body>
+</html>
