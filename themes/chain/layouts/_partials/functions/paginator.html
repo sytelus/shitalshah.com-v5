@@ -1,0 +1,5 @@
+{{- $p := "" -}}
+{{- if in (slice "section" "term") .Kind -}}
+  {{- $p = .Paginate (partial "functions/list-pages.html" .) -}}
+{{- end -}}
+{{- return $p -}}

@@ -1,0 +1,12 @@
+{{- /* LaTeX → HTML+MathML at build time (no client JS). KaTeX CSS is added
+     to <head> when the page flags hasMath. */ -}}
+{{- $opts := dict "output" "htmlAndMathml" "displayMode" (eq .Type "block") "throwOnError" false -}}
+{{- with try (transform.ToMath .Inner $opts) -}}
+  {{- with .Err -}}
+    {{- warnf "KaTeX could not render %q in %s: %s" $.Inner $.Position . -}}
+    {{- $.Inner -}}
+  {{- else -}}
+    {{- .Value -}}
+    {{- $.Page.Store.Set "hasMath" true -}}
+  {{- end -}}
+{{- end -}}

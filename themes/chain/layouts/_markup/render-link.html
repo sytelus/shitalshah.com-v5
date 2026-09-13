@@ -1,0 +1,9 @@
+{{- /* External links: class "ext" (draws ↗) + rel=noopener. Internal links and
+     mailto: untouched. Links wrapping an image get "ext-media" so no arrow. */ -}}
+{{- $u := urls.Parse .Destination -}}
+{{- $host := (urls.Parse site.BaseURL).Host -}}
+{{- $mail := or (hasPrefix .Destination "mailto:") (hasPrefix .Destination "tel:") -}}
+{{- $ext := and $u.IsAbs (not $mail) (ne $u.Host "") (not (strings.HasSuffix $u.Host $host)) -}}
+{{- $media := in .Text "<img" -}}
+<a href="{{ .Destination | safeURL }}"{{ with .Title }} title="{{ . }}"{{ end }}{{ if $ext }} class="ext{{ if $media }} ext-media{{ end }}" rel="noopener"{{ end }}>{{ .Text }}</a>
+{{- /* chomp */ -}}

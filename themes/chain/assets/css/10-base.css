@@ -1,0 +1,84 @@
+/* =============================================================================
+   Chain theme — 10 base: fonts, reset, root typography
+   ============================================================================= */
+
+/* Self-hosted variable fonts (SIL OFL). Files live in static/fonts and are
+   trimmed with fonttools: unused axes are pinned so each file stays small.
+   Fraunces  : opsz=72, SOFT=30, WONK=1 baked in; weight 300–900 variable.
+   Literata  : opsz=18 baked in; weight 300–800 variable; roman + italic.
+   JetBrains Mono: weight 300–800 variable. */
+@font-face {
+  font-family: "Literata";
+  src: url("/fonts/Literata-Roman.woff2") format("woff2");
+  font-weight: 300 800; font-style: normal; font-display: swap;
+}
+@font-face {
+  font-family: "Literata";
+  src: url("/fonts/Literata-Italic.woff2") format("woff2");
+  font-weight: 300 800; font-style: italic; font-display: swap;
+}
+@font-face {
+  font-family: "Fraunces";
+  src: url("/fonts/Fraunces-Roman.woff2") format("woff2");
+  font-weight: 300 900; font-style: normal; font-display: swap;
+}
+@font-face {
+  font-family: "JetBrains Mono";
+  src: url("/fonts/JetBrainsMono-Roman.woff2") format("woff2");
+  font-weight: 300 800; font-style: normal; font-display: swap;
+}
+
+/* ---- Reset (small, opinionated) ------------------------------------------ */
+*, *::before, *::after { box-sizing: border-box; }
+html {
+  font-size: calc(var(--text) * var(--text-scale));
+  -webkit-text-size-adjust: 100%;
+  scroll-behavior: smooth;
+  scroll-padding-top: 1.5rem;
+  scrollbar-color: var(--paper-3) transparent;
+}
+body {
+  margin: 0;
+  min-height: 100dvh;
+  background: var(--paper);
+  color: var(--ink);
+  font-family: var(--font-serif);
+  font-weight: 400;
+  line-height: var(--leading);
+  letter-spacing: 0.002em;
+  font-kerning: normal;
+  font-feature-settings: "kern", "liga", "calt";
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  overflow-wrap: break-word;
+}
+img, svg, video, iframe { max-width: 100%; }
+img, video { height: auto; }
+button { font: inherit; color: inherit; background: none; border: 0; padding: 0; cursor: pointer; }
+input, textarea { font: inherit; color: inherit; }
+::selection { background: var(--selection); color: var(--ink); }
+:focus-visible { outline: 3px solid var(--rust); outline-offset: 3px; border-radius: 3px; }
+[hidden] { display: none !important; }
+
+/* Utility type classes used across templates */
+.mono   { font-family: var(--font-mono); font-size: var(--text-xs); letter-spacing: .01em; font-variant-ligatures: none; line-height: 1.5; }
+.muted  { color: var(--ink-3); }
+.display { font-family: var(--font-display); font-weight: 600; line-height: 1.08; letter-spacing: -0.012em; }
+
+/* Skip link — visible only when focused */
+.skip {
+  position: absolute; left: var(--gutter); top: -3rem; z-index: 100;
+  padding: .4rem .7rem; background: var(--ink); color: var(--paper);
+  font-family: var(--font-mono); font-size: var(--text-xs); text-decoration: none; border-radius: var(--radius);
+  transition: top .15s var(--ease);
+}
+.skip:focus { top: .5rem; }
+
+/* Thin serif strokes look lighter on dark ground; nudge the weight up. */
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) body { font-weight: 430; } }
+:root[data-theme="dark"] body { font-weight: 430; }
+
+@media (prefers-reduced-motion: reduce) {
+  html { scroll-behavior: auto; }
+  *, *::before, *::after { transition: none !important; animation: none !important; }
+}

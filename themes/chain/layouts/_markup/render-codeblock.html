@@ -1,0 +1,8 @@
+{{- /* Fenced code → <figure class="code"> with a caption bar (language,
+     optional {title="…"} attribute, copy button) around Chroma's output. */ -}}
+{{- $result := transform.HighlightCodeBlock . -}}
+{{- $lang := .Type | default "text" -}}
+<figure class="code">
+  <figcaption class="mono"><span><span class="lang">{{ $lang }}</span>{{ with .Attributes.title }} <span class="ttl">{{ . }}</span>{{ end }}</span>{{ if site.Params.enableCodeCopy }}<button type="button" class="copy" aria-label="Copy code to clipboard">copy</button>{{ end }}</figcaption>
+  {{ $result.Wrapped }}
+</figure>

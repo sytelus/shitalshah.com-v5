@@ -1,0 +1,9 @@
+{{- $toc := .TableOfContents -}}
+<details class="toc" open>
+  <summary class="mono">contents</summary>
+  {{ $toc }}
+</details>
+<div class="rail-extra mono">
+  {{- range .Ancestors }}{{ if or .IsHome (and .File .File.Path) }}<a href="{{ .RelPermalink }}">← {{ .Title | emojify }}</a><br>{{ break }}{{ end }}{{ end }}
+  <a href="#top">↑ top</a>
+</div>

@@ -1,0 +1,73 @@
+/* =============================================================================
+   Chain theme — 50 code: code block chrome + Chroma token palette
+   Hugo is configured with markup.highlight.noClasses = false, so tokens are
+   classes and the palette lives here (both light and dark, via tokens).
+   ============================================================================= */
+
+:root {
+  --c-kw:   #8E3614;  /* keywords: rust, deeper                */
+  --c-str:  #2E6E68;  /* strings: verdigris                    */
+  --c-num:  #7A5A0A;  /* numbers/constants: ochre              */
+  --c-fn:   #1C1A17;  /* function names: ink, heavier          */
+  --c-cm:   #7B7468;  /* comments: pencil                      */
+  --c-op:   #4A453D;  /* operators/punctuation                 */
+  --c-ty:   #4C3C8E;  /* types/builtins/decorators: iris       */
+  --c-var:  #1C1A17;
+  --c-err:  #B4451C;
+  --c-hl:   #EFE4D2;  /* highlighted line                      */
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --c-kw: #F0915F; --c-str: #86CBC2; --c-num: #E4BB57; --c-fn: #F3EDE1; --c-cm: #9C9285;
+    --c-op: #C9C0B1; --c-ty: #C0B4F0; --c-var: #EDE6D9; --c-err: #F4A87F; --c-hl: #302B26;
+  }
+}
+:root[data-theme="dark"] {
+  --c-kw: #F0915F; --c-str: #86CBC2; --c-num: #E4BB57; --c-fn: #F3EDE1; --c-cm: #9C9285;
+  --c-op: #C9C0B1; --c-ty: #C0B4F0; --c-var: #EDE6D9; --c-err: #F4A87F; --c-hl: #302B26;
+}
+
+/* Block chrome (render-codeblock.html emits <figure class="code">) */
+figure.code {
+  margin: 1.8em 0; background: var(--paper-2); border: 1px solid var(--rule-2);
+  border-radius: var(--radius); overflow: hidden; font-size: .88em;
+}
+figure.code > figcaption {
+  display: flex; justify-content: space-between; align-items: center; gap: 1em;
+  padding: .45em .95em; border-bottom: 1px solid var(--rule-2); text-align: left; background: var(--paper-3);
+  font-family: var(--font-mono); font-size: .82em; color: var(--ink-2); margin: 0;
+}
+figure.code .lang { text-transform: lowercase; letter-spacing: .04em; }
+figure.code .ttl { color: var(--ink-2); }
+figure.code .copy { color: var(--ink-2); font-family: var(--font-mono); font-size: inherit; padding: .15em .55em; border-radius: 4px; border: 1px solid var(--rule-2); background: var(--paper-2); }
+figure.code .copy:hover { color: var(--ink); border-color: var(--ink-3); }
+figure.code .copy.done { color: var(--verdigris); }
+figure.code pre, .prose pre {
+  margin: 0; padding: 1em 1.1em; overflow-x: auto; line-height: 1.6; tab-size: 4;
+  font-family: var(--font-mono); font-variant-ligatures: none; color: var(--ink);
+  scrollbar-width: thin;
+}
+.prose > pre { background: var(--paper-2); border: 1px solid var(--rule-2); border-radius: var(--radius); font-size: .88em; }
+figure.code .chroma { background: transparent; }
+.chroma .hl { display: block; background: var(--c-hl); margin: 0 -1.05em; padding: 0 1.05em; }
+.chroma .lntable { border-spacing: 0; padding: 0; margin: 0; border: 0; width: auto; }
+.chroma .lntd { vertical-align: top; padding: 0; margin: 0; border: 0; }
+.chroma .lnt, .chroma .ln { color: var(--ink-3); margin-right: .8em; padding: 0 .4em 0 0; user-select: none; }
+
+/* Chroma tokens */
+.chroma .err { color: var(--c-err); text-decoration: underline wavy; }
+.chroma .k, .chroma .kc, .chroma .kd, .chroma .kn, .chroma .kp, .chroma .kr { color: var(--c-kw); }
+.chroma .kt, .chroma .nb, .chroma .bp, .chroma .nd, .chroma .nc, .chroma .ne, .chroma .nn, .chroma .nx { color: var(--c-ty); }
+.chroma .nc, .chroma .nn { font-weight: 500; }
+.chroma .nf, .chroma .fm { color: var(--c-fn); font-weight: 600; }
+.chroma .na, .chroma .nt { color: var(--c-kw); }
+.chroma .nv, .chroma .vc, .chroma .vg, .chroma .vi, .chroma .vm, .chroma .n, .chroma .p, .chroma .nl, .chroma .no, .chroma .ni { color: var(--c-var); }
+.chroma .o, .chroma .ow, .chroma .pi { color: var(--c-op); }
+.chroma .s, .chroma .sa, .chroma .sb, .chroma .sc, .chroma .dl, .chroma .sd, .chroma .s2, .chroma .se, .chroma .sh, .chroma .si, .chroma .sx, .chroma .sr, .chroma .s1, .chroma .ss { color: var(--c-str); }
+.chroma .m, .chroma .mb, .chroma .mf, .chroma .mh, .chroma .mi, .chroma .il, .chroma .mo { color: var(--c-num); }
+.chroma .c, .chroma .ch, .chroma .cm, .chroma .c1, .chroma .cs, .chroma .cp, .chroma .cpf { color: var(--c-cm); font-style: italic; }
+.chroma .gd { color: var(--c-err); } .chroma .gi { color: var(--c-str); }
+.chroma .ge { font-style: italic; } .chroma .gs { font-weight: 600; }
+.chroma .gh, .chroma .gu { color: var(--c-kw); font-weight: 600; }
+.chroma .gp { color: var(--c-cm); }
+.chroma .w { color: inherit; }

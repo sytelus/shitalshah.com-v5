@@ -1,0 +1,33 @@
+{{- /* Full-content RSS 2.0 for home, sections and terms. Limit: services.rss.limit */ -}}
+{{- $pages := slice -}}
+{{- if .IsHome }}{{ $pages = where site.RegularPages "Section" "in" site.Params.mainSections }}
+{{- else if .Params.flatten }}{{ $pages = .RegularPagesRecursive }}
+{{- else }}{{ $pages = .RegularPages }}{{ end -}}
+{{- $limit := site.Config.Services.RSS.Limit -}}
+{{- if ge $limit 1 }}{{ $pages = $pages | first $limit }}{{ end -}}
+{{- $base := strings.TrimSuffix "/" site.BaseURL -}}
+{{- printf "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"yes\"?>" | safeHTML }}
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>{{ if .IsHome }}{{ site.Title | plainify }}{{ else }}{{ .Title | emojify | plainify }} · {{ site.Title | plainify }}{{ end }}</title>
+    <link>{{ .Permalink }}</link>
+    <description>{{ partial "functions/description.html" . }}</description>
+    <generator>Hugo {{ hugo.Version }}</generator>
+    <language>{{ site.Language.Lang }}</language>
+    {{- with site.Copyright }}<copyright>{{ . | plainify }}</copyright>{{ end }}
+    {{- with index $pages 0 }}<lastBuildDate>{{ .Lastmod.Format "Mon, 02 Jan 2006 15:04:05 -0700" }}</lastBuildDate>{{ end }}
+    {{- with .OutputFormats.Get "rss" }}<atom:link href="{{ .Permalink }}" rel="self" type="application/rss+xml" />{{ end }}
+    {{- range $pages }}
+    <item>
+      <title>{{ .Title | emojify | plainify }}</title>
+      <link>{{ .Permalink }}</link>
+      <guid isPermaLink="true">{{ .Permalink }}</guid>
+      <pubDate>{{ .Date.Format "Mon, 02 Jan 2006 15:04:05 -0700" }}</pubDate>
+      <dc:creator>{{ site.Params.author.name }}</dc:creator>
+      {{- range .GetTerms "tags" }}<category>{{ .LinkTitle }}</category>{{ end }}
+      <description>{{ .Summary | plainify | htmlUnescape | html }}</description>
+      <content:encoded>{{ printf "<![CDATA[%s]]>" (.Content | replaceRE `(src|href)="/` (printf `$1="%s/` $base)) | safeHTML }}</content:encoded>
+    </item>
+    {{- end }}
+  </channel>
+</rss>

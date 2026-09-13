@@ -1,0 +1,23 @@
+<header class="site-header shell print:hidden">
+  <div class="brand">
+    <a class="wordmark" href="{{ site.Home.RelPermalink }}" rel="home">{{ site.Title | emojify }}</a>
+    {{- if not .IsHome }}
+    <nav class="crumbs mono" aria-label="Breadcrumb">
+      {{- /* Only the top-level section is shown (deep paths like blog/tweets/post
+             do not fit); the full chain is in the JSON-LD BreadcrumbList. */}}
+      {{- with .FirstSection }}{{ if and (not .IsHome) (ne . $) }}<span class="sep" aria-hidden="true">/</span><a href="{{ .RelPermalink }}">{{ .Title | emojify }}</a>{{ end }}{{ end }}
+      <span class="sep" aria-hidden="true">/</span><span class="here" aria-current="page">{{ .Title | emojify }}</span>
+    </nav>
+    {{- end }}
+  </div>
+  <nav class="site-nav mono" aria-label="Main">
+    {{- range site.Menus.main }}
+      {{- if eq .Params.action "search" }}
+        {{- if site.Params.enableSearch }}<button type="button" data-search-open aria-label="Search this site (press slash)">search <kbd>/</kbd></button>{{ end }}
+      {{- else if ne .Params.action "locale" }}
+    <a href="{{ .URL }}"{{ if or ($.IsMenuCurrent "main" .) ($.HasMenuCurrent "main" .) }} aria-current="page"{{ end }}>{{ .Name }}</a>
+      {{- end }}
+    {{- end }}
+    <button type="button" class="theme-toggle" aria-label="Switch appearance">theme</button>
+  </nav>
+</header>

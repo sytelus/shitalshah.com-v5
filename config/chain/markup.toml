@@ -1,0 +1,19 @@
+# -- Markup settings required by the chain theme --
+
+[goldmark]
+  [goldmark.parser]
+    wrapStandAloneImageWithinParagraph = false  # lets render-image.html emit <figure>
+    [goldmark.parser.attribute]
+      block = true                              # {.class} attributes on blocks
+  [goldmark.extensions]
+    [goldmark.extensions.passthrough]           # LaTeX math, rendered at build time
+      enable = true
+      [goldmark.extensions.passthrough.delimiters]
+        block = [['\[', '\]'], ['$$', '$$']]
+        inline = [['\(', '\)']]
+
+[highlight]
+  noClasses = false          # tokens as CSS classes; palette in themes/chain/assets/css/50-code.css
+  guessSyntax = false
+  lineNos = false
+  tabWidth = 4

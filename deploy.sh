@@ -2,12 +2,15 @@
 
 set -eu -o pipefail -o xtrace # fail if any command failes, log all commands, -o xtrace
 
+# Deploy with the Congo theme (default) or with THEME=chain ./deploy.sh
+source "$(dirname "$0")/theme-env.sh"
+
 pushd public
 git checkout master
 git pull
 popd
 
-hugo
+"$HUGO_BIN" ${HUGO_ARGS[@]+"${HUGO_ARGS[@]}"}
 
 # hugo removes the .git file from public/ folder so we restore it with the
 # backed up copy

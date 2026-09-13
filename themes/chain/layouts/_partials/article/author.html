@@ -1,0 +1,9 @@
+{{- $a := site.Params.author -}}
+<aside class="author-card">
+  {{- with $a.image }}{{ with resources.Get . }}{{ $i := .Fill "144x144 q85" }}<img src="{{ $i.RelPermalink }}" width="72" height="72" alt="{{ $a.name }}" loading="lazy">{{ end }}{{ end }}
+  <div>
+    <p class="name">{{ $a.name }}</p>
+    {{ with $a.bio }}<p>{{ . | markdownify }}</p>{{ end }}
+    <div class="links-row mono">{{ partial "author-links.html" . }}</div>
+  </div>
+</aside>

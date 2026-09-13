@@ -1,0 +1,45 @@
+# Theme defaults. Every key here can be overridden from the site's own
+# config/_default/params.toml. Keep this file as the single reference of
+# what the theme understands.
+
+[params]
+  # Typography & layout knobs (also exposed as CSS custom properties)
+  dateFormat = "2 January 2006"      # human date format used in meta rows
+  dateFormatShort = "Jan 2"          # compact date used in lists
+  mainSections = ["blog"]            # sections shown in "recent" and search
+  robots = "index, follow"           # default robots meta
+  enableSearch = true                # Fuse.js search over index.json ("/" to open)
+  enableCodeCopy = true              # "copy" button on code blocks
+  enableImageWebp = true             # emit WebP variants for page-resource images
+  imageSizes = [480, 800, 1200, 1600]# srcset widths for page-resource images
+  siteVersion = ""                   # shown in footer (site sets params.sitever)
+  recentLink = "/blog"               # target of the "more" link under recents
+
+  [params.homepage]
+    showRecent = true
+    recentLimit = 8
+
+  [params.article]
+    showDate = true
+    showDateUpdated = false
+    showReadingTime = true
+    showWordCount = true
+    showTaxonomies = true
+    showTableOfContents = true       # left rail TOC (needs >= 2 headings)
+    showHeadingAnchors = true
+    showComments = false             # needs a partials/comments.html in the site
+    showDownloadPdf = true           # client-side PDF via html2pdf.js
+    showSharing = true
+    sharingLinks = ["x-twitter", "reddit", "linkedin", "email"]
+    showHud = true                   # reading-progress HUD (bottom-right / top bar)
+    sidenotes = true                 # move footnotes into the right margin on wide screens
+    showPagination = true            # previous / next post links
+
+  [params.list]
+    groupByYear = true
+    showSummary = true               # summaries for long-form posts (never for tweets)
+
+  [params.footer]
+    showCopyright = true
+    showAppearanceSwitcher = true
+    showRss = true

@@ -1,0 +1,21 @@
+{{- $title := .Title | emojify | plainify -}}
+{{- $url := .Permalink -}}
+{{- $links := .Params.sharingLinks | default site.Params.article.sharingLinks -}}
+{{- if and $links (ne $links false) }}
+<div class="sharing mono">
+  <span>share</span>
+  {{- range $links }}
+  {{- if eq . "x-twitter" }}<a href="https://x.com/intent/post?text={{ $title }}&url={{ $url }}" rel="noopener" target="_blank">x</a>
+  {{- else if eq . "twitter" }}<a href="https://x.com/intent/post?text={{ $title }}&url={{ $url }}" rel="noopener" target="_blank">x</a>
+  {{- else if eq . "reddit" }}<a href="https://reddit.com/submit?url={{ $url }}&title={{ $title }}" rel="noopener" target="_blank">reddit</a>
+  {{- else if eq . "linkedin" }}<a href="https://www.linkedin.com/sharing/share-offsite/?url={{ $url }}" rel="noopener" target="_blank">linkedin</a>
+  {{- else if eq . "facebook" }}<a href="https://www.facebook.com/sharer/sharer.php?u={{ $url }}" rel="noopener" target="_blank">facebook</a>
+  {{- else if eq . "mastodon" }}<a href="https://mastodonshare.com/?text={{ $title }}&url={{ $url }}" rel="noopener" target="_blank">mastodon</a>
+  {{- else if eq . "bluesky" }}<a href="https://bsky.app/intent/compose?text={{ $title }}%20{{ $url }}" rel="noopener" target="_blank">bluesky</a>
+  {{- else if eq . "hackernews" }}<a href="https://news.ycombinator.com/submitlink?u={{ $url }}&t={{ $title }}" rel="noopener" target="_blank">hn</a>
+  {{- else if eq . "email" }}<a href="mailto:?subject={{ $title }}&body={{ $url }}">email</a>
+  {{- end }}
+  {{- end }}
+  <a href="{{ $url }}" title="Permalink">link</a>
+</div>
+{{- end }}

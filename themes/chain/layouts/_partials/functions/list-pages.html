@@ -1,0 +1,9 @@
+{{- /* The collection a list page paginates. Used by BOTH the body and <head>
+     (for canonical/prev/next), so they must call .Paginate with the very same
+     value — Hugo refuses to paginate the same page with different inputs. */ -}}
+{{- $pages := .Pages -}}
+{{- if .Params.flatten }}{{ $pages = .RegularPagesRecursive }}{{ end -}}
+{{- if partial "functions/list-opt.html" (dict "page" . "key" "groupByYear") -}}
+  {{- $pages = $pages.GroupByDate "2006" -}}
+{{- end -}}
+{{- return $pages -}}

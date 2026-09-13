@@ -1,0 +1,22 @@
+/* =============================================================================
+   Chain theme — 90 print (also used by the PDF download, which rasterises
+   the article with the screen stylesheet but ignores .print\:hidden)
+   ============================================================================= */
+@media print {
+  :root { --paper: #fff; --paper-2: #f4f4f4; --ink: #000; --ink-2: #222; --ink-3: #555; --rule: #bbb; --rust: #000; }
+  html { font-size: 11pt; }
+  body { background: #fff; color: #000; }
+  .site-header, .site-footer, .rail, .hud, .sharing, .neighbours, .comments, .skip,
+  .anchor, .pdf-link, .print\:hidden, dialog { display: none !important; }
+  .page { display: block; padding: 0; }
+  .page > .main { max-width: none; }
+  .prose a { color: #000; text-decoration: underline; }
+  .prose a.ext::after { content: " (" attr(href) ")"; font-size: .75em; vertical-align: baseline; color: #444; }
+  figure.code, .prose pre { border: 1px solid #bbb; break-inside: avoid; }
+  .prose img { max-height: 80vh; }
+  h1, h2, h3 { break-after: avoid; }
+  .footnotes.moved { display: block; }
+  .sidenote { display: none; }
+}
+/* Class used by both @media print and the PDF exporter's ignoreElements */
+.print\:hidden {}

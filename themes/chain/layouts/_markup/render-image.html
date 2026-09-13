@@ -1,0 +1,49 @@
+{{- /* Images.
+     Page-bundle images (jpg/png/webp/tiff) become responsive <picture>s with
+     WebP + original-format srcsets, intrinsic width/height (no layout shift),
+     lazy loading (except the first image), and a lightbox (figure.zoomable).
+     Remote images, SVG and GIF are emitted as-is with lazy loading. */ -}}
+{{- $u := urls.Parse .Destination -}}
+{{- $remote := or $u.IsAbs (hasPrefix .Destination "//") -}}
+{{- $src := "" -}}
+{{- if not $remote -}}
+  {{- $rel := strings.TrimPrefix "./" $u.Path -}}
+  {{- $src = .Page.Resources.GetMatch $rel -}}
+  {{- if not $src }}{{ with .Page.File }}{{ $src = resources.Get (path.Join .Dir $rel) }}{{ end }}{{ end -}}
+  {{- if not $src }}{{ $src = resources.Get (strings.TrimPrefix "/" $u.Path) }}{{ end -}}
+{{- end -}}
+{{- $alt := .PlainText -}}
+{{- $class := index .Attributes "class" -}}
+{{- $loading := cond (eq .Ordinal 0) "eager" "lazy" -}}
+{{- $sizes := "(min-width: 64em) 32rem, calc(100vw - 2rem)" -}}
+{{- $processable := and $src (in (slice "jpeg" "png" "webp" "tiff" "bmp") $src.MediaType.SubType) -}}
+{{- if $processable -}}
+  {{- $widths := slice -}}
+  {{- range site.Params.imageSizes }}{{ if lt . $src.Width }}{{ $widths = $widths | append . }}{{ end }}{{ end -}}
+  {{- $widths = $widths | append $src.Width -}}
+  {{- $fallback := slice -}}{{- $webp := slice -}}{{- $main := $src -}}
+  {{- range $widths -}}
+    {{- $r := $src -}}{{- if lt . $src.Width }}{{ $r = $src.Resize (printf "%dx q85" .) }}{{ end -}}
+    {{- $fallback = $fallback | append (printf "%s %dw" $r.RelPermalink $r.Width) -}}
+    {{- if site.Params.enableImageWebp }}{{ $w := $src.Resize (printf "%dx webp q80" .) }}{{ $webp = $webp | append (printf "%s %dw" $w.RelPermalink $w.Width) }}{{ end -}}
+    {{- if le . 1200 }}{{ $main = $r }}{{ end -}}
+  {{- end -}}
+  {{- $img := printf `<picture>%s<img src="%s" srcset="%s" sizes="%s" width="%d" height="%d" alt="%s" loading="%s" decoding="async" data-full="%s"%s></picture>`
+      (cond (gt (len $webp) 0) (printf `<source type="image/webp" srcset="%s" sizes="%s">` (delimit $webp ", ") $sizes) "")
+      $main.RelPermalink (delimit $fallback ", ") $sizes $main.Width $main.Height ($alt | htmlEscape) $loading $src.RelPermalink
+      (cond (ne $class nil) (printf ` class="%s"` $class) "") -}}
+  {{- if .IsBlock -}}
+<figure class="zoomable">{{ $img | safeHTML }}{{ with .Title }}<figcaption>{{ . | markdownify }}</figcaption>{{ end }}</figure>
+  {{- else -}}
+{{ $img | safeHTML }}
+  {{- end -}}
+{{- else -}}
+  {{- $dims := "" -}}
+  {{- if and $src (ne $src.MediaType.SubType "svg") }}{{ $dims = printf ` width="%d" height="%d"` $src.Width $src.Height }}{{ end -}}
+  {{- $img := printf `<img src="%s" alt="%s" loading="%s" decoding="async"%s%s>` (.Destination | safeURL) ($alt | htmlEscape) $loading $dims (cond (ne $class nil) (printf ` class="%s"` $class) "") -}}
+  {{- if .IsBlock -}}
+<figure>{{ $img | safeHTML }}{{ with .Title }}<figcaption>{{ . | markdownify }}</figcaption>{{ end }}</figure>
+  {{- else -}}
+{{ $img | safeHTML }}
+  {{- end -}}
+{{- end -}}

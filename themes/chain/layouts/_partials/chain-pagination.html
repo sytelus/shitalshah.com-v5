@@ -1,0 +1,23 @@
+{{- /* Numbered pagination: newer/older steps plus a window of page numbers
+     (first, last, and ±2 around the current page). Context: a Paginator. */ -}}
+{{- $p := . -}}
+{{- if gt $p.TotalPages 1 }}
+{{- $cur := $p.PageNumber }}{{ $total := $p.TotalPages }}
+<nav class="pagination mono" aria-label="Pagination">
+  <span class="step{{ if not $p.HasPrev }} off{{ end }}">{{ if $p.HasPrev }}<a href="{{ $p.Prev.URL }}" rel="prev">← newer</a>{{ else }}<a>← newer</a>{{ end }}</span>
+  <span class="pages">
+    {{- $last := 0 }}
+    {{- range $p.Pagers }}
+      {{- $n := .PageNumber }}
+      {{- $near := and (ge $n (sub $cur 2)) (le $n (add $cur 2)) }}
+      {{- if or (eq $n 1) (eq $n $total) $near }}
+        {{- if gt $n (add $last 1) }}<span class="gap" aria-hidden="true">…</span>{{ end }}
+        {{- if eq $n $cur }}<span class="cur" aria-current="page">{{ $n }}</span>
+        {{- else }}<a href="{{ .URL }}"{{ if not $near }} class="far"{{ end }}>{{ $n }}</a>{{ end }}
+        {{- $last = $n }}
+      {{- end }}
+    {{- end }}
+  </span>
+  <span class="step{{ if not $p.HasNext }} off{{ end }}">{{ if $p.HasNext }}<a href="{{ $p.Next.URL }}" rel="next">older →</a>{{ else }}<a>older →</a>{{ end }}</span>
+</nav>
+{{- end }}

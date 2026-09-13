@@ -1,0 +1,33 @@
+{{ define "main" }}
+{{- $opt := "functions/article-opt.html" -}}
+{{- $showToc := and (partial $opt (dict "page" . "key" "showTableOfContents")) (ge (strings.Count "<a " .TableOfContents) 2) -}}
+<div class="shell page{{ if not $showToc }} no-rail{{ end }}">
+  {{- if $showToc }}
+  <aside class="rail print:hidden"><div class="rail-inner">{{ partial "rail.html" . }}</div></aside>
+  {{- end }}
+  <article class="main" id="blog-content">
+    <header class="article-header">
+      {{- $n := len (.Title | plainify) }}
+      <h1 class="title{{ if gt $n 95 }} title--xlong{{ else if gt $n 55 }} title--long{{ end }}">{{ .Title | emojify }}</h1>
+      {{- with .Description }}<p class="desc">{{ . | markdownify }}</p>{{ end }}
+      {{ partial "article/meta.html" (dict "page" . "scope" "single") }}
+    </header>
+    <div class="prose">
+      {{ .Content }}
+    </div>
+    <footer class="article-footer print:hidden">
+      {{- if partial $opt (dict "page" . "key" "showSharing") }}{{ partial "article/sharing.html" . }}{{ end }}
+      {{- if partial $opt (dict "page" . "key" "showAuthor") }}{{ partial "article/author.html" . }}{{ end }}
+      {{- if partial $opt (dict "page" . "key" "showPagination") }}{{ partial "article/neighbours.html" . }}{{ end }}
+      {{- if partial $opt (dict "page" . "key" "showComments") }}
+        {{- if templates.Exists "_partials/comments.html" }}
+          {{- with partial "comments.html" . | strings.TrimSpace }}
+      <section class="comments" id="comments">{{ . | safeHTML }}</section>
+          {{- end }}
+        {{- end }}
+      {{- end }}
+    </footer>
+  </article>
+</div>
+{{ partial "hud.html" . }}
+{{ end }}

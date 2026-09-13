@@ -1,0 +1,9 @@
+{{- /* Fonts: preload the two faces needed for first paint. */}}
+<link rel="preload" as="font" type="font/woff2" href="{{ "fonts/Literata-Roman.woff2" | relURL }}" crossorigin>
+<link rel="preload" as="font" type="font/woff2" href="{{ "fonts/Fraunces-Roman.woff2" | relURL }}" crossorigin>
+{{- /* CSS: theme files in order, then the site's optional assets/css/custom.css. */}}
+{{- $css := slice }}
+{{- range (resources.Match "css/*.css") }}{{ $css = $css | append . }}{{ end }}
+{{- with resources.Get "css/chain-custom.css" }}{{ $css = $css | append . }}{{ end }}
+{{- $bundle := $css | resources.Concat "css/chain.css" | minify | fingerprint "sha256" }}
+<link rel="stylesheet" href="{{ $bundle.RelPermalink }}" integrity="{{ $bundle.Data.Integrity }}">

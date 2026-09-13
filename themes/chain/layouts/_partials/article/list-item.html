@@ -1,0 +1,15 @@
+{{- /* One node on the chain. dict: page, grouped (bool: year shown by a heading) */ -}}
+{{- $p := .page -}}
+{{- $fmt := cond .grouped (site.Params.dateFormatShort | default "Jan 2") "Jan 2, 2006" -}}
+<li class="{{ if $p.Params.is_tweet }}is-tweet{{ else }}is-essay{{ end }}">
+  <time datetime="{{ $p.Date.Format "2006-01-02" }}" title="{{ $p.Date | time.Format site.Params.dateFormat }}">{{ $p.Date | time.Format $fmt }}</time>
+  <div class="entry">
+    <h3 class="entry-title"><a href="{{ $p.RelPermalink }}">{{ $p.Title | emojify }}</a>{{ if $p.Draft }} <span class="badge mono">draft</span>{{ end }}</h3>
+    {{ partial "article/meta.html" (dict "page" $p "scope" "list") }}
+    {{- if and (not $p.Params.is_tweet) (partial "functions/list-opt.html" (dict "page" $p "key" "showSummary")) }}
+    {{- with $p.Summary | plainify | htmlUnescape | replaceRE `\s+` " " | strings.TrimSpace }}
+    <p class="summary">{{ . | truncate 220 "…" }}</p>
+    {{- end }}
+    {{- end }}
+  </div>
+</li>

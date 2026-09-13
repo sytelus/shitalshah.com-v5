@@ -1,0 +1,16 @@
+{{ define "main" }}
+<div class="shell page no-rail">
+  <div class="main">
+    <header class="article-header">
+      <h1 class="title">{{ .Title | emojify }}</h1>
+      {{- with .Description }}<p class="desc">{{ . | markdownify }}</p>{{ end }}
+    </header>
+    {{- with .Content }}<div class="prose">{{ . }}</div>{{ end }}
+    <ul class="terms">
+      {{- range .Data.Terms.ByCount }}
+      <li><a href="{{ .Page.RelPermalink }}">{{ .Page.Title }}</a><span class="count">{{ .Count }}</span></li>
+      {{- end }}
+    </ul>
+  </div>
+</div>
+{{ end }}

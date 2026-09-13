@@ -1,0 +1,3 @@
+User-agent: *
+{{ if eq site.Params.robots "noindex" }}Disallow: /{{ else }}Allow: /{{ end }}
+Sitemap: {{ "sitemap.xml" | absURL }}

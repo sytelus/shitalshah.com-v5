@@ -1,0 +1,37 @@
+# -- "chain" environment --
+# Builds the site with the alternative theme in themes/chain instead of Congo.
+# Everything here is merged over config/_default; nothing in _default changes.
+#
+#   hugo server --environment chain      preview
+#   THEME=chain ./view.sh                same, via the helper script
+#   THEME=chain ./deploy.sh              deploy with the chain theme
+#
+# Needs Hugo extended >= 0.146 (Congo needs <= 0.145; see README).
+
+theme = "chain"
+timeout = 120                 # image processing needs headroom
+enableEmoji = true            # :tada: in titles/content renders as an emoji
+summaryLength = 40            # words; used for list summaries and meta descriptions
+
+[pagination]
+  pagerSize = 25
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]   # JSON = search index (index.json)
+
+[services]
+  [services.googleAnalytics]
+    id = "G-3GMZGGS6LX"
+  [services.rss]
+    limit = 40
+
+[privacy]
+  [privacy.googleAnalytics]
+    respectDoNotTrack = true
+  [privacy.youtube]
+    privacyEnhanced = true
+  [privacy.x]
+    enableDNT = true
+
+[params]
+  sitever = "v6.0.0-chain"

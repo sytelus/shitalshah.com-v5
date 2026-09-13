@@ -1,0 +1,31 @@
+{{- /* Metadata row. dict: page, scope ("single" | "list"), grouped (bool) */ -}}
+{{- $p := .page -}}
+{{- $scope := .scope | default "single" -}}
+{{- $single := eq $scope "single" -}}
+{{- $isTweet := $p.Params.is_tweet -}}
+{{- $opt := "functions/article-opt.html" -}}
+{{- $tweetKinds := dict "post" "tweet" "thread" "thread" "retweet" "retweet" "reply" "reply" -}}
+<div class="meta mono">
+  {{- if and $single (partial $opt (dict "page" $p "key" "showDate")) (not $p.Date.IsZero) }}
+  <time datetime="{{ $p.Date.Format "2006-01-02" }}">{{ $p.Date | time.Format site.Params.dateFormat }}</time>
+  {{- end }}
+  {{- if and $single (partial $opt (dict "page" $p "key" "showDateUpdated")) (ne ($p.Date.Format "2006-01-02") ($p.Lastmod.Format "2006-01-02")) }}
+  <span>updated <time datetime="{{ $p.Lastmod.Format "2006-01-02" }}">{{ $p.Lastmod | time.Format site.Params.dateFormat }}</time></span>
+  {{- end }}
+  {{- if $isTweet }}
+  {{- $kind := index $tweetKinds (string ($p.Params.tweet_info.type | default "post")) | default "tweet" }}
+  <span>{{ $kind }}{{ if and $p.Params.tweet_info.is_thread (ne $kind "thread") }} · thread{{ end }}</span>
+  {{- if $single }}{{ with $p.Params.tweet_info.id }}<a class="ext" href="https://x.com/{{ site.Params.author.twitter | default "i" }}/status/{{ . }}" rel="noopener">original</a>{{ end }}{{ end }}
+  {{- else }}
+  {{- if and (partial $opt (dict "page" $p "key" "showReadingTime")) (gt $p.ReadingTime 0) }}<span>{{ $p.ReadingTime }} min read</span>{{ end }}
+  {{- if and $single (partial $opt (dict "page" $p "key" "showWordCount")) (gt $p.WordCount 0) }}<span>{{ $p.WordCount | lang.FormatNumber 0 }} words</span>{{ end }}
+  {{- end }}
+  {{- if and $single (partial $opt (dict "page" $p "key" "showTaxonomies")) }}
+  {{- range $p.GetTerms "tags" }}<a class="tag" href="{{ .RelPermalink }}">#{{ .LinkTitle | lower | replaceRE `\s+` "-" }}</a>{{ end }}
+  {{- end }}
+  {{- if and $single $p.Draft }}<span class="badge">draft</span>{{ end }}
+  {{- if and $single (not $isTweet) (partial $opt (dict "page" $p "key" "showDownloadPdf")) }}
+  {{- $name := $p.Slug }}{{ if not $name }}{{ with $p.File }}{{ $name = .ContentBaseName }}{{ end }}{{ end }}
+  <a href="#" class="pdf-link print:hidden" data-pdf-filename="{{ $name | default "post" }}.pdf" title="Download this post as a PDF">pdf ↓</a>
+  {{- end }}
+</div>

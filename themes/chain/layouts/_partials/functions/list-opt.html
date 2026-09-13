@@ -1,0 +1,5 @@
+{{- /* Same as article-opt but for params.list.* */ -}}
+{{- $k := lower .key -}}
+{{- $v := index site.Params.list $k -}}
+{{- if isset .page.Params $k }}{{ $v = index .page.Params $k }}{{ end -}}
+{{- return $v -}}

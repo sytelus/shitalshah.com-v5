@@ -1,0 +1,62 @@
+{{- /* JSON-LD structured data. Built as Go maps and serialised with jsonify so
+     quoting is always valid. Types: WebSite+Person (home), BlogPosting (posts),
+     ProfilePage (pages that use the profile shortcode), CollectionPage (lists),
+     plus BreadcrumbList everywhere but home. */}}
+{{- $p := .page -}}
+{{- $img := .image -}}
+{{- $desc := .description -}}
+{{- $a := site.Params.author -}}
+{{- $base := site.BaseURL -}}
+{{- $sameAs := slice -}}
+{{- range $a.links }}{{ range $k, $v := . }}{{ if not (hasPrefix $v "mailto:") }}{{ $sameAs = $sameAs | append $v }}{{ end }}{{ end }}{{ end -}}
+{{- $person := dict "@type" "Person" "@id" (printf "%s#person" $base) "name" $a.name "url" $base "sameAs" $sameAs -}}
+{{- with $a.bio }}{{ $person = merge $person (dict "description" (. | plainify)) }}{{ end -}}
+{{- with $a.jobTitle }}{{ $person = merge $person (dict "jobTitle" .) }}{{ end -}}
+{{- with $a.affiliation }}{{ $person = merge $person (dict "affiliation" (dict "@type" "Organization" "name" .)) }}{{ end -}}
+{{- with $a.image }}{{ with resources.Get . }}{{ $person = merge $person (dict "image" .Permalink) }}{{ end }}{{ end -}}
+{{- $website := dict "@type" "WebSite" "@id" (printf "%s#website" $base) "url" $base "name" (site.Title | plainify) "description" site.Params.description "inLanguage" (site.Language.Lang) "publisher" (dict "@id" (printf "%s#person" $base)) -}}
+{{- $graph := slice -}}
+
+{{- /* Breadcrumbs */ -}}
+{{- $crumbs := slice -}}
+{{- if not $p.IsHome -}}
+  {{- $pos := 1 -}}
+  {{- range $p.Ancestors.Reverse }}{{ if or .IsHome (and .File .File.Path) }}{{ $crumbs = $crumbs | append (dict "@type" "ListItem" "position" $pos "name" (cond .IsHome "Home" (.Title | emojify | plainify)) "item" .Permalink) }}{{ $pos = add $pos 1 }}{{ end }}{{ end -}}
+  {{- $crumbs = $crumbs | append (dict "@type" "ListItem" "position" $pos "name" ($p.Title | emojify | plainify)) -}}
+  {{- $graph = $graph | append (dict "@type" "BreadcrumbList" "itemListElement" $crumbs) -}}
+{{- end -}}
+
+{{- if $p.IsHome -}}
+  {{- $graph = $graph | append $website $person -}}
+{{- else if $p.IsPage -}}
+  {{- $isProfile := $p.HasShortcode "profile" -}}
+  {{- if $isProfile -}}
+    {{- $graph = $graph | append (dict "@type" "ProfilePage" "@id" $p.Permalink "url" $p.Permalink "name" ($p.Title | plainify) "description" $desc "mainEntity" $person "isPartOf" (dict "@id" (printf "%s#website" $base))) -}}
+  {{- else -}}
+    {{- $post := dict
+        "@type" "BlogPosting"
+        "@id" $p.Permalink
+        "url" $p.Permalink
+        "mainEntityOfPage" (dict "@type" "WebPage" "@id" $p.Permalink)
+        "headline" ($p.Title | emojify | plainify | truncate 110)
+        "name" ($p.Title | emojify | plainify)
+        "description" $desc
+        "inLanguage" (site.Language.Lang)
+        "author" (dict "@id" (printf "%s#person" $base))
+        "publisher" (dict "@id" (printf "%s#person" $base))
+        "isPartOf" (dict "@id" (printf "%s#website" $base))
+        "wordCount" $p.WordCount
+        "isAccessibleForFree" true
+    -}}
+    {{- if not $p.PublishDate.IsZero }}{{ $post = merge $post (dict "datePublished" ($p.PublishDate.Format "2006-01-02T15:04:05Z07:00")) }}{{ end -}}
+    {{- if not $p.Lastmod.IsZero }}{{ $post = merge $post (dict "dateModified" ($p.Lastmod.Format "2006-01-02T15:04:05Z07:00")) }}{{ end -}}
+    {{- with $img }}{{ $post = merge $post (dict "image" (dict "@type" "ImageObject" "url" .Permalink "width" .Width "height" .Height)) }}{{ end -}}
+    {{- with $p.GetTerms "tags" }}{{ $kw := slice }}{{ range . }}{{ $kw = $kw | append .LinkTitle }}{{ end }}{{ $post = merge $post (dict "keywords" $kw) }}{{ end -}}
+    {{- with site.GetPage $p.Section }}{{ $post = merge $post (dict "articleSection" (.Title | plainify)) }}{{ end -}}
+    {{- with $p.Params.tweet_info }}{{ with .id }}{{ $post = merge $post (dict "sameAs" (printf "https://x.com/%s/status/%s" ($a.twitter | default "i") .)) }}{{ end }}{{ end -}}
+    {{- $graph = $graph | append $post $person -}}
+  {{- end -}}
+{{- else -}}
+  {{- $graph = $graph | append (dict "@type" "CollectionPage" "@id" $p.Permalink "url" $p.Permalink "name" ($p.Title | emojify | plainify) "description" $desc "isPartOf" (dict "@id" (printf "%s#website" $base))) -}}
+{{- end -}}
+<script type="application/ld+json">{{ dict "@context" "https://schema.org" "@graph" $graph | jsonify | safeJS }}</script>

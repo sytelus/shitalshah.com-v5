@@ -1,0 +1,29 @@
+{{ define "main" }}
+{{- $all := where site.RegularPages "Section" "in" site.Params.mainSections -}}
+<div class="shell page no-rail wide">
+  <div class="main">
+    <section class="masthead">
+      <p class="kicker mono">{{ site.Params.author.name }}{{ with site.Params.author.jobTitle }} · {{ . }}{{ end }}{{ with site.Params.author.affiliation }}, {{ . }}{{ end }}</p>
+      <h1 class="headline">{{ site.Params.author.headline | default site.Title | markdownify }}</h1>
+      {{- with site.Params.author.bio }}<p class="bio">{{ . | markdownify }}</p>{{ end }}
+    </section>
+    {{- with .Content }}
+    <section class="prose intro">
+      {{- with $.Title }}<h2>{{ . | emojify }}</h2>{{ end }}
+      {{ . }}
+    </section>
+    {{- end }}
+    {{- if site.Params.homepage.showRecent }}
+    <section class="home-recent">
+      <h2 class="section-title">Recent <span class="mono">{{ len $all }} posts in the chain</span></h2>
+      <ol class="chain">
+        {{- range first (site.Params.homepage.recentLimit | default 8) $all }}
+        {{ partial "article/list-item.html" (dict "page" . "grouped" false) }}
+        {{- end }}
+      </ol>
+      <p class="more mono"><a href="{{ site.Params.recentLink | default "/blog" | relURL }}">all posts →</a></p>
+    </section>
+    {{- end }}
+  </div>
+</div>
+{{ end }}

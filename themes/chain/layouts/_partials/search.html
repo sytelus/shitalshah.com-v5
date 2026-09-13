@@ -1,0 +1,11 @@
+<dialog id="search" class="search" data-index="{{ "index.json" | relURL }}" aria-label="Search">
+  <div class="search-box">
+    <div class="field">
+      <span class="glyph" aria-hidden="true">/</span>
+      <input id="search-input" type="search" placeholder="search posts…" autocomplete="off" spellcheck="false" aria-label="Search query">
+      <span class="esc" aria-hidden="true">esc</span>
+    </div>
+    <ul id="search-results" class="search-results" aria-live="polite"></ul>
+    <div id="search-status" class="search-status" aria-live="polite"></div>
+  </div>
+</dialog>

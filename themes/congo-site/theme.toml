@@ -1,0 +1,6 @@
+# congo-site: this site's customisations of the Congo theme, packaged as a
+# Hugo theme component so they only apply when Congo is the active theme.
+# Used via  theme = ["congo-site", "congo"]  in config/_default/config.toml.
+name = "congo-site"
+description = "Site-level overrides for the Congo theme (footer, article meta, PDF link, comments, tweet shortcode, larger font)."
+min_version = "0.87.0"

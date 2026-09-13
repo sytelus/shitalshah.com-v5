@@ -1,0 +1,18 @@
+# -- Main menu for the chain theme --
+# The wordmark already links home, so there is no "Home" entry.
+
+[[main]]
+  name = "blog"
+  pageRef = "blog"
+  weight = 10
+
+[[main]]
+  name = "about"
+  pageRef = "misc/about"
+  weight = 30
+
+[[main]]
+  identifier = "search"
+  weight = 99
+  [main.params]
+    action = "search"

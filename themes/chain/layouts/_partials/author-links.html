@@ -1,0 +1,14 @@
+{{- /* Text links (no icon font) for site.Params.author.links.
+     Keys follow the Congo convention so the existing config keeps working;
+     add a label here for any new key, otherwise the key itself is shown. */ -}}
+{{- $labels := dict
+    "github" "github" "google-scholar" "scholar" "x-twitter" "x" "twitter" "twitter"
+    "stack-overflow" "stack overflow" "linkedin" "linkedin" "amazon" "wishlist"
+    "email" "email" "mastodon" "mastodon" "bluesky" "bluesky" "youtube" "youtube"
+    "orcid" "orcid" "researchgate" "researchgate" "medium" "medium" "reddit" "reddit"
+    "instagram" "instagram" "facebook" "facebook" "link" "website" "rss" "rss" -}}
+{{- range site.Params.author.links }}{{ range $k, $v := . }}
+  {{- $label := index $labels $k | default (replace $k "-" " ") -}}
+  {{- $mail := hasPrefix $v "mailto:" -}}
+<a href="{{ $v }}" rel="me{{ if not $mail }} noopener{{ end }}"{{ if not $mail }} class="ext"{{ end }}>{{ $label }}</a>
+{{- end }}{{ end }}

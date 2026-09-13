@@ -1,0 +1,38 @@
+# -- Theme options for "chain" (merged over config/_default/params.toml) --
+# Full list with defaults: themes/chain/hugo.toml. Congo-only keys in the
+# default params.toml are simply ignored by chain.
+
+titleSuffix = "Shital Shah"          # <title> becomes "Post title · Shital Shah"
+locale = "en_US"                      # og:locale
+dateFormatShort = "Jan 2"
+robots = "index, follow"
+enableImageWebp = true
+
+[seo]
+  generateCards = "essays"            # social-share images: "essays" | "all" | "none"
+
+[homepage]
+  recentLimit = 8
+
+[article]
+  showTableOfContents = true
+  showHeadingAnchors = true
+  showComments = true                 # Giscus, themes/chain/layouts/_partials/comments.html
+  showDownloadPdf = true
+  showSharing = true
+  showHud = true
+  sidenotes = true
+  showPagination = true
+
+[list]
+  groupByYear = true
+  showSummary = true
+
+[footer]
+  showRss = true
+  showThemeAttribution = false
+
+[author]
+  jobTitle = "Research Engineer"
+  affiliation = "Microsoft Research"
+  twitter = "sytelus"                 # handle without @; used for twitter:site and tweet links

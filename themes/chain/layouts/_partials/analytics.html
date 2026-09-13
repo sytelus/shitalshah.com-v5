@@ -1,0 +1,18 @@
+{{- /* Google Analytics 4. Reads services.googleAnalytics.id; skipped while
+     `hugo server` runs and honoured privacy.googleAnalytics.* settings. */ -}}
+{{- $id := site.Config.Services.GoogleAnalytics.ID -}}
+{{- if and $id (not hugo.IsServer) (not site.Config.Privacy.GoogleAnalytics.Disable) }}
+<script async src="https://www.googletagmanager.com/gtag/js?id={{ $id }}"></script>
+<script>
+  (function () {
+    {{ if site.Config.Privacy.GoogleAnalytics.RespectDoNotTrack -}}
+    var dnt = navigator.doNotTrack || window.doNotTrack || navigator.msDoNotTrack;
+    if (dnt == "1" || dnt == "yes") return;
+    {{- end }}
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', '{{ $id }}');
+  })();
+</script>
+{{- end }}

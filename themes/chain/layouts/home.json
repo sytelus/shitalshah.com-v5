@@ -1,0 +1,17 @@
+{{- /* Search index consumed by search.js (Fuse). Only main-section pages. */ -}}
+{{- $kinds := dict "post" "tweet" "thread" "thread" "retweet" "retweet" "reply" "reply" -}}
+{{- $idx := slice -}}
+{{- range where site.RegularPages "Section" "in" site.Params.mainSections -}}
+  {{- $kind := "essay" -}}
+  {{- if .Params.is_tweet }}{{ $kind = index $kinds (string (.Params.tweet_info.type | default "post")) | default "tweet" }}{{ end -}}
+  {{- $idx = $idx | append (dict
+      "title" (.Title | emojify | plainify)
+      "permalink" .RelPermalink
+      "date" (cond .Date.IsZero "" (.Date | time.Format "Jan 2, 2006"))
+      "kind" $kind
+      "tags" .Params.tags
+      "summary" (substr (.Summary | plainify | replaceRE `\s+` " " | htmlUnescape) 0 200)
+      "content" (substr (.Plain | replaceRE `\s+` " " | htmlUnescape) 0 3000)
+  ) -}}
+{{- end -}}
+{{- $idx | jsonify -}}

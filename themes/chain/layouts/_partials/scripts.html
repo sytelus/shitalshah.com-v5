@@ -1,0 +1,6 @@
+{{- $js := slice -}}
+{{- if site.Params.enableSearch }}{{ $js = $js | append (resources.Get "lib/fuse/fuse.min.js") (resources.Get "js/search.js") }}{{ end -}}
+{{- $js = $js | append (resources.Get "js/chain.js") (resources.Get "js/pdf-download.js") -}}
+{{- with resources.Get "js/custom.js" }}{{ $js = $js | append . }}{{ end -}}
+{{- $bundle := $js | resources.Concat "js/chain.js" | minify | fingerprint "sha256" -}}
+<script defer src="{{ $bundle.RelPermalink }}" integrity="{{ $bundle.Data.Integrity }}"></script>

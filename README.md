@@ -2,17 +2,65 @@
 
 ## Installing Hugo
 
-Currently, Hugo 0.146 is incompatible and the theme hasn't been updated to it, so install 0.145:
+Two Hugo binaries are used, because the two themes need different versions:
+
+* `hugo` = **0.145** for the Congo theme (the default). Congo has not been
+  updated for the template system introduced in Hugo 0.146, so newer
+  versions fail to build it.
+* `hugo-latest` = the **latest** Hugo for the alternative `chain` theme
+  (needs 0.146 or newer).
 
 ```bash
+# Congo: pinned 0.145 as `hugo`
 HUGO_VERSION=0.145.0
 curl -L -o /tmp/hugo.tar.gz \
   "https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_extended_${HUGO_VERSION}_Linux-64bit.tar.gz"
 tar -xzf /tmp/hugo.tar.gz -C /tmp hugo
 install -m 755 /tmp/hugo "$HOME/.local/bin/hugo"
 hugo version
+
+# chain: latest release as `hugo-latest`
+HUGO_VERSION=$(curl -sL https://api.github.com/repos/gohugoio/hugo/releases/latest | grep -m1 '"tag_name"' | sed -E 's/.*"v([^"]+)".*/\1/')
+curl -L -o /tmp/hugo.tar.gz \
+  "https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_extended_${HUGO_VERSION}_Linux-64bit.tar.gz"
+tar -xzf /tmp/hugo.tar.gz -C /tmp hugo
+install -m 755 /tmp/hugo "$HOME/.local/bin/hugo-latest"
+hugo-latest version
 ```
 
+Make sure `~/.local/bin` is on `PATH`. The scripts accept `HUGO_CONGO=…` and
+`HUGO_LATEST=…` to point at binaries elsewhere.
+
+## Themes
+
+The site can be built with either of two themes. Switching is configuration
+only: no content changes, and the two themes never share files.
+
+| | Congo (default) | chain |
+|---|---|---|
+| Theme folders | `themes/congo` (submodule) + `themes/congo-site` (this site's overrides) | `themes/chain` |
+| Configuration | `config/_default/` | `config/_default/` + `config/chain/` merged on top |
+| Hugo | `hugo` (0.145) | `hugo-latest` (>= 0.146) |
+| Preview | `./view.sh` | `THEME=chain ./view.sh` |
+| Deploy | `./deploy.sh` | `THEME=chain ./deploy.sh` |
+| By hand | `hugo server` | `hugo-latest server --environment chain` |
+
+How it is wired:
+
+* `config/_default/config.toml` sets `theme = ["congo-site", "congo"]`.
+  `themes/congo-site` is a tiny theme component holding what used to be the
+  site-level `layouts/` and `assets/` overrides for Congo (footer with site
+  version, article meta with the PDF link, Giscus comments, tweet shortcode,
+  the 18pt `custom.css`). Moving them there means they apply only when Congo
+  is active; the rendered output is byte-for-byte identical to before.
+* `config/chain/` is a Hugo [configuration environment](https://gohugo.io/configuration/introduction/#configuration-directory).
+  With `--environment chain` its files are merged over `config/_default/`
+  (theme name, markup settings, menu, theme params). Nothing in
+  `config/_default/` is chain-specific.
+* `theme-env.sh` (sourced by `view.sh` and `deploy.sh`) maps `THEME` to the
+  binary and arguments above.
+* Documentation for the chain theme: `themes/chain/README.md` (maintenance)
+  and `themes/chain/docs/DESIGN.md` (design rationale).
 
 ## How to recreate this website
 
@@ -26,12 +74,12 @@ git init
 git submodule add -b stable https://github.com/sytelus/congo.git themes/congo
 ```
 
-### Template Customizations
+### Template Customizations (Congo)
 
 * All of the *.toml from theme's `config/_default` is copied to `config/_default` and customized.
-* The `config.tom` is added with custom param `params.sitever` to save site version.
-* The`layouts/partials` in site directory overrides files in theme's `layouts` folder. Currently, only `footer.html` is the override and only change in there is to add copyright year and sitever. If `footer.html` changes in original theme then we need to sync override file.
-* The `assets/css/custom.css` added to increase font size.
+* The `config.toml` is added with custom param `params.sitever` to save site version.
+* This site's overrides of Congo templates live in `themes/congo-site/layouts/` (a theme component listed before `congo` in `theme = [...]`, so it wins). Currently: `_default/list.html`, `_default/single.html`, `partials/article-meta.html` (adds the PDF link), `partials/footer.html` (copyright year and sitever), `partials/get-pdf.html`, `partials/recent-articles.html`, `partials/comments.html`, `shortcodes/tweet.html`. If one of these changes in the original theme then we need to sync the override file.
+* `themes/congo-site/assets/css/custom.css` increases the font size; `assets/js/pdf-download.js` implements the PDF download.
 * The `static/_headers` is added to allow cross domain call to `index.json` so that search works when calling from `www.domain.com` instead of `domain.com`.
 
 ### Comments (Giscus)
@@ -40,8 +88,8 @@ Comments are powered by [Giscus](https://giscus.app/), which uses GitHub Discuss
 
 **Key files:**
 
-* `layouts/partials/comments.html` - Contains the Giscus embed script and exclusion logic
-* `layouts/_default/single.html` - Controls where comments appear in the page layout (after content, before sharing links)
+* `themes/congo-site/layouts/partials/comments.html` - Contains the Giscus embed script and exclusion logic (the chain theme has its own copy in `themes/chain/layouts/_partials/comments.html`)
+* `themes/congo-site/layouts/_default/single.html` - Controls where comments appear in the page layout (after content, before sharing links)
 * `config/_default/params.toml` - Global `showComments` setting under `[article]`
 
 **Configuration:**
@@ -57,7 +105,7 @@ Comments are powered by [Giscus](https://giscus.app/), which uses GitHub Discuss
 **To modify Giscus settings:**
 
 1. Visit [giscus.app](https://giscus.app/) to generate new configuration
-2. Update the script in `layouts/partials/comments.html`
+2. Update the script in `themes/congo-site/layouts/partials/comments.html` (and in `themes/chain/layouts/_partials/comments.html`)
 
 ## How to write content
 
@@ -83,7 +131,7 @@ This will create file `my-new-post.md` in folder `content/blog`. Append `YYYY-MM
 
 ### Manual Approach
 
-Create `.md` file and use markdowndown format ([sample](https://jpanther.github.io/congo/samples/markdown/), [sample markdown](https://raw.githubusercontent.com/jpanther/congo/refs/heads/dev/exampleSite/content/samples/markdown/index.md)). Note that the start of the markdown is called [front matter](https://jpanther.github.io/congo/docs/front-matter/) where all the post metadata goes. You can copy initial content from `archetypes/blog.md` template.
+Create `.md` file and use markdown format ([sample](https://jpanther.github.io/congo/samples/markdown/), [sample markdown](https://raw.githubusercontent.com/jpanther/congo/refs/heads/dev/exampleSite/content/samples/markdown/index.md)). Note that the start of the markdown is called [front matter](https://jpanther.github.io/congo/docs/front-matter/) where all the post metadata goes. You can copy initial content from `archetypes/blog.md` template.
 
 ### Tips
 
@@ -150,8 +198,8 @@ Reference:
 ## How to update content
 
 1. Make changes in content directory by adding/updating md file(s).
-2. Run `./view.sh` to preview the changes. You can additionally pass `-D --watch --poll 10000 --disableFastRender`. This will show draft changes due to `-D` switch which won't be published and suppress i18n warnings if any. The `--poll` is only needed if working on `/mnt` in WSL. Most of the time `--disableFastRender` is not really needed.
-3. If everything looks good, run `./deploy.sh` command which will generate static pages in public folder which is already mapped to GitHub Pages repo.
+2. Run `./view.sh` to preview the changes (`THEME=chain ./view.sh` for the chain theme). You can additionally pass `-D --watch --poll 10000 --disableFastRender`. This will show draft changes due to `-D` switch which won't be published and suppress i18n warnings if any. The `--poll` is only needed if working on `/mnt` in WSL. Most of the time `--disableFastRender` is not really needed.
+3. If everything looks good, run `./deploy.sh` command (`THEME=chain ./deploy.sh` deploys the chain theme) which will generate static pages in public folder which is already mapped to GitHub Pages repo.
 4. Commit and push the changes in `public` and then in main repo:
 
     ```bash

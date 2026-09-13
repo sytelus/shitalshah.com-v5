@@ -1,0 +1,90 @@
+/* =============================================================================
+   Chain theme — 00 tokens
+   Every visual decision funnels through these custom properties. Change a
+   colour or a font here and the whole site follows. Names are deliberately
+   "overly descriptive" (a nod to colors.lol) so the intent survives edits.
+   ============================================================================= */
+
+:root {
+  color-scheme: light;
+
+  /* ---- Paper & ink: light --------------------------------------------- */
+  --paper:      #F7F3EB;   /* unbleached notebook paper                       */
+  --paper-2:    #EEE8DB;   /* the sheet underneath (code, cards, hover)       */
+  --paper-3:    #E1D8C8;   /* tea-stained edge                                */
+  --rule:       #CFC5B3;   /* hairline drawn with a dry pen                   */
+  --rule-2:     #B9AE9A;   /* a firmer rule for boxes and controls            */
+  --ink:        #1C1A17;   /* fountain-pen ink, dried                         */
+  --ink-2:      #433E37;   /* ink read through thin paper (secondary text)    */
+  --ink-3:      #625A4F;   /* pencil annotation in the margin (muted, ≥ 6:1)  */
+  --rust:       #B4451C;   /* oxidised nail — the one accent                  */
+  --rust-2:     #8E3614;   /* the same nail, deeper (hover / active)          */
+  --verdigris:  #2E6E68;   /* old copper — inline code, strings, marks        */
+  --wash:       #E4ECEA;   /* verdigris diluted to a wash                     */
+  --selection:  #F1D8C8;   /* rust diluted to a wash                          */
+  --shadow: 0 1px 2px rgb(28 26 23 / .08), 0 14px 36px -14px rgb(28 26 23 / .28);
+
+  /* ---- Type -------------------------------------------------------------- */
+  --font-serif:   "Literata", "Iowan Old Style", "Palatino Linotype", "Book Antiqua", Georgia, serif, "Apple Color Emoji", "Segoe UI Emoji", "Noto Color Emoji";
+  --font-display: "Fraunces", "Literata", "Iowan Old Style", Georgia, serif, "Apple Color Emoji", "Segoe UI Emoji", "Noto Color Emoji";
+  --font-mono:    "JetBrains Mono", ui-monospace, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace;
+
+  /* Fluid base size: 18px on a phone → 22.5px on a desktop. Literata has a
+     large x-height, so 22px reads like 24px of a system sans.
+     --text-scale is the one knob to make *everything* bigger or smaller. */
+  --text-scale: 1;
+  --text:       clamp(1.125rem, 1rem + 0.6vw, 1.4rem);
+  --text-sm:    0.9em;
+  --text-xs:    0.82em;
+  --leading:    1.7;
+  --measure:    36em;      /* ≈ 75 characters of Literata per line            */
+  --para:       1.35em;    /* space between paragraphs                        */
+
+  /* ---- Layout ------------------------------------------------------------ */
+  --rail-w:    12rem;      /* left rail: table of contents                    */
+  --margin-w:  13rem;      /* right margin: sidenotes                         */
+  --gutter:    clamp(1rem, 4vw, 3rem);
+  --gap:       clamp(1.25rem, 2.5vw, 2.75rem);
+  --radius:    6px;
+  --ease:      cubic-bezier(.2, .7, .2, 1);
+}
+
+/* ---- Paper & ink: dark ----------------------------------------------------
+   Keep both blocks identical. The first honours the OS setting when the
+   visitor has not chosen; the second is the explicit toggle. */
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    color-scheme: dark;
+    --paper:      #181614;   /* blackboard after the eraser                  */
+    --paper-2:    #23201C;
+    --paper-3:    #302B26;
+    --rule:       #3F3933;
+    --rule-2:     #5A524A;
+    --ink:        #EDE6D9;   /* chalk                                        */
+    --ink-2:      #C4BBAC;
+    --ink-3:      #9E9587;
+    --rust:       #E5824F;   /* ember                                        */
+    --rust-2:     #F0A078;
+    --verdigris:  #74B7AF;
+    --wash:       #1E2B29;
+    --selection:  #3A2A22;
+    --shadow: 0 1px 2px rgb(0 0 0 / .4), 0 14px 36px -14px rgb(0 0 0 / .7);
+  }
+}
+:root[data-theme="dark"] {
+  color-scheme: dark;
+  --paper:      #181614;
+  --paper-2:    #23201C;
+  --paper-3:    #302B26;
+  --rule:       #3F3933;
+  --rule-2:     #5A524A;
+  --ink:        #EDE6D9;
+  --ink-2:      #C4BBAC;
+  --ink-3:      #9E9587;
+  --rust:       #E5824F;
+  --rust-2:     #F0A078;
+  --verdigris:  #74B7AF;
+  --wash:       #1E2B29;
+  --selection:  #3A2A22;
+  --shadow: 0 1px 2px rgb(0 0 0 / .4), 0 14px 36px -14px rgb(0 0 0 / .7);
+}

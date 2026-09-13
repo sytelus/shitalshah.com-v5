@@ -1,0 +1,7 @@
+{{- /* Boolean option lookup that respects an explicit `false` in front matter.
+     Usage: partial "functions/article-opt.html" (dict "page" . "key" "showDate")
+     Order: page front matter → site params.article.<key> → false. */ -}}
+{{- $k := lower .key -}}
+{{- $v := index site.Params.article $k -}}
+{{- if isset .page.Params $k }}{{ $v = index .page.Params $k }}{{ end -}}
+{{- return $v -}}

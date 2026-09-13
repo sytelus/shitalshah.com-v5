@@ -1,0 +1,18 @@
+<!doctype html>
+<html lang="{{ site.Language.Lang }}" dir="ltr" id="top">
+<head>
+{{ partial "head.html" . }}
+</head>
+<body data-sidenotes="{{ partial "functions/article-opt.html" (dict "page" . "key" "sidenotes") }}">
+<a class="skip" href="#main">skip to content</a>
+<div class="site">
+  {{ partial "header.html" . }}
+  <main id="main">
+    {{ block "main" . }}{{ end }}
+  </main>
+  {{ partial "footer.html" . }}
+</div>
+{{ if site.Params.enableSearch }}{{ partial "search.html" . }}{{ end }}
+{{ partial "scripts.html" . }}
+</body>
+</html>

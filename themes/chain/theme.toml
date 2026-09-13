@@ -1,0 +1,13 @@
+# Chain — a Hugo theme for shital.com
+name = "Chain"
+license = "MIT"
+licenselink = "https://github.com/sytelus/shitalshah.com-v5/blob/master/themes/chain/LICENSE"
+description = "A reading-first theme: warm paper and ink, a 'chain of thought' rail that tracks your place, sidenotes, self-hosted type, no images for decoration."
+homepage = "https://shital.com/"
+tags = ["blog", "minimal", "responsive", "dark mode", "typography", "seo", "sidenotes", "search"]
+features = ["search", "dark mode", "table of contents", "sidenotes", "syntax highlighting", "math", "pdf download", "comments", "seo", "rss"]
+min_version = "0.146.0"
+
+[author]
+  name = "Shital Shah"
+  homepage = "https://shital.com/"

@@ -1,0 +1,12 @@
+{{ define "main" }}
+<div class="shell page no-rail">
+  <div class="main notfound">
+    <p class="code" aria-hidden="true">404</p>
+    <header class="article-header"><h1 class="title">Page not found</h1></header>
+    <div class="prose">
+      <p>The page you asked for is not here. The link may be old, or the post may have moved.</p>
+      <p><a href="{{ site.Home.RelPermalink }}">Home</a> · <a href="{{ "blog" | relURL }}">All posts</a>{{ if site.Params.enableSearch }} · <button type="button" class="mono" data-search-open style="color:var(--rust)">search /</button>{{ end }}</p>
+    </div>
+  </div>
+</div>
+{{ end }}

@@ -1,0 +1,29 @@
+{{ define "main" }}
+{{- $pages := partial "functions/list-pages.html" . -}}
+{{- $pager := .Paginate $pages -}}
+{{- $grouped := partial "functions/list-opt.html" (dict "page" . "key" "groupByYear") -}}
+<div class="shell page no-rail">
+  <div class="main">
+    <header class="article-header">
+      <h1 class="title">{{ .Title | emojify }}</h1>
+      {{- with .Description }}<p class="desc">{{ . | markdownify }}</p>{{ end }}
+    </header>
+    {{- with .Content }}<div class="prose">{{ . }}</div>{{ end }}
+    {{- if gt $pager.TotalNumberOfElements 0 }}
+    <ol class="chain">
+      {{- if $grouped }}
+        {{- range $pager.PageGroups }}
+      <li class="chain-year"><h2 class="year">{{ .Key }}</h2></li>
+          {{- range .Pages }}{{ partial "article/list-item.html" (dict "page" . "grouped" true) }}{{ end }}
+        {{- end }}
+      {{- else }}
+        {{- range $pager.Pages }}{{ partial "article/list-item.html" (dict "page" . "grouped" false) }}{{ end }}
+      {{- end }}
+    </ol>
+    {{ partial "chain-pagination.html" $pager }}
+    {{- else if not .Content }}
+    <p class="muted"><em>Nothing here yet.</em></p>
+    {{- end }}
+  </div>
+</div>
+{{ end }}

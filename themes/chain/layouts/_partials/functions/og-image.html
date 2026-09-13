@@ -1,0 +1,29 @@
+{{- /* Social-share image for a page, in this order:
+       1. front matter `image` / `cover` / `feature` (a page resource or a URL)
+       2. the first image resource in the page bundle, cropped to 1200×630
+       3. a generated card: title set in Fraunces on the paper background
+          (only for long-form posts; tweets share the site card to keep the
+          deploy small — see params.seo.generateCards)
+       4. the site card (generated once from the site title)
+     Returns a resource (has .Permalink/.Width/.Height) or "" */ -}}
+{{- $p := . -}}
+{{- $img := "" -}}
+{{- $mode := site.Params.seo.generateCards | default "essays" -}}
+{{- with $p.Params.image | default $p.Params.cover | default $p.Params.feature -}}
+  {{- $img = $p.Resources.GetMatch . -}}
+  {{- if not $img }}{{ $img = resources.Get . }}{{ end -}}
+{{- end -}}
+{{- if and (not $img) $p.IsPage }}{{ with $p.Resources.ByType "image" }}{{ $img = index . 0 }}{{ end }}{{ end -}}
+{{- if and $img (ne $img.MediaType.SubType "svg") (ne $img.MediaType.SubType "gif") -}}
+  {{- $img = $img.Fill "1200x630 Center jpg q85" -}}
+{{- else if $img -}}
+  {{- $img = "" -}}
+{{- end -}}
+{{- if not $img -}}
+  {{- $title := cond $p.IsHome (site.Title | plainify) ($p.Title | plainify) -}}
+  {{- $useTitle := and (ne $mode "none") (or (eq $mode "all") (and $p.IsPage (not $p.Params.is_tweet))) -}}
+  {{- if not $useTitle }}{{ $title = site.Title | plainify }}{{ end -}}
+  {{- $img = partial "functions/social-card.html" $title -}}
+{{- end -}}
+{{- if not $img }}{{ with site.Params.author.image }}{{ $img = resources.Get . }}{{ end }}{{ end -}}
+{{- return $img -}}

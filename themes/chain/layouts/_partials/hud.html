@@ -1,0 +1,3 @@
+{{- if and (partial "functions/article-opt.html" (dict "page" . "key" "showHud")) (not .Params.is_tweet) }}
+<div class="hud print:hidden" data-minutes="{{ .ReadingTime }}" aria-hidden="true"><span class="bar"></span><span class="txt"></span></div>
+{{- end }}

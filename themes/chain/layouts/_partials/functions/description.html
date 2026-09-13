@@ -1,0 +1,9 @@
+{{- /* Meta description: front matter → summary → site description. ≤160 chars. */ -}}
+{{- $d := .Description -}}
+{{- if not $d -}}
+  {{- if .IsPage }}{{ $d = .Summary | plainify | htmlUnescape }}
+  {{- else if .IsHome }}{{ $d = site.Params.description }}
+  {{- else }}{{ $d = .Content | plainify | htmlUnescape }}{{ if not (strings.TrimSpace $d) }}{{ $d = printf "%s — %s" (.Title | plainify) site.Params.description }}{{ end }}{{ end -}}
+{{- end -}}
+{{- $d = $d | replaceRE `\s+` " " | strings.TrimSpace -}}
+{{- return ($d | truncate 160 "…") -}}

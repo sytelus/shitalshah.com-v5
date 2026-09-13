@@ -1,0 +1,8 @@
+{{- /* Embedded tweet. One widgets.js is loaded lazily by chain.js for the whole
+     page (the old shortcode injected a script per tweet). Without JS the
+     blockquote shows a plain link to the post. */ -}}
+{{- $user := .Get "user" | default site.Params.author.twitter -}}
+{{- $id := .Get "id" -}}
+<div class="tweet-embed">
+  <blockquote class="twitter-tweet" data-dnt="true" data-conversation="none"><a href="https://twitter.com/{{ $user }}/status/{{ $id }}">Post by @{{ $user }} on X</a></blockquote>
+</div>

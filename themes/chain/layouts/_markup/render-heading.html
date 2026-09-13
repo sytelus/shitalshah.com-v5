@@ -1,0 +1,2 @@
+{{- /* Headings get stable ids and a hover anchor ("#"). */ -}}
+<h{{ .Level }} id="{{ .Anchor | safeURL }}"{{ range $k, $v := .Attributes }}{{ if ne $k "id" }} {{ $k }}="{{ $v }}"{{ end }}{{ end }}>{{ .Text }}{{ if site.Params.article.showHeadingAnchors }}<a class="anchor" href="#{{ .Anchor | safeURL }}" aria-label="Link to this section">#</a>{{ end }}</h{{ .Level }}>

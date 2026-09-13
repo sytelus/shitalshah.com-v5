@@ -1,0 +1,9 @@
+{{- /* Previous / next within the same section. Hugo's "Next" is the newer page. */ -}}
+{{- $newer := .NextInSection -}}
+{{- $older := .PrevInSection -}}
+{{- if or $newer $older }}
+<nav class="neighbours" aria-label="Neighbouring posts">
+  <div class="prev">{{ with $older }}<a href="{{ .RelPermalink }}" rel="prev"><span class="label mono">← older</span><span class="ttl">{{ .Title | emojify }}</span></a>{{ end }}</div>
+  <div class="next">{{ with $newer }}<a href="{{ .RelPermalink }}" rel="next"><span class="label mono">newer →</span><span class="ttl">{{ .Title | emojify }}</span></a>{{ end }}</div>
+</nav>
+{{- end }}

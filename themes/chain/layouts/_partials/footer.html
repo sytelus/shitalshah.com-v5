@@ -1,0 +1,18 @@
+<footer class="site-footer shell mono print:hidden">
+  <div class="row">
+    {{- if site.Params.footer.showCopyright }}
+    <span>&copy; {{ now.Year }} {{ with site.Copyright }}{{ . | markdownify | emojify }}{{ else }}{{ site.Params.author.name }}{{ end }}</span>
+    {{- end }}
+    {{- with site.Params.sitever }}<span class="sep" aria-hidden="true">·</span><span title="site version">{{ . }}</span>{{ end }}
+    {{- if site.Params.footer.showThemeAttribution }}<span class="sep" aria-hidden="true">·</span><span><a href="https://gohugo.io/">hugo</a> + chain</span>{{ end }}
+  </div>
+  <div class="row">
+    {{- if site.Params.footer.showRss }}{{ with site.Home.OutputFormats.Get "rss" }}<a href="{{ .RelPermalink }}" title="RSS feed">rss</a>{{ end }}{{ end }}
+    <a href="#top">↑ top</a>
+    {{- if site.Params.footer.showAppearanceSwitcher }}<button type="button" class="theme-toggle" aria-label="Switch appearance">theme</button>{{ end }}
+  </div>
+  <div class="row links">
+    {{ partial "author-links.html" . }}
+  </div>
+  {{ if templates.Exists "_partials/extend-footer.html" }}{{ partial "extend-footer.html" . }}{{ end }}
+</footer>

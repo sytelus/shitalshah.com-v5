@@ -1,0 +1,20 @@
+{{- /* Build a 1200×630 card: paper background, title in Fraunces, a mono
+     footer with the author and host. Cached by Hugo per distinct title. */ -}}
+{{- $title := . | replaceRE `:[a-z0-9_+-]+:` "" | strings.TrimSpace -}}
+{{- $out := "" -}}
+{{- $base := resources.Get "og/paper.png" -}}
+{{- $canvas := resources.Get "og/canvas.png" -}}
+{{- $fontT := resources.Get "og/Fraunces-SemiBold.ttf" -}}
+{{- $fontM := resources.Get "og/JetBrainsMono-Medium.ttf" -}}
+{{- if and $base $canvas $fontT $fontM -}}
+  {{- $n := len $title -}}
+  {{- $size := 66 -}}
+  {{- if gt $n 48 }}{{ $size = 56 }}{{ end -}}
+  {{- if gt $n 80 }}{{ $size = 46 }}{{ end -}}
+  {{- if gt $n 130 }}{{ $size = 38 }}{{ end -}}
+  {{- $text := $canvas.Filter (images.Text $title (dict "color" "#1C1A17" "size" $size "linespacing" (div $size 6) "x" 0 "y" 0 "font" $fontT)) -}}
+  {{- $host := site.BaseURL | replaceRE `^https?://` "" | strings.TrimSuffix "/" -}}
+  {{- $foot := $canvas.Filter (images.Text (printf "%s  ·  %s" site.Params.author.name $host) (dict "color" "#6B6357" "size" 26 "x" 0 "y" 0 "font" $fontM)) -}}
+  {{- $out = $base.Filter (images.Overlay $text 150 130) (images.Overlay $foot 150 548) -}}
+{{- end -}}
+{{- return $out -}}

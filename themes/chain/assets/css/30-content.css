@@ -1,0 +1,192 @@
+/* =============================================================================
+   Chain theme — 30 content: article header, prose, media
+   ============================================================================= */
+
+/* ---- Article header -------------------------------------------------------- */
+.article-header { margin-bottom: 2.6rem; }
+.article-header .title {
+  font-family: var(--font-display); font-weight: 700;
+  font-size: clamp(1.7rem, 1.25rem + 1.3vw, 2.4rem);
+  line-height: 1.12; letter-spacing: -0.012em;
+  margin: 0 0 1rem; text-wrap: balance; color: var(--ink);
+}
+/* Long titles step down so they stay 2–3 lines (class set in page.html by length). */
+.article-header .title.title--long   { font-size: clamp(1.5rem, 1.15rem + 1vw, 1.95rem); line-height: 1.18; }
+.article-header .title.title--xlong  { font-size: clamp(1.35rem, 1.1rem + .8vw, 1.65rem); line-height: 1.22; }
+.article-header .title a { color: inherit; text-decoration: none; }
+.article-header .title a:hover { color: var(--rust); }
+.article-header .desc { font-size: 1.12em; color: var(--ink-2); margin: 0 0 .8rem; font-weight: 350; }
+
+/* Metadata row — gwern-style block, mono, dot separated */
+.meta {
+  display: flex; flex-wrap: wrap; align-items: baseline; gap: .5em .9em;
+  margin: 0; color: var(--ink-2); line-height: 1.6;
+}
+.meta > * { margin: 0; }
+.meta > * + *::before { content: "·"; color: var(--rule-2); margin-right: .9em; }
+.meta a { color: inherit; text-decoration: none; border-bottom: 1px solid var(--rule-2); }
+.meta a:hover { color: var(--rust); border-bottom-color: var(--rust); }
+.badge {
+  display: inline-block; padding: 0 .45em; border: 1px solid var(--rust); border-radius: 3px;
+  color: var(--rust); text-transform: uppercase; letter-spacing: .08em; font-size: .85em;
+}
+
+/* ---- Prose ------------------------------------------------------------------ */
+.prose { font-size: 1em; }
+.prose > * + * { margin-top: var(--para); }
+.prose p { margin: 0; }
+.prose p + p { margin-top: var(--para); }
+
+.prose h2, .prose h3, .prose h4, .prose h5, .prose h6 {
+  font-family: var(--font-display); color: var(--ink); line-height: 1.2; letter-spacing: -0.01em;
+  margin-bottom: .55em; text-wrap: balance; scroll-margin-top: 1.5rem;
+}
+.prose h2 { font-size: 1.5em; font-weight: 600; margin-top: 2.6em; padding-top: 1em; border-top: 1px solid var(--rule); }
+.prose h3 { font-size: 1.22em; font-weight: 600; margin-top: 2.2em; }
+.prose h4 { font-size: 1.05em; font-weight: 700; margin-top: 1.9em; font-family: var(--font-serif); }
+.prose h5, .prose h6 {
+  font-family: var(--font-mono); font-size: var(--text-xs); font-weight: 600;
+  text-transform: uppercase; letter-spacing: .08em; color: var(--ink-2); margin-top: 1.8em;
+}
+.prose h2 + *, .prose h3 + *, .prose h4 + * { margin-top: 0; }
+.prose h2:first-child { margin-top: 0; padding-top: 0; border-top: 0; }
+
+/* Heading anchors: appear on hover, always faintly visible on touch */
+.anchor {
+  font-family: var(--font-mono); font-weight: 400; font-size: .7em;
+  color: var(--ink-3); text-decoration: none; margin-left: .45em; opacity: 0;
+  transition: opacity .15s var(--ease), color .15s var(--ease);
+}
+h2:hover > .anchor, h3:hover > .anchor, h4:hover > .anchor, h5:hover > .anchor, h6:hover > .anchor,
+.anchor:focus-visible { opacity: 1; }
+.anchor:hover { color: var(--rust); }
+@media (hover: none) { .anchor { opacity: .45; } }
+
+/* Links: ink text, rust underline; external links get a mono arrow */
+.prose a, .lead a, .profile a {
+  color: var(--ink);
+  text-decoration: underline; text-decoration-color: var(--rust);
+  text-decoration-thickness: 1.5px; text-underline-offset: .18em;
+  transition: color .15s var(--ease);
+}
+.prose a:hover, .lead a:hover, .profile a:hover { color: var(--rust); text-decoration-thickness: 2px; }
+a.ext::after {
+  content: "↗"; font-family: var(--font-mono); font-size: .72em; font-weight: 600;
+  vertical-align: .3em; margin-left: .15em; color: var(--ink-3); text-decoration: none; display: inline-block;
+}
+a.ext:hover::after { color: var(--rust); }
+a.ext > img + ::after { content: none; }
+
+.prose strong { font-weight: 650; }
+.prose em { font-style: italic; }
+.prose small { font-size: var(--text-sm); }
+.prose mark { background: var(--wash); color: inherit; padding: 0 .15em; border-radius: 2px; }
+.prose abbr[title] { text-decoration: underline dotted; text-decoration-color: var(--ink-3); cursor: help; }
+.prose kbd {
+  font-family: var(--font-mono); font-size: .78em; padding: .05em .4em;
+  border: 1px solid var(--rule); border-bottom-width: 2px; border-radius: 3px; background: var(--paper-2);
+}
+
+.prose ul, .prose ol { padding-left: 1.5em; }
+.prose li { margin: .5em 0; }
+.prose li::marker { color: var(--rust); }
+.prose ul ul, .prose ol ol, .prose ul ol, .prose ol ul { margin-top: .3em; }
+.prose li > p { margin: 0; }
+.prose li > p + p { margin-top: .6em; }
+.prose dt { font-weight: 650; }
+.prose dd { margin: .2em 0 .8em 1.5em; }
+
+.prose blockquote {
+  margin: 1.6em 0; padding: .3em 0 .3em 1.2em;
+  border-left: 3px solid var(--rust); color: var(--ink-2);
+}
+.prose blockquote > * + * { margin-top: .8em; }
+.prose blockquote cite { display: block; margin-top: .5em; font-family: var(--font-mono); font-size: var(--text-xs); font-style: normal; color: var(--ink-3); }
+
+/* Section break: an asterism instead of a line */
+.prose hr { border: 0; margin: 2.6em 0; text-align: center; color: var(--ink-3); line-height: 1; }
+.prose hr::before { content: "⁂"; font-size: 1.2em; letter-spacing: .3em; }
+
+/* Inline code */
+.prose code, .lead code {
+  font-family: var(--font-mono); font-size: .88em; font-variant-ligatures: none;
+  color: var(--verdigris); background: var(--paper-2); border: 1px solid var(--rule);
+  padding: .08em .4em; border-radius: 4px; overflow-wrap: anywhere;
+}
+.prose pre code { color: inherit; background: none; border: 0; padding: 0; font-size: inherit; }
+.prose a code { color: inherit; }
+
+/* Figures and images */
+.prose figure { margin: 2em 0; }
+.prose figure img, .prose > p > img, .prose img {
+  display: block; max-width: 100%; height: auto; margin-inline: auto;
+  border-radius: 4px; border: 1px solid var(--rule);
+}
+.prose figure.zoomable img { cursor: zoom-in; }
+.prose figcaption, .prose .caption {
+  margin-top: .6em; text-align: center;
+  font-family: var(--font-mono); font-size: var(--text-xs); color: var(--ink-3); line-height: 1.5;
+}
+.prose figcaption a { color: inherit; }
+.prose picture { display: contents; }
+
+/* Tables */
+.table-wrap { overflow-x: auto; margin: 1.6em 0; -webkit-overflow-scrolling: touch; }
+.prose table { border-collapse: collapse; width: 100%; font-size: var(--text-sm); line-height: 1.45; }
+.prose th {
+  text-align: left; font-family: var(--font-mono); font-size: .82em; font-weight: 600;
+  text-transform: uppercase; letter-spacing: .06em; color: var(--ink-2);
+  padding: .5em .75em; border-bottom: 1px solid var(--ink);
+}
+.prose td { padding: .6em .75em; border-bottom: 1px solid var(--rule); vertical-align: top; }
+.prose tr:hover td { background: var(--paper-2); }
+
+/* Footnotes (Goldmark output) */
+.footnotes { margin-top: 3em; font-size: var(--text-sm); color: var(--ink-2); }
+.footnotes hr { display: none; }
+.footnotes::before { content: "notes"; display: block; font-family: var(--font-mono); font-size: var(--text-xs); color: var(--ink-3); letter-spacing: .04em; padding-top: .8em; border-top: 1px solid var(--rule); }
+.footnotes ol { padding-left: 1.4em; margin: .6em 0 0; }
+.footnotes li { margin: .4em 0; }
+.footnotes li p { display: inline; }
+.footnote-ref { font-family: var(--font-mono); font-size: .7em; text-decoration: none; color: var(--rust); padding: 0 .1em; }
+.footnote-ref:hover { color: var(--rust-2); text-decoration: none; }
+.footnote-backref { font-family: var(--font-mono); text-decoration: none; margin-left: .3em; color: var(--ink-3); }
+.footnotes.moved { display: none; }
+
+/* Sidenotes (footnotes moved into the right margin by chain.js on ≥88em) */
+.sidenote { display: none; }
+@media (min-width: 88em) {
+  .sidenote {
+    display: block; float: right; clear: right;
+    width: var(--margin-w); margin-right: calc(-1 * (var(--margin-w) + var(--gap)));
+    margin-top: .3em; margin-bottom: .8em;
+    font-size: var(--text-sm); line-height: 1.5; color: var(--ink-2);
+  }
+  .sidenote .sn-num { font-family: var(--font-mono); font-size: var(--text-xs); color: var(--rust); margin-right: .4em; }
+  .sidenote p { display: inline; margin: 0; }
+  .sidenote .footnote-backref { display: none; }
+  .sidenote.is-active { color: var(--ink); }
+}
+
+/* Lead paragraph (shortcode) */
+.lead {
+  font-size: 1.18em; line-height: 1.6; font-style: italic; font-weight: 400;
+  color: var(--ink-2); margin: 0 0 1.4em; text-wrap: pretty;
+}
+
+/* Details / summary in content */
+.prose details { border: 1px solid var(--rule-2); border-radius: var(--radius); padding: .6em 1em; }
+.prose summary { cursor: pointer; font-family: var(--font-mono); font-size: var(--text-xs); color: var(--ink-2); }
+
+/* Math (KaTeX server-rendered) */
+.katex-display { overflow-x: auto; overflow-y: hidden; padding: .4em 0; }
+.katex { font-size: 1.05em; }
+
+/* Embeds */
+.prose iframe { border: 0; border-radius: 3px; }
+.tweet-embed { margin: 1.6em auto; max-width: 550px; }
+.tweet-embed .twitter-tweet { margin: 0 auto; }
+.tweet-embed blockquote.twitter-tweet:not(.twitter-tweet-rendered) {
+  border-left: 3px solid var(--rust); padding: .15em 0 .15em 1.15em; color: var(--ink-2);
+}
+.tweet-embed blockquote.twitter-tweet:not(.twitter-tweet-rendered) a { font-family: var(--font-mono); font-size: var(--text-xs); }
