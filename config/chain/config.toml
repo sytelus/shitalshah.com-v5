@@ -4,7 +4,9 @@
 #
 #   hugo server --environment chain      preview
 #   THEME=chain ./view.sh                same, via the helper script
-#   THEME=chain ./deploy.sh              deploy with the chain theme
+#
+# deploy.sh does not select themes from environment variables. Production uses
+# the theme declared by the production configuration.
 #
 # Needs Hugo extended >= 0.146 (Congo needs <= 0.145; see README).
 

@@ -28,8 +28,10 @@ install -m 755 /tmp/hugo "$HOME/.local/bin/hugo-latest"
 hugo-latest version
 ```
 
-Make sure `~/.local/bin` is on `PATH`. The scripts accept `HUGO_CONGO=…` and
-`HUGO_LATEST=…` to point at binaries elsewhere.
+Make sure `~/.local/bin` is on `PATH`. `view.sh` accepts `HUGO_CONGO=…` and
+`HUGO_LATEST=…` to point at preview binaries elsewhere. `deploy.sh` accepts
+`HUGO_DEPLOY=…` to override its default `hugo` binary, but it never accepts a
+theme override.
 
 ## Themes
 
@@ -42,7 +44,7 @@ only: no content changes, and the two themes never share files.
 | Configuration | `config/_default/` | `config/_default/` + `config/chain/` merged on top |
 | Hugo | `hugo` (0.145) | `hugo-latest` (>= 0.146) |
 | Preview | `./view.sh` | `THEME=chain ./view.sh` |
-| Deploy | `./deploy.sh` | `THEME=chain ./deploy.sh` |
+| Deploy | `./deploy.sh` reads the production config | Preview only; change the production config before deploying |
 | By hand | `hugo server` | `hugo-latest server --environment chain` |
 
 How it is wired:
@@ -57,8 +59,12 @@ How it is wired:
   With `--environment chain` its files are merged over `config/_default/`
   (theme name, markup settings, menu, theme params). Nothing in
   `config/_default/` is chain-specific.
-* `theme-env.sh` (sourced by `view.sh` and `deploy.sh`) maps `THEME` to the
+* `theme-env.sh` is sourced only by `view.sh` and maps `THEME` to the preview
   binary and arguments above.
+* `deploy.sh` ignores `THEME` and forces Hugo's `production` environment. The
+  deployed theme therefore always comes from the production configuration. It
+  also cleans the destination so assets from a previously generated theme do
+  not remain in `public/`.
 * Documentation for the chain theme: `themes/chain/README.md` (maintenance)
   and `themes/chain/docs/DESIGN.md` (design rationale).
 
@@ -199,7 +205,7 @@ Reference:
 
 1. Make changes in content directory by adding/updating md file(s).
 2. Run `./view.sh` to preview the changes (`THEME=chain ./view.sh` for the chain theme). You can additionally pass `-D --watch --poll 10000 --disableFastRender`. This will show draft changes due to `-D` switch which won't be published and suppress i18n warnings if any. The `--poll` is only needed if working on `/mnt` in WSL. Most of the time `--disableFastRender` is not really needed.
-3. If everything looks good, run `./deploy.sh` command (`THEME=chain ./deploy.sh` deploys the chain theme) which will generate static pages in public folder which is already mapped to GitHub Pages repo.
+3. If everything looks good, run `./deploy.sh`. It generates the site using the theme declared by the production configuration and publishes the static pages from the `public` folder, which is already mapped to the GitHub Pages repository. `THEME` only affects previews and is ignored during deployment.
 4. Commit and push the changes in `public` and then in main repo:
 
     ```bash

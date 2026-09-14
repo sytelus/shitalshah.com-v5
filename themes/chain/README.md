@@ -1,4 +1,4 @@
-# Chain — the theme behind shital.com
+# Chain — an alternate theme for shital.com
 
 Chain is a reading-first Hugo theme built for this site. Warm paper and ink,
 three self-hosted typefaces, a "chain of thought" rail that tracks where you
@@ -23,9 +23,12 @@ root:
 
 ```bash
 THEME=chain ./view.sh                          # preview
-THEME=chain ./deploy.sh                        # deploy
 hugo-latest server --environment chain         # by hand
 ```
+
+`THEME` is intentionally limited to previewing. The site's `deploy.sh` always
+uses the theme declared by the production Hugo configuration; Chain must be
+promoted there explicitly before it can be deployed.
 
 Nothing in `config/_default/`, `content/`, `static/` or the site root is
 chain-specific; everything the theme needs is in `themes/chain/` and
@@ -245,7 +248,8 @@ page and long-form posts.
 
 ```bash
 THEME=chain ./view.sh                                   # http://localhost:1313, live reload
-hugo-latest --environment chain --printPathWarnings     # build into public/
+hugo-latest --environment chain --printPathWarnings \
+  --destination /tmp/shital-chain-build --cleanDestinationDir
 ```
 
 Check at least: home, `/blog/`, a long post with images and code

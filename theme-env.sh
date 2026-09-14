@@ -1,6 +1,7 @@
 #!/bin/bash
-# Sourced by view.sh and deploy.sh. Picks the Hugo binary and the config
-# environment for the selected theme.
+# Sourced by view.sh. Picks the Hugo binary and configuration environment for
+# local preview only. deploy.sh deliberately ignores THEME and reads the theme
+# from the production Hugo configuration.
 #
 #   THEME=congo (default)  -> `hugo` (0.145; Congo does not build on >= 0.146)
 #   THEME=chain            -> `hugo-latest` (>= 0.146) with --environment chain
