@@ -2,15 +2,17 @@
 
 set -eu -o pipefail -o xtrace # fail if any command failes, log all commands, -o xtrace
 
-# Production always uses the theme declared by the production Hugo config.
-# THEME is intentionally a preview-only convenience used by view.sh.
+# Production always uses the theme declared by this repository's production
+# Hugo config. THEME is a preview-only convenience used by view.sh, while
+# HUGO_THEME is Hugo's own theme override; neither may affect deployment.
 HUGO_BIN="${HUGO_DEPLOY:-hugo}"
 if ! command -v "$HUGO_BIN" >/dev/null 2>&1; then
     echo "Hugo binary '$HUGO_BIN' not found on PATH (see README: Installing Hugo)" >&2
     exit 1
 fi
+unset THEME HUGO_THEME
 
-CONFIGURED_THEME=$("$HUGO_BIN" config --environment production | sed -n 's/^theme = //p')
+CONFIGURED_THEME=$("$HUGO_BIN" config --configDir config --environment production | sed -n 's/^theme = //p')
 echo "Deploying production theme from config: ${CONFIGURED_THEME:-<not set>}"
 
 pushd public
@@ -18,7 +20,7 @@ git checkout master
 git pull
 popd
 
-"$HUGO_BIN" --environment production --cleanDestinationDir
+"$HUGO_BIN" --configDir config --environment production --cleanDestinationDir
 
 # hugo removes the .git file from public/ folder so we restore it with the
 # backed up copy

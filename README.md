@@ -61,10 +61,11 @@ How it is wired:
   `config/_default/` is chain-specific.
 * `theme-env.sh` is sourced only by `view.sh` and maps `THEME` to the preview
   binary and arguments above.
-* `deploy.sh` ignores `THEME` and forces Hugo's `production` environment. The
-  deployed theme therefore always comes from the production configuration. It
-  also cleans the destination so assets from a previously generated theme do
-  not remain in `public/`.
+* `deploy.sh` ignores both `THEME` and Hugo's native `HUGO_THEME` override,
+  pins this repository's `config/` directory, and forces Hugo's `production`
+  environment. The deployed theme therefore always comes from the production
+  configuration. It also cleans the destination so assets from a previously
+  generated theme do not remain in `public/`.
 * Documentation for the chain theme: `themes/chain/README.md` (maintenance)
   and `themes/chain/docs/DESIGN.md` (design rationale).
 
