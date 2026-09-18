@@ -1,0 +1,511 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#5b3df5">
+  <meta name="description" content="Remove unwanted line breaks and extra spaces from prompts copied out of terminal and console windows.">
+  <title>Clean Prompt — Fix copied console text</title>
+  <style>
+    :root {
+      color-scheme: light;
+      --ink: #17152a;
+      --muted: #655f78;
+      --page: #f5f2ff;
+      --panel: rgba(255, 255, 255, 0.88);
+      --field: #fbfaff;
+      --line: #dcd5ef;
+      --primary: #5b3df5;
+      --primary-hover: #482bd7;
+      --primary-soft: #e9e4ff;
+      --accent: #e72f79;
+      --success: #087f5b;
+      --shadow: 0 24px 70px rgba(48, 30, 108, 0.14);
+      --radius-lg: 24px;
+      --radius-md: 14px;
+    }
+
+    @media (prefers-color-scheme: dark) {
+      :root {
+        color-scheme: dark;
+        --ink: #f8f6ff;
+        --muted: #bbb4cf;
+        --page: #100d1b;
+        --panel: rgba(29, 24, 45, 0.9);
+        --field: #171322;
+        --line: #3a324e;
+        --primary: #a993ff;
+        --primary-hover: #bba9ff;
+        --primary-soft: #302659;
+        --accent: #ff6ba8;
+        --success: #5ed8ae;
+        --shadow: 0 28px 80px rgba(0, 0, 0, 0.35);
+      }
+    }
+
+    * { box-sizing: border-box; }
+
+    html { min-width: 320px; }
+
+    body {
+      min-height: 100vh;
+      margin: 0;
+      color: var(--ink);
+      background:
+        radial-gradient(circle at 9% 5%, rgba(231, 47, 121, 0.16), transparent 27rem),
+        radial-gradient(circle at 91% 12%, rgba(91, 61, 245, 0.22), transparent 30rem),
+        var(--page);
+      font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      line-height: 1.5;
+    }
+
+    button, textarea, input { font: inherit; }
+
+    button { -webkit-tap-highlight-color: transparent; }
+
+    .page {
+      width: min(1440px, 100%);
+      margin: 0 auto;
+      padding: clamp(28px, 5vw, 72px) clamp(18px, 4vw, 56px) 32px;
+    }
+
+    header {
+      max-width: 760px;
+      margin-bottom: clamp(28px, 4vw, 48px);
+    }
+
+    .eyebrow {
+      display: inline-flex;
+      align-items: center;
+      min-height: 30px;
+      margin: 0 0 15px;
+      padding: 5px 11px;
+      border: 1px solid color-mix(in srgb, var(--accent) 35%, transparent);
+      border-radius: 999px;
+      color: var(--accent);
+      background: color-mix(in srgb, var(--accent) 8%, transparent);
+      font-size: 0.75rem;
+      font-weight: 800;
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+    }
+
+    h1 {
+      margin: 0;
+      font-size: clamp(2.35rem, 7vw, 5rem);
+      line-height: 0.98;
+      letter-spacing: -0.055em;
+    }
+
+    .intro {
+      max-width: 670px;
+      margin: 18px 0 0;
+      color: var(--muted);
+      font-size: clamp(1rem, 2vw, 1.18rem);
+    }
+
+    .workspace {
+      overflow: hidden;
+      border: 1px solid var(--line);
+      border-radius: var(--radius-lg);
+      background: var(--panel);
+      box-shadow: var(--shadow);
+      backdrop-filter: blur(18px);
+    }
+
+    .toolbar {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 18px;
+      min-height: 70px;
+      padding: 14px 18px;
+      border-bottom: 1px solid var(--line);
+    }
+
+    .option {
+      display: inline-flex;
+      align-items: center;
+      gap: 10px;
+      color: var(--muted);
+      cursor: pointer;
+      font-size: 0.9rem;
+      font-weight: 650;
+      user-select: none;
+    }
+
+    .option input {
+      width: 18px;
+      height: 18px;
+      margin: 0;
+      accent-color: var(--primary);
+    }
+
+    .toolbar-actions, .field-actions {
+      display: flex;
+      align-items: center;
+      gap: 9px;
+    }
+
+    .button {
+      min-height: 42px;
+      padding: 9px 15px;
+      border: 1px solid var(--line);
+      border-radius: 11px;
+      color: var(--ink);
+      background: transparent;
+      cursor: pointer;
+      font-weight: 750;
+      transition: transform 120ms ease, border-color 120ms ease, background 120ms ease;
+    }
+
+    .button:hover:not(:disabled) {
+      border-color: var(--primary);
+      background: var(--primary-soft);
+    }
+
+    .button:active:not(:disabled) { transform: translateY(1px); }
+
+    .button.primary {
+      border-color: var(--primary);
+      color: #fff;
+      background: var(--primary);
+    }
+
+    @media (prefers-color-scheme: dark) {
+      .button.primary { color: #120d24; }
+    }
+
+    .button.primary:hover:not(:disabled) {
+      border-color: var(--primary-hover);
+      background: var(--primary-hover);
+    }
+
+    .button:disabled {
+      cursor: not-allowed;
+      opacity: 0.45;
+    }
+
+    .editors {
+      display: grid;
+      grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
+    }
+
+    .editor {
+      display: flex;
+      min-width: 0;
+      flex-direction: column;
+      padding: clamp(18px, 3vw, 28px);
+    }
+
+    .editor + .editor { border-left: 1px solid var(--line); }
+
+    .field-header {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 12px;
+      min-height: 42px;
+      margin-bottom: 12px;
+    }
+
+    .field-title {
+      margin: 0;
+      font-size: 0.82rem;
+      font-weight: 850;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+    }
+
+    .field-title.output { color: var(--primary); }
+
+    .count {
+      color: var(--muted);
+      font-variant-numeric: tabular-nums;
+      font-size: 0.78rem;
+    }
+
+    textarea {
+      display: block;
+      width: 100%;
+      min-height: clamp(300px, 48vh, 590px);
+      resize: vertical;
+      padding: 18px;
+      border: 1px solid var(--line);
+      border-radius: var(--radius-md);
+      outline: none;
+      color: var(--ink);
+      background: var(--field);
+      font-family: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, monospace;
+      font-size: 0.94rem;
+      line-height: 1.68;
+      transition: border-color 140ms ease, box-shadow 140ms ease;
+    }
+
+    textarea:focus {
+      border-color: var(--primary);
+      box-shadow: 0 0 0 4px color-mix(in srgb, var(--primary) 18%, transparent);
+    }
+
+    textarea::placeholder { color: color-mix(in srgb, var(--muted) 72%, transparent); }
+
+    #cleanedText:placeholder-shown {
+      background:
+        linear-gradient(135deg, color-mix(in srgb, var(--primary) 5%, var(--field)), var(--field));
+    }
+
+    .result-meta {
+      display: flex;
+      min-height: 27px;
+      align-items: center;
+      justify-content: space-between;
+      gap: 10px;
+      margin-top: 10px;
+      color: var(--muted);
+      font-size: 0.8rem;
+    }
+
+    #changeSummary.changed { color: var(--success); }
+
+    .privacy {
+      margin: 18px 2px 0;
+      color: var(--muted);
+      font-size: 0.82rem;
+    }
+
+    .privacy strong { color: var(--ink); }
+
+    .sr-only {
+      position: absolute;
+      width: 1px;
+      height: 1px;
+      padding: 0;
+      margin: -1px;
+      overflow: hidden;
+      clip: rect(0, 0, 0, 0);
+      white-space: nowrap;
+      border: 0;
+    }
+
+    :focus-visible {
+      outline: 3px solid color-mix(in srgb, var(--primary) 52%, transparent);
+      outline-offset: 3px;
+    }
+
+    textarea:focus-visible { outline: none; }
+
+    @media (max-width: 760px) {
+      .page { padding-top: 30px; }
+      .toolbar { align-items: flex-start; flex-direction: column; }
+      .toolbar-actions { width: 100%; }
+      .toolbar-actions .button { flex: 1; }
+      .editors { grid-template-columns: 1fr; }
+      .editor + .editor {
+        border-top: 1px solid var(--line);
+        border-left: 0;
+      }
+      textarea { min-height: 260px; }
+    }
+
+    @media (max-width: 430px) {
+      .field-header { align-items: flex-start; flex-direction: column; }
+      .field-actions { width: 100%; }
+      .field-actions .button { flex: 1; }
+    }
+
+    @media (prefers-reduced-motion: reduce) {
+      *, *::before, *::after { scroll-behavior: auto !important; transition: none !important; }
+    }
+  </style>
+</head>
+<body>
+  <main class="page">
+    <header>
+      <p class="eyebrow">Browser-only utility</p>
+      <h1>Clean Prompt</h1>
+      <p class="intro">Paste text copied from a terminal or console. Unwanted line breaks and extra spaces disappear automatically, so your prompt reads the way you typed it.</p>
+    </header>
+
+    <section class="workspace" aria-labelledby="workspaceTitle">
+      <h2 id="workspaceTitle" class="sr-only">Prompt cleaner</h2>
+      <div class="toolbar">
+        <label class="option" title="Keep blank lines that separate intentional paragraphs">
+          <input id="preserveParagraphs" type="checkbox" checked>
+          Preserve paragraph breaks
+        </label>
+        <div class="toolbar-actions">
+          <button class="button" id="pasteButton" type="button">Paste</button>
+          <button class="button" id="clearButton" type="button" disabled>Clear</button>
+        </div>
+      </div>
+
+      <div class="editors">
+        <div class="editor">
+          <div class="field-header">
+            <label class="field-title" for="sourceText">Copied text</label>
+            <span class="count" id="sourceCount">0 characters</span>
+          </div>
+          <textarea id="sourceText" spellcheck="true" autofocus placeholder="Paste your console prompt here…"></textarea>
+          <div class="result-meta">
+            <span>Cleaning happens as you type.</span>
+          </div>
+        </div>
+
+        <div class="editor">
+          <div class="field-header">
+            <label class="field-title output" for="cleanedText">Cleaned prompt</label>
+            <div class="field-actions">
+              <span class="count" id="outputCount">0 characters</span>
+              <button class="button primary" id="copyButton" type="button" disabled>Copy cleaned prompt</button>
+            </div>
+          </div>
+          <textarea id="cleanedText" spellcheck="true" placeholder="Your cleaned prompt will appear here…"></textarea>
+          <div class="result-meta">
+            <span id="changeSummary">Waiting for text</span>
+            <span>Ctrl/⌘ + Enter to copy</span>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <p class="privacy"><strong>Private by design.</strong> Your text never leaves this page and is not saved.</p>
+    <p id="status" class="sr-only" role="status" aria-live="polite"></p>
+  </main>
+
+  <script>
+    (() => {
+      'use strict';
+
+      const source = document.querySelector('#sourceText');
+      const output = document.querySelector('#cleanedText');
+      const preserveParagraphs = document.querySelector('#preserveParagraphs');
+      const pasteButton = document.querySelector('#pasteButton');
+      const clearButton = document.querySelector('#clearButton');
+      const copyButton = document.querySelector('#copyButton');
+      const sourceCount = document.querySelector('#sourceCount');
+      const outputCount = document.querySelector('#outputCount');
+      const changeSummary = document.querySelector('#changeSummary');
+      const status = document.querySelector('#status');
+
+      function pluralize(value, word) {
+        return `${value.toLocaleString()} ${word}${value === 1 ? '' : 's'}`;
+      }
+
+      function cleanPrompt(text, keepParagraphs) {
+        const normalized = text
+          .replace(/\r\n?/g, '\n')
+          .replace(/[\u200B-\u200D\u2060\uFEFF]/g, '')
+          .replace(/\u00A0/g, ' ')
+          .trim();
+
+        if (!normalized) return '';
+
+        if (!keepParagraphs) {
+          return normalized.replace(/\s+/g, ' ').trim();
+        }
+
+        return normalized
+          .split(/\n[\t ]*\n+/)
+          .map((paragraph) => paragraph
+            .split('\n')
+            .map((line) => line.trim())
+            .filter(Boolean)
+            .join(' ')
+            .replace(/[\t ]+/g, ' ')
+            .trim())
+          .filter(Boolean)
+          .join('\n\n');
+      }
+
+      function lineBreakCount(text) {
+        return (text.match(/\r\n?|\n/g) || []).length;
+      }
+
+      function update() {
+        const raw = source.value;
+        const cleaned = cleanPrompt(raw, preserveParagraphs.checked);
+        output.value = cleaned;
+
+        sourceCount.textContent = pluralize(raw.length, 'character');
+        outputCount.textContent = pluralize(cleaned.length, 'character');
+        clearButton.disabled = raw.length === 0;
+        copyButton.disabled = cleaned.length === 0;
+
+        if (!raw) {
+          changeSummary.textContent = 'Waiting for text';
+          changeSummary.classList.remove('changed');
+          return;
+        }
+
+        const removedBreaks = Math.max(0, lineBreakCount(raw) - lineBreakCount(cleaned));
+        const removedCharacters = Math.max(0, raw.length - cleaned.length);
+        const changes = [];
+        if (removedBreaks) changes.push(pluralize(removedBreaks, 'line break'));
+        if (removedCharacters) changes.push(pluralize(removedCharacters, 'extra character'));
+
+        if (changes.length) {
+          changeSummary.textContent = `Removed ${changes.join(' and ')}`;
+          changeSummary.classList.add('changed');
+        } else {
+          changeSummary.textContent = 'Already clean';
+          changeSummary.classList.remove('changed');
+        }
+      }
+
+      async function pasteFromClipboard() {
+        try {
+          source.value = await navigator.clipboard.readText();
+          update();
+          source.focus();
+          status.textContent = source.value ? 'Text pasted and cleaned.' : 'Clipboard is empty.';
+        } catch (error) {
+          source.focus();
+          status.textContent = 'Clipboard access was unavailable. Paste into the first box instead.';
+        }
+      }
+
+      async function copyCleanedPrompt() {
+        if (!output.value) return;
+
+        try {
+          await navigator.clipboard.writeText(output.value);
+        } catch (error) {
+          output.focus();
+          output.select();
+          if (!document.execCommand('copy')) {
+            status.textContent = 'Copy was unavailable. The cleaned prompt is selected for you.';
+            return;
+          }
+        }
+
+        const previousLabel = copyButton.textContent;
+        copyButton.textContent = 'Copied';
+        status.textContent = 'Cleaned prompt copied to clipboard.';
+        window.setTimeout(() => { copyButton.textContent = previousLabel; }, 1600);
+      }
+
+      function clearAll() {
+        source.value = '';
+        update();
+        source.focus();
+        status.textContent = 'Text cleared.';
+      }
+
+      source.addEventListener('input', update);
+      preserveParagraphs.addEventListener('change', update);
+      pasteButton.addEventListener('click', pasteFromClipboard);
+      clearButton.addEventListener('click', clearAll);
+      copyButton.addEventListener('click', copyCleanedPrompt);
+
+      document.addEventListener('keydown', (event) => {
+        if ((event.ctrlKey || event.metaKey) && event.key === 'Enter' && output.value) {
+          event.preventDefault();
+          copyCleanedPrompt();
+        }
+      });
+
+      update();
+    })();
+  </script>
+</body>
+</html>
